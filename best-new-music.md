@@ -5,825 +5,825 @@ Current score: 4/822
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
-- [ ] 1. Out Hud - S.T.R.E.E.T. D.A.D.
-- [ ] 2. The Microphones - Mount Eerie
-- [ ] 3. The Angels of Light - Everything Is Good Here/Please Come Home
-- [ ] 4. Broken Social Scene - You Forgot It in People (2002)
-- [ ] 5. The Soft Pink Truth - Do You Party?
-- [ ] 6. Ted Leo and the Pharmacists - Hearts of Oak
-- [ ] 7. Giddy Motors - Make It Pop
-- [ ] 8. Various Artists - Supersilent 6
-- [ ] 9. Majesticons - Beauty Party
-- [ ] 10. Lightning Bolt - Wonderful Rainbow
-- [ ] 11. Johann Johannsson - Englaborn
-- [ ] 12. Songs: Ohia - Magnolia Electric Co.
-- [ ] 13. The Decemberists - Castaways and Cutouts
-- [ ] 14. Deerhoof - Apple O'
-- [ ] 15. Manitoba - Up in Flames
-- [ ] 16. Exploding Hearts - Guitar Romantic
-- [ ] 17. Sunburned Hand of the Man - Headdress
-- [ ] 18. Panthers - Let's Get Serious EP
-- [ ] 19. Four Tet - Rounds
-- [ ] 20. Prefuse 73 - One Word Extinguisher
-- [ ] 21. M83 - Dead Cities, Red Seas & Lost Ghosts
-- [ ] 22. Fog - Ether Teeth
-- [ ] 23. Single Frame - Wetheads Come Running
-- [ ] 24. Grandaddy - Sumday
-- [ ] 25. Clearlake - Cedars
-- [ ] 26. Why? - Oaklandazulasylum
-- [ ] 27. Dizzee Rascal - Boy in Da Corner
-- [ ] 28. TV on the Radio - Young Liars EP
-- [ ] 29. Sufjan Stevens - Greetings From Michigan: The Great Lakes State
-- [ ] 30. Polysics - Neu
-- [ ] 31. The Decemberists - Her Majesty the Decemberists
-- [ ] 32. The Rapture - Echoes
-- [ ] 33. Viktor Vaughn - Vaudeville Villain
-- [ ] 34. My Morning Jacket - It Still Moves...
-- [ ] 35. The Deadly Snakes - Ode to Joy
-- [ ] 36. Need New Body - UFO
-- [ ] 37. The Wrens - The Meadowlands
-- [ ] 38. Cyann & Ben - Spring
-- [ ] 39. The Books - The Lemon of Pink
-- [ ] 40. Non-Prophets - Hope
-- [ ] 41. The Shins - Chutes Too Narrow
-- [ ] 42. Basement Jaxx - Kish Kash
-- [ ] 43. Menomena - I Am the Fun Blame Monster
-- [ ] 44. Ellen Allien - Berlinette
-- [ ] 45. The Unicorns - Who Will Cut Our Hair When We're Gone?
-- [ ] 46. Jay-Z - The Black Album
-- [ ] 47. Mu - Afro Finger & Gel
-- [ ] 48. Phillip Jeck - 7
-- [ ] 49. Air - Talkie Walkie
-- [ ] 50. The Walkmen - Bows and Arrows
-- [ ] 51. Xiu Xiu - Fabulous Muscles
-- [ ] 52. Kanye West - The College Dropout
-- [ ] 53. Cee-Lo Green... Is the Soul Machine
-- [ ] 54. Franz Ferdinand - Franz Ferdinand
-- [ ] 55. Sufjan Stevens - Seven Swans
-- [ ] 56. Devendra Banhart - Rejoicing in the Hands
-- [ ] 57. Madvillain - Madvillainy
-- [ ] 58. Iron & Wine - Our Endless Numbered Days
-- [ ] 59. William Basinski - The Disintegration Loops
-- [ ] 60. Jason Forrest - The Unrelenting Songs of the 1979 Post Disco Crach
-- [ ] 61. Les Savy Fav - Inches
-- [ ] 62. Loretta Lynn - Van Lear Rose (2004)
-- [ ] 63. Animal Collective - Sung Tongs
-- [ ] 64. Erlend Øye - DJ Kicks
-- [ ] 65. Mirah - C'mon Miracle
-- [ ] 66. The Streets - A Grand Don't Come for Free
-- [ ] 67. Morrissey - You Are the Quarry
-- [ ] 68. Sonic Youth - Sonic Nurse
-- [ ] 69. A.C. Newman - The Slow Wonder
-- [ ] 70. Junior Boys - Last Exit
-- [ ] 71. The Plastic Constellations - Mazatlan
-- [ ] 72. Max Richter - The Blue Notebooks
-- [ ] 73. Fiery Furnaces - Blueberry Boat
-- [ ] 74. Comets on Fire - Blue Cathedral
-- [ ] 75. The Futureheads - The Futureheads
-- [ ] 76. Bjork - Medulla
-- [ ] 77. Castanets - Cathedral (2004)
-- [ ] 78. Arcade Fire - Funeral
-- [ ] 79. The Foreign Exchange - Connected
-- [ ] 80. Dungen - Ta Det Lugnt
-- [ ] 81. Interpol - Antics
-- [ ] 82. Brian Wilson - Smile
-- [ ] 83. Panda Bear - Young Prayer
-- [ ] 84. The Go Team - Thunder Lightning Strike
-- [ ] 85. Death From Above 1979 - You're a Woman, I'm a Machine (2004)
-- [ ] 86. Various Artists - DFA Compilation #2
-- [ ] 87. Annie - Anniemal
-- [ ] 88. M.I.A./Diplo - Piracy Funds Terrorism, Vol. 1
-- [ ] 89. Johann Johannsson - Virolegu Forsetar
-- [ ] 90. Excepter - KA
-- [ ] 91. The Fiery Furnaces - EP
-- [ ] 92. Black Mountain - Black Mountain
-- [ ] 93. M83- Before the Dawn Heals Us
-- [ ] 94. Bonnie "Prince" Billy & Matt Sweeney - Superwolf
-- [ ] 95. LCD Soundsystem - LCD Soundsystem
-- [ ] 96. Six Organs of Admittance - School of the Flower
-- [ ] 97. Antony & the Johnsons - I Am a Bird Now
-- [ ] 98. Various Artists - Run the Road
-- [ ] 99. Bloc Party - Silent Alarm
-- [ ] 100. Shining - In the Kingdom of Kitsch You Will Be a Monster
-- [ ] 101. M.I.A. - Arular
-- [ ] 102. The Decemberists - Picaresque
-- [ ] 103. Edan - Beauty and the Beat
-- [ ] 104. Caribou-The Milk of Human Kindness
-- [ ] 105. The Boy Least Likely to - The Best Party Ever
-- [ ] 106. Vitalic - Ok Cowboy
-- [ ] 107. Architecture in Helsinki - In Case We Die
-- [ ] 108. The Hold Steady - Separation Sunday
-- [ ] 109. Sleater-Kinney - The Woods
-- [ ] 110. Stephen Malkmus - Face the Truth
-- [ ] 111. Common - Be
-- [ ] 112. Art Brut - Bang Bang Rock & Roll
-- [ ] 113. Isolee - We Are Monster
-- [ ] 114. Clap Your Hands Say Yeah - Clap Your Hands Say Yeah
-- [ ] 115. Wilderness - Wilderness
-- [ ] 116. Sufjan Stevens - Illinois
-- [ ] 117. The New Pornographers - Twin Cinema
-- [ ] 118. Kanye West - Late Registration
-- [ ] 119. Serena Maneesh - Serena Maneesh
-- [ ] 120. Devendra Banhart - Cripple Crow
-- [ ] 121. Wolf Parade - Apologies to the Queen Mary (2005)
-- [ ] 122. Broken Social Scene - Broken Social Scene
-- [ ] 123. Deerhoof - The Runners Four
-- [ ] 124. The Clientele - Strange Geometry
-- [ ] 125. Animal Collective - Feels
-- [ ] 126. Vashti Bunyan - Lookaftering
-- [ ] 127. Jens Lekman - Oh You're So Silent Jens
-- [ ] 128. Love Is All - Nine Times That Same Song
-- [ ] 129. Sunn O))) - Black One
-- [ ] 130. Boris - Pink
-- [ ] 131. Belle & Sebastian - The Life Pursuit
-- [ ] 132. The Knife - Silent Shout
-- [ ] 133. Destroyer - Destroyer's Rubies
-- [ ] 134. Liars - Drum's Not Dead
-- [ ] 135. Tapes 'N Tapes - The Loon
-- [ ] 136. Band of Horses Everything All the Time
-- [ ] 137. Ghostface Killah - Fishscale
-- [ ] 138. Islands - Return to the Sea
-- [ ] 139. Sunset Rubdown - Shut Up I Am Dreaming
-- [ ] 140. Scott Walker - The Drift (2006)
-- [ ] 141. Danielson - Ships
-- [ ] 142. Herbert - Scale
-- [ ] 143. TV on the Radio - Return to Cookie Mountain
-- [ ] 144. Girl Talk - Night Ripper
-- [ ] 145. The Pipettes - We Are the Pipettes
-- [ ] 146. I'm From Barcelona - Let Me Introduce My Friends
-- [ ] 147. Junior Boys - So This Is Goodbye
-- [ ] 148. The Thermals - The Body, the Blood, the Machine
-- [ ] 149. Grizzly Bear - Yellow House
-- [ ] 150. Yo La Tengo - I Am Not Afraid of You and I Will Beat Your Ass
-- [ ] 151. Fujiya & Miyagi - Transparent Things
-- [ ] 152. Mastodon - Blood Mountain
-- [ ] 153. The Hold Steady - Boys and Girls in America
-- [ ] 154. The Decemberists - The Crane Wife
-- [ ] 155. Califone - Roots and Crowns
-- [ ] 156. Tim Hecker - Harmony in Ultraviolet
-- [ ] 157. Peter Bjorn and John - Writer's Block
-- [ ] 158. Lindstrom - It's a Feedelity Affair
-- [ ] 159. Joanna Newsom - Ys
-- [ ] 160. Clipse - Hell Hath No Fury
-- [ ] 161. Sally Shapiro - Disco Romance
-- [ ] 162. Menomena - Friend & Foe
-- [ ] 163. Deerhoof - Friend Opportunity
-- [ ] 164. Of Montreal - Hissing Fauna, Are You the Destroyer?
-- [ ] 165. Deerhunter - Cryptograms
-- [ ] 166. Arcade Fire - Neon Bible
-- [ ] 167. Patrick Wolf - The Magic Position
-- [ ] 168. LCD Soundsystem - Sound of Silver
-- [ ] 169. Panda Bear - Person Pitch
-- [ ] 170. The Field - From Here We Go Sublime
-- [ ] 171. The Twilight Sad - Fourteen Autumns & Fifteen Winters
-- [ ] 172. Deerhunter - Fluorescent Grey EP
-- [ ] 173. Prodigy - Return of the Mac
-- [ ] 174. Joanna Newsom and the Ys Street Band
-- [ ] 175. Feist - The Reminder (2007)
-- [ ] 176. The Clientele - God Save the Clientele
-- [ ] 177. Dan Deacon - Spiderman of the Rings
-- [ ] 178. Battles - Mirrored
-- [ ] 179. The National - Boxer
-- [ ] 180. Justice - Cross
-- [ ] 181. Blitzen Trapper - Wild Mountain Nation (2007)
-- [ ] 182. Various Artists - After Dark
-- [ ] 183. Spoon - Ga Ga Ga Ga Ga
-- [ ] 184. Okkervil River - The Stage Names
-- [ ] 185. MIA - Kala
-- [ ] 186. Caribou - Andorra
-- [ ] 187. Liars - Liars
-- [ ] 188. A Place to Bury Strangers - A Place to Bury Strangers
-- [ ] 189. Jens Lekman - Night Falls Over Kortedala
-- [ ] 190. Black Lips - Good Bad Not Evil
-- [ ] 191. Animal Collective - Strawberry Jam
-- [ ] 192. Kanye West - Graduation
-- [ ] 193. Les Savy Fav - Let's Stay Friends
-- [ ] 194. Iron & Wine - The Shepherd's Dog
-- [ ] 195. Sunset Rubdown - Random Spirit Lover
-- [ ] 196. Black Kids - Wizard of Ahhhs
-- [ ] 197. Chromatics - Night Drive
-- [ ] 198. Radiohead - In Rainbows
-- [ ] 199. The Tough Alliance - A New Chance
-- [ ] 200. Grizzly Bear - Friend EP
-- [ ] 201. Jay-Z - American Gangster
-- [ ] 202. Burial - Untrue
-- [ ] 203. Daft Punk - Alive 2007
-- [ ] 204. Times New Viking - Rip It Off
-- [ ] 205. Vampire Weekend - Vampire Weekend
-- [ ] 206. High Places - 03/07 - 09/07
-- [ ] 207. Atlas Sound - Let the Blind Lead Those Who Can See but Cannot Feel
-- [ ] 208. El Guincho - Alegranza
-- [ ] 209. Beach House - Devotion
-- [ ] 210. Fleet Foxes - Sun Giant
-- [ ] 211. The Ruby Suns - Sea Lion
-- [ ] 212. Hercules and Love Affair - Hercules and Love Affair
-- [ ] 213. Fuck Buttons - Street Horrrsing
-- [ ] 214. The Dodos - Visiter
-- [ ] 215. Cut Copy-In Ghost Colours
-- [ ] 216. M83 - Saturdays = Youth
-- [ ] 217. Titus Andronicus - The Airing of Grievances
-- [ ] 218. Portishead - Third
-- [ ] 219. No Age - Nouns
-- [ ] 220. Bonnie "Prince" Billy - Lie Down in the Light
-- [ ] 221. Spiritualized - Songs in a & E
-- [ ] 222. Fleet Foxes - Fleet Foxes
-- [ ] 223. Crystal Antlers - EP
-- [ ] 224. Lil Wayne - Tha Carter III
-- [ ] 225. Air France - No Way Down
-- [ ] 226. Harvey Milk - Life... the Best Game in Town (2008)
-- [ ] 227. The Bug - London Zoo
-- [ ] 228. The Walkmen - You & Me
-- [ ] 229. Lindstrom - Where You Go I Go Too
-- [ ] 230. Flying Lotus - Los Angeles
-- [ ] 231. TV on the Radio - Dear Science
-- [ ] 232. Vivian Girls - Vivian Girls
-- [ ] 233. Department of Eagles - In Ear Park
-- [ ] 234. Marnie Stern - This Is It and I Am It and You Are It And...
-- [ ] 235. Mount Eerie - Lost Wisdom
-- [ ] 236. Fucked Up - The Chemistry of Common Life (2008)
-- [ ] 237. DJ /Rupture - Uproot
-- [ ] 238. Deerhunter - Microcastle
-- [ ] 239. The Very Best - Esau Mwamwaya & Radioclit Are the Very Best
-- [ ] 240. Animal Collective - Merriweather Post Pavilion (2009)
-- [ ] 241. Antony and the Johnsons - The Crying Light
-- [ ] 242. The Pains of Being Pure at Heart - The Pains of Being Pure at Heart
-- [ ] 243. Dark Was the Night
-- [ ] 244. Wavves ‎– Wavvves (2009)
-- [ ] 245. Cymbals Eat Guitars - Why There Are Mountains
-- [ ] 246. Dan Deacon-Bromst
-- [ ] 247. Fever Ray - Fever Ray
-- [ ] 248. Bat for Lashes - Two Suns
-- [ ] 249. Bill Callahan - Sometimes I Wish We Were an Eagle
-- [ ] 250. Camera Obscura - My Maudlin Career
-- [ ] 251. Woods - Songs of Shame
-- [ ] 252. Japandroids - Post-Nothing
-- [ ] 253. St. Vincent - Actor
-- [ ] 254. Isis - Wavering Radiant
-- [ ] 255. Grizzly Bear - Veckatimest
-- [ ] 256. Phoenix - Wolfgang Amadeus Phoenix
-- [ ] 257. Sunn O))) - Monoliths & Dimensions
-- [ ] 258. Dirty Projectors - Bitte Orca
-- [ ] 259. Mos Def - The Ecstatic
-- [ ] 260. Dinosaur Jr. - Farm
-- [ ] 261. Sunset Rubdown - Dragonslayer
-- [ ] 262. Bibio - Ambivalence Avenue
-- [ ] 263. Cass McCombs - Catacombs
-- [ ] 264. Jj - Jj Nº 2
-- [ ] 265. Delorean - Ayrton Senna EP
-- [ ] 266. The Antlers - Hospice
-- [ ] 267. Yacht - See Mystery Lights
-- [ ] 268. The Xx - The Xx
-- [ ] 269. Wild Beasts - Two Dancers
-- [ ] 270. Raekwon - Only Built 4 Cuban Linx... Pt II
-- [ ] 271. Volcano Choir - Unmap
-- [ ] 272. Girls - Album
-- [ ] 273. Memory Tapes - Seek Magic
-- [ ] 274. The Very Best - Warm Heart of Africa
-- [ ] 275. The Flaming Lips - Embryonic
-- [ ] 276. Neon Indian - Psychic Chasms
-- [ ] 277. The Mountain Goats - The Life of the World to Come
-- [ ] 278. Atlas Sound - Logos
-- [ ] 279. Fuck Buttons - Tarot Sport
-- [ ] 280. Various Artists - 5: Five Years of Hyperdub
-- [ ] 281. Bear in Heaven - Beast Rest Forth Mouth
-- [ ] 282. Real Estate - Real Estate
-- [ ] 283. Animal Collective - Fall Be Kind
-- [ ] 284. Vampire Weekend - Contra
-- [ ] 285. Owen Pallett - Heartland
-- [ ] 286. Surfer Blood - Astro Coast
-- [ ] 287. Four Tet - There Is Love in You
-- [ ] 288. Beach House - Teen Dream
-- [ ] 289. Charlotte Gainsbourg, IRM
-- [ ] 290. Hot Chip - One Life Stand
-- [ ] 291. Gil Scott-Heron - I'm New Here
-- [ ] 292. Local Natives - Gorilla Manor
-- [ ] 293. Pantha Du Prince - Black Noise
-- [ ] 294. Joanna Newsom - Have One on Me
-- [ ] 295. Gonjasufi - A Sufi and a Killer
-- [ ] 296. Liars - Sisterworld
-- [ ] 297. Gorillaz - Plastic Beach
-- [ ] 298. Titus Andronicus - The Monitor
-- [ ] 299. Fang Island - Fang Island
-- [ ] 300. The Morning Benders - Big Echo
-- [ ] 301. The Tallest Man on Earth - The Wild Hunt
-- [ ] 302. Caribou - Swim
-- [ ] 303. Delorean - Subiza
-- [ ] 304. The Radio Dept. - Clinging to a Scheme
-- [ ] 305. Crystal Castles - Crystal Castles II
-- [ ] 306. Broken Social Scene-Forgiveness Rock Record
-- [ ] 307. Flying Lotus - Cosmogramma
-- [ ] 308. The National - High Violet
-- [ ] 309. Male Bonding - Nothing Hurts
-- [ ] 310. Sleigh Bells - Treats
-- [ ] 311. LCD Soundsystem - This Is Happening
-- [ ] 312. Janelle Monáe - The Archandroid
-- [ ] 313. James Blake: "CMYK" (2010)
-- [ ] 314. Tame Impala-Innerspeaker
-- [ ] 315. Robyn - Body Talk Pt. 1 (2010)
-- [ ] 316. Wild Nothing - Gemini
-- [ ] 317. Ariel Pink's Haunted Graffiti - Before Today
-- [ ] 318. Emeralds - Does It Look Like I'm Here?
-- [ ] 319. Julian Lynch - Mare
-- [ ] 320. Ceo - White Magic
-- [ ] 321. Wavves - King of the Beach
-- [ ] 322. Big Boi - Sir Lucious Left Foot: The Son of Chico Dusty
-- [ ] 323. The-Dream - Love King
-- [ ] 324. Best Coast - Crazy for You
-- [ ] 325. Curren$Y-Pilot Talk
-- [ ] 326. Arcade Fire - The Suburbs
-- [ ] 327. Matthew Dear - Black City
-- [ ] 328. The Walkmen - Lisbon
-- [ ] 329. Das Racist - Sit Down, Man
-- [ ] 330. How to Dress Well - Love Remains
-- [ ] 331. Deerhunter - Halcyon Digest
-- [ ] 332. No Age - Everything in Between
-- [ ] 333. Twin Shadow - Forget
-- [ ] 334. Sufjan Stevens - The Age of Adz
-- [ ] 335. Girls - Broken Dreams Club EP
-- [ ] 336. Kanye West - My Beautiful Dark Twisted Fantasy
-- [ ] 337. Robyn - Body Talk
-- [ ] 338. Off! - First Four EPs
-- [ ] 339. Smith Westerns - Dye It Blonde
-- [ ] 340. Destroyer - Kaputt
-- [ ] 341. Cut Copy - Zonoscope
-- [ ] 342. James Blake - James Blake
-- [ ] 343. PJ Harvey - Let England Shake
-- [ ] 344. Nicolas Jaar - Space Is Only Noise
-- [ ] 345. Tim Hecker - Ravedeath, 1972
-- [ ] 346. Julianna Barwick - The Magic Place
-- [ ] 347. Toro Y Moi - Underneath the Pine
-- [ ] 348. Lykke Li - Wounded Rhymes
-- [ ] 349. Kurt Vile - Smoke Ring for My Halo
-- [ ] 350. The Weeknd - House of Balloons (2011)
-- [ ] 351. The Pains of Being Pure at Heart — Belong
-- [ ] 352. Panda Bear - Tomboy
-- [ ] 353. Tune-Yards - W H O K I L L
-- [ ] 354. Big K.R.I.T. - Return of 4Eva
-- [ ] 355. Cass McCombs - Wit's End
-- [ ] 356. DJ Quik - The Book of David
-- [ ] 357. Fleet Foxes - Helplessness Blues
-- [ ] 358. Gang Gang Dance - Eye Contact (2011)
-- [ ] 359. EMA - Past Life Martyred Saints
-- [ ] 360. The Antlers - Burst Apart
-- [ ] 361. Cults - Cults
-- [ ] 362. Fucked Up - David Comes to Life
-- [ ] 363. Bon Iver - Bon Iver
-- [ ] 364. WU LYF - Go Tell Fire to the Mountain
-- [ ] 365. Shabazz Palaces - Black Up
-- [ ] 366. Iceage - New Brigade
-- [ ] 367. Araabmuzik - Electronic Dream
-- [ ] 368. John Maus - We Must Become the Pitiless Censors of Ourselves
-- [ ] 369. Washed Out-Within and Without
-- [ ] 370. Jay-Z/Kanye West - Watch the Throne
-- [ ] 371. The War on Drugs - Slave Ambient
-- [ ] 372. The Field - Looping State of Mind
-- [ ] 373. Girls - Father, Son, Holy Ghost
-- [ ] 374. St. Vincent - Strange Mercy
-- [ ] 375. Wolves in the Throne Room - Celestial Lineage
-- [ ] 376. Youth Lagoon - The Year of Hibernation
-- [ ] 377. Trash Talk - Awake EP
-- [ ] 378. M83 - Hurry Up, We're Dreaming
-- [ ] 379. Real Estate - Days
-- [ ] 380. Atlas Sound - Parallax
-- [ ] 381. A$AP Rocky - Livelovea$AP
-- [ ] 382. Oneohtrix Point Never - Replica (2011)
-- [ ] 383. Drake - Take Care (2011)
-- [ ] 384. Kate Bush - 50 Words for Snow
-- [ ] 385. Sepalcure - Sepalcure
-- [ ] 386. Cloud Nothings - Attack on Memory
-- [ ] 387. Schoolboy Q - Habits & Contradictions
-- [ ] 388. John Talabot - Fin
-- [ ] 389. Burial - Kindred EP
-- [ ] 390. Grimes - Visions
-- [ ] 391. Frankie Rose - Interstellar
-- [ ] 392. Lambchop - Mr. M
-- [ ] 393. Perfume Genius - Put Your Back N 2 It
-- [ ] 394. Pallbearer - Sorrow and Extinction
-- [ ] 395. Julia Holter - Ekstasis
-- [ ] 396. The Men - Open Your Heart
-- [ ] 397. The Shins - Port of Morrow
-- [ ] 398. Lotus Plaza - Spooky Action at a Distance
-- [ ] 399. Chromatics - Kill for Love
-- [ ] 400. Spiritualized - Sweet Heart Sweet Light
-- [ ] 401. Death Grips - The Money Store
-- [ ] 402. Actress - R.I.P.
-- [ ] 403. Beach House - Bloom
-- [ ] 404. Killer Mike - R.A.P Music
-- [ ] 405. El-P - Cancer for Cure
-- [ ] 406. Mount Eerie - Clear Moon
-- [ ] 407. Japandroids - Celebration Rock (2012)
-- [ ] 408. Fiona Apple - The Idler Wheel...
-- [ ] 409. Ty Segall Band - Slaughterhouse
-- [ ] 410. DIIV - Oshin
-- [ ] 411. Twin Shadow - Confess
-- [ ] 412. Dirty Projectors - Swing Lo Magellan
-- [ ] 413. Frank Ocean - Channel Orange
-- [ ] 414. Baroness - Yellow & Green
-- [ ] 415. Nas - Life Is Good
-- [ ] 416. Passion Pit - Gossamer
-- [ ] 417. Purity Ring - Shrines
-- [ ] 418. TNGHT - TNGHT
-- [ ] 419. Jessie Ware - Devotion
-- [ ] 420. Ariel Pink's Haunted Graffiti - Mature Themes
-- [ ] 421. Swans - The Seer
-- [ ] 422. Wild Nothing - Nocturne
-- [ ] 423. Grizzly Bear - Shields
-- [ ] 424. How to Dress Well - Total Loss
-- [ ] 425. Dum Dum Girls - End of Daze EP
-- [ ] 426. Flying Lotus - Until the Quiet Comes
-- [ ] 427. Miguel - Kaleidoscope Dream
-- [ ] 428. Tame Impala - Lonerism
-- [ ] 429. METZ - METZ
-- [ ] 430. Godspeed You! Black Emperor - 'Allelujah! Don't Bend! Ascend!
-- [ ] 431. Bat for Lashes - The Haunted Man
-- [ ] 432. Kendrick Lamar - Good Kid, M.A.A.D City
-- [ ] 433. Andy Stott - Luxury Problems
-- [ ] 434. Mac Demarco - 2
-- [ ] 435. A$AP Rocky - Long.Live.A$AP
-- [ ] 436. Burial - Truant/Rough Sleeper
-- [ ] 437. Foxygen-We Are the 21st Century Ambassadors of Peace and Magic
-- [ ] 438. Grouper - The Man Who Died in His Boat
-- [ ] 439. My Bloody Valentine - Mbv
-- [ ] 440. Iceage - You're Nothing
-- [ ] 441. Autre Ne Veut - Anxiety
-- [ ] 442. Youth Lagoon - Wondrous Bughouse
-- [ ] 443. Rhye - Woman
-- [ ] 444. Waxahatchee - Cerulean Salt
-- [ ] 445. Phosphorescent - Muchacho
-- [ ] 446. Justin Timberlake- The 20/20 Experience
-- [ ] 447. DJ Koze - Amygdala
-- [ ] 448. The Knife - Shaking the Habitual
-- [ ] 449. Kurt Vile - Wakin on a Pretty Daze
-- [ ] 450. The Haxan Cloak - Excavation
-- [ ] 451. Charli XCX - True Romance
-- [ ] 452. Mikal Cronin - MC II
-- [ ] 453. Deerhunter - Monomania
-- [ ] 454. Savages - Silence Yourself
-- [ ] 455. Chance the Rapper - Acid Rap
-- [ ] 456. Vampire Weekend - Modern Vampires of the City
-- [ ] 457. Daft Punk - Random Access Memories
-- [ ] 458. The National - Trouble Will Find Me
-- [ ] 459. Dirty Beaches - Drifters/Love Is the Devil
-- [ ] 460. Baths - Obsidian
-- [ ] 461. Various Artists - After Dark 2
-- [ ] 462. Disclosure - Settle
-- [ ] 463. Jon Hopkins - Immunity
-- [ ] 464. Boards of Canada - Tomorrow's Harvest
-- [ ] 465. Deafheaven - Sunbather
-- [ ] 466. These New Puritans, Field of Reeds
-- [ ] 467. Kanye West - Yeezus
-- [ ] 468. Run the Jewels - Run the Jewels
-- [ ] 469. Speedy Ortiz - Major Arcana
-- [ ] 470. Fuck Buttons - Slow Focus
-- [ ] 471. Julia Holter - Loud City Song
-- [ ] 472. Earl Sweatshirt - Doris
-- [ ] 473. Julianna Barwick - Nepenthe
-- [ ] 474. Forest Swords - Engravings
-- [ ] 475. Janelle Monáe - The Electric Lady
-- [ ] 476. Drake - Nothing Was the Same
-- [ ] 477. CHVRCHES - The Bones of What You Believe
-- [ ] 478. Haim - Days Are Gone
-- [ ] 479. The Field - Cupid's Head
-- [ ] 480. Danny Brown - Old
-- [ ] 481. Oneohtrix Point Never - R Plus Seven
-- [ ] 482. Darkside - Psychic
-- [ ] 483. Tim Hecker - Virgins
-- [ ] 484. Kelela - Cut 4 Me (2013)
-- [ ] 485. DJ Rashad - Double Cup
-- [ ] 486. Mutual Benefit - Love's Crushing Diamond
-- [ ] 487. Arcade Fire - Reflecktor
-- [ ] 488. The Range - Nonfiction
-- [ ] 489. Blood Orange - Cupid Deluxe
-- [ ] 490. Death Grips - Government Plates
-- [ ] 491. Burial - Rival Dealer
-- [ ] 492. Beyonce - Beyonce
-- [ ] 493. Sun Kil Moon - Benji
-- [ ] 494. Angel Olsen - Burn Your Fire for No Witness
-- [ ] 495. St. Vincent - St. Vincent
-- [ ] 496. Real Estate - Atlas
-- [ ] 497. Perfect Pussy - Say Yes to Love
-- [ ] 498. The War on Drugs - Lost in the Dream
-- [ ] 499. Cloud Nothings - Here and Nowhere Else
-- [ ] 500. Mac Demarco - Salad Days
-- [ ] 501. Todd Terje - It's Album Time
-- [ ] 502. Ought - More Than Any Other Day
-- [ ] 503. Lykke Li - I Never Learn
-- [ ] 504. Swans - To Be Kind
-- [ ] 505. Various Artists - Hyperdub 10.1
-- [ ] 506. Hundred Waters - The Moon Rang Like a Bell
-- [ ] 507. Ben Frost - Aurora
-- [ ] 508. Parquet Courts - Sunbathing Animal
-- [ ] 509. White Lung - Deep Fantasy
-- [ ] 510. How to Dress Well - What Is This Heart
-- [ ] 511. A Sunny Day in Glasgow - Sea When Absent
-- [ ] 512. Brian Eno/Karl Hyde - High Life
-- [ ] 513. Spoon - They Want My Soul
-- [ ] 514. FKA Twigs - LP1
-- [ ] 515. Pallbearer - Foundations of Burden
-- [ ] 516. Aphex Twin - Syro (2014)
-- [ ] 517. Perfume Genius - Too Bright
-- [ ] 518. Flying Lotus - You're Dead!
-- [ ] 519. Caribou - Our Love
-- [ ] 520. Iceage - Plowing Into the Field of Love
-- [ ] 521. Ex Hex - Rips
-- [ ] 522. Vince Staples - Hell Can Wait
-- [ ] 523. Pharmakon - Bestial Burden
-- [ ] 524. Grouper - Ruins
-- [ ] 525. Run the Jewels - Run the Jewels 2
-- [ ] 526. Arca - Xen
-- [ ] 527. Clark - Clark
-- [ ] 528. Ariel Pink - Pom Pom
-- [ ] 529. Andy Stott - Faith in Strangers
-- [ ] 530. D'Angelo and the Vanguard - Black Messiah
-- [ ] 531. Panda Bear - Panda Bear Meets the Grim Reaper
-- [ ] 532. Sleater-Kinney - No Cities to Love
-- [ ] 533. Viet Cong - Viet Cong
-- [ ] 534. Bjork - Vulnicura
-- [ ] 535. Natalie Prass - Natalie Prass
-- [ ] 536. Aphex Twin - Computer Controlled Acoustic Instruments Pt2 EP
-- [ ] 537. Father John Misty - I Love You Honeybear
-- [ ] 538. Drake - If You're Reading This It's Too Late
-- [ ] 539. Levon Vincent - Levon Vincent
-- [ ] 540. Tobias Jesso Jr. - Goon
-- [ ] 541. Kendrick Lamar - To Pimp a Butterfly
-- [ ] 542. Courtney Barnett- Sometimes I Sit and Think, and Sometimes I Just Sit
-- [ ] 543. Sufjan Stevens - Carrie & Lowell (2015)
-- [ ] 544. Jlin - Dark Energy
-- [ ] 545. Lower Dens - Escape From Evil
-- [ ] 546. Young Thug - Barter 6
-- [ ] 547. Kamasi Washington - The Epic
-- [ ] 548. Prurient - Frozen Niagra Falls
-- [ ] 549. Jim O'Rourke - Simple Songs
-- [ ] 550. Shamir - Ratchet
-- [ ] 551. Holly Herndon - Platform
-- [ ] 552. Nao - February 15th EP
-- [ ] 553. Jamie Xx - In Colour
-- [ ] 554. Donnie Trumpet & the Social Experiment - Surf
-- [ ] 555. Thundercat - The Beyond/Where the Giants Roam
-- [ ] 556. Vince Staples - Summertime '06
-- [ ] 557. Tame Impala - Currents
-- [ ] 558. Future - DS2
-- [ ] 559. Dr. Dre - Compton
-- [ ] 560. Beach House - Depression Cherry
-- [ ] 561. FKA Twigs - M3LL155X
-- [ ] 562. Empress Of: Me
-- [ ] 563. Julia Holter - Have You in My Wilderness
-- [ ] 564. Kurt Vile - B'lieve I'm Goin Down
-- [ ] 565. Deafheaven - New Bermuda
-- [ ] 566. Kelela - Hallucinogen EP
-- [ ] 567. Deerhunter - Fading Frontier
-- [ ] 568. Neon Indian - VEGA INTL. Night School
-- [ ] 569. Joanna Newsom - Divers
-- [ ] 570. Floating Points - Elaenia
-- [ ] 571. Oneohtrix Point Never - Garden of Delete
-- [ ] 572. Grimes - Art Angels
-- [ ] 573. Arca - Mutant
-- [ ] 574. Jeremih - Late Nights: The Album
-- [ ] 575. Baroness - Purple
-- [ ] 576. Archy Marshall - A New Place 2 Drown
-- [ ] 577. David Bowie - Blackstar (2016)
-- [ ] 578. Anderson .Paak - Malibu
-- [ ] 579. Kevin Gates - Islah
-- [ ] 580. Porches - Pool
-- [ ] 581. Kanye West - The Life of Pablo
-- [ ] 582. Moodymann - DJ-Kicks
-- [ ] 583. Esperanza Spalding - Emily'S D+Evolution
-- [ ] 584. Anna Meredith - Varmints
-- [ ] 585. Kendrick Lamar - Untitled Unmastered
-- [ ] 586. Sheer Mag - III EP
-- [ ] 587. Vijay Iyer & Wadada Leo Smith - A Cosmic Rhythm With Each Stroke
-- [ ] 588. Kamaiyah - A Good Night in the Ghetto
-- [ ] 589. Frankie Cosmos - Next Thing
-- [ ] 590. Dvsn - Sept. 5th
-- [ ] 591. Parquet Courts - Human Performance
-- [ ] 592. Kevin Morby - Singing Saw
-- [X] 593. Beyonce - Lemonade (2016)
-- [ ] 594. ANOHNI - Hopelessness (2016)
-- [ ] 595. White Lung - Paradise
-- [ ] 596. James Blake - The Colour in Anything
-- [ ] 597. Radiohead - A Moon Shaped Pool
-- [ ] 598. Chance the Rapper - Coloring Book (2016)
-- [ ] 599. Car Seat Headrest - Teens of Denial
-- [ ] 600. Joey Purp - Iiidrops
-- [ ] 601. Whitney - Light Upon the Lake
-- [ ] 602. Mitski - Puberty 2
-- [ ] 603. G.L.O.S.S. - Trans Day of Revenge
-- [ ] 604. Blood Orange - Freetown Sound (2016)
-- [ ] 605. The Avalanches - Wildflower
-- [ ] 606. Maxwell-Blacksummers' Night
-- [ ] 607. Schoolboy Q - Blank Face LP
-- [ ] 608. Jamila Woods - HEAVN
-- [ ] 609. Elza Soares - A Mulher Do Fim Do Mundo (The Woman at the End of the World)
-- [ ] 610. Frank Ocean - Blonde
-- [ ] 611. Young Thug - JEFFERY
-- [ ] 612. Angel Olsen - My Woman
-- [ ] 613. Nick Cave & the Bad Seeds - Skeleton Tree (2016)
-- [ ] 614. Kaitlyn Aurelia Smith & Suzanne Ciani - FRKWYS Vol. 13: Sunergy
-- [ ] 615. Hamilton Leithauser & Rostam - I Had a Dream That You Were Mine
-- [ ] 616. Nicolas Jaar - Sirens
-- [ ] 617. Bon Iver - 22, a Million (2016)
-- [ ] 618. Danny Brown - Atrocity Exhibition
-- [ ] 619. Jenny Hval - Blood Bitch
-- [ ] 620. Solange - A Seat at the Table (2016)
-- [ ] 621. Nxworries - Yes Lawd!
-- [ ] 622. Weyes Blood - Front Row Seat to Earth
-- [ ] 623. Leonard Cohen - You Want It Darker (2016)
-- [ ] 624. A Tribe Called Quest - We Got It From Here... Thank You 4 Your Service
-- [ ] 625. Kate Bush - Before the Dawn (2016)
-- [ ] 626. Run the Jewels - Run the Jewels 3
-- [ ] 627. The Xx - I See You
-- [ ] 628. Migos - Culture
-- [ ] 629. Priests - Nothing Feels Natural
-- [ ] 630. Sampha - Process
-- [ ] 631. Julie Byrne - Not Even Happiness
-- [ ] 632. Visible Cloaks - Reassemblage
-- [ ] 633. Thundercat - Drunk
-- [ ] 634. Power Trip - Nightmare Logic
-- [ ] 635. Vagabon - Infinite Worlds
-- [ ] 636. Jay Som - Everybody Works
-- [ ] 637. Mount Eerie - A Crow Looked at Me
-- [ ] 638. Mono No Aware
-- [ ] 639. Arca - Arca
-- [ ] 640. Kendrick Lamar - DAMN.
-- [ ] 641. Gas - Narkopop
-- [ ] 642. Perfume Genius - No Shape
-- [ ] 643. Slowdive - Slowdive
-- [ ] 644. Girlpool - Powerplant
-- [ ] 645. Jlin - Black Origami
-- [ ] 646. (Sandy) Alex G - Rocket
-- [ ] 647. Big Thief - Capacity
-- [ ] 648. Sza - Ctrl
-- [ ] 649. Fleet Foxes - Crack-Up
-- [ ] 650. Lorde - Melodrama
-- [ ] 651. Vince Staples - Big Fish Theory
-- [ ] 652. MIKE - May God Bless Your Hustle
-- [ ] 653. Jay-Z – 4:44
-- [ ] 654. Broken Social Scene - Hug of Thunder
-- [ ] 655. Tyler, the Creator - Flower Boy
-- [ ] 656. Brand New - Science Fiction
-- [ ] 657. Lil B - Black Ken
-- [ ] 658. The War on Drugs - A Deeper Understanding
-- [ ] 659. LCD Soundsystem - American Dream
-- [ ] 660. Zola Jesus - Okovi
-- [ ] 661. Mount Kimbie - Love What Survives
-- [ ] 662. Ariel Pink - Dedicated to Bobby Jameson
-- [ ] 663. Moses Sumney - Aromanticism
-- [ ] 664. Kamasi Washington - Harmony of Difference
-- [ ] 665. Ibeyi, Ash
-- [ ] 666. Kelela - Take Me Apart
-- [ ] 667. King Krule - The Ooz
-- [ ] 668. Julien Baker - Turn Out the Lights
-- [ ] 669. Fever Ray - Plunge
-- [ ] 670. Charlotte Gainsbourg - Rest
-- [ ] 671. Bjork - Utopia
-- [ ] 672. Charli XCX - Pop 2
-- [ ] 673. Cupcakke - Ephorize
-- [ ] 674. Car Seat Headrest - Twin Fantasy
-- [ ] 675. U.S. Girls - In a Poem Unlimited
-- [ ] 676. SOB X RBE - Gangin
-- [ ] 677. Against All Logic - 2012 - 2017
-- [ ] 678. Soccer Mommy - Clean
-- [ ] 679. Mount Eerie - Now Only
-- [ ] 680. Amen Dunes - Freedom
-- [ ] 681. Kacey Musgraves - Golden Hour
-- [ ] 682. Jean Grae & Quelle Chris - Everything's Fine
-- [ ] 683. Cardi B - Invasion of Privacy
-- [ ] 684. Kali Uchis - Isolation
-- [ ] 685. Saba - Care for Me
-- [ ] 686. Sleep - The Sciences
-- [ ] 687. DJ Koze - Knock Knock (2018)
-- [ ] 688. Iceage - Beyondless
-- [ ] 689. Jon Hopkins - Singularity
-- [ ] 690. Beach House - 7
-- [ ] 691. Playboi Carti - Die Lit
-- [ ] 692. Skee Mask - Compro (2018)
-- [ ] 693. Pusha T - Daytona
-- [ ] 694. Father John Misty - God's Favorite Customer
-- [ ] 695. Snail Mail- Lush
-- [ ] 696. Tierra Whack - Whack World
-- [ ] 697. Sophie - Oil of Every Pearl's Un-Insides
-- [ ] 698. Beyonce / Jay Z - Everything Is Love
-- [ ] 699. Kamasi Washington, Heaven and Earth
-- [ ] 700. Let's Eat Grandma - I'm All Ears
-- [ ] 701. Deafheaven - Ordinary Corrupt Human Love
-- [ ] 702. The Internet - Hive Mind
-- [ ] 703. Tirzah - Devotion (2018)
-- [ ] 704. Mitski - Be the Cowboy
-- [ ] 705. Yves Tumor - Safe in the Hands of Love
-- [ ] 706. Joey Purp - QUARTERTHING
-- [ ] 707. Low - Double Negative
-- [ ] 708. Noname - Room 25
-- [ ] 709. Tim Hecker - Konoyo
-- [ ] 710. Sheck Wes - Mudboy (2018)
-- [ ] 711. Robyn - Honey
-- [ ] 712. Boygenius - Boygenius EP
-- [ ] 713. Rosalia- El Mal Querer
-- [ ] 714. The 1975 - A Brief Inquiry Into Online Relationships (2018)
-- [ ] 715. Earl Sweatshirt - Some Rap Songs
-- [ ] 716. Jeff Tweedy - WARM
-- [ ] 717. Sharon Van Etten - Remind Me Tomorrow
-- [ ] 718. Jessica Pratt - Quiet Signs
-- [ ] 719. Nivhek - After Its Own Death / Walking in a Spiral Towards the House
-- [ ] 720. Solange - When I Get Home
-- [ ] 721. Helado Negro - This Is How You Smile
-- [ ] 722. Rap - Export (2019)
-- [ ] 723. Chai - PUNK (2019)
-- [ ] 724. Miss Universe by Nilüfer Yanya
-- [ ] 725. Fennesz - Agora
-- [ ] 726. Weyes Blood - Titanic Rising
-- [ ] 727. Beyonce- Homecoming
-- [ ] 728. Sunn O))) - Life Metal
-- [ ] 729. Big Thief - U.F.O.F. (2019)
-- [ ] 730. Jamila Woods - LEGACY! LEGACY!
-- [ ] 731. Slowthai - Nothing Great About Britain
-- [ ] 732. Cate Le Bon - Reward
-- [ ] 733. Denzel Curry - ZUU
-- [ ] 734. Polo G - Die a Legend
-- [ ] 735. Bill Callahan, Shepherd in a Sheepskin Vest
-- [ ] 736. Leif - Loom Dream
-- [ ] 737. Mannequin Pussy - Patience
-- [ ] 738. Black Midi - Schlagenheim
-- [ ] 739. Thom Yorke - Anima
-- [ ] 740. MIKE - Tears of Joy
-- [ ] 741. Moodymann - Sinner
-- [ ] 742. Purple Mountains - Purple Mountains
-- [ ] 743. Maxo Kream - Brandon Banks
-- [ ] 744. Florist - Emily Alone (2019)
-- [ ] 745. Burna Boy - African Giant
-- [ ] 746. Bon Iver, I,I
-- [ ] 747. Oso Oso - Basking in the Glow
-- [ ] 748. Young Thug - So Much Fun
-- [ ] 749. Lana Del Rey - Norman Fucking Rockwell
-- [ ] 750. (Sandy) Alex G - House of Sugar
-- [ ] 751. Jenny Hval, the Practice of Love
-- [ ] 752. Brittany Howard - Jaime
-- [ ] 753. Angel Olsen - All Mirrors
-- [ ] 754. Nick Cave & the Bad Seeds - Ghosteen
-- [ ] 755. Big Thief - Two Hands
-- [ ] 756. Kim Gordon, No Home Record
-- [ ] 757. Floating Points - Crush (2019)
-- [ ] 758. Earl Sweatshirt - Feet of Clay
-- [ ] 759. FKA Twigs - Magdalene
-- [ ] 760. Davido - A Good Time
-- [ ] 761. Blood Incantation - Hidden History of the Human Race
-- [X] 762. Jeff Parker - Suite for Max Brown
-- [ ] 763. Destroyer - Have We Met
-- [ ] 764. Gil Scott-Heron / Makaya McCraven - We're New Again
-- [ ] 765. Beatrice Dillon - Workaround
-- [ ] 766. Grimes - Miss Anthropocene
-- [ ] 767. Bad Bunny - YHLQMDLG
-- [ ] 768. U.S. Girls - Heavy Light
-- [ ] 769. Lil Uzi Vert - Eternal Atake
-- [ ] 770. Porridge Radio - Every Bad
-- [ ] 771. Dogleg - Melee
-- [ ] 772. Jay Electronica - A Written Testimony
-- [ ] 773. Lyra Pramuk - Fountain
-- [ ] 774. Waxahatchee - Saint Cloud
-- [ ] 775. Yves Tumor - Heaven to a Tortured Mind
-- [ ] 776. Fiona Apple - Fetch the Bolt Cutters
-- [X] 777. KeiyaA - Forever, Ya Girl
-- [ ] 778. The Soft Pink Truth - Shall We Go On Sinning So That Grace May Increase?
-- [ ] 779. Blake Mills - Mutable Set
-- [ ] 780. Moses Sumney - græ
-- [ ] 781. Perfume Genius - Set My Heart on Fire Immediately
-- [ ] 782. Medhane - Cold Water
-- [ ] 783. Run the Jewels - RTJ4
-- [ ] 784. Drakeo the Ruler - Thank You For Using GTL
-- [ ] 785. Bob Dylan - Rough and Rowdy Ways
-- [ ] 786. Phoebe Bridgers - Punisher
-- [ ] 787. Haim - Women in Music Pt. III
-- [ ] 788. Jessie Ware - What's Your Pleasure?
-- [ ] 789. Special Interest - The Passion Of
-- [ ] 790. Julianna Barwick - Healing Is a Miracle
-- [ ] 791. Dehd - Flower of Devotion
-- [ ] 792. The Microphones - Microphones in 2020
-- [ ] 793. Popcaan - FIXTAPE
-- [ ] 794. Nubya Garcia - Source
-- [ ] 795. Fireboy DML - APOLLO
-- [ ] 796. Jyoti - Mama, You Can Bet!
-- [ ] 797. Lomelda - Hannah
-- [ ] 798. Fleet Foxes - Shore
-- [ ] 799. Bartees Strange - Live Forever
-- [ ] 800. Touché Amoré - Lament
-- [ ] 801. Jay Electronica - Act II: The Patents of Nobility (The Turn)
-- [ ] 802. Adrianne Lenker - songs / instrumentals
-- [ ] 803. Angel Bat Dawid / Tha Brothahood - LIVE
-- [ ] 804. Amaarae - The Angel You Don't Know
-- [ ] 805. Playboi Carti - Whole Lotta Red
-- [ ] 806. Navy Blue - Song of Sage: Post Panic!
-- [ ] 807. Jazmine Sullivan - Heaux Tales
-- [ ] 808. The Weather Station - Ignorance
-- [ ] 809. Cassandra Jenkins - An Overview on Phenomenal Nature
-- [ ] 810. Floating Points / Pharoah Sanders / The London Symphony Orchestra - Promises
-- [ ] 811. Lost Girls - Menneskekollektivet
-- [ ] 812. Dry Cleaning - New Long Leg
-- [ ] 813. Spirit of the Beehive - ENTERTAINMENT, DEATH
-- [ ] 814. Vijay Iyer / Linda May Han Oh / Tyshawn Sorey - Uneasy
-- [ ] 815. The Armed - ULTRAPOP
-- [ ] 816. Arooj Aftab - Vulture Prince
-- [ ] 817. Iceage - Seek Shelter
-- [ ] 818. Mdou Moctar - Afrique Victime
-- [ ] 819. Mach-Hommy - Pray for Haiti
-- [X] 820. Faye Webster - I Know I'm Funny haha
-- [ ] 821. Tyler, the Creator - Call Me If You Get Lost
 - [ ] 822. L'Rain - Fatigue
+- [ ] 821. Tyler, the Creator - Call Me If You Get Lost
+- [X] 820. Faye Webster - I Know I'm Funny haha
+- [ ] 819. Mach-Hommy - Pray for Haiti
+- [ ] 818. Mdou Moctar - Afrique Victime
+- [ ] 817. Iceage - Seek Shelter
+- [ ] 816. Arooj Aftab - Vulture Prince
+- [ ] 815. The Armed - ULTRAPOP
+- [ ] 814. Vijay Iyer / Linda May Han Oh / Tyshawn Sorey - Uneasy
+- [ ] 813. Spirit of the Beehive - ENTERTAINMENT, DEATH
+- [ ] 812. Dry Cleaning - New Long Leg
+- [ ] 811. Lost Girls - Menneskekollektivet
+- [ ] 810. Floating Points / Pharoah Sanders / The London Symphony Orchestra - Promises
+- [ ] 809. Cassandra Jenkins - An Overview on Phenomenal Nature
+- [ ] 808. The Weather Station - Ignorance
+- [ ] 807. Jazmine Sullivan - Heaux Tales
+- [ ] 806. Navy Blue - Song of Sage: Post Panic!
+- [ ] 805. Playboi Carti - Whole Lotta Red
+- [ ] 804. Amaarae - The Angel You Don't Know
+- [ ] 803. Angel Bat Dawid / Tha Brothahood - LIVE
+- [ ] 802. Adrianne Lenker - songs / instrumentals
+- [ ] 801. Jay Electronica - Act II: The Patents of Nobility (The Turn)
+- [ ] 800. Touché Amoré - Lament
+- [ ] 799. Bartees Strange - Live Forever
+- [ ] 798. Fleet Foxes - Shore
+- [ ] 797. Lomelda - Hannah
+- [ ] 796. Jyoti - Mama, You Can Bet!
+- [ ] 795. Fireboy DML - APOLLO
+- [ ] 794. Nubya Garcia - Source
+- [ ] 793. Popcaan - FIXTAPE
+- [ ] 792. The Microphones - Microphones in 2020
+- [ ] 791. Dehd - Flower of Devotion
+- [ ] 790. Julianna Barwick - Healing Is a Miracle
+- [ ] 789. Special Interest - The Passion Of
+- [ ] 788. Jessie Ware - What's Your Pleasure?
+- [ ] 787. Haim - Women in Music Pt. III
+- [ ] 786. Phoebe Bridgers - Punisher
+- [ ] 785. Bob Dylan - Rough and Rowdy Ways
+- [ ] 784. Drakeo the Ruler - Thank You For Using GTL
+- [ ] 783. Run the Jewels - RTJ4
+- [ ] 782. Medhane - Cold Water
+- [ ] 781. Perfume Genius - Set My Heart on Fire Immediately
+- [ ] 780. Moses Sumney - græ
+- [ ] 779. Blake Mills - Mutable Set
+- [ ] 778. The Soft Pink Truth - Shall We Go On Sinning So That Grace May Increase?
+- [X] 777. KeiyaA - Forever, Ya Girl
+- [ ] 776. Fiona Apple - Fetch the Bolt Cutters
+- [ ] 775. Yves Tumor - Heaven to a Tortured Mind
+- [ ] 774. Waxahatchee - Saint Cloud
+- [ ] 773. Lyra Pramuk - Fountain
+- [ ] 772. Jay Electronica - A Written Testimony
+- [ ] 771. Dogleg - Melee
+- [ ] 770. Porridge Radio - Every Bad
+- [ ] 769. Lil Uzi Vert - Eternal Atake
+- [ ] 768. U.S. Girls - Heavy Light
+- [ ] 767. Bad Bunny - YHLQMDLG
+- [ ] 766. Grimes - Miss Anthropocene
+- [ ] 765. Beatrice Dillon - Workaround
+- [ ] 764. Gil Scott-Heron / Makaya McCraven - We're New Again
+- [ ] 763. Destroyer - Have We Met
+- [X] 762. Jeff Parker - Suite for Max Brown
+- [ ] 761. Blood Incantation - Hidden History of the Human Race
+- [ ] 760. Davido - A Good Time
+- [ ] 759. FKA Twigs - Magdalene
+- [ ] 758. Earl Sweatshirt - Feet of Clay
+- [ ] 757. Floating Points - Crush (2019)
+- [ ] 756. Kim Gordon, No Home Record
+- [ ] 755. Big Thief - Two Hands
+- [ ] 754. Nick Cave & the Bad Seeds - Ghosteen
+- [ ] 753. Angel Olsen - All Mirrors
+- [ ] 752. Brittany Howard - Jaime
+- [ ] 751. Jenny Hval, the Practice of Love
+- [ ] 750. (Sandy) Alex G - House of Sugar
+- [ ] 749. Lana Del Rey - Norman Fucking Rockwell
+- [ ] 748. Young Thug - So Much Fun
+- [ ] 747. Oso Oso - Basking in the Glow
+- [ ] 746. Bon Iver, I,I
+- [ ] 745. Burna Boy - African Giant
+- [ ] 744. Florist - Emily Alone (2019)
+- [ ] 743. Maxo Kream - Brandon Banks
+- [ ] 742. Purple Mountains - Purple Mountains
+- [ ] 741. Moodymann - Sinner
+- [ ] 740. MIKE - Tears of Joy
+- [ ] 739. Thom Yorke - Anima
+- [ ] 738. Black Midi - Schlagenheim
+- [ ] 737. Mannequin Pussy - Patience
+- [ ] 736. Leif - Loom Dream
+- [ ] 735. Bill Callahan, Shepherd in a Sheepskin Vest
+- [ ] 734. Polo G - Die a Legend
+- [ ] 733. Denzel Curry - ZUU
+- [ ] 732. Cate Le Bon - Reward
+- [ ] 731. Slowthai - Nothing Great About Britain
+- [ ] 730. Jamila Woods - LEGACY! LEGACY!
+- [ ] 729. Big Thief - U.F.O.F. (2019)
+- [ ] 728. Sunn O))) - Life Metal
+- [ ] 727. Beyonce- Homecoming
+- [ ] 726. Weyes Blood - Titanic Rising
+- [ ] 725. Fennesz - Agora
+- [ ] 724. Miss Universe by Nilüfer Yanya
+- [ ] 723. Chai - PUNK (2019)
+- [ ] 722. Rap - Export (2019)
+- [ ] 721. Helado Negro - This Is How You Smile
+- [ ] 720. Solange - When I Get Home
+- [ ] 719. Nivhek - After Its Own Death / Walking in a Spiral Towards the House
+- [ ] 718. Jessica Pratt - Quiet Signs
+- [ ] 717. Sharon Van Etten - Remind Me Tomorrow
+- [ ] 716. Jeff Tweedy - WARM
+- [ ] 715. Earl Sweatshirt - Some Rap Songs
+- [ ] 714. The 1975 - A Brief Inquiry Into Online Relationships (2018)
+- [ ] 713. Rosalia- El Mal Querer
+- [ ] 712. Boygenius - Boygenius EP
+- [ ] 711. Robyn - Honey
+- [ ] 710. Sheck Wes - Mudboy (2018)
+- [ ] 709. Tim Hecker - Konoyo
+- [ ] 708. Noname - Room 25
+- [ ] 707. Low - Double Negative
+- [ ] 706. Joey Purp - QUARTERTHING
+- [ ] 705. Yves Tumor - Safe in the Hands of Love
+- [ ] 704. Mitski - Be the Cowboy
+- [ ] 703. Tirzah - Devotion (2018)
+- [ ] 702. The Internet - Hive Mind
+- [ ] 701. Deafheaven - Ordinary Corrupt Human Love
+- [ ] 700. Let's Eat Grandma - I'm All Ears
+- [ ] 699. Kamasi Washington, Heaven and Earth
+- [ ] 698. Beyonce / Jay Z - Everything Is Love
+- [ ] 697. Sophie - Oil of Every Pearl's Un-Insides
+- [ ] 696. Tierra Whack - Whack World
+- [ ] 695. Snail Mail- Lush
+- [ ] 694. Father John Misty - God's Favorite Customer
+- [ ] 693. Pusha T - Daytona
+- [ ] 692. Skee Mask - Compro (2018)
+- [ ] 691. Playboi Carti - Die Lit
+- [ ] 690. Beach House - 7
+- [ ] 689. Jon Hopkins - Singularity
+- [ ] 688. Iceage - Beyondless
+- [ ] 687. DJ Koze - Knock Knock (2018)
+- [ ] 686. Sleep - The Sciences
+- [ ] 685. Saba - Care for Me
+- [ ] 684. Kali Uchis - Isolation
+- [ ] 683. Cardi B - Invasion of Privacy
+- [ ] 682. Jean Grae & Quelle Chris - Everything's Fine
+- [ ] 681. Kacey Musgraves - Golden Hour
+- [ ] 680. Amen Dunes - Freedom
+- [ ] 679. Mount Eerie - Now Only
+- [ ] 678. Soccer Mommy - Clean
+- [ ] 677. Against All Logic - 2012 - 2017
+- [ ] 676. SOB X RBE - Gangin
+- [ ] 675. U.S. Girls - In a Poem Unlimited
+- [ ] 674. Car Seat Headrest - Twin Fantasy
+- [ ] 673. Cupcakke - Ephorize
+- [ ] 672. Charli XCX - Pop 2
+- [ ] 671. Bjork - Utopia
+- [ ] 670. Charlotte Gainsbourg - Rest
+- [ ] 669. Fever Ray - Plunge
+- [ ] 668. Julien Baker - Turn Out the Lights
+- [ ] 667. King Krule - The Ooz
+- [ ] 666. Kelela - Take Me Apart
+- [ ] 665. Ibeyi, Ash
+- [ ] 664. Kamasi Washington - Harmony of Difference
+- [ ] 663. Moses Sumney - Aromanticism
+- [ ] 662. Ariel Pink - Dedicated to Bobby Jameson
+- [ ] 661. Mount Kimbie - Love What Survives
+- [ ] 660. Zola Jesus - Okovi
+- [ ] 659. LCD Soundsystem - American Dream
+- [ ] 658. The War on Drugs - A Deeper Understanding
+- [ ] 657. Lil B - Black Ken
+- [ ] 656. Brand New - Science Fiction
+- [ ] 655. Tyler, the Creator - Flower Boy
+- [ ] 654. Broken Social Scene - Hug of Thunder
+- [ ] 653. Jay-Z – 4:44
+- [ ] 652. MIKE - May God Bless Your Hustle
+- [ ] 651. Vince Staples - Big Fish Theory
+- [ ] 650. Lorde - Melodrama
+- [ ] 649. Fleet Foxes - Crack-Up
+- [ ] 648. Sza - Ctrl
+- [ ] 647. Big Thief - Capacity
+- [ ] 646. (Sandy) Alex G - Rocket
+- [ ] 645. Jlin - Black Origami
+- [ ] 644. Girlpool - Powerplant
+- [ ] 643. Slowdive - Slowdive
+- [ ] 642. Perfume Genius - No Shape
+- [ ] 641. Gas - Narkopop
+- [ ] 640. Kendrick Lamar - DAMN.
+- [ ] 639. Arca - Arca
+- [ ] 638. Mono No Aware
+- [ ] 637. Mount Eerie - A Crow Looked at Me
+- [ ] 636. Jay Som - Everybody Works
+- [ ] 635. Vagabon - Infinite Worlds
+- [ ] 634. Power Trip - Nightmare Logic
+- [ ] 633. Thundercat - Drunk
+- [ ] 632. Visible Cloaks - Reassemblage
+- [ ] 631. Julie Byrne - Not Even Happiness
+- [ ] 630. Sampha - Process
+- [ ] 629. Priests - Nothing Feels Natural
+- [ ] 628. Migos - Culture
+- [ ] 627. The Xx - I See You
+- [ ] 626. Run the Jewels - Run the Jewels 3
+- [ ] 625. Kate Bush - Before the Dawn (2016)
+- [ ] 624. A Tribe Called Quest - We Got It From Here... Thank You 4 Your Service
+- [ ] 623. Leonard Cohen - You Want It Darker (2016)
+- [ ] 622. Weyes Blood - Front Row Seat to Earth
+- [ ] 621. Nxworries - Yes Lawd!
+- [ ] 620. Solange - A Seat at the Table (2016)
+- [ ] 619. Jenny Hval - Blood Bitch
+- [ ] 618. Danny Brown - Atrocity Exhibition
+- [ ] 617. Bon Iver - 22, a Million (2016)
+- [ ] 616. Nicolas Jaar - Sirens
+- [ ] 615. Hamilton Leithauser & Rostam - I Had a Dream That You Were Mine
+- [ ] 614. Kaitlyn Aurelia Smith & Suzanne Ciani - FRKWYS Vol. 13: Sunergy
+- [ ] 613. Nick Cave & the Bad Seeds - Skeleton Tree (2016)
+- [ ] 612. Angel Olsen - My Woman
+- [ ] 611. Young Thug - JEFFERY
+- [ ] 610. Frank Ocean - Blonde
+- [ ] 609. Elza Soares - A Mulher Do Fim Do Mundo (The Woman at the End of the World)
+- [ ] 608. Jamila Woods - HEAVN
+- [ ] 607. Schoolboy Q - Blank Face LP
+- [ ] 606. Maxwell-Blacksummers' Night
+- [ ] 605. The Avalanches - Wildflower
+- [ ] 604. Blood Orange - Freetown Sound (2016)
+- [ ] 603. G.L.O.S.S. - Trans Day of Revenge
+- [ ] 602. Mitski - Puberty 2
+- [ ] 601. Whitney - Light Upon the Lake
+- [ ] 600. Joey Purp - Iiidrops
+- [ ] 599. Car Seat Headrest - Teens of Denial
+- [ ] 598. Chance the Rapper - Coloring Book (2016)
+- [ ] 597. Radiohead - A Moon Shaped Pool
+- [ ] 596. James Blake - The Colour in Anything
+- [ ] 595. White Lung - Paradise
+- [ ] 594. ANOHNI - Hopelessness (2016)
+- [X] 593. Beyonce - Lemonade (2016)
+- [ ] 592. Kevin Morby - Singing Saw
+- [ ] 591. Parquet Courts - Human Performance
+- [ ] 590. Dvsn - Sept. 5th
+- [ ] 589. Frankie Cosmos - Next Thing
+- [ ] 588. Kamaiyah - A Good Night in the Ghetto
+- [ ] 587. Vijay Iyer & Wadada Leo Smith - A Cosmic Rhythm With Each Stroke
+- [ ] 586. Sheer Mag - III EP
+- [ ] 585. Kendrick Lamar - Untitled Unmastered
+- [ ] 584. Anna Meredith - Varmints
+- [ ] 583. Esperanza Spalding - Emily'S D+Evolution
+- [ ] 582. Moodymann - DJ-Kicks
+- [ ] 581. Kanye West - The Life of Pablo
+- [ ] 580. Porches - Pool
+- [ ] 579. Kevin Gates - Islah
+- [ ] 578. Anderson .Paak - Malibu
+- [ ] 577. David Bowie - Blackstar (2016)
+- [ ] 576. Archy Marshall - A New Place 2 Drown
+- [ ] 575. Baroness - Purple
+- [ ] 574. Jeremih - Late Nights: The Album
+- [ ] 573. Arca - Mutant
+- [ ] 572. Grimes - Art Angels
+- [ ] 571. Oneohtrix Point Never - Garden of Delete
+- [ ] 570. Floating Points - Elaenia
+- [ ] 569. Joanna Newsom - Divers
+- [ ] 568. Neon Indian - VEGA INTL. Night School
+- [ ] 567. Deerhunter - Fading Frontier
+- [ ] 566. Kelela - Hallucinogen EP
+- [ ] 565. Deafheaven - New Bermuda
+- [ ] 564. Kurt Vile - B'lieve I'm Goin Down
+- [ ] 563. Julia Holter - Have You in My Wilderness
+- [ ] 562. Empress Of: Me
+- [ ] 561. FKA Twigs - M3LL155X
+- [ ] 560. Beach House - Depression Cherry
+- [ ] 559. Dr. Dre - Compton
+- [ ] 558. Future - DS2
+- [ ] 557. Tame Impala - Currents
+- [ ] 556. Vince Staples - Summertime '06
+- [ ] 555. Thundercat - The Beyond/Where the Giants Roam
+- [ ] 554. Donnie Trumpet & the Social Experiment - Surf
+- [ ] 553. Jamie Xx - In Colour
+- [ ] 552. Nao - February 15th EP
+- [ ] 551. Holly Herndon - Platform
+- [ ] 550. Shamir - Ratchet
+- [ ] 549. Jim O'Rourke - Simple Songs
+- [ ] 548. Prurient - Frozen Niagra Falls
+- [ ] 547. Kamasi Washington - The Epic
+- [ ] 546. Young Thug - Barter 6
+- [ ] 545. Lower Dens - Escape From Evil
+- [ ] 544. Jlin - Dark Energy
+- [ ] 543. Sufjan Stevens - Carrie & Lowell (2015)
+- [ ] 542. Courtney Barnett- Sometimes I Sit and Think, and Sometimes I Just Sit
+- [ ] 541. Kendrick Lamar - To Pimp a Butterfly
+- [ ] 540. Tobias Jesso Jr. - Goon
+- [ ] 539. Levon Vincent - Levon Vincent
+- [ ] 538. Drake - If You're Reading This It's Too Late
+- [ ] 537. Father John Misty - I Love You Honeybear
+- [ ] 536. Aphex Twin - Computer Controlled Acoustic Instruments Pt2 EP
+- [ ] 535. Natalie Prass - Natalie Prass
+- [ ] 534. Bjork - Vulnicura
+- [ ] 533. Viet Cong - Viet Cong
+- [ ] 532. Sleater-Kinney - No Cities to Love
+- [ ] 531. Panda Bear - Panda Bear Meets the Grim Reaper
+- [ ] 530. D'Angelo and the Vanguard - Black Messiah
+- [ ] 529. Andy Stott - Faith in Strangers
+- [ ] 528. Ariel Pink - Pom Pom
+- [ ] 527. Clark - Clark
+- [ ] 526. Arca - Xen
+- [ ] 525. Run the Jewels - Run the Jewels 2
+- [ ] 524. Grouper - Ruins
+- [ ] 523. Pharmakon - Bestial Burden
+- [ ] 522. Vince Staples - Hell Can Wait
+- [ ] 521. Ex Hex - Rips
+- [ ] 520. Iceage - Plowing Into the Field of Love
+- [ ] 519. Caribou - Our Love
+- [ ] 518. Flying Lotus - You're Dead!
+- [ ] 517. Perfume Genius - Too Bright
+- [ ] 516. Aphex Twin - Syro (2014)
+- [ ] 515. Pallbearer - Foundations of Burden
+- [ ] 514. FKA Twigs - LP1
+- [ ] 513. Spoon - They Want My Soul
+- [ ] 512. Brian Eno/Karl Hyde - High Life
+- [ ] 511. A Sunny Day in Glasgow - Sea When Absent
+- [ ] 510. How to Dress Well - What Is This Heart
+- [ ] 509. White Lung - Deep Fantasy
+- [ ] 508. Parquet Courts - Sunbathing Animal
+- [ ] 507. Ben Frost - Aurora
+- [ ] 506. Hundred Waters - The Moon Rang Like a Bell
+- [ ] 505. Various Artists - Hyperdub 10.1
+- [ ] 504. Swans - To Be Kind
+- [ ] 503. Lykke Li - I Never Learn
+- [ ] 502. Ought - More Than Any Other Day
+- [ ] 501. Todd Terje - It's Album Time
+- [ ] 500. Mac Demarco - Salad Days
+- [ ] 499. Cloud Nothings - Here and Nowhere Else
+- [ ] 498. The War on Drugs - Lost in the Dream
+- [ ] 497. Perfect Pussy - Say Yes to Love
+- [ ] 496. Real Estate - Atlas
+- [ ] 495. St. Vincent - St. Vincent
+- [ ] 494. Angel Olsen - Burn Your Fire for No Witness
+- [ ] 493. Sun Kil Moon - Benji
+- [ ] 492. Beyonce - Beyonce
+- [ ] 491. Burial - Rival Dealer
+- [ ] 490. Death Grips - Government Plates
+- [ ] 489. Blood Orange - Cupid Deluxe
+- [ ] 488. The Range - Nonfiction
+- [ ] 487. Arcade Fire - Reflecktor
+- [ ] 486. Mutual Benefit - Love's Crushing Diamond
+- [ ] 485. DJ Rashad - Double Cup
+- [ ] 484. Kelela - Cut 4 Me (2013)
+- [ ] 483. Tim Hecker - Virgins
+- [ ] 482. Darkside - Psychic
+- [ ] 481. Oneohtrix Point Never - R Plus Seven
+- [ ] 480. Danny Brown - Old
+- [ ] 479. The Field - Cupid's Head
+- [ ] 478. Haim - Days Are Gone
+- [ ] 477. CHVRCHES - The Bones of What You Believe
+- [ ] 476. Drake - Nothing Was the Same
+- [ ] 475. Janelle Monáe - The Electric Lady
+- [ ] 474. Forest Swords - Engravings
+- [ ] 473. Julianna Barwick - Nepenthe
+- [ ] 472. Earl Sweatshirt - Doris
+- [ ] 471. Julia Holter - Loud City Song
+- [ ] 470. Fuck Buttons - Slow Focus
+- [ ] 469. Speedy Ortiz - Major Arcana
+- [ ] 468. Run the Jewels - Run the Jewels
+- [ ] 467. Kanye West - Yeezus
+- [ ] 466. These New Puritans, Field of Reeds
+- [ ] 465. Deafheaven - Sunbather
+- [ ] 464. Boards of Canada - Tomorrow's Harvest
+- [ ] 463. Jon Hopkins - Immunity
+- [ ] 462. Disclosure - Settle
+- [ ] 461. Various Artists - After Dark 2
+- [ ] 460. Baths - Obsidian
+- [ ] 459. Dirty Beaches - Drifters/Love Is the Devil
+- [ ] 458. The National - Trouble Will Find Me
+- [ ] 457. Daft Punk - Random Access Memories
+- [ ] 456. Vampire Weekend - Modern Vampires of the City
+- [ ] 455. Chance the Rapper - Acid Rap
+- [ ] 454. Savages - Silence Yourself
+- [ ] 453. Deerhunter - Monomania
+- [ ] 452. Mikal Cronin - MC II
+- [ ] 451. Charli XCX - True Romance
+- [ ] 450. The Haxan Cloak - Excavation
+- [ ] 449. Kurt Vile - Wakin on a Pretty Daze
+- [ ] 448. The Knife - Shaking the Habitual
+- [ ] 447. DJ Koze - Amygdala
+- [ ] 446. Justin Timberlake- The 20/20 Experience
+- [ ] 445. Phosphorescent - Muchacho
+- [ ] 444. Waxahatchee - Cerulean Salt
+- [ ] 443. Rhye - Woman
+- [ ] 442. Youth Lagoon - Wondrous Bughouse
+- [ ] 441. Autre Ne Veut - Anxiety
+- [ ] 440. Iceage - You're Nothing
+- [ ] 439. My Bloody Valentine - Mbv
+- [ ] 438. Grouper - The Man Who Died in His Boat
+- [ ] 437. Foxygen-We Are the 21st Century Ambassadors of Peace and Magic
+- [ ] 436. Burial - Truant/Rough Sleeper
+- [ ] 435. A$AP Rocky - Long.Live.A$AP
+- [ ] 434. Mac Demarco - 2
+- [ ] 433. Andy Stott - Luxury Problems
+- [ ] 432. Kendrick Lamar - Good Kid, M.A.A.D City
+- [ ] 431. Bat for Lashes - The Haunted Man
+- [ ] 430. Godspeed You! Black Emperor - 'Allelujah! Don't Bend! Ascend!
+- [ ] 429. METZ - METZ
+- [ ] 428. Tame Impala - Lonerism
+- [ ] 427. Miguel - Kaleidoscope Dream
+- [ ] 426. Flying Lotus - Until the Quiet Comes
+- [ ] 425. Dum Dum Girls - End of Daze EP
+- [ ] 424. How to Dress Well - Total Loss
+- [ ] 423. Grizzly Bear - Shields
+- [ ] 422. Wild Nothing - Nocturne
+- [ ] 421. Swans - The Seer
+- [ ] 420. Ariel Pink's Haunted Graffiti - Mature Themes
+- [ ] 419. Jessie Ware - Devotion
+- [ ] 418. TNGHT - TNGHT
+- [ ] 417. Purity Ring - Shrines
+- [ ] 416. Passion Pit - Gossamer
+- [ ] 415. Nas - Life Is Good
+- [ ] 414. Baroness - Yellow & Green
+- [ ] 413. Frank Ocean - Channel Orange
+- [ ] 412. Dirty Projectors - Swing Lo Magellan
+- [ ] 411. Twin Shadow - Confess
+- [ ] 410. DIIV - Oshin
+- [ ] 409. Ty Segall Band - Slaughterhouse
+- [ ] 408. Fiona Apple - The Idler Wheel...
+- [ ] 407. Japandroids - Celebration Rock (2012)
+- [ ] 406. Mount Eerie - Clear Moon
+- [ ] 405. El-P - Cancer for Cure
+- [ ] 404. Killer Mike - R.A.P Music
+- [ ] 403. Beach House - Bloom
+- [ ] 402. Actress - R.I.P.
+- [ ] 401. Death Grips - The Money Store
+- [ ] 400. Spiritualized - Sweet Heart Sweet Light
+- [ ] 399. Chromatics - Kill for Love
+- [ ] 398. Lotus Plaza - Spooky Action at a Distance
+- [ ] 397. The Shins - Port of Morrow
+- [ ] 396. The Men - Open Your Heart
+- [ ] 395. Julia Holter - Ekstasis
+- [ ] 394. Pallbearer - Sorrow and Extinction
+- [ ] 393. Perfume Genius - Put Your Back N 2 It
+- [ ] 392. Lambchop - Mr. M
+- [ ] 391. Frankie Rose - Interstellar
+- [ ] 390. Grimes - Visions
+- [ ] 389. Burial - Kindred EP
+- [ ] 388. John Talabot - Fin
+- [ ] 387. Schoolboy Q - Habits & Contradictions
+- [ ] 386. Cloud Nothings - Attack on Memory
+- [ ] 385. Sepalcure - Sepalcure
+- [ ] 384. Kate Bush - 50 Words for Snow
+- [ ] 383. Drake - Take Care (2011)
+- [ ] 382. Oneohtrix Point Never - Replica (2011)
+- [ ] 381. A$AP Rocky - Livelovea$AP
+- [ ] 380. Atlas Sound - Parallax
+- [ ] 379. Real Estate - Days
+- [ ] 378. M83 - Hurry Up, We're Dreaming
+- [ ] 377. Trash Talk - Awake EP
+- [ ] 376. Youth Lagoon - The Year of Hibernation
+- [ ] 375. Wolves in the Throne Room - Celestial Lineage
+- [ ] 374. St. Vincent - Strange Mercy
+- [ ] 373. Girls - Father, Son, Holy Ghost
+- [ ] 372. The Field - Looping State of Mind
+- [ ] 371. The War on Drugs - Slave Ambient
+- [ ] 370. Jay-Z/Kanye West - Watch the Throne
+- [ ] 369. Washed Out-Within and Without
+- [ ] 368. John Maus - We Must Become the Pitiless Censors of Ourselves
+- [ ] 367. Araabmuzik - Electronic Dream
+- [ ] 366. Iceage - New Brigade
+- [ ] 365. Shabazz Palaces - Black Up
+- [ ] 364. WU LYF - Go Tell Fire to the Mountain
+- [ ] 363. Bon Iver - Bon Iver
+- [ ] 362. Fucked Up - David Comes to Life
+- [ ] 361. Cults - Cults
+- [ ] 360. The Antlers - Burst Apart
+- [ ] 359. EMA - Past Life Martyred Saints
+- [ ] 358. Gang Gang Dance - Eye Contact (2011)
+- [ ] 357. Fleet Foxes - Helplessness Blues
+- [ ] 356. DJ Quik - The Book of David
+- [ ] 355. Cass McCombs - Wit's End
+- [ ] 354. Big K.R.I.T. - Return of 4Eva
+- [ ] 353. Tune-Yards - W H O K I L L
+- [ ] 352. Panda Bear - Tomboy
+- [ ] 351. The Pains of Being Pure at Heart — Belong
+- [ ] 350. The Weeknd - House of Balloons (2011)
+- [ ] 349. Kurt Vile - Smoke Ring for My Halo
+- [ ] 348. Lykke Li - Wounded Rhymes
+- [ ] 347. Toro Y Moi - Underneath the Pine
+- [ ] 346. Julianna Barwick - The Magic Place
+- [ ] 345. Tim Hecker - Ravedeath, 1972
+- [ ] 344. Nicolas Jaar - Space Is Only Noise
+- [ ] 343. PJ Harvey - Let England Shake
+- [ ] 342. James Blake - James Blake
+- [ ] 341. Cut Copy - Zonoscope
+- [ ] 340. Destroyer - Kaputt
+- [ ] 339. Smith Westerns - Dye It Blonde
+- [ ] 338. Off! - First Four EPs
+- [ ] 337. Robyn - Body Talk
+- [ ] 336. Kanye West - My Beautiful Dark Twisted Fantasy
+- [ ] 335. Girls - Broken Dreams Club EP
+- [ ] 334. Sufjan Stevens - The Age of Adz
+- [ ] 333. Twin Shadow - Forget
+- [ ] 332. No Age - Everything in Between
+- [ ] 331. Deerhunter - Halcyon Digest
+- [ ] 330. How to Dress Well - Love Remains
+- [ ] 329. Das Racist - Sit Down, Man
+- [ ] 328. The Walkmen - Lisbon
+- [ ] 327. Matthew Dear - Black City
+- [ ] 326. Arcade Fire - The Suburbs
+- [ ] 325. Curren$Y-Pilot Talk
+- [ ] 324. Best Coast - Crazy for You
+- [ ] 323. The-Dream - Love King
+- [ ] 322. Big Boi - Sir Lucious Left Foot: The Son of Chico Dusty
+- [ ] 321. Wavves - King of the Beach
+- [ ] 320. Ceo - White Magic
+- [ ] 319. Julian Lynch - Mare
+- [ ] 318. Emeralds - Does It Look Like I'm Here?
+- [ ] 317. Ariel Pink's Haunted Graffiti - Before Today
+- [ ] 316. Wild Nothing - Gemini
+- [ ] 315. Robyn - Body Talk Pt. 1 (2010)
+- [ ] 314. Tame Impala-Innerspeaker
+- [ ] 313. James Blake: "CMYK" (2010)
+- [ ] 312. Janelle Monáe - The Archandroid
+- [ ] 311. LCD Soundsystem - This Is Happening
+- [ ] 310. Sleigh Bells - Treats
+- [ ] 309. Male Bonding - Nothing Hurts
+- [ ] 308. The National - High Violet
+- [ ] 307. Flying Lotus - Cosmogramma
+- [ ] 306. Broken Social Scene-Forgiveness Rock Record
+- [ ] 305. Crystal Castles - Crystal Castles II
+- [ ] 304. The Radio Dept. - Clinging to a Scheme
+- [ ] 303. Delorean - Subiza
+- [ ] 302. Caribou - Swim
+- [ ] 301. The Tallest Man on Earth - The Wild Hunt
+- [ ] 300. The Morning Benders - Big Echo
+- [ ] 299. Fang Island - Fang Island
+- [ ] 298. Titus Andronicus - The Monitor
+- [ ] 297. Gorillaz - Plastic Beach
+- [ ] 296. Liars - Sisterworld
+- [ ] 295. Gonjasufi - A Sufi and a Killer
+- [ ] 294. Joanna Newsom - Have One on Me
+- [ ] 293. Pantha Du Prince - Black Noise
+- [ ] 292. Local Natives - Gorilla Manor
+- [ ] 291. Gil Scott-Heron - I'm New Here
+- [ ] 290. Hot Chip - One Life Stand
+- [ ] 289. Charlotte Gainsbourg, IRM
+- [ ] 288. Beach House - Teen Dream
+- [ ] 287. Four Tet - There Is Love in You
+- [ ] 286. Surfer Blood - Astro Coast
+- [ ] 285. Owen Pallett - Heartland
+- [ ] 284. Vampire Weekend - Contra
+- [ ] 283. Animal Collective - Fall Be Kind
+- [ ] 282. Real Estate - Real Estate
+- [ ] 281. Bear in Heaven - Beast Rest Forth Mouth
+- [ ] 280. Various Artists - 5: Five Years of Hyperdub
+- [ ] 279. Fuck Buttons - Tarot Sport
+- [ ] 278. Atlas Sound - Logos
+- [ ] 277. The Mountain Goats - The Life of the World to Come
+- [ ] 276. Neon Indian - Psychic Chasms
+- [ ] 275. The Flaming Lips - Embryonic
+- [ ] 274. The Very Best - Warm Heart of Africa
+- [ ] 273. Memory Tapes - Seek Magic
+- [ ] 272. Girls - Album
+- [ ] 271. Volcano Choir - Unmap
+- [ ] 270. Raekwon - Only Built 4 Cuban Linx... Pt II
+- [ ] 269. Wild Beasts - Two Dancers
+- [ ] 268. The Xx - The Xx
+- [ ] 267. Yacht - See Mystery Lights
+- [ ] 266. The Antlers - Hospice
+- [ ] 265. Delorean - Ayrton Senna EP
+- [ ] 264. Jj - Jj Nº 2
+- [ ] 263. Cass McCombs - Catacombs
+- [ ] 262. Bibio - Ambivalence Avenue
+- [ ] 261. Sunset Rubdown - Dragonslayer
+- [ ] 260. Dinosaur Jr. - Farm
+- [ ] 259. Mos Def - The Ecstatic
+- [ ] 258. Dirty Projectors - Bitte Orca
+- [ ] 257. Sunn O))) - Monoliths & Dimensions
+- [ ] 256. Phoenix - Wolfgang Amadeus Phoenix
+- [ ] 255. Grizzly Bear - Veckatimest
+- [ ] 254. Isis - Wavering Radiant
+- [ ] 253. St. Vincent - Actor
+- [ ] 252. Japandroids - Post-Nothing
+- [ ] 251. Woods - Songs of Shame
+- [ ] 250. Camera Obscura - My Maudlin Career
+- [ ] 249. Bill Callahan - Sometimes I Wish We Were an Eagle
+- [ ] 248. Bat for Lashes - Two Suns
+- [ ] 247. Fever Ray - Fever Ray
+- [ ] 246. Dan Deacon-Bromst
+- [ ] 245. Cymbals Eat Guitars - Why There Are Mountains
+- [ ] 244. Wavves ‎– Wavvves (2009)
+- [ ] 243. Dark Was the Night
+- [ ] 242. The Pains of Being Pure at Heart - The Pains of Being Pure at Heart
+- [ ] 241. Antony and the Johnsons - The Crying Light
+- [ ] 240. Animal Collective - Merriweather Post Pavilion (2009)
+- [ ] 239. The Very Best - Esau Mwamwaya & Radioclit Are the Very Best
+- [ ] 238. Deerhunter - Microcastle
+- [ ] 237. DJ /Rupture - Uproot
+- [ ] 236. Fucked Up - The Chemistry of Common Life (2008)
+- [ ] 235. Mount Eerie - Lost Wisdom
+- [ ] 234. Marnie Stern - This Is It and I Am It and You Are It And...
+- [ ] 233. Department of Eagles - In Ear Park
+- [ ] 232. Vivian Girls - Vivian Girls
+- [ ] 231. TV on the Radio - Dear Science
+- [ ] 230. Flying Lotus - Los Angeles
+- [ ] 229. Lindstrom - Where You Go I Go Too
+- [ ] 228. The Walkmen - You & Me
+- [ ] 227. The Bug - London Zoo
+- [ ] 226. Harvey Milk - Life... the Best Game in Town (2008)
+- [ ] 225. Air France - No Way Down
+- [ ] 224. Lil Wayne - Tha Carter III
+- [ ] 223. Crystal Antlers - EP
+- [ ] 222. Fleet Foxes - Fleet Foxes
+- [ ] 221. Spiritualized - Songs in a & E
+- [ ] 220. Bonnie "Prince" Billy - Lie Down in the Light
+- [ ] 219. No Age - Nouns
+- [ ] 218. Portishead - Third
+- [ ] 217. Titus Andronicus - The Airing of Grievances
+- [ ] 216. M83 - Saturdays = Youth
+- [ ] 215. Cut Copy-In Ghost Colours
+- [ ] 214. The Dodos - Visiter
+- [ ] 213. Fuck Buttons - Street Horrrsing
+- [ ] 212. Hercules and Love Affair - Hercules and Love Affair
+- [ ] 211. The Ruby Suns - Sea Lion
+- [ ] 210. Fleet Foxes - Sun Giant
+- [ ] 209. Beach House - Devotion
+- [ ] 208. El Guincho - Alegranza
+- [ ] 207. Atlas Sound - Let the Blind Lead Those Who Can See but Cannot Feel
+- [ ] 206. High Places - 03/07 - 09/07
+- [ ] 205. Vampire Weekend - Vampire Weekend
+- [ ] 204. Times New Viking - Rip It Off
+- [ ] 203. Daft Punk - Alive 2007
+- [ ] 202. Burial - Untrue
+- [ ] 201. Jay-Z - American Gangster
+- [ ] 200. Grizzly Bear - Friend EP
+- [ ] 199. The Tough Alliance - A New Chance
+- [ ] 198. Radiohead - In Rainbows
+- [ ] 197. Chromatics - Night Drive
+- [ ] 196. Black Kids - Wizard of Ahhhs
+- [ ] 195. Sunset Rubdown - Random Spirit Lover
+- [ ] 194. Iron & Wine - The Shepherd's Dog
+- [ ] 193. Les Savy Fav - Let's Stay Friends
+- [ ] 192. Kanye West - Graduation
+- [ ] 191. Animal Collective - Strawberry Jam
+- [ ] 190. Black Lips - Good Bad Not Evil
+- [ ] 189. Jens Lekman - Night Falls Over Kortedala
+- [ ] 188. A Place to Bury Strangers - A Place to Bury Strangers
+- [ ] 187. Liars - Liars
+- [ ] 186. Caribou - Andorra
+- [ ] 185. MIA - Kala
+- [ ] 184. Okkervil River - The Stage Names
+- [ ] 183. Spoon - Ga Ga Ga Ga Ga
+- [ ] 182. Various Artists - After Dark
+- [ ] 181. Blitzen Trapper - Wild Mountain Nation (2007)
+- [ ] 180. Justice - Cross
+- [ ] 179. The National - Boxer
+- [ ] 178. Battles - Mirrored
+- [ ] 177. Dan Deacon - Spiderman of the Rings
+- [ ] 176. The Clientele - God Save the Clientele
+- [ ] 175. Feist - The Reminder (2007)
+- [ ] 174. Joanna Newsom and the Ys Street Band
+- [ ] 173. Prodigy - Return of the Mac
+- [ ] 172. Deerhunter - Fluorescent Grey EP
+- [ ] 171. The Twilight Sad - Fourteen Autumns & Fifteen Winters
+- [ ] 170. The Field - From Here We Go Sublime
+- [ ] 169. Panda Bear - Person Pitch
+- [ ] 168. LCD Soundsystem - Sound of Silver
+- [ ] 167. Patrick Wolf - The Magic Position
+- [ ] 166. Arcade Fire - Neon Bible
+- [ ] 165. Deerhunter - Cryptograms
+- [ ] 164. Of Montreal - Hissing Fauna, Are You the Destroyer?
+- [ ] 163. Deerhoof - Friend Opportunity
+- [ ] 162. Menomena - Friend & Foe
+- [ ] 161. Sally Shapiro - Disco Romance
+- [ ] 160. Clipse - Hell Hath No Fury
+- [ ] 159. Joanna Newsom - Ys
+- [ ] 158. Lindstrom - It's a Feedelity Affair
+- [ ] 157. Peter Bjorn and John - Writer's Block
+- [ ] 156. Tim Hecker - Harmony in Ultraviolet
+- [ ] 155. Califone - Roots and Crowns
+- [ ] 154. The Decemberists - The Crane Wife
+- [ ] 153. The Hold Steady - Boys and Girls in America
+- [ ] 152. Mastodon - Blood Mountain
+- [ ] 151. Fujiya & Miyagi - Transparent Things
+- [ ] 150. Yo La Tengo - I Am Not Afraid of You and I Will Beat Your Ass
+- [ ] 149. Grizzly Bear - Yellow House
+- [ ] 148. The Thermals - The Body, the Blood, the Machine
+- [ ] 147. Junior Boys - So This Is Goodbye
+- [ ] 146. I'm From Barcelona - Let Me Introduce My Friends
+- [ ] 145. The Pipettes - We Are the Pipettes
+- [ ] 144. Girl Talk - Night Ripper
+- [ ] 143. TV on the Radio - Return to Cookie Mountain
+- [ ] 142. Herbert - Scale
+- [ ] 141. Danielson - Ships
+- [ ] 140. Scott Walker - The Drift (2006)
+- [ ] 139. Sunset Rubdown - Shut Up I Am Dreaming
+- [ ] 138. Islands - Return to the Sea
+- [ ] 137. Ghostface Killah - Fishscale
+- [ ] 136. Band of Horses Everything All the Time
+- [ ] 135. Tapes 'N Tapes - The Loon
+- [ ] 134. Liars - Drum's Not Dead
+- [ ] 133. Destroyer - Destroyer's Rubies
+- [ ] 132. The Knife - Silent Shout
+- [ ] 131. Belle & Sebastian - The Life Pursuit
+- [ ] 130. Boris - Pink
+- [ ] 129. Sunn O))) - Black One
+- [ ] 128. Love Is All - Nine Times That Same Song
+- [ ] 127. Jens Lekman - Oh You're So Silent Jens
+- [ ] 126. Vashti Bunyan - Lookaftering
+- [ ] 125. Animal Collective - Feels
+- [ ] 124. The Clientele - Strange Geometry
+- [ ] 123. Deerhoof - The Runners Four
+- [ ] 122. Broken Social Scene - Broken Social Scene
+- [ ] 121. Wolf Parade - Apologies to the Queen Mary (2005)
+- [ ] 120. Devendra Banhart - Cripple Crow
+- [ ] 119. Serena Maneesh - Serena Maneesh
+- [ ] 118. Kanye West - Late Registration
+- [ ] 117. The New Pornographers - Twin Cinema
+- [ ] 116. Sufjan Stevens - Illinois
+- [ ] 115. Wilderness - Wilderness
+- [ ] 114. Clap Your Hands Say Yeah - Clap Your Hands Say Yeah
+- [ ] 113. Isolee - We Are Monster
+- [ ] 112. Art Brut - Bang Bang Rock & Roll
+- [ ] 111. Common - Be
+- [ ] 110. Stephen Malkmus - Face the Truth
+- [ ] 109. Sleater-Kinney - The Woods
+- [ ] 108. The Hold Steady - Separation Sunday
+- [ ] 107. Architecture in Helsinki - In Case We Die
+- [ ] 106. Vitalic - Ok Cowboy
+- [ ] 105. The Boy Least Likely to - The Best Party Ever
+- [ ] 104. Caribou-The Milk of Human Kindness
+- [ ] 103. Edan - Beauty and the Beat
+- [ ] 102. The Decemberists - Picaresque
+- [ ] 101. M.I.A. - Arular
+- [ ] 100. Shining - In the Kingdom of Kitsch You Will Be a Monster
+- [ ] 99. Bloc Party - Silent Alarm
+- [ ] 98. Various Artists - Run the Road
+- [ ] 97. Antony & the Johnsons - I Am a Bird Now
+- [ ] 96. Six Organs of Admittance - School of the Flower
+- [ ] 95. LCD Soundsystem - LCD Soundsystem
+- [ ] 94. Bonnie "Prince" Billy & Matt Sweeney - Superwolf
+- [ ] 93. M83- Before the Dawn Heals Us
+- [ ] 92. Black Mountain - Black Mountain
+- [ ] 91. The Fiery Furnaces - EP
+- [ ] 90. Excepter - KA
+- [ ] 89. Johann Johannsson - Virolegu Forsetar
+- [ ] 88. M.I.A./Diplo - Piracy Funds Terrorism, Vol. 1
+- [ ] 87. Annie - Anniemal
+- [ ] 86. Various Artists - DFA Compilation #2
+- [ ] 85. Death From Above 1979 - You're a Woman, I'm a Machine (2004)
+- [ ] 84. The Go Team - Thunder Lightning Strike
+- [ ] 83. Panda Bear - Young Prayer
+- [ ] 82. Brian Wilson - Smile
+- [ ] 81. Interpol - Antics
+- [ ] 80. Dungen - Ta Det Lugnt
+- [ ] 79. The Foreign Exchange - Connected
+- [ ] 78. Arcade Fire - Funeral
+- [ ] 77. Castanets - Cathedral (2004)
+- [ ] 76. Bjork - Medulla
+- [ ] 75. The Futureheads - The Futureheads
+- [ ] 74. Comets on Fire - Blue Cathedral
+- [ ] 73. Fiery Furnaces - Blueberry Boat
+- [ ] 72. Max Richter - The Blue Notebooks
+- [ ] 71. The Plastic Constellations - Mazatlan
+- [ ] 70. Junior Boys - Last Exit
+- [ ] 69. A.C. Newman - The Slow Wonder
+- [ ] 68. Sonic Youth - Sonic Nurse
+- [ ] 67. Morrissey - You Are the Quarry
+- [ ] 66. The Streets - A Grand Don't Come for Free
+- [ ] 65. Mirah - C'mon Miracle
+- [ ] 64. Erlend Øye - DJ Kicks
+- [ ] 63. Animal Collective - Sung Tongs
+- [ ] 62. Loretta Lynn - Van Lear Rose (2004)
+- [ ] 61. Les Savy Fav - Inches
+- [ ] 60. Jason Forrest - The Unrelenting Songs of the 1979 Post Disco Crach
+- [ ] 59. William Basinski - The Disintegration Loops
+- [ ] 58. Iron & Wine - Our Endless Numbered Days
+- [ ] 57. Madvillain - Madvillainy
+- [ ] 56. Devendra Banhart - Rejoicing in the Hands
+- [ ] 55. Sufjan Stevens - Seven Swans
+- [ ] 54. Franz Ferdinand - Franz Ferdinand
+- [ ] 53. Cee-Lo Green... Is the Soul Machine
+- [ ] 52. Kanye West - The College Dropout
+- [ ] 51. Xiu Xiu - Fabulous Muscles
+- [ ] 50. The Walkmen - Bows and Arrows
+- [ ] 49. Air - Talkie Walkie
+- [ ] 48. Phillip Jeck - 7
+- [ ] 47. Mu - Afro Finger & Gel
+- [ ] 46. Jay-Z - The Black Album
+- [ ] 45. The Unicorns - Who Will Cut Our Hair When We're Gone?
+- [ ] 44. Ellen Allien - Berlinette
+- [ ] 43. Menomena - I Am the Fun Blame Monster
+- [ ] 42. Basement Jaxx - Kish Kash
+- [ ] 41. The Shins - Chutes Too Narrow
+- [ ] 40. Non-Prophets - Hope
+- [ ] 39. The Books - The Lemon of Pink
+- [ ] 38. Cyann & Ben - Spring
+- [ ] 37. The Wrens - The Meadowlands
+- [ ] 36. Need New Body - UFO
+- [ ] 35. The Deadly Snakes - Ode to Joy
+- [ ] 34. My Morning Jacket - It Still Moves...
+- [ ] 33. Viktor Vaughn - Vaudeville Villain
+- [ ] 32. The Rapture - Echoes
+- [ ] 31. The Decemberists - Her Majesty the Decemberists
+- [ ] 30. Polysics - Neu
+- [ ] 29. Sufjan Stevens - Greetings From Michigan: The Great Lakes State
+- [ ] 28. TV on the Radio - Young Liars EP
+- [ ] 27. Dizzee Rascal - Boy in Da Corner
+- [ ] 26. Why? - Oaklandazulasylum
+- [ ] 25. Clearlake - Cedars
+- [ ] 24. Grandaddy - Sumday
+- [ ] 23. Single Frame - Wetheads Come Running
+- [ ] 22. Fog - Ether Teeth
+- [ ] 21. M83 - Dead Cities, Red Seas & Lost Ghosts
+- [ ] 20. Prefuse 73 - One Word Extinguisher
+- [ ] 19. Four Tet - Rounds
+- [ ] 18. Panthers - Let's Get Serious EP
+- [ ] 17. Sunburned Hand of the Man - Headdress
+- [ ] 16. Exploding Hearts - Guitar Romantic
+- [ ] 15. Manitoba - Up in Flames
+- [ ] 14. Deerhoof - Apple O'
+- [ ] 13. The Decemberists - Castaways and Cutouts
+- [ ] 12. Songs: Ohia - Magnolia Electric Co.
+- [ ] 11. Johann Johannsson - Englaborn
+- [ ] 10. Lightning Bolt - Wonderful Rainbow
+- [ ] 9. Majesticons - Beauty Party
+- [ ] 8. Various Artists - Supersilent 6
+- [ ] 7. Giddy Motors - Make It Pop
+- [ ] 6. Ted Leo and the Pharmacists - Hearts of Oak
+- [ ] 5. The Soft Pink Truth - Do You Party?
+- [ ] 4. Broken Social Scene - You Forgot It in People (2002)
+- [ ] 3. The Angels of Light - Everything Is Good Here/Please Come Home
+- [ ] 2. The Microphones - Mount Eerie
+- [ ] 1. Out Hud - S.T.R.E.E.T. D.A.D.

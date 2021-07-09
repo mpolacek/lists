@@ -5,251 +5,251 @@ Current score: 14/248
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
-- [X] 1. Kate Bush - Hounds of Love
-- [ ] 2. George Harrison - All Things Must Pass
-- [ ] 3. Neil Young - Tonight's the Night
-- [ ] 4. Pulp - Different Class
-- [ ] 5. Lauryn Hill - The Miseducation of Lauryn Hill
-- [ ] 6. Fleetwood Mac - Tusk
-- [ ] 7. De La Soul - Buhloone Mindstate
-- [ ] 8. Red Hot Chili Peppers - Blood Sugar Sex Magik
-- [ ] 9. Michael Jackson - Dangerous
-- [ ] 10. PJ Harvey - Dry
-- [X] 11. Stevie Wonder - Songs in the Key of Life
-- [ ] 12. The Roots - Things Fall Apart
-- [ ] 13. Terry Riley - A Rainbow in Curved Air
-- [X] 14. Caetano Veloso - Caetano Veloso
-- [ ] 15. Brian Eno - Another Green World
-- [ ] 16. Erykah Badu - Mama's Gun
-- [ ] 17. Guided by Voices - Alien Lanes
-- [ ] 18. Janet Jackson - Rhythm Nation 1814
-- [ ] 19. Randy Newman - Good Old Boys
-- [ ] 20. Ramones - End of the Century
-- [ ] 21. Bob Dylan - Blood on the Tracks
-- [ ] 22. ABBA - Arrival
-- [ ] 23. Minutemen - Double Nickels on the Dime
-- [ ] 24. Leonard Cohen - I'm Your Man
-- [ ] 25. Ice Cube - Death Certificate
-- [ ] 26. Brand New - The Devil and God Are Raging Inside Me
-- [ ] 27. Jeff Buckley - Sketches for My Sweetheart the Drunk
-- [ ] 28. Massive Attack - Mezzanine
-- [ ] 29. X-Ray Spex - Germfree Adolescents
-- [ ] 30. Phil Ochs - I Ain't Marching Anymore
-- [ ] 31. Pet Shop Boys - Behaviour
-- [ ] 32. Björk - Homogenic
-- [ ] 33. Jim O'Rourke - Bad Timing
-- [X] 34. Neil Young - Trans
-- [ ] 35. Weezer - Weezer (Blue Album)
-- [ ] 36. DMX - It’s Dark and Hell Is Hot
-- [ ] 37. Thelonious Monk - Monk’s Music
-- [ ] 38. Wailing Souls - Wailing
-- [ ] 39. Glenn Gould - Bach: The Goldberg Variations
-- [ ] 40. Liquid Liquid - Liquid Liquid EP | Successive Reflexes EP | Optimo EP
-- [ ] 41. Sade - Love Deluxe
-- [X] 42. Black Flag - Damaged
-- [ ] 43. Portishead - Dummy
-- [ ] 44. Fugazi - In on the Kill Taker
-- [ ] 45. Green Day - Dookie
-- [ ] 46. JAY-Z - Reasonable Doubt
-- [ ] 47. Violent Femmes - Violent Femmes
-- [ ] 48. Patti Smith Group - Easter
-- [ ] 49. Ghostface Killah - Supreme Clientele
-- [ ] 50. Salt-N-Pepa - Very Necessary
-- [ ] 51. Destiny’s Child - The Writing’s on the Wall
-- [ ] 52. ZZ Top - Tres Hombres
-- [X] 53. Marvin Gaye - Here, My Dear
-- [ ] 54. Metallica - Metallica
-- [ ] 55. Guns N’ Roses - Appetite for Destruction
-- [ ] 56. Stereolab - Dots and Loops
-- [ ] 57. Silver Jews - American Water
-- [ ] 58. Sparklehorse - Good Morning Spider
-- [ ] 59. Fiona Apple - Tidal
-- [ ] 60. Tears for Fears - Songs From the Big Chair
-- [ ] 61. Joe Bataan - Gypsy Woman
-- [ ] 62. Nelly - Country Grammar
-- [ ] 63. King Crimson - Red
-- [ ] 64. Deftones - White Pony
-- [ ] 65. Elastica - Elastica
-- [X] 66. DJ Jazzy Jeff & The Fresh Prince - He’s the DJ, I’m the Rapper
-- [ ] 67. Wyclef Jean - The Carnival
-- [ ] 68. Brian Eno / John Cale - Wrong Way Up
-- [ ] 69. The Smiths - The Queen Is Dead
-- [ ] 70. Yo La Tengo - I Can Hear the Heart Beating as One
-- [ ] 71. Sarah McLachlan - Fumbling Towards Ecstasy
-- [ ] 72. Nico - Chelsea Girl
-- [ ] 73. Willie Nelson - Red Headed Stranger
-- [ ] 74. Bronski Beat - The Age of Consent
-- [ ] 75. Lou Reed - Metal Machine Music
-- [ ] 76. Mariah Carey - Daydream
-- [ ] 77. Rage Against the Machine - Rage Against the Machine
-- [ ] 78. The Blue Nile - Hats
-- [ ] 79. Gil Scott-Heron / Brian Jackson - Winter in America
-- [ ] 80. The-Dream - Love/Hate
-- [ ] 81. 2Pac - All Eyez on Me
-- [ ] 82. La Monte Young - The Well-Tuned Piano 81 X 25 6:17:50 - 11:18:59 PM NYC
-- [ ] 83. OutKast - Stankonia
-- [ ] 84. Belle and Sebastian - The Boy With the Arab Strap
-- [ ] 85. Sublime - 40oz. to Freedom
-- [ ] 86. Scarface - The Diary
-- [ ] 87. Miles Davis - Get Up With It
-- [ ] 88. Bruce Springsteen - Nebraska
-- [ ] 89. The Kinks - Something Else
-- [ ] 90. Neneh Cherry - Raw Like Sushi
-- [ ] 91. Johnny Cash - American Recordings
-- [ ] 92. Eminem - The Marshall Mathers LP
-- [ ] 93. Jonathan Richman - I, Jonathan
-- [ ] 94. Built to Spill - Perfect From Now On
-- [ ] 95. Public Image Ltd - The Flowers of Romance
-- [ ] 96. Bob Dylan - Time Out of Mind
-- [ ] 97. Aretha Franklin - Spirit in the Dark
-- [ ] 98. Raekwon - Only Built 4 Cuban Linx
-- [ ] 99. Hole - Live Through This
-- [ ] 100. The Band - The Band
-- [ ] 101. Curtis Mayfield - Super Fly
-- [ ] 102. John Frusciante - To Record Only Water for Ten Days
-- [X] 103. Nirvana - Incesticide
-- [ ] 104. Mary Margaret O’Hara - Miss America
-- [ ] 105. Juvenile - 400 Degreez
-- [ ] 106. Creedence Clearwater Revival - Cosmo’s Factory
-- [ ] 107. Bell Biv Devoe - Poison
-- [ ] 108. George Michael - Faith
-- [ ] 109. Earl Sweatshirt - Earl
-- [ ] 110. The Prodigy - The Fat Of the Land
-- [ ] 111. Cap’n Jazz - Burritos, Inspiration Point, Fork Balloon Sports, Cards in the Spokes, Automatic Biographies, Kites, Kung Fu, Trophies, Banana Peels We’ve Slipped on, and Egg Shells We’ve Tippy Toed Over
-- [ ] 112. Milton Nascimento / Lô Borges - Clube Da Esquina
-- [ ] 113. T.I. - Trap Muzik
-- [ ] 114. PJ Harvey - Rid of Me
-- [ ] 115. De La Soul - 3 Feet High and Rising
-- [ ] 116. Maxwell - Maxwell’s Urban Hang Suite
-- [ ] 117. J Dilla - Welcome 2 Detroit
-- [ ] 118. The B-52’s - The B-52’s
-- [ ] 119. Talking Heads - Remain in Light
-- [ ] 120. Lucinda Williams - Car Wheels on a Gravel Road
-- [ ] 121. Missy Elliott - Supa Dupa Fly
-- [ ] 122. System of a Down - Toxicity
-- [ ] 123. Lil Peep - Hellboy
-- [ ] 124. Van Morrison - Moondance
-- [ ] 125. Daft Punk - Homework
-- [X] 126. Black Sabbath - Paranoid
-- [ ] 127. Avril Lavigne - Let Go
-- [ ] 128. Buzzcocks - Singles Going Steady
-- [ ] 129. Talk Talk - Spirit of Eden
-- [ ] 130. Tracy Chapman - Tracy Chapman
-- [ ] 131. Robert Ashley - Private Parts
-- [ ] 132. Alice Coltrane - Journey in Satchidananda
-- [ ] 133. Prince Paul - A Prince Among Thieves
-- [X] 134. Tortoise - TNT
-- [X] 135. Nirvana - MTV Unplugged in New York
-- [ ] 136. Everything But the Girl - Walking Wounded
-- [ ] 137. David Crosby - If I Could Only Remember My Name
-- [ ] 138. Eve - Let There Be Eve...Ruff Ryders’ First Lady
-- [ ] 139. Fiona Apple - When the Pawn...
-- [ ] 140. Janet Jackson - Damita Jo
-- [ ] 141. T. Rex - The Slider
-- [ ] 142. Jill Scott - Who Is Jill Scott?: Words and Sounds, Vol. 1
-- [ ] 143. Macintosh Plus - Floral Shoppe
-- [X] 144. Bennie Maupin - The Jewel in the Lotus
-- [ ] 145. Aphex Twin - Selected Ambient Works Volume II
-- [ ] 146. Vince Staples / Larry Fisherman - Stolen Youth
-- [ ] 147. Spice Girls - Spice
-- [ ] 148. Felt - Forever Breathes the Lonely Word
-- [ ] 149. Pavement - Terror Twilight
-- [ ] 150. Roky Erickson - Never Say Goodbye
-- [ ] 151. AC/DC - Back in Black
-- [ ] 152. Neutral Milk Hotel - On Avery Island
-- [ ] 153. Sigur Rós - Ágætis byrjun
-- [ ] 154. Koji Kondo - The Legend of Zelda: Ocarina of Time
-- [ ] 155. Aaliyah - Aaliyah
-- [ ] 156. Mase - Harlem World
-- [ ] 157. Cat Power - Moon Pix
-- [ ] 158. Stevie Wonder - Stevie Wonder’s Journey Through the Secret Life of Plants
-- [ ] 159. Buckingham Nicks - Buckingham Nicks
-- [ ] 160. Linda Ronstadt - Heart Like a Wheel
-- [ ] 161. Sean Paul - Dutty Rock
-- [ ] 162. JAY-Z - In My Lifetime, Vol. 1
-- [ ] 163. k.d. lang - Ingénue
-- [ ] 164. Patsy Cline - Sentimentally Yours
-- [ ] 165. Darkthrone - A Blaze in the Northern Sky
-- [ ] 166. ABBA - Gold: Greatest Hits
-- [ ] 167. John Mayer - Room for Squares
-- [ ] 168. Roxy Music - For Your Pleasure
-- [ ] 169. The Go-Go’s - Beauty and the Beat
-- [ ] 170. Germs - (GI)
-- [ ] 171. dead prez - Let’s Get Free
-- [ ] 172. ...And You Will Know Us by the Trail of Dead - Madonna
-- [ ] 173. Aimee Mann - Bachelor No. 2 or, the Last Remains of the Dodo
-- [ ] 174. The Rolling Stones - Tattoo You
-- [ ] 175. My Chemical Romance - Three Cheers for Sweet Revenge
-- [ ] 176. Dr. Dre - The Chronic
-- [ ] 177. Carole King - Tapestry
-- [ ] 178. Peter Gabriel - So
-- [ ] 179. Blink-182 - Enema of the State
-- [ ] 180. Max B / French Montana - Coke Wave
-- [ ] 181. Dixie Chicks - Home
-- [ ] 182. Shakira - Laundry Service
-- [ ] 183. Buffy Sainte-Marie - Illuminations
-- [ ] 184. Type O Negative - Bloody Kisses
-- [ ] 185. Godspeed You! Black Emperor - F♯ A♯ ∞
-- [ ] 186. Björk - Post
-- [ ] 187. No Doubt - Tragic Kingdom
-- [ ] 188. Toots and the Maytals - Funky Kingston
-- [ ] 189. Ol’ Dirty Bastard - Return to the 36 Chambers: The Dirty Version
-- [ ] 190. Herbie Hancock - Head Hunters
-- [ ] 191. Craig David - Born To Do It
-- [ ] 192. XTC - Skylarking
-- [ ] 193. Beck - Mellow Gold
-- [ ] 194. Archie Shepp - Attica Blues
-- [ ] 195. The Human League - Dare
-- [ ] 196. Elliott Smith - Elliott Smith
-- [ ] 197. Fabolous - Ghetto Fabolous
-- [ ] 198. Mazzy Star - So Tonight That I Might See
-- [ ] 199. Funkadelic - Maggot Brain
-- [ ] 200. Various Artists - Pure Moods, Vol. 1
-- [ ] 201. Seo Taiji and Boys - Seo Taiji and Boys
-- [ ] 202. Pink Floyd - Meddle
-- [ ] 203. Wipers - Youth of America
-- [ ] 204. Bad Brains - I Against I
-- [ ] 205. Rage Against the Machine - The Battle of Los Angeles
-- [ ] 206. UGK - Ridin’ Dirty
-- [ ] 207. Miranda Lambert - Crazy Ex-Girlfriend
-- [ ] 208. Harry Nilsson - Pussy Cats
-- [ ] 209. Ivy Queen - Diva
-- [ ] 210. The Breeders - Pod
-- [ ] 211. Beverly Glenn-Copeland - Keyboard Fantasies
-- [ ] 212. Adele - 21
-- [ ] 213. Teena Marie - Irons in the Fire
-- [ ] 214. INXS - Listen Like Thieves
-- [ ] 215. The Cramps - Songs the Lord Taught Us
-- [ ] 216. Belle and Sebastian - Tigermilk
-- [ ] 217. Various Artists - O Brother, Where Art Thou? (Original Soundtrack)
-- [ ] 218. John Lee Hooker - It Serve You Right to Suffer
-- [ ] 219. Usher - Confessions
-- [ ] 220. George Harrison / Ravi Shankar - The Concert for Bangladesh
-- [ ] 221. The Pharcyde - Bizarre Ride II the Pharcyde
-- [ ] 222. Gil Scott-Heron - Pieces of a Man
-- [ ] 223. U2 - Zooropa
-- [ ] 224. Virginia Astley - From Gardens Where We Feel Secure
-- [X] 225. Thin Lizzy - Jailbreak
-- [ ] 226. Iris DeMent - Infamous Angel
-- [ ] 227. Devin the Dude - Just Tryin’ Ta Live
-- [ ] 228. Sylvester - Step II
-- [ ] 229. A.R. Kane - 69
-- [ ] 230. Katy Perry - Teenage Dream
-- [ ] 231. Genesis - Duke
-- [ ] 232. Yellow Magic Orchestra - BGM
-- [ ] 233. Nina Hagen - Nunsexmonkrock
-- [ ] 234. Anita Baker - Rapture
-- [ ] 235. Alicia Keys - Songs in A Minor
-- [ ] 236. Joyce Manor - Joyce Manor
-- [ ] 237. Lync - These Are Not Fall Colors
-- [ ] 238. Speaker Knockerz - Married to the Money II #MTTM2
-- [ ] 239. Sonny Sharrock - Ask the Ages
-- [ ] 240. Joan Armatrading - Joan Armatrading
-- [ ] 241. The Flying Burrito Brothers - The Gilded Palace of Sin
-- [X] 242. Fugees - The Score
-- [ ] 243. Sparks - No. 1 in Heaven
-- [ ] 244. Jimmy Eat World - Clarity
-- [ ] 245. A. R. Rahman - Bombay
-- [ ] 246. Sinéad O’Connor - The Lion and the Cobra
-- [ ] 247. Billy Joel - The Stranger
 - [ ] 248. Laurie Anderson - United States Live
+- [ ] 247. Billy Joel - The Stranger
+- [ ] 246. Sinéad O’Connor - The Lion and the Cobra
+- [ ] 245. A. R. Rahman - Bombay
+- [ ] 244. Jimmy Eat World - Clarity
+- [ ] 243. Sparks - No. 1 in Heaven
+- [X] 242. Fugees - The Score
+- [ ] 241. The Flying Burrito Brothers - The Gilded Palace of Sin
+- [ ] 240. Joan Armatrading - Joan Armatrading
+- [ ] 239. Sonny Sharrock - Ask the Ages
+- [ ] 238. Speaker Knockerz - Married to the Money II #MTTM2
+- [ ] 237. Lync - These Are Not Fall Colors
+- [ ] 236. Joyce Manor - Joyce Manor
+- [ ] 235. Alicia Keys - Songs in A Minor
+- [ ] 234. Anita Baker - Rapture
+- [ ] 233. Nina Hagen - Nunsexmonkrock
+- [ ] 232. Yellow Magic Orchestra - BGM
+- [ ] 231. Genesis - Duke
+- [ ] 230. Katy Perry - Teenage Dream
+- [ ] 229. A.R. Kane - 69
+- [ ] 228. Sylvester - Step II
+- [ ] 227. Devin the Dude - Just Tryin’ Ta Live
+- [ ] 226. Iris DeMent - Infamous Angel
+- [X] 225. Thin Lizzy - Jailbreak
+- [ ] 224. Virginia Astley - From Gardens Where We Feel Secure
+- [ ] 223. U2 - Zooropa
+- [ ] 222. Gil Scott-Heron - Pieces of a Man
+- [ ] 221. The Pharcyde - Bizarre Ride II the Pharcyde
+- [ ] 220. George Harrison / Ravi Shankar - The Concert for Bangladesh
+- [ ] 219. Usher - Confessions
+- [ ] 218. John Lee Hooker - It Serve You Right to Suffer
+- [ ] 217. Various Artists - O Brother, Where Art Thou? (Original Soundtrack)
+- [ ] 216. Belle and Sebastian - Tigermilk
+- [ ] 215. The Cramps - Songs the Lord Taught Us
+- [ ] 214. INXS - Listen Like Thieves
+- [ ] 213. Teena Marie - Irons in the Fire
+- [ ] 212. Adele - 21
+- [ ] 211. Beverly Glenn-Copeland - Keyboard Fantasies
+- [ ] 210. The Breeders - Pod
+- [ ] 209. Ivy Queen - Diva
+- [ ] 208. Harry Nilsson - Pussy Cats
+- [ ] 207. Miranda Lambert - Crazy Ex-Girlfriend
+- [ ] 206. UGK - Ridin’ Dirty
+- [ ] 205. Rage Against the Machine - The Battle of Los Angeles
+- [ ] 204. Bad Brains - I Against I
+- [ ] 203. Wipers - Youth of America
+- [ ] 202. Pink Floyd - Meddle
+- [ ] 201. Seo Taiji and Boys - Seo Taiji and Boys
+- [ ] 200. Various Artists - Pure Moods, Vol. 1
+- [ ] 199. Funkadelic - Maggot Brain
+- [ ] 198. Mazzy Star - So Tonight That I Might See
+- [ ] 197. Fabolous - Ghetto Fabolous
+- [ ] 196. Elliott Smith - Elliott Smith
+- [ ] 195. The Human League - Dare
+- [ ] 194. Archie Shepp - Attica Blues
+- [ ] 193. Beck - Mellow Gold
+- [ ] 192. XTC - Skylarking
+- [ ] 191. Craig David - Born To Do It
+- [ ] 190. Herbie Hancock - Head Hunters
+- [ ] 189. Ol’ Dirty Bastard - Return to the 36 Chambers: The Dirty Version
+- [ ] 188. Toots and the Maytals - Funky Kingston
+- [ ] 187. No Doubt - Tragic Kingdom
+- [ ] 186. Björk - Post
+- [ ] 185. Godspeed You! Black Emperor - F♯ A♯ ∞
+- [ ] 184. Type O Negative - Bloody Kisses
+- [ ] 183. Buffy Sainte-Marie - Illuminations
+- [ ] 182. Shakira - Laundry Service
+- [ ] 181. Dixie Chicks - Home
+- [ ] 180. Max B / French Montana - Coke Wave
+- [ ] 179. Blink-182 - Enema of the State
+- [ ] 178. Peter Gabriel - So
+- [ ] 177. Carole King - Tapestry
+- [ ] 176. Dr. Dre - The Chronic
+- [ ] 175. My Chemical Romance - Three Cheers for Sweet Revenge
+- [ ] 174. The Rolling Stones - Tattoo You
+- [ ] 173. Aimee Mann - Bachelor No. 2 or, the Last Remains of the Dodo
+- [ ] 172. ...And You Will Know Us by the Trail of Dead - Madonna
+- [ ] 171. dead prez - Let’s Get Free
+- [ ] 170. Germs - (GI)
+- [ ] 169. The Go-Go’s - Beauty and the Beat
+- [ ] 168. Roxy Music - For Your Pleasure
+- [ ] 167. John Mayer - Room for Squares
+- [ ] 166. ABBA - Gold: Greatest Hits
+- [ ] 165. Darkthrone - A Blaze in the Northern Sky
+- [ ] 164. Patsy Cline - Sentimentally Yours
+- [ ] 163. k.d. lang - Ingénue
+- [ ] 162. JAY-Z - In My Lifetime, Vol. 1
+- [ ] 161. Sean Paul - Dutty Rock
+- [ ] 160. Linda Ronstadt - Heart Like a Wheel
+- [ ] 159. Buckingham Nicks - Buckingham Nicks
+- [ ] 158. Stevie Wonder - Stevie Wonder’s Journey Through the Secret Life of Plants
+- [ ] 157. Cat Power - Moon Pix
+- [ ] 156. Mase - Harlem World
+- [ ] 155. Aaliyah - Aaliyah
+- [ ] 154. Koji Kondo - The Legend of Zelda: Ocarina of Time
+- [ ] 153. Sigur Rós - Ágætis byrjun
+- [ ] 152. Neutral Milk Hotel - On Avery Island
+- [ ] 151. AC/DC - Back in Black
+- [ ] 150. Roky Erickson - Never Say Goodbye
+- [ ] 149. Pavement - Terror Twilight
+- [ ] 148. Felt - Forever Breathes the Lonely Word
+- [ ] 147. Spice Girls - Spice
+- [ ] 146. Vince Staples / Larry Fisherman - Stolen Youth
+- [ ] 145. Aphex Twin - Selected Ambient Works Volume II
+- [X] 144. Bennie Maupin - The Jewel in the Lotus
+- [ ] 143. Macintosh Plus - Floral Shoppe
+- [ ] 142. Jill Scott - Who Is Jill Scott?: Words and Sounds, Vol. 1
+- [ ] 141. T. Rex - The Slider
+- [ ] 140. Janet Jackson - Damita Jo
+- [ ] 139. Fiona Apple - When the Pawn...
+- [ ] 138. Eve - Let There Be Eve...Ruff Ryders’ First Lady
+- [ ] 137. David Crosby - If I Could Only Remember My Name
+- [ ] 136. Everything But the Girl - Walking Wounded
+- [X] 135. Nirvana - MTV Unplugged in New York
+- [X] 134. Tortoise - TNT
+- [ ] 133. Prince Paul - A Prince Among Thieves
+- [ ] 132. Alice Coltrane - Journey in Satchidananda
+- [ ] 131. Robert Ashley - Private Parts
+- [ ] 130. Tracy Chapman - Tracy Chapman
+- [ ] 129. Talk Talk - Spirit of Eden
+- [ ] 128. Buzzcocks - Singles Going Steady
+- [ ] 127. Avril Lavigne - Let Go
+- [X] 126. Black Sabbath - Paranoid
+- [ ] 125. Daft Punk - Homework
+- [ ] 124. Van Morrison - Moondance
+- [ ] 123. Lil Peep - Hellboy
+- [ ] 122. System of a Down - Toxicity
+- [ ] 121. Missy Elliott - Supa Dupa Fly
+- [ ] 120. Lucinda Williams - Car Wheels on a Gravel Road
+- [ ] 119. Talking Heads - Remain in Light
+- [ ] 118. The B-52’s - The B-52’s
+- [ ] 117. J Dilla - Welcome 2 Detroit
+- [ ] 116. Maxwell - Maxwell’s Urban Hang Suite
+- [ ] 115. De La Soul - 3 Feet High and Rising
+- [ ] 114. PJ Harvey - Rid of Me
+- [ ] 113. T.I. - Trap Muzik
+- [ ] 112. Milton Nascimento / Lô Borges - Clube Da Esquina
+- [ ] 111. Cap’n Jazz - Burritos, Inspiration Point, Fork Balloon Sports, Cards in the Spokes, Automatic Biographies, Kites, Kung Fu, Trophies, Banana Peels We’ve Slipped on, and Egg Shells We’ve Tippy Toed Over
+- [ ] 110. The Prodigy - The Fat Of the Land
+- [ ] 109. Earl Sweatshirt - Earl
+- [ ] 108. George Michael - Faith
+- [ ] 107. Bell Biv Devoe - Poison
+- [ ] 106. Creedence Clearwater Revival - Cosmo’s Factory
+- [ ] 105. Juvenile - 400 Degreez
+- [ ] 104. Mary Margaret O’Hara - Miss America
+- [X] 103. Nirvana - Incesticide
+- [ ] 102. John Frusciante - To Record Only Water for Ten Days
+- [ ] 101. Curtis Mayfield - Super Fly
+- [ ] 100. The Band - The Band
+- [ ] 99. Hole - Live Through This
+- [ ] 98. Raekwon - Only Built 4 Cuban Linx
+- [ ] 97. Aretha Franklin - Spirit in the Dark
+- [ ] 96. Bob Dylan - Time Out of Mind
+- [ ] 95. Public Image Ltd - The Flowers of Romance
+- [ ] 94. Built to Spill - Perfect From Now On
+- [ ] 93. Jonathan Richman - I, Jonathan
+- [ ] 92. Eminem - The Marshall Mathers LP
+- [ ] 91. Johnny Cash - American Recordings
+- [ ] 90. Neneh Cherry - Raw Like Sushi
+- [ ] 89. The Kinks - Something Else
+- [ ] 88. Bruce Springsteen - Nebraska
+- [ ] 87. Miles Davis - Get Up With It
+- [ ] 86. Scarface - The Diary
+- [ ] 85. Sublime - 40oz. to Freedom
+- [ ] 84. Belle and Sebastian - The Boy With the Arab Strap
+- [ ] 83. OutKast - Stankonia
+- [ ] 82. La Monte Young - The Well-Tuned Piano 81 X 25 6:17:50 - 11:18:59 PM NYC
+- [ ] 81. 2Pac - All Eyez on Me
+- [ ] 80. The-Dream - Love/Hate
+- [ ] 79. Gil Scott-Heron / Brian Jackson - Winter in America
+- [ ] 78. The Blue Nile - Hats
+- [ ] 77. Rage Against the Machine - Rage Against the Machine
+- [ ] 76. Mariah Carey - Daydream
+- [ ] 75. Lou Reed - Metal Machine Music
+- [ ] 74. Bronski Beat - The Age of Consent
+- [ ] 73. Willie Nelson - Red Headed Stranger
+- [ ] 72. Nico - Chelsea Girl
+- [ ] 71. Sarah McLachlan - Fumbling Towards Ecstasy
+- [ ] 70. Yo La Tengo - I Can Hear the Heart Beating as One
+- [ ] 69. The Smiths - The Queen Is Dead
+- [ ] 68. Brian Eno / John Cale - Wrong Way Up
+- [ ] 67. Wyclef Jean - The Carnival
+- [X] 66. DJ Jazzy Jeff & The Fresh Prince - He’s the DJ, I’m the Rapper
+- [ ] 65. Elastica - Elastica
+- [ ] 64. Deftones - White Pony
+- [ ] 63. King Crimson - Red
+- [ ] 62. Nelly - Country Grammar
+- [ ] 61. Joe Bataan - Gypsy Woman
+- [ ] 60. Tears for Fears - Songs From the Big Chair
+- [ ] 59. Fiona Apple - Tidal
+- [ ] 58. Sparklehorse - Good Morning Spider
+- [ ] 57. Silver Jews - American Water
+- [ ] 56. Stereolab - Dots and Loops
+- [ ] 55. Guns N’ Roses - Appetite for Destruction
+- [ ] 54. Metallica - Metallica
+- [X] 53. Marvin Gaye - Here, My Dear
+- [ ] 52. ZZ Top - Tres Hombres
+- [ ] 51. Destiny’s Child - The Writing’s on the Wall
+- [ ] 50. Salt-N-Pepa - Very Necessary
+- [ ] 49. Ghostface Killah - Supreme Clientele
+- [ ] 48. Patti Smith Group - Easter
+- [ ] 47. Violent Femmes - Violent Femmes
+- [ ] 46. JAY-Z - Reasonable Doubt
+- [ ] 45. Green Day - Dookie
+- [ ] 44. Fugazi - In on the Kill Taker
+- [ ] 43. Portishead - Dummy
+- [X] 42. Black Flag - Damaged
+- [ ] 41. Sade - Love Deluxe
+- [ ] 40. Liquid Liquid - Liquid Liquid EP | Successive Reflexes EP | Optimo EP
+- [ ] 39. Glenn Gould - Bach: The Goldberg Variations
+- [ ] 38. Wailing Souls - Wailing
+- [ ] 37. Thelonious Monk - Monk’s Music
+- [ ] 36. DMX - It’s Dark and Hell Is Hot
+- [ ] 35. Weezer - Weezer (Blue Album)
+- [X] 34. Neil Young - Trans
+- [ ] 33. Jim O'Rourke - Bad Timing
+- [ ] 32. Björk - Homogenic
+- [ ] 31. Pet Shop Boys - Behaviour
+- [ ] 30. Phil Ochs - I Ain't Marching Anymore
+- [ ] 29. X-Ray Spex - Germfree Adolescents
+- [ ] 28. Massive Attack - Mezzanine
+- [ ] 27. Jeff Buckley - Sketches for My Sweetheart the Drunk
+- [ ] 26. Brand New - The Devil and God Are Raging Inside Me
+- [ ] 25. Ice Cube - Death Certificate
+- [ ] 24. Leonard Cohen - I'm Your Man
+- [ ] 23. Minutemen - Double Nickels on the Dime
+- [ ] 22. ABBA - Arrival
+- [ ] 21. Bob Dylan - Blood on the Tracks
+- [ ] 20. Ramones - End of the Century
+- [ ] 19. Randy Newman - Good Old Boys
+- [ ] 18. Janet Jackson - Rhythm Nation 1814
+- [ ] 17. Guided by Voices - Alien Lanes
+- [ ] 16. Erykah Badu - Mama's Gun
+- [ ] 15. Brian Eno - Another Green World
+- [X] 14. Caetano Veloso - Caetano Veloso
+- [ ] 13. Terry Riley - A Rainbow in Curved Air
+- [ ] 12. The Roots - Things Fall Apart
+- [X] 11. Stevie Wonder - Songs in the Key of Life
+- [ ] 10. PJ Harvey - Dry
+- [ ] 9. Michael Jackson - Dangerous
+- [ ] 8. Red Hot Chili Peppers - Blood Sugar Sex Magik
+- [ ] 7. De La Soul - Buhloone Mindstate
+- [ ] 6. Fleetwood Mac - Tusk
+- [ ] 5. Lauryn Hill - The Miseducation of Lauryn Hill
+- [ ] 4. Pulp - Different Class
+- [ ] 3. Neil Young - Tonight's the Night
+- [ ] 2. George Harrison - All Things Must Pass
+- [X] 1. Kate Bush - Hounds of Love
