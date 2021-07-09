@@ -1,0 +1,507 @@
+Rolling Stone's The 500 Greatest Albums of All-Time
+===================================================
+
+Current score: 9/500
+
+`$ grep "\[X\]" 500-albums.md | wc -l`
+
+- [X] 1. Marvin Gaye - What's Going On
+- [ ] 2. The Beach Boys - Pet Sounds
+- [ ] 3. Joni Mitchell - Blue
+- [X] 4. Stevie Wonder - Songs in the Key of Life
+- [ ] 5. The Beatles - Abbey Road
+- [X] 6. Nirvana - Nevermind (1991)
+- [ ] 7. Fleetwood Mac - Rumours
+- [ ] 8. Prince - Purple Rain
+- [ ] 9. Bob Dylan - Blood on the Tracks (1975)
+- [ ] 10. Lauryn Hill - The Miseducation of Lauryn Hill
+- [ ] 11. The Beatles - Revolver (1966)
+- [ ] 12. Michael Jackson - Thriller (1982)
+- [ ] 13. Aretha Franklin- I Never Loved a Man the Way I Love You
+- [ ] 14. The Rolling Stones - Exile on Main St.
+- [ ] 15. Public Enemy - It Takes a Nation of Millions to Hold Us Back
+- [ ] 16. The Clash - London Calling (1979)
+- [ ] 17. Kanye West - My Beautiful Dark Twisted Fantasy
+- [ ] 18. Bob Dylan - Highway 61 Revisited (1965)
+- [ ] 19. Kendrick Lamar - To Pimp a Butterfly
+- [ ] 20. Radiohead - Kid A (2000)
+- [ ] 21. Bruce Springsteen - Born to Run
+- [ ] 22. Notorious B.I.G. - Ready to Die
+- [ ] 23. The Velvet Underground - The Velvet Underground & Nico
+- [ ] 24. The Beatles - Sgt. Pepper's Lonely Hearts Club Band
+- [ ] 25. Carole King - Tapestry (1971)
+- [ ] 26. Patti Smith - Horses (1975)
+- [ ] 27. Wu-Tang Clan - Enter the Wu-Tang (36 Chambers) (1993)
+- [ ] 28. D'Angelo - Voodoo
+- [ ] 29. The Beatles - The Beatles [White Album]
+- [ ] 30. The Jimi Hendrix Experience - Are You Experienced (1967)
+- [ ] 31. Miles Davis - Kind of Blue
+- [X] 32. Beyoncé - Lemonade
+- [ ] 33. Amy Winehouse - Back to Black
+- [ ] 34. Stevie Wonder - Innervisions
+- [ ] 35. The Beatles - Rubber Soul
+- [ ] 36. Michael Jackson - Off the Wall
+- [ ] 37. Dr. Dre - the Chronic (1992)
+- [ ] 38. Bob Dylan - Blonde on Blonde (1966)
+- [ ] 39. Talking Heads - Remain in Light
+- [ ] 40. David Bowie - The Rise and Fall of Ziggy Stardust & the Spiders From Mars
+- [ ] 41. The Rolling Stones - Let It Bleed
+- [ ] 42. Radiohead - OK Computer (1997)
+- [ ] 43. A Tribe Called Quest - The Low End Theory (1991)
+- [ ] 44. Nas - Illmatic (1994)
+- [ ] 45. Prince - Sign O' the Times (1987)
+- [ ] 46. Paul Simon - Graceland
+- [ ] 47. Ramones- Ramones (1976)
+- [ ] 48. Bob Marley and the Wailers - Legend: The Best of Bob Marley
+- [ ] 49. Outkast - Aquemini
+- [ ] 50. Jay-Z - The Blueprint
+- [ ] 51. Chuck Berry - The Great Twenty-Eight
+- [ ] 52. David Bowie - Station to Station (1976)
+- [ ] 53. Jimi Hendrix - Electric Ladyland (1968)
+- [ ] 54. James Brown - Star Time
+- [ ] 55. Pink Floyd - The Dark Side of the Moon
+- [ ] 56. Liz Phair - Exile in Guyville
+- [ ] 57. The Band - The Band (1969)
+- [ ] 58. Led Zeppelin - Led Zeppelin [IV]
+- [ ] 59. Stevie Wonder - Talking Book
+- [ ] 60. Van Morrison - Astral Weeks
+- [ ] 61. Eric B. and Rakim- Paid in Full
+- [ ] 62. Guns N' Roses - Appetite for Destruction (1987)
+- [ ] 63. Steely Dan - Aja
+- [ ] 64. Outkast - Stankonia
+- [ ] 65. James Brown - Live at the Apollo
+- [ ] 66. John Coltrane - A Love Supreme
+- [ ] 67. Jay-Z - Reasonable Doubt
+- [X] 68. Kate Bush - Hounds of Love (1985)
+- [ ] 69. Alanis Morrisette - Jagged Little Pill (1995)
+- [ ] 70. N.W.A. - Straight Outta Compton
+- [ ] 71. Bob Marley and the Wailers - Exodus
+- [ ] 72. Neil Young - Harvest (1972)
+- [ ] 73. My Bloody Valentine - Loveless
+- [ ] 74. Kanye West - The College Dropout
+- [ ] 75. Aretha Franklin - Lady Soul (1968)
+- [ ] 76. Curtis Mayfield - Superfly (1972)
+- [ ] 77. Who's Next
+- [ ] 78. Elvis Presley - The Sun Sessions
+- [ ] 79. Frank Ocean - Blonde
+- [ ] 80. Sex Pistols - Never Mind the Bollocks (1977)
+- [ ] 81. Beyoncé - Beyoncé (2013)
+- [ ] 82. Sly & the Family Stone - There's a Riot Goin' on (1971)
+- [ ] 83. Dusty Springfield - Dusty in Memphis
+- [ ] 84. AC/DC - Back in Black (1980)
+- [ ] 85. John Lennon / Plastic Ono Band - John Lennon / Plastic Ono Band
+- [ ] 86. The Doors - The Doors (1967)
+- [ ] 87. Miles Davis - Bitches Brew
+- [ ] 88. David Bowie - Hunky Dory (1971)
+- [ ] 89. Erykah Badu - Baduizm (1997)
+- [ ] 90. Neil Young - After the Gold Rush (1970)
+- [ ] 91. Bruce Springsteen - Darkness on the Edge of Town
+- [ ] 92. Jimi Hendrix - Axis: Bold as Love
+- [ ] 93. Missy "Misdemeanor" Elliott- Supa Dupa Fly
+- [ ] 94. The Stooges - Fun House
+- [ ] 95. Drake - Take Care (2011)
+- [ ] 96. R.E.M. - Automatic for the People
+- [ ] 97. Metallica - Master of Puppets (1986)
+- [ ] 98. Lucinda Williams - Car Wheels on a Gravel Road
+- [ ] 99. Taylor Swift - Red
+- [ ] 100. The Band - Music From Big Pink (1968)
+- [ ] 101. Led Zeppelin
+- [ ] 102. The Clash - The Clash
+- [ ] 103. De La Soul - 3 Feet High and Rising
+- [ ] 104. The Rolling Stones - Sticky Fingers
+- [ ] 105. The Allman Brothers Band - At Fillmore East (1971)
+- [ ] 106. Hole - Live Through This
+- [ ] 107. Television - Marquee Moon
+- [ ] 108. Fiona Apple - When the Pawn
+- [ ] 109. Lou Reed - Transformer
+- [ ] 110. Joni Mitchell - Court and Spark (1974)
+- [ ] 111. Janet Jackson - Control (1986)
+- [ ] 112. Elton John - Goodbye Yellow Brick Road
+- [ ] 113. The Smiths - The Queen Is Dead
+- [ ] 114. The Strokes - Is This It
+- [ ] 115. Kendrick Lamar - Good Kid, M.A.A.D City
+- [ ] 116. The Cure - Disintegration
+- [ ] 117. Kanye West - Late Registration
+- [ ] 118. Eagles - Hotel California
+- [ ] 119. Sly & the Family Stone - Stand!
+- [ ] 120. Van Morrison - Moondance
+- [ ] 121. Elvis Costello - This Year's Model
+- [ ] 122. Nine Inch Nails - The Downward Spiral
+- [ ] 123. Led Zeppelin II
+- [ ] 124. U2 - Achtung Baby (1991)
+- [ ] 125. Beastie Boys - Paul's Boutique
+- [ ] 126. Mary J. Blige- My Life
+- [ ] 127. Ray Charles - Modern Sounds in Country and Western Music (1962)
+- [ ] 128. Queen - A Night at the Opera
+- [ ] 129. Pink Floyd - The Wall
+- [ ] 130. Prince - 1999
+- [ ] 131. Portishead - Dummy
+- [ ] 132. Hank Williams - 40 Greatest Hits
+- [ ] 133. Joni Mitchell - Hejira
+- [ ] 134. Fugees - The Score
+- [ ] 135. U2 - The Joshua Tree
+- [ ] 136. Funkadelic - Maggot Brain
+- [ ] 137. Adele - 21
+- [ ] 138. Madonna - The Immaculate Collection
+- [ ] 139. Black Sabbath - Paranoid
+- [ ] 140. Bob Marley and the Wailers - Catch a Fire
+- [ ] 141. Pixies - Doolittle
+- [ ] 142. Bruce Springsteen - Born in the U.S.A.
+- [ ] 143. The Velvet Underground
+- [ ] 144. Led Zeppelin - Physical Graffiti
+- [ ] 145. Eminem - The Marshall Mathers LP
+- [ ] 146. Blondie - Parallel Lines
+- [ ] 147. Jeff Buckley - Grace (1994)
+- [ ] 148. Frank Ocean - Channel Orange
+- [ ] 149. John Prine - John Prine
+- [ ] 150. Bruce Springsteen - Nebraska (1982)
+- [ ] 151. George Michael - Faith (1987)
+- [ ] 152. Pretenders - Pretenders
+- [ ] 153. PJ Harvey - Rid of Me
+- [ ] 154. Aretha Franklin - Amazing Grace
+- [ ] 155. Jay-Z - The Black Album
+- [ ] 156. The Replacements - Let It Be
+- [ ] 157. Oasis - (What's the Story) Morning Glory
+- [ ] 158. Erykah Badu - Mama's Gun
+- [ ] 159. The Police - Synchronicity
+- [ ] 160. Pearl Jam - Ten (1991)
+- [ ] 161. Crosby, Stills & Nash - Crosby, Stills & Nash
+- [ ] 162. Pulp - Different Class (1995)
+- [ ] 163. Various Artists - Saturday Night Fever
+- [ ] 164. Johnny Cash - At Folsom Prison
+- [ ] 165. R.E.M.- Murmur
+- [ ] 166. Buddy Holly - 20 Golden Greats
+- [ ] 167. Depeche Mode - Violator (1990)
+- [ ] 168. Steely Dan - Can't Buy a Thrill
+- [ ] 169. Billy Joel - The Stranger (1977)
+- [ ] 170. Cream - Disraeli Gears
+- [ ] 171. Sonic Youth - Daydream Nation
+- [ ] 172. Simon and Garfunkel - Bridge Over Troubled Water
+- [X] 173. Nirvana - In Utero (1993)
+- [ ] 174. The Harder They Come
+- [ ] 175. Kendrick Lamar - DAMN.
+- [ ] 176. Public Enemy - Fear of a Black Planet
+- [ ] 177. Rod Stewart - Every Picture Tells a Story
+- [ ] 178. Otis Redding - Otis Blue: Otis Redding Sings Soul (1965)
+- [ ] 179. The Notorious B.I.G.- Life After Death
+- [ ] 180. Love - Forever Changes (1967)
+- [ ] 181. Bob Dylan - Bringing It All Back Home (1965)
+- [ ] 182. James Taylor- Sweet Baby James
+- [ ] 183. D'Angelo - Brown Sugar
+- [ ] 184. Cyndi Lauper - She's So Unusual
+- [ ] 185. The Rolling Stones - Beggar's Banquet
+- [ ] 186. Red Hot Chili Peppers - Blood Sugar Sex Magik
+- [ ] 187. Ice Cube - Amerikkka's Most Wanted
+- [ ] 188. T. Rex - Electric Warrior
+- [ ] 189. Sleater-Kinney- Dig Me Out
+- [ ] 190. The Who - Tommy
+- [ ] 191. Etta James - At Last! (1960)
+- [ ] 192. Licensed to Ill
+- [ ] 193. Creedence Clearwater Revival - Willy and the Poor Boys
+- [ ] 194. Michael Jackson - Bad
+- [ ] 195. Leonard Cohen - Songs of Leonard Cohen (1967)
+- [ ] 196. Robyn - Body Talk
+- [ ] 197. The Beatles - Meet the Beatles!
+- [ ] 198. The B52's
+- [ ] 199. Pavement - Slanted and Enchanted
+- [ ] 200. Sade - Diamond Life
+- [ ] 201. A Tribe Called Quest - Midnight Marauders
+- [ ] 202. Björk - Homogenic (1997)
+- [ ] 203. Nick Drake - Pink Moon (1972)
+- [ ] 204. Kanye West - Graduation
+- [ ] 205. Cat Stevens - Tea for the Tillerman
+- [ ] 206. David Bowie - Low
+- [ ] 207. Eagles-Eagles
+- [ ] 208. Lil Wayne - Tha Carter III
+- [ ] 209. Run DMC - Raising Hell
+- [ ] 210. Ray Charles - The Birth of Soul
+- [ ] 211. Joy Division - Unknown Pleasures
+- [ ] 212. Nina Simone - Wild Is the Wind
+- [ ] 213. Fiona Apple - The Idler Wheel...
+- [ ] 214. Tom Petty- Wildflowers
+- [ ] 215. Grateful Dead - American Beauty
+- [ ] 216. Elliott Smith - Either/Or
+- [ ] 217. Oasis - Definitely Maybe
+- [ ] 218. TLC - Crazysexycool (1994)
+- [ ] 219. Raekwon- Only Built 4 Cuban Linx
+- [ ] 220. Crosby, Stills, Nash and Young - Déjà Vu
+- [ ] 221. Rage Against the Machine - Rage Against the Machine
+- [ ] 222. Madonna - Ray of Light
+- [ ] 223. John Lennon - Imagine
+- [ ] 224. Dixie Chicks - Fly
+- [ ] 225. Wilco - Yankee Hotel Foxtrot (2001)
+- [ ] 226. Derek and the Dominos- Layla and Other Assorted Love Songs
+- [ ] 227. Little Richard - Here's Little Richard
+- [ ] 228. De La Soul - De La Soul Is Dead
+- [ ] 229. Patsy Cline the Ultimate Collection
+- [ ] 230. Rihanna - Anti
+- [ ] 231. Tom Petty & the Heartbreakers - Damn the Torpedoes
+- [ ] 232. John Coltrane - Giant Steps
+- [ ] 233. Tori Amos - Little Earthquakes
+- [ ] 234. Black Sabbath - Master of Reality
+- [ ] 235. Metallica - Metallica
+- [ ] 236. Daft Punk - Discovery (2001)
+- [ ] 237. Willie Nelson- Red Headed Stranger
+- [ ] 238. Kraftwerk - Trans-Europe Express
+- [ ] 239. Boogie Down Productions - Criminal Minded
+- [ ] 240. Sam Cooke - Live at the Harlem Square Club, 1963
+- [ ] 241. Massive Attack - Blue Lines (1991)
+- [ ] 242. The Velvet Underground - Loaded
+- [ ] 243. The Zombies -Odessey and Oracle
+- [ ] 244. Kanye West - 808S and Heartbreak
+- [ ] 245. Cocteau Twins - Heaven or Las Vegas
+- [ ] 246. LL Cool J - Mama Said Knock You Out
+- [ ] 247. Sade-Love Deluxe
+- [ ] 248. Green Day - American Idiot
+- [ ] 249. Whitney Houston - Whitney Houston
+- [ ] 250. Buzzcocks - Singles Going Steady (1979)
+- [ ] 251. Elton John- Honky Chateau
+- [ ] 252. Devo - Q: Are We Not Men? A: We Are Devo! (1978)
+- [ ] 253. Pink Floyd - The Piper at the Gates of Dawn (1967)
+- [ ] 254. Herbie Hancock - Head Hunters
+- [ ] 255. Bob Dylan - The Freewheelin' Bob Dylan
+- [ ] 256. Tracy Chapman - Tracy Chapman
+- [ ] 257. Dolly Parton - Coat of Many Colors (1971)
+- [ ] 258. Joni Mitchell - The Hissing of Summer Lawns
+- [ ] 259. Janis Joplin - Pearl
+- [ ] 260. The Slits - Cut (1979)
+- [ ] 261. Beastie Boys - Check Your Head
+- [ ] 262. New Order - Power, Corruption & Lies
+- [ ] 263. The Beatles - A Hard Day's Night
+- [ ] 264. Wish You Were Here
+- [ ] 265. Pavement - Wowee Zowee
+- [ ] 266. The Beatles - Help!
+- [ ] 267. Minutemen - Double Nickels on the Dime
+- [ ] 268. Randy Newman - Sail Away
+- [ ] 269. Kanye West - Yeezus (2013)
+- [ ] 270. Kacey Musgraves - Golden Hour
+- [ ] 271. Mary J. Blige Whats the 411?
+- [ ] 272. The Velvet Underground - White Light/White Heat
+- [ ] 273. Gang of Four - Entertainment!
+- [ ] 274. The Byrds - Sweetheart of the Rodeo
+- [ ] 275. Curtis Mayfield - Curtis
+- [ ] 276. Radiohead - The Bends (1995)
+- [ ] 277. Alicia Keys the Diary of Alicia Keys
+- [ ] 278. Led Zeppelin - Houses of the Holy
+- [X] 279. Nirvana - MTV Unplugged in New York
+- [ ] 280. 50 Cent - Get Rich or Die Tryin'
+- [ ] 281. Harry Nilsson - Nilsson Schmilsson
+- [ ] 282. Frank Sinatra - In the Wee Small Hours (1955)
+- [ ] 283. Donna Summer - Bad Girls
+- [ ] 284. Merle Haggard- Down Every Road
+- [ ] 285. Big Star - Third / Sister Lovers
+- [ ] 286. Red Hot Chili Peppers - Californication (1999)
+- [ ] 287. The Byrds - Mr. Tambourine Man
+- [ ] 288. The Modern Lovers - The Modern Lovers
+- [ ] 289. Björk - Post (1995)
+- [ ] 290. Speakerboxxx/The Love Below (Outkast, 2003)
+- [ ] 291. Destiny's Child - The Writing's on the Wall (1999)
+- [ ] 292. Van Halen - Van Halen
+- [ ] 293. The Breeders - Last Splash
+- [ ] 294. Weezer - Weezer (Blue Album)
+- [ ] 295. Daft Punk - Random Access Memories
+- [ ] 296. Neil Young & Crazy Horse - Rust Never Sleeps
+- [ ] 297. Peter Gabriel So
+- [ ] 298. Tom Petty - Full Moon Fever
+- [ ] 299. B.B. King - Live at the Regal
+- [ ] 300. Shania Twain - Come on Over (1997)
+- [ ] 301. New York Dolls - New York Dolls
+- [ ] 302. Neil Young- Tonight's the Night
+- [ ] 303. The Definitive Collection -ABBA [2001]
+- [ ] 304. Bill Withers - Just as I Am
+- [ ] 305. Kiss - Alive! (1975)
+- [ ] 306. Al Green- I'm Still in Love With You
+- [ ] 307. Sam Cooke- Portait of a Legend
+- [ ] 308. Eno - Here Comes the Warm Jets
+- [ ] 309. Joy Division - Closer
+- [ ] 310. Wire - Pink Flag
+- [ ] 311. Neil Young - On the Beach (1974)
+- [ ] 312. Solange - A Seat at the Table (2016)
+- [ ] 313. PJ Harvey - Stories From the City, Stories From the Sea
+- [ ] 314. Aaliyah - One in a Million
+- [ ] 315. Rosalia- El Mal Querer
+- [ ] 316. The Who Sell Out (1967)
+- [ ] 317. Billie Holiday - Lady in Satin
+- [ ] 318. Janet Jackson- The Velvet Rope
+- [ ] 319. The Stone Roses - The Stone Roses
+- [ ] 320. X - Los Angeles (1980)
+- [ ] 321. Lana Del Rey - Norman Fucking Rockwell
+- [ ] 322. Elvis Presley - From Elvis in Memphis (1969)
+- [ ] 323. The Clash - Sandinista!
+- [ ] 324. Coldplay - A Rush of Blood to the Head
+- [ ] 325. Jerry Lee Lewis- All Killer, No Filler
+- [ ] 326. Prince - Dirty Mind (1980)
+- [ ] 327. The Who - Live at Leeds
+- [ ] 328. Vampire Weekend - Modern Vampires of the City
+- [ ] 329. DJ Shadow - Endtroducing.....
+- [ ] 330. The Rolling Stones- Aftermath
+- [ ] 331. Madonna - Like a Prayer
+- [ ] 332. Elvis Presley
+- [ ] 333. Bill Withers - Still Bill
+- [ ] 334. Santana - Abraxas
+- [ ] 335. Bob Dylan and the Band- Basement Tapes
+- [ ] 336. Roxy Music - Avalon
+- [ ] 337. Bob Dylan - John Wesley Harding
+- [ ] 338. Brian Eno - Another Green World
+- [ ] 339. Janet Jackson - Rhythm Nation 1814 (1989)
+- [ ] 340. Snoop Doggy Dogg - Doggystyle
+- [ ] 341. Siamese Dream - The Smashing Pumpkins
+- [ ] 342. Let It Be
+- [ ] 343. Sly and the Family Stone - Greatest Hits
+- [ ] 344. Toots & the Maytals - Funky Kingston
+- [ ] 345. Bruce Springsteen- The Wild, the Innocent, and the E. Street Shuffle
+- [ ] 346. Arctic Monkeys - AM
+- [ ] 347. GZA - Liquid Swords
+- [ ] 348. Gillian Welch - Time (The Revelator)
+- [ ] 349. MC5 - Kick Out the Jams
+- [ ] 350. Stevie Wonder - Music of My Mind
+- [ ] 351. Roxy Music - For Your Pleasure
+- [ ] 352. Eminem - The Slim Shady LP
+- [ ] 353. The Cars - The Cars
+- [ ] 354. Germfree Adolescents (X-Ray Spex)
+- [X] 355. Black Sabbath - Black Sabbath
+- [ ] 356. Dr. John - Gris-Gris (1968)
+- [ ] 357. Tom Waits - Rain Dogs
+- [ ] 358. Sonic Youth - Goo
+- [ ] 359. Big Star - Radio City
+- [ ] 360. Funkadelic- One Nation Under a Groove
+- [ ] 361. My Chemical Romance - The Black Parade
+- [ ] 362. Luther Vandross - Never Too Much
+- [ ] 363. Parliament - Mothership Connection
+- [ ] 364. Talking Heads - More Songs About Buildings and Food (1978)
+- [ ] 365. Madvillain - Madvillainy
+- [ ] 366. Aerosmith - Rocks (1976)
+- [ ] 367. If You're Reading This It's Too Late
+- [ ] 368. George Harrison - All Things Must Pass
+- [ ] 369. Mobb Deep - The Infamous
+- [ ] 370. Lil Wayne - Tha Carter II
+- [ ] 371. The Temptations Anthology
+- [ ] 372. Big Brother & the Holding Company - Cheap Thrills
+- [ ] 373. Isaac Hayes - Hot Buttered Soul
+- [ ] 374. Robert Johnson - King of the Delta Blues Singers
+- [ ] 375. Green Day - Dookie
+- [ ] 376. Neutral Milk Hotel - In the Aeroplane Over the Sea
+- [ ] 377. Yeah Yeah Yeahs - Fever to Tell
+- [ ] 378. Run DMC - Run DMC
+- [ ] 379. Rush - Moving Pictures (1981)
+- [ ] 380. Charles Mingus - Mingus Ah Um (1959)
+- [ ] 381. Lynyrd Skynyrd - (Pronounced 'Lĕh-'Nérd 'Skin-'Nérd)
+- [ ] 382. Tame Impala - Currents
+- [ ] 383. Massive Attack - Mezzanine (1998)
+- [ ] 384. The Kinks Are the Village Green Preservation Society
+- [ ] 385. Ramones - Rocket to Russia
+- [ ] 386. J Dilla - Donuts (2006)
+- [ ] 387. Radiohead - In Rainbows (2007)
+- [ ] 388. Aretha Franklin - Young, Gifted & Black
+- [ ] 389. Mariah Carey - The Emancipation of Mimi
+- [ ] 390. Pixies - Surfer Rosa
+- [ ] 391. Kelis-Kaleidoscope
+- [ ] 392. Ike Turner & Tina Turner - Proud Mary: The Best Of..
+- [ ] 393. 1989 - Taylor Swift
+- [ ] 394. Diana Ross - Diana
+- [ ] 395. D'Angelo and the Vanguard - Black Messiah
+- [ ] 396. Todd Rundgren- Something/Anything?
+- [ ] 397. Billie Eilish - When We All Fall Asleep, Where Do We Go?
+- [ ] 398. The Raincoats - The Raincoats
+- [ ] 399. Brian Wilson - Smile
+- [ ] 400. The Go-Go's - Beauty and the Beat
+- [ ] 401. Blondie
+- [ ] 402. Fela Kuti and Africa 70 - Expensive Shit
+- [ ] 403. Ghostface Killah - Supreme Clientele
+- [ ] 404. Anita Baker - Rapture
+- [ ] 405. Nuggets: Original Artyfacts From the First Psychedelic Era, 1965–1968
+- [ ] 406. The Magnetic Fields - 69 Love Songs
+- [ ] 407. Neil Young With Crazy Horse - Everybody Knows This Is Nowhere
+- [ ] 408. Motörhead - Ace of Spades
+- [ ] 409. The Grateful Dead: Workingman's Dead
+- [ ] 410. The Beach Boys - Wild Honey
+- [ ] 411. Bob Dylan - Love and Theft
+- [ ] 412. Going to a Go-Go- Smokey Robinson & the Miracles
+- [ ] 413. Creedence Clearwater Revival - Cosmo's Factory
+- [ ] 414. Chic - Risqué (1979)
+- [ ] 415. The Meters- Look-Ka Py Py
+- [ ] 416. The Roots - Things Fall Apart
+- [ ] 417. Ornette Coleman - The Shape of Jazz to Come
+- [ ] 418. Dire Straits- Brothers in Arms
+- [ ] 419. Eric Church - Chief
+- [ ] 420. That's the Way of the World - Earth, Wind & Fire
+- [ ] 421. M.I.A. - Arular
+- [ ] 422. Let's Get It On
+- [ ] 423. Yo La Tengo - I Can Hear the Heart Beating as One
+- [ ] 424. Beck - Odelay
+- [ ] 425. Paul Simon - Paul Simon
+- [ ] 426. Lucinda Williams - Lucinda Williams
+- [ ] 427. Al Green- Call Me
+- [ ] 428. Hüsker Dü - New Day Rising
+- [ ] 429. Four Tops - Reach Out
+- [ ] 430. Elvis Costello - My Aim Is True
+- [ ] 431. Los Lobos - How Will the Wolf Survive?
+- [ ] 432. Usher - Confessions
+- [ ] 433. LCD Soundsystem - Sound of Silver
+- [ ] 434. Pavement - Crooked Rain, Crooked Rain
+- [ ] 435. Actually - The Pet Shop Boys
+- [ ] 436. All Eyez on Me
+- [ ] 437. Primal Scream - Screamadelica
+- [ ] 438. Blur - Parklife (1994)
+- [ ] 439. James Brown- Sex Machine
+- [ ] 440. Coal Miner's Daughter - Loretta Lynn
+- [ ] 441. Britney Spears - Blackout
+- [ ] 442. The Weeknd - Beauty Behind the Madness
+- [ ] 443. Scary Monsters (And Super Creeps) (David Bowie, 1980)
+- [ ] 444. Fiona Apple - Extraordinary Machine
+- [ ] 445. Yes - Close to the Edge (1972)
+- [ ] 446. Journey in Satchidananda (Alice Coltrane, 1971)
+- [ ] 447. Bad Bunny - X 100PRE
+- [ ] 448. Otis Redding- Dictionary of Soul
+- [ ] 449. The White Stripes - Elephant
+- [ ] 450. Paul McCartney - RAM
+- [ ] 451. Roberta Flack - First Take
+- [ ] 452. Diana Ross and the Supremes Anthology
+- [ ] 453. Pretty Hate Machine
+- [ ] 454. Can - Ege Bamyasi
+- [ ] 455. Bo Diddley/Go Bo Diddley
+- [ ] 456. Al Green - Greatest Hits
+- [ ] 457. Sinead O'Connor - I Do Not Want What I Haven't Got
+- [ ] 458. Jason Isbell- Southeastern
+- [ ] 459. Kid Cudi - Man on the Moon: The End of Days
+- [ ] 460. Lorde - Melodrama (2017)
+- [ ] 461. Bon Iver - For Emma, Forever Ago
+- [ ] 462. The Flying Burrito Bros - The Gilded Palace of Sin
+- [ ] 463. Eli & the Thirteenth Confession
+- [ ] 464. The Isley Brothers - 3+3
+- [ ] 465. King Sunny Adé - The Best of the Classic Years (2003)
+- [ ] 466. The Beach Boys Today! (1965)
+- [ ] 467. Maxwell-Blacksummers' Night
+- [ ] 468. The Rolling Stones - Some Girls
+- [ ] 469. Manu Chao - Clandestino
+- [ ] 470. Juvenile - 400 Degreez
+- [ ] 471. Jefferson Airplane - Surrealistic Pillow
+- [ ] 472. Sza - Ctrl
+- [ ] 473. Daddy Yankee - Barrio Fino
+- [ ] 474. Big Star #1 Record
+- [ ] 475. Sheryl Crow (Sheryl Crow, 1996)
+- [ ] 476. Sparks - Kimono My House (1974)
+- [ ] 477. Howlin' Wolf- Moanin' in the Moonlight
+- [ ] 478. The Kinks - Something Else by the Kinks
+- [ ] 479. Selena - Amor Prohibido
+- [ ] 480. Miranda Lambert the Weight of These Wings
+- [ ] 481. Belle and Sebastian - If You're Feeling Sinister
+- [ ] 482. The Pharcyde - Bizarre Ride II the Pharcyde
+- [ ] 483. Muddy Waters- The Anthology
+- [ ] 484. Lady Gaga - Born This Way
+- [ ] 485. Richard Thompson - I Want to See the Bright Lights Tonight
+- [ ] 486. John Mayer - Continuum
+- [X] 487. Black Flag - Damaged
+- [ ] 488. The Stooges - The Stooges (1969)
+- [ ] 489. Phil Spector (Various Artists) - Back to Mono
+- [ ] 490. Linda Ronstadt - Heart Like a Wheel
+- [ ] 491. Harry Styles - Fine Line
+- [ ] 492. Nick of Time- Bonnie Raitt [1989]
+- [ ] 493. Marvin Gaye Here, My Dear
+- [ ] 494. Presenting the Fabulous Ronettes
+- [ ] 495. Boyz II Men - II
+- [ ] 496. Shakira - ¿Dónde Están Los Ladrones?
+- [ ] 497. Various Artists - The Indestructible Beat of Soweto
+- [ ] 498. Suicide - Suicide
+- [ ] 499. Rufus Featuring Chaka Khan - Ask Rufus
+- [ ] 500. Arcade Fire - Funeral (2004)
