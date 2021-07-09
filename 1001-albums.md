@@ -1,7 +1,7 @@
 1001 Album You Must Hear
 ========================
 
-Current score: 6/1079
+Current score: 10/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -189,7 +189,7 @@ Current score: 6/1079
 - [ ] 182. Stephen Stills
 - [ ] 183. John Lennon - John Lennon & Plastic Ono Band
 - [ ] 184. Deja Vu (Crosby, Stills, Nash & Young, 1970)
-- [ ] 185. Black Sabbath - Paranoid
+- [X] 185. Black Sabbath - Paranoid
 - [ ] 186. Neil Young - After the Gold Rush (1970)
 - [ ] 187. Led Zeppelin III
 - [ ] 188. Deep Purple - Deep Purple in Rock
@@ -212,7 +212,7 @@ Current score: 6/1079
 - [ ] 205. Jethro Tull - Aqualung
 - [ ] 206. David Crosby - If I Could Only Remember My Name
 - [ ] 207. There's a Riot Goin' on (Sly & the Family Stone, 1971)
-- [ ] 208. Marvin Gaye - What's Going On
+- [X] 208. Marvin Gaye - What's Going On
 - [ ] 209. Bee Gees - Trafalgar (1971)
 - [ ] 210. The Yes Album - Yes
 - [ ] 211. Who's Next (The Who, 1971)
@@ -490,7 +490,7 @@ Current score: 6/1079
 - [ ] 483. Soft Cell - Non-Stop Erotic Cabaret
 - [ ] 484. Orchestral Manoeuvres in the Dark - Architecture & Morality (1981)
 - [ ] 485. David Byrne & Brian Eno - My Life in the Bush of Ghosts
-- [ ] 486. Black Flag - Damaged
+- [X] 486. Black Flag - Damaged
 - [ ] 487. X- Wild Gift
 - [ ] 488. The Psychedelic Furs - Talk Talk Talk
 - [ ] 489. The Human League - Dare
@@ -561,7 +561,7 @@ Current score: 6/1079
 - [ ] 554. Big Black - Atomizer
 - [ ] 555. Suzanne Vega - Suzanne Vega (1985)
 - [ ] 556. The Pogues- Rum Sodomy and the Lash
-- [X] 557. Hounds of Love (Kate Bush, 1985)
+- [X] 557. Kate Bush - Hounds of Love (1985)
 - [ ] 558. Meat Is Murder (The Smiths, 1985)
 - [ ] 559. Rain Dogs (Tom Waits, 1985)
 - [ ] 560. The Jesus and Mary Chain - Psychocandy
@@ -838,7 +838,7 @@ Current score: 6/1079
 - [ ] 831. Jon Spencer Blues Group Now I Got Worry
 - [ ] 832. Cardigans First Band on the Moon
 - [ ] 833. Marilyn Manson - Antichrist Superstar
-- [ ] 834. The Score- The Fugees [1996]
+- [X] 834. The Fugees - The Score (1996)
 - [ ] 835. Ash - 1977
 - [ ] 836. Belle and Sebastian - If You're Feeling Sinister
 - [ ] 837. Blur - Blur

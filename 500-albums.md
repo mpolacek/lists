@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 9/500
+Current score: 10/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -138,12 +138,12 @@ Current score: 9/500
 - [ ] 131. Portishead - Dummy
 - [ ] 132. Hank Williams - 40 Greatest Hits
 - [ ] 133. Joni Mitchell - Hejira
-- [ ] 134. Fugees - The Score
+- [X] 134. Fugees - The Score
 - [ ] 135. U2 - The Joshua Tree
 - [ ] 136. Funkadelic - Maggot Brain
 - [ ] 137. Adele - 21
 - [ ] 138. Madonna - The Immaculate Collection
-- [ ] 139. Black Sabbath - Paranoid
+- [X] 139. Black Sabbath - Paranoid
 - [ ] 140. Bob Marley and the Wailers - Catch a Fire
 - [ ] 141. Pixies - Doolittle
 - [ ] 142. Bruce Springsteen - Born in the U.S.A.
@@ -359,7 +359,7 @@ Current score: 9/500
 - [ ] 352. Eminem - The Slim Shady LP
 - [ ] 353. The Cars - The Cars
 - [ ] 354. Germfree Adolescents (X-Ray Spex)
-- [X] 355. Black Sabbath - Black Sabbath
+- [ ] 355. Black Sabbath - Black Sabbath
 - [ ] 356. Dr. John - Gris-Gris (1968)
 - [ ] 357. Tom Waits - Rain Dogs
 - [ ] 358. Sonic Youth - Goo

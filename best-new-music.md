@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 1/822
+Current score: 3/822
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -597,7 +597,7 @@ Current score: 1/822
 - [ ] 590. Dvsn - Sept. 5th
 - [ ] 591. Parquet Courts - Human Performance
 - [ ] 592. Kevin Morby - Singing Saw
-- [ ] 593. Beyonce - Lemonade (2016)
+- [X] 593. Beyonce - Lemonade (2016)
 - [ ] 594. ANOHNI - Hopelessness (2016)
 - [ ] 595. White Lung - Paradise
 - [ ] 596. James Blake - The Colour in Anything
