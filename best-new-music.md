@@ -766,7 +766,7 @@ Current score: 1/822
 - [ ] 759. FKA Twigs - Magdalene
 - [ ] 760. Davido - A Good Time
 - [ ] 761. Blood Incantation - Hidden History of the Human Race
-- [ ] 762. Jeff Parker - Suite for Max Brown
+- [X] 762. Jeff Parker - Suite for Max Brown
 - [ ] 763. Destroyer - Have We Met
 - [ ] 764. Gil Scott-Heron / Makaya McCraven - We're New Again
 - [ ] 765. Beatrice Dillon - Workaround
