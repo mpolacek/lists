@@ -1,11 +1,11 @@
 1001 Album You Must Hear
 ========================
 
-Current score: 10/1079
+Current score: 13/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
-- [ ] 1. In the Wee Small Hours (Frank Sinatra, 1955)
+- [ ] 1. Frank Sinatra - In the Wee Small Hours (1955)
 - [ ] 2. Elvis Presley (Elvis Presley, 1956)
 - [ ] 3. The Louvin Brothers - Tragic Songs of Life (1956)
 - [ ] 4. Louis Prima - The Wildest! (1956)
@@ -30,7 +30,7 @@ Current score: 10/1079
 - [ ] 23. Time Out (The Dave Brubeck Quartet, 1959)
 - [ ] 24. Joan Baez - Joan Baez (1960)
 - [ ] 25. Elvis Is Back! - Elvis Presley
-- [ ] 26. Miriam Makeba (1960)
+- [ ] 26. Miriam Makeba - Miriam Makeba (1960)
 - [ ] 27. The Everly Brothers a Date With the Everly Brothers
 - [ ] 28. Back at the Chicken Shack- Jimmy Smith
 - [ ] 29. Muddy Waters at Newport 1960
@@ -53,19 +53,19 @@ Current score: 10/1079
 - [ ] 46. The Rolling Stones - The Rolling Stones (1964)
 - [ ] 47. Buck Owens and His Buckaroos - I've Got a Tiger by the Tail (1964)
 - [ ] 48. Jerry Lee Lewis - Live at the Star Club Hamburg
-- [ ] 49. The Sonics : Here Are the Sonics
-- [ ] 50. Bob Dylan- Bringing It All Back Home
+- [ ] 49. The Sonics - Here Are the Sonics
+- [ ] 50. Bob Dylan - Bringing It All Back Home
 - [ ] 51. Otis Redding - Otis Blue: Otis Redding Sings Soul
 - [ ] 52. The Beach Boys - The Beach Boys Today! (1965)
-- [ ] 53. John Coltrane, a Love Supreme (1965)
-- [ ] 54. B.B. King- Live at the Regal
+- [ ] 53. John Coltrane - A Love Supreme (1965)
+- [ ] 54. B.B. King - Live at the Regal
 - [ ] 55. The Beatles - Rubber Soul (1965)
-- [ ] 56. Bert Jansch
+- [ ] 56. Bert Jansch - Bert Jansch (1965)
 - [ ] 57. The Byrds - Mr. Tambourine Man
 - [ ] 58. Bob Dylan, Highway 61 Revisited (1965)
 - [ ] 59. The Who My Generation
 - [ ] 60. The Beatles - Revolver (1966)
-- [ ] 61. The Beach Boys, Pet Sounds (1966)
+- [ ] 61. The Beach Boys - Pet Sounds (1966)
 - [ ] 62. Fred Neil
 - [ ] 63. The Byrds: Fifth Dimension
 - [ ] 64. Bob Dylan, Blonde on Blonde (1966)
@@ -133,7 +133,7 @@ Current score: 10/1079
 - [ ] 126. Small Faces - Ogden's Nut Gone Flake
 - [ ] 127. The Band, Music From Big Pink (1968)
 - [ ] 128. Jeff Beck Truth
-- [ ] 129. Caetano Veloso - Caetano Veloso
+- [X] 129. Caetano Veloso - Caetano Veloso
 - [ ] 130. Scott Walker - Scott 2
 - [ ] 131. The Zombies, Odessey and Oracle (1968)
 - [ ] 132. Van Morrison, Astral Weeks (1968)
@@ -148,7 +148,7 @@ Current score: 10/1079
 - [ ] 141. The Flying Burrito Bros - The Gilded Palace of Sin
 - [ ] 142. Johnny Cash - At San Quentin (1969)
 - [ ] 143. Creedence Clearwater Revival - Green River
-- [ ] 144. The Beatles, Abbey Road (1969)
+- [X] 144. The Beatles - Abbey Road (1969)
 - [ ] 145. Tommy (The Who, 1969)
 - [ ] 146. Miles Davis, in a Silent Way (1969)
 - [ ] 147. Bee Gees - Odessa (1969)
@@ -285,7 +285,7 @@ Current score: 10/1079
 - [ ] 278. CAN- Future Days (1973)
 - [ ] 279. Lou Reed, Berlin (1973)
 - [ ] 280. Selling England by the Pound (Genesis, 1973)
-- [ ] 281. Marvin Gaye- Let's Get It On
+- [ ] 281. Marvin Gaye - Let's Get It On
 - [ ] 282. John Martyn - Solid Air
 - [ ] 283. Roxy Music - For Your Pleasure
 - [ ] 284. Faust - Faust IV (1973)
@@ -425,7 +425,7 @@ Current score: 10/1079
 - [ ] 418. Q: Are We Not Men? A: We Are Devo! (Devo, 1978)
 - [ ] 419. Dire Straits - Dire Straits (1978)
 - [ ] 420. The Saints - Eternally Yours (1978)
-- [ ] 421. Marvin Gaye Here, My Dear
+- [X] 421. Marvin Gaye - Here, My Dear
 - [ ] 422. Willie Nelson- Stardust
 - [ ] 423. Chic - C'est Chic
 - [ ] 424. X-Ray Spex - Germ-Free Adolescents (1978)
@@ -883,10 +883,10 @@ Current score: 10/1079
 - [ ] 876. Korn - Follow the Leader
 - [ ] 877. Talvin Singh - Ok
 - [ ] 878. Kid Rock - Devil Without a Cause
-- [ ] 879. Music Has the Right to Children (Boards of Canada, 1998)
+- [ ] 879. Boards of Canada - Music Has the Right to Children (1998)
 - [ ] 880. Suba - Sao Paulo Confessions
 - [ ] 881. Khaled - Kenza
-- [ ] 882. XTC • Apple Venus
+- [ ] 882. XTC - Apple Venus
 - [ ] 883. Incubus Make Yourself
 - [ ] 884. Skunk Anansie - Post-Orgasmic Chill
 - [ ] 885. The Magnetic Fields - 69 Love Songs
@@ -900,7 +900,7 @@ Current score: 10/1079
 - [ ] 893. Les Digitales Rhymes - Darkdancer
 - [ ] 894. Le Tigre - Le Tigre
 - [ ] 895. Eminem - The Slim Shady LP
-- [ ] 896. Metallica – S&M
+- [ ] 896. Metallica - S&M
 - [ ] 897. Bonnie 'Prince' Billy - I See a Darkness
 - [ ] 898. Shack - H.M.S. Fable
 - [ ] 899. Basement Jaxx, Remedy (1999)
@@ -916,7 +916,7 @@ Current score: 10/1079
 - [ ] 909. Emmylou Harris - Red Dirt Girl
 - [ ] 910. Radiohead - Kid A (2000)
 - [ ] 911. Badly Drawn Boy - Hour of Bewilderbeast
-- [ ] 912. U2- All That You Can't Leave Behind
+- [ ] 912. U2 - All That You Can't Leave Behind
 - [ ] 913. Coldplay - Parachutes
 - [ ] 914. Elliott Smith - Figure 8
 - [ ] 915. Erykah Badu: Mama's Gun

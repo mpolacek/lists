@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 10/500
+Current score: 12/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -9,7 +9,7 @@ Current score: 10/500
 - [ ] 2. The Beach Boys - Pet Sounds
 - [ ] 3. Joni Mitchell - Blue
 - [X] 4. Stevie Wonder - Songs in the Key of Life
-- [ ] 5. The Beatles - Abbey Road
+- [X] 5. The Beatles - Abbey Road
 - [X] 6. Nirvana - Nevermind (1991)
 - [ ] 7. Fleetwood Mac - Rumours
 - [ ] 8. Prince - Purple Rain
@@ -497,7 +497,7 @@ Current score: 10/500
 - [ ] 490. Linda Ronstadt - Heart Like a Wheel
 - [ ] 491. Harry Styles - Fine Line
 - [ ] 492. Nick of Time- Bonnie Raitt [1989]
-- [ ] 493. Marvin Gaye Here, My Dear
+- [X] 493. Marvin Gaye - Here, My Dear
 - [ ] 494. Presenting the Fabulous Ronettes
 - [ ] 495. Boyz II Men - II
 - [ ] 496. Shakira - ¿Dónde Están Los Ladrones?

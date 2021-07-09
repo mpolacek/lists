@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 3/822
+Current score: 4/822
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -824,6 +824,6 @@ Current score: 3/822
 - [ ] 817. Iceage - Seek Shelter
 - [ ] 818. Mdou Moctar - Afrique Victime
 - [ ] 819. Mach-Hommy - Pray for Haiti
-- [ ] 820. Faye Webster - I Know I'm Funny haha
+- [X] 820. Faye Webster - I Know I'm Funny haha
 - [ ] 821. Tyler, the Creator - Call Me If You Get Lost
 - [ ] 822. L'Rain - Fatigue

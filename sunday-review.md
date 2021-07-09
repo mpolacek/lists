@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 12/248
+Current score: 14/248
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -57,7 +57,7 @@ Current score: 12/248
 - [ ] 50. Salt-N-Pepa - Very Necessary
 - [ ] 51. Destiny’s Child - The Writing’s on the Wall
 - [ ] 52. ZZ Top - Tres Hombres
-- [ ] 53. Marvin Gaye - Here, My Dear
+- [X] 53. Marvin Gaye - Here, My Dear
 - [ ] 54. Metallica - Metallica
 - [ ] 55. Guns N’ Roses - Appetite for Destruction
 - [ ] 56. Stereolab - Dots and Loops
@@ -138,7 +138,7 @@ Current score: 12/248
 - [ ] 131. Robert Ashley - Private Parts
 - [ ] 132. Alice Coltrane - Journey in Satchidananda
 - [ ] 133. Prince Paul - A Prince Among Thieves
-- [ ] 134. Tortoise - TNT
+- [X] 134. Tortoise - TNT
 - [X] 135. Nirvana - MTV Unplugged in New York
 - [ ] 136. Everything But the Girl - Walking Wounded
 - [ ] 137. David Crosby - If I Could Only Remember My Name
