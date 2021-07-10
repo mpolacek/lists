@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 13/500
+Current score: 14/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -253,7 +253,7 @@ Current score: 13/500
 - [ ] 246. LL Cool J - Mama Said Knock You Out
 - [ ] 247. Sade-Love Deluxe
 - [ ] 248. Green Day - American Idiot
-- [ ] 249. Whitney Houston - Whitney Houston
+- [X] 249. Whitney Houston - Whitney Houston
 - [ ] 250. Buzzcocks - Singles Going Steady (1979)
 - [ ] 251. Elton John- Honky Chateau
 - [ ] 252. Devo - Q: Are We Not Men? A: We Are Devo! (1978)

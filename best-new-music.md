@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 4/822
+Current score: 5/822
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -278,7 +278,7 @@ Current score: 4/822
 - [ ] 552. Nao - February 15th EP
 - [ ] 551. Holly Herndon - Platform
 - [ ] 550. Shamir - Ratchet
-- [ ] 549. Jim O'Rourke - Simple Songs
+- [X] 549. Jim O'Rourke - Simple Songs
 - [ ] 548. Prurient - Frozen Niagra Falls
 - [ ] 547. Kamasi Washington - The Epic
 - [ ] 546. Young Thug - Barter 6
