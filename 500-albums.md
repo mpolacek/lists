@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 12/500
+Current score: 13/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -41,7 +41,7 @@ Current score: 12/500
 - [ ] 34. Stevie Wonder - Innervisions
 - [ ] 35. The Beatles - Rubber Soul
 - [ ] 36. Michael Jackson - Off the Wall
-- [ ] 37. Dr. Dre - the Chronic (1992)
+- [X] 37. Dr. Dre - The Chronic (1992)
 - [ ] 38. Bob Dylan - Blonde on Blonde (1966)
 - [ ] 39. Talking Heads - Remain in Light
 - [ ] 40. David Bowie - The Rise and Fall of Ziggy Stardust & the Spiders From Mars

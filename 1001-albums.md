@@ -1,7 +1,7 @@
-1001 Album You Must Hear
-========================
+1001 Albums You Must Hear
+=========================
 
-Current score: 13/1079
+Current score: 17/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -12,7 +12,7 @@ Current score: 13/1079
 - [ ] 5. Fats Domino - This Is Fats (1956)
 - [ ] 6. Ellington at Newport '56- Duke Ellington
 - [ ] 7. Frank Sinatra - Songs for Swinging Lovers! (1956)
-- [ ] 8. Buddy Holly and the Crickets- The "Chirping" Crickets
+- [X] 8. Buddy Holly & The Crickets - The "Chirping" Crickets (1957)
 - [ ] 9. The Atomic Mr Basie- Count Basie
 - [ ] 10. Thelonious Monk - Brilliant Corners
 - [ ] 11. Sabu - Palo Congo (1957)
@@ -493,7 +493,7 @@ Current score: 13/1079
 - [X] 486. Black Flag - Damaged
 - [ ] 487. X- Wild Gift
 - [ ] 488. The Psychedelic Furs - Talk Talk Talk
-- [ ] 489. The Human League - Dare
+- [X] 489. The Human League - Dare
 - [ ] 490. Gun Club : Fire of Love
 - [ ] 491. Bauhaus - Mask
 - [ ] 492. Bobby Womack - The Poet (1981)
@@ -680,7 +680,7 @@ Current score: 13/1079
 - [ ] 673. Pet Shop Boys - Behaviour
 - [ ] 674. Happy Mondays - Pills N Thrills and Bellyaches
 - [ ] 675. George Michael Listen Without Prejudice: Vol 1
-- [ ] 676. Neil Young and Crazy Horse- Ragged Glory
+- [ ] 676. Neil Young and Crazy Horse - Ragged Glory
 - [ ] 677. Ice Cube - Amerikkka's Most Wanted
 - [ ] 678. Jane's Addiction, Ritual De Lo Habitual (1990)
 - [ ] 679. LL Cool J- Mama Said Knock You Out
@@ -691,7 +691,7 @@ Current score: 13/1079
 - [ ] 684. Ride - Nowhere
 - [X] 685. My Bloody Valentine - Loveless (1991)
 - [X] 686. Nirvana - Nevermind (1991)
-- [ ] 687. Crowded House-Woodface
+- [ ] 687. Crowded House - Woodface
 - [ ] 688. Cypress Hill - Cypress Hill
 - [ ] 689. Julian Cope Peggy Suicide
 - [ ] 690. Gang Starr - Step in the Arena
@@ -705,7 +705,7 @@ Current score: 13/1079
 - [ ] 698. Pearl Jam - Ten (1991)
 - [ ] 699. Saint Etienne - Fox Base Alpha
 - [ ] 700. Sepultura - Arise
-- [ ] 701. Slint - Spiderland (1991)
+- [X] 701. Slint - Spiderland (1991)
 - [ ] 702. U2 - Achtung Baby
 - [ ] 703. The KLF - The White Room
 - [ ] 704. Massive Attack: Blue Lines
@@ -722,7 +722,7 @@ Current score: 13/1079
 - [ ] 715. Rage Against the Machine (Rage Against the Machine, 1992)
 - [ ] 716. Disposable Heroes of Hiphoprisy - Hypocrisy Is the Greatest Luxury
 - [ ] 717. Ingenue-K.D. Lang
-- [ ] 718. The Chronic (Dr. Dre, 1992)
+- [X] 718. Dr. Dre - The Chronic (1992)
 - [ ] 719. R.E.M. - Automatic for the People
 - [ ] 720. Bizarre Ride II the Pharcyde (The Pharcyde, 1992)
 - [ ] 721. Spiritualized - Laser Guided Melodies
@@ -1060,7 +1060,7 @@ Current score: 13/1079
 - [ ] 1053. Frank Ocean - Channel Orange
 - [ ] 1054. Jack White - Blunderbuss
 - [ ] 1055. Django Django - Django Django
-- [ ] 1056. My Bloody Valentine, M B V (2013)
+- [ ] 1056. My Bloody Valentine - M B V (2013)
 - [ ] 1057. Kanye West - Yeezus
 - [ ] 1058. The Next Day (David Bowie, 2013)
 - [ ] 1059. CHVRCHES - The Bones of What You Believe
@@ -1068,15 +1068,15 @@ Current score: 13/1079
 - [ ] 1061. Taylor Swift, 1989 (2014)
 - [ ] 1062. FKA Twigs - LP1
 - [ ] 1063. The War on Drugs - Lost in the Dream
-- [ ] 1064. Adele- 25
+- [ ] 1064. Adele - 25
 - [ ] 1065. Björk - Vulnicura (2015)
 - [ ] 1066. Kendrick Lamar - To Pimp a Butterfly
-- [ ] 1067. Songhoy Blues, Music in Exile (2015)
-- [ ] 1068. Skepta – Konnichiwa
+- [ ] 1067. Songhoy Blues - Music in Exile (2015)
+- [ ] 1068. Skepta - Konnichiwa
 - [ ] 1069. Solange - A Seat at the Table (2016)
 - [ ] 1070. David Bowie - Blackstar (2016)
 - [ ] 1071. Leonard Cohen - You Want It Darker (2016)
-- [ ] 1072. The Xx - I See You
+- [ ] 1072. The xx - I See You
 - [ ] 1073. Jane Weaver - Modern Kosmology
 - [ ] 1074. American Dream - LCD Soundsystem
 - [ ] 1075. Lorde - Melodrama (2017)

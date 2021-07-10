@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 14/248
+Current score: 18/248
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -58,8 +58,8 @@ Current score: 14/248
 - [ ] 198. Mazzy Star - So Tonight That I Might See
 - [ ] 197. Fabolous - Ghetto Fabolous
 - [ ] 196. Elliott Smith - Elliott Smith
-- [ ] 195. The Human League - Dare
-- [ ] 194. Archie Shepp - Attica Blues
+- [X] 195. The Human League - Dare
+- [X] 194. Archie Shepp - Attica Blues
 - [ ] 193. Beck - Mellow Gold
 - [ ] 192. XTC - Skylarking
 - [ ] 191. Craig David - Born To Do It
@@ -77,7 +77,7 @@ Current score: 14/248
 - [ ] 179. Blink-182 - Enema of the State
 - [ ] 178. Peter Gabriel - So
 - [ ] 177. Carole King - Tapestry
-- [ ] 176. Dr. Dre - The Chronic
+- [X] 176. Dr. Dre - The Chronic
 - [ ] 175. My Chemical Romance - Three Cheers for Sweet Revenge
 - [ ] 174. The Rolling Stones - Tattoo You
 - [ ] 173. Aimee Mann - Bachelor No. 2 or, the Last Remains of the Dodo
@@ -106,7 +106,7 @@ Current score: 14/248
 - [ ] 150. Roky Erickson - Never Say Goodbye
 - [ ] 149. Pavement - Terror Twilight
 - [ ] 148. Felt - Forever Breathes the Lonely Word
-- [ ] 147. Spice Girls - Spice
+- [X] 147. Spice Girls - Spice
 - [ ] 146. Vince Staples / Larry Fisherman - Stolen Youth
 - [ ] 145. Aphex Twin - Selected Ambient Works Volume II
 - [X] 144. Bennie Maupin - The Jewel in the Lotus
