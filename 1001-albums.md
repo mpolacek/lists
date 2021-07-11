@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 17/1079
+Current score: 20/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -18,12 +18,12 @@ Current score: 17/1079
 - [ ] 11. Sabu - Palo Congo (1957)
 - [ ] 12. Birth of the Cool (Miles Davis)
 - [ ] 13. Kenya - Machito
-- [ ] 14. Here Little Richard- Little Richard
-- [ ] 15. Dance Mania- Tito Puente
+- [ ] 14. Little Richard - Here's Little Richard (1957)
+- [ ] 15. Dance Mania - Tito Puente
 - [ ] 16. Billie Holiday - Lady in Satin
-- [ ] 17. Jack Takes the Floor- Ramblin' Jack Elliott
+- [ ] 17. Ramblin' Jack Elliott - Jack Takes the Floor (1958)
 - [ ] 18. Sarah Vaughan - Sarah Vaughan at Mister Kelly's (1958)
-- [ ] 19. Ella Fitzgerald - Sings the Gershwin Song Book (1959)
+- [ ] 19. Ella Fitzgerald - Sings the Gershwin Song Book (1959) [[D](https://www.discogs.com/Ella-Fitzgerald-Ella-Fitzgerald-Sings-The-Gershwin-Song-Book-Vol-1/master/260697)]
 - [ ] 20. Genius of Ray Charles
 - [ ] 21. Kind of Blue (Miles Davis, 1959)
 - [ ] 22. Gunfighter Ballads and Trail Songs (Marty Robbins, 1959)
@@ -102,7 +102,7 @@ Current score: 17/1079
 - [ ] 95. The Young Rascals - Groovin' (1967)
 - [ ] 96. Jefferson Airplane, Surrealistic Pillow (1967)
 - [ ] 97. The Kinks - Something Else by the Kinks
-- [ ] 98. Donovan - Sunshine Superman (1967)
+- [X] 98. Donovan - Sunshine Superman (1967)
 - [ ] 99. Merle Haggard - I'm a Lonesome Fugitive (1967)
 - [ ] 100. Are You Experienced? - The Jimi Hendrix Experience
 - [ ] 101. The Electric Prunes (Album)
@@ -264,11 +264,11 @@ Current score: 17/1079
 - [ ] 257. Manassas - Manassas (1972)
 - [ ] 258. The Slider ( T. Rex, 1972)
 - [ ] 259. Davd Ackles - American Gothic (1972)
-- [ ] 260. Tim Buckley: Greetings From LA
-- [ ] 261. Nick Drake- Pink Moon
-- [ ] 262. Eagles-Eagles
+- [ ] 260. Tim Buckley - Greetings From LA
+- [ ] 261. Nick Drake - Pink Moon
+- [ ] 262. Eagles - Eagles
 - [ ] 263. Paul Simon- Paul Simon
-- [ ] 264. Roxy Music (Roxy Music, 1972)
+- [ ] 264. Roxy Music - Roxy Music (1972)
 - [ ] 265. Alice Cooper School's Out
 - [ ] 266. The Temptations - All Directions (1972)
 - [ ] 267. David Bowie - The Rise and Fall of Ziggy Stardust & the Spiders From M
@@ -358,7 +358,7 @@ Current score: 17/1079
 - [ ] 351. Station to Station (David Bowie, 1976)
 - [ ] 352. Joni Mitchell • Hejira
 - [ ] 353. Boston - Boston
-- [ ] 354. Eagles - Hotel California
+- [X] 354. Eagles - Hotel California
 - [ ] 355. ABBA - Arrival
 - [ ] 356. Kiss - Destroyer
 - [ ] 357. Rush - 2112 (1976)
@@ -866,7 +866,7 @@ Current score: 17/1079
 - [ ] 859. Spiritualized - Ladies and Gentlemen We Are Floating in Space
 - [ ] 860. System of a Down-System of a Down
 - [ ] 861. Bob Dylan, Live 1966 (1998)
-- [ ] 862. Manu Chao - Clandestino
+- [X] 862. Manu Chao - Clandestino
 - [ ] 863. Billy Bragg and Wilco Mermaid Avenue
 - [ ] 864. Turbonegro - Apocalypse Dudes
 - [ ] 865. Fatboy Slim - You've Come a Long Way Baby

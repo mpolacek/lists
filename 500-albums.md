@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 14/500
+Current score: 16/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -51,7 +51,7 @@ Current score: 14/500
 - [ ] 44. Nas - Illmatic (1994)
 - [ ] 45. Prince - Sign O' the Times (1987)
 - [ ] 46. Paul Simon - Graceland
-- [ ] 47. Ramones- Ramones (1976)
+- [ ] 47. Ramones - Ramones (1976)
 - [ ] 48. Bob Marley and the Wailers - Legend: The Best of Bob Marley
 - [ ] 49. Outkast - Aquemini
 - [ ] 50. Jay-Z - The Blueprint
@@ -65,7 +65,7 @@ Current score: 14/500
 - [ ] 58. Led Zeppelin - Led Zeppelin [IV]
 - [ ] 59. Stevie Wonder - Talking Book
 - [ ] 60. Van Morrison - Astral Weeks
-- [ ] 61. Eric B. and Rakim- Paid in Full
+- [ ] 61. Eric B. and Rakim - Paid in Full
 - [ ] 62. Guns N' Roses - Appetite for Destruction (1987)
 - [ ] 63. Steely Dan - Aja
 - [ ] 64. Outkast - Stankonia
@@ -122,7 +122,7 @@ Current score: 14/500
 - [ ] 115. Kendrick Lamar - Good Kid, M.A.A.D City
 - [ ] 116. The Cure - Disintegration
 - [ ] 117. Kanye West - Late Registration
-- [ ] 118. Eagles - Hotel California
+- [X] 118. Eagles - Hotel California
 - [ ] 119. Sly & the Family Stone - Stand!
 - [ ] 120. Van Morrison - Moondance
 - [ ] 121. Elvis Costello - This Year's Model
@@ -211,14 +211,14 @@ Current score: 14/500
 - [ ] 204. Kanye West - Graduation
 - [ ] 205. Cat Stevens - Tea for the Tillerman
 - [ ] 206. David Bowie - Low
-- [ ] 207. Eagles-Eagles
+- [ ] 207. Eagles - Eagles
 - [ ] 208. Lil Wayne - Tha Carter III
 - [ ] 209. Run DMC - Raising Hell
 - [ ] 210. Ray Charles - The Birth of Soul
 - [ ] 211. Joy Division - Unknown Pleasures
 - [ ] 212. Nina Simone - Wild Is the Wind
 - [ ] 213. Fiona Apple - The Idler Wheel...
-- [ ] 214. Tom Petty- Wildflowers
+- [ ] 214. Tom Petty - Wildflowers
 - [ ] 215. Grateful Dead - American Beauty
 - [ ] 216. Elliott Smith - Either/Or
 - [ ] 217. Oasis - Definitely Maybe
@@ -230,7 +230,7 @@ Current score: 14/500
 - [ ] 223. John Lennon - Imagine
 - [ ] 224. Dixie Chicks - Fly
 - [ ] 225. Wilco - Yankee Hotel Foxtrot (2001)
-- [ ] 226. Derek and the Dominos- Layla and Other Assorted Love Songs
+- [ ] 226. Derek and the Dominos - Layla and Other Assorted Love Songs
 - [ ] 227. Little Richard - Here's Little Richard
 - [ ] 228. De La Soul - De La Soul Is Dead
 - [ ] 229. Patsy Cline the Ultimate Collection
@@ -473,7 +473,7 @@ Current score: 14/500
 - [ ] 466. The Beach Boys Today! (1965)
 - [ ] 467. Maxwell-Blacksummers' Night
 - [ ] 468. The Rolling Stones - Some Girls
-- [ ] 469. Manu Chao - Clandestino
+- [X] 469. Manu Chao - Clandestino
 - [ ] 470. Juvenile - 400 Degreez
 - [ ] 471. Jefferson Airplane - Surrealistic Pillow
 - [ ] 472. Sza - Ctrl
