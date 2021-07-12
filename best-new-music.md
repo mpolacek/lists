@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 5/822
+Current score: 6/822
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -311,7 +311,7 @@ Current score: 5/822
 - [ ] 519. Caribou - Our Love
 - [ ] 518. Flying Lotus - You're Dead!
 - [ ] 517. Perfume Genius - Too Bright
-- [ ] 516. Aphex Twin - Syro (2014)
+- [X] 516. Aphex Twin - Syro (2014)
 - [ ] 515. Pallbearer - Foundations of Burden
 - [ ] 514. FKA Twigs - LP1
 - [ ] 513. Spoon - They Want My Soul

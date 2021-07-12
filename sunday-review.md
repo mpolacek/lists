@@ -1,10 +1,11 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 18/248
+Current score: 22/249
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [X] 249. Muse - Origin of Symmetry
 - [ ] 248. Laurie Anderson - United States Live
 - [ ] 247. Billy Joel - The Stranger
 - [ ] 246. Sinéad O’Connor - The Lion and the Cobra
@@ -42,8 +43,8 @@ Current score: 18/248
 - [ ] 214. INXS - Listen Like Thieves
 - [ ] 213. Teena Marie - Irons in the Fire
 - [ ] 212. Adele - 21
-- [ ] 211. Beverly Glenn-Copeland - Keyboard Fantasies
-- [ ] 210. The Breeders - Pod
+- [X] 211. Beverly Glenn-Copeland - Keyboard Fantasies (1986)
+- [X] 210. The Breeders - Pod
 - [ ] 209. Ivy Queen - Diva
 - [ ] 208. Harry Nilsson - Pussy Cats
 - [ ] 207. Miranda Lambert - Crazy Ex-Girlfriend
@@ -175,7 +176,7 @@ Current score: 18/248
 - [ ] 81. 2Pac - All Eyez on Me
 - [ ] 80. The-Dream - Love/Hate
 - [ ] 79. Gil Scott-Heron / Brian Jackson - Winter in America
-- [ ] 78. The Blue Nile - Hats
+- [X] 78. The Blue Nile - Hats
 - [ ] 77. Rage Against the Machine - Rage Against the Machine
 - [ ] 76. Mariah Carey - Daydream
 - [ ] 75. Lou Reed - Metal Machine Music
