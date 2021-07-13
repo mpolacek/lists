@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 23/249
+Current score: 24/249
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -239,7 +239,7 @@ Current score: 23/249
 - [ ] 18. Janet Jackson - Rhythm Nation 1814
 - [ ] 17. Guided by Voices - Alien Lanes
 - [ ] 16. Erykah Badu - Mama's Gun
-- [ ] 15. Brian Eno - Another Green World
+- [X] 15. Brian Eno - Another Green World
 - [X] 14. Caetano Veloso - Caetano Veloso
 - [ ] 13. Terry Riley - A Rainbow in Curved Air
 - [ ] 12. The Roots - Things Fall Apart

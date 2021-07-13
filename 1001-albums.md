@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 24/1079
+Current score: 27/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -234,7 +234,7 @@ Current score: 24/1079
 - [ ] 227. Rod Stewart - Every Picture Tells a Story
 - [ ] 228. Emerson, Lake & Palmer - Pictures at an Exhibition (1972)
 - [ ] 229. Leonard Cohen - Songs of Love and Hate
-- [ ] 230. Joni Mitchell - Blue (1971)
+- [X] 230. Joni Mitchell - Blue (1971)
 - [ ] 231. Pearl- Janis Joplin
 - [ ] 232. Funkadelic - Maggot Brain
 - [ ] 233. Fela Ransome-Kuti & the Afrika 70 With Ginger Baker - Live!
@@ -331,7 +331,7 @@ Current score: 24/1079
 - [ ] 324. Bob Marley and the Wailers - Natty Dread
 - [ ] 325. Robert Wyatt - Rock Bottom
 - [ ] 326. Gram Parsons: Grievous Angel
-- [ ] 327. Another Green World (Brian Eno, 1975)
+- [X] 327. Brian Eno - Another Green World (1975)
 - [ ] 328. The Dictators - Go Girl Crazy! (1975)
 - [ ] 329. NEU! - Neu! '75 (1975)
 - [ ] 330. Led Zeppelin - Physical Graffiti
@@ -801,7 +801,7 @@ Current score: 24/1079
 - [ ] 794. 2Pac - Me Against the World
 - [ ] 795. Elastica - Elastica
 - [ ] 796. Supergrass I Should Coco
-- [ ] 797. Radiohead - The Bends
+- [X] 797. Radiohead - The Bends
 - [ ] 798. Guided by Voices - Alien Lanes
 - [ ] 799. Femi Kutti Femi Kutti
 - [ ] 800. The Verve - A Northern Soul

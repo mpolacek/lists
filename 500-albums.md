@@ -1,13 +1,13 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 18/500
+Current score: 21/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
 - [X] 1. Marvin Gaye - What's Going On
 - [ ] 2. The Beach Boys - Pet Sounds
-- [ ] 3. Joni Mitchell - Blue
+- [X] 3. Joni Mitchell - Blue
 - [X] 4. Stevie Wonder - Songs in the Key of Life
 - [X] 5. The Beatles - Abbey Road
 - [X] 6. Nirvana - Nevermind (1991)
@@ -280,7 +280,7 @@ Current score: 18/500
 - [ ] 273. Gang of Four - Entertainment!
 - [ ] 274. The Byrds - Sweetheart of the Rodeo
 - [ ] 275. Curtis Mayfield - Curtis
-- [ ] 276. Radiohead - The Bends (1995)
+- [X] 276. Radiohead - The Bends (1995)
 - [ ] 277. Alicia Keys the Diary of Alicia Keys
 - [ ] 278. Led Zeppelin - Houses of the Holy
 - [X] 279. Nirvana - MTV Unplugged in New York
@@ -342,7 +342,7 @@ Current score: 18/500
 - [ ] 335. Bob Dylan and the Band- Basement Tapes
 - [ ] 336. Roxy Music - Avalon
 - [ ] 337. Bob Dylan - John Wesley Harding
-- [ ] 338. Brian Eno - Another Green World
+- [X] 338. Brian Eno - Another Green World
 - [ ] 339. Janet Jackson - Rhythm Nation 1814 (1989)
 - [ ] 340. Snoop Doggy Dogg - Doggystyle
 - [ ] 341. Siamese Dream - The Smashing Pumpkins
