@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 20/1079
+Current score: 24/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -586,12 +586,12 @@ Current score: 20/1079
 - [ ] 579. Run DMC - Raising Hell
 - [ ] 580. XTC - Skylarking
 - [ ] 581. Steve Earle - Guitar Town
-- [ ] 582. Bad Brains - I Against I
+- [X] 582. Bad Brains - I Against I
 - [ ] 583. Anita Baker - Rapture
 - [ ] 584. The Smiths - The Queen Is Dead
 - [ ] 585. Peter Gabriel So
 - [ ] 586. Anthrax - Among the Living
-- [ ] 587. Dinosaur Jr - You're Living All Over Me
+- [X] 587. Dinosaur Jr. - You're Living All Over Me
 - [ ] 588. Dolly Parton - Linda Ronstadt - Emmylou Harrys - Trio (1987)
 - [ ] 589. Def Leppard - Hysteria
 - [ ] 590. R.E.M. - Document
@@ -914,7 +914,7 @@ Current score: 20/1079
 - [ ] 907. Mj Cole Sincere
 - [ ] 908. Limp Bizkit - Chocolate Starfish and the Hot Dog Flavored Water
 - [ ] 909. Emmylou Harris - Red Dirt Girl
-- [ ] 910. Radiohead - Kid A (2000)
+- [X] 910. Radiohead - Kid A (2000)
 - [ ] 911. Badly Drawn Boy - Hour of Bewilderbeast
 - [ ] 912. U2 - All That You Can't Leave Behind
 - [ ] 913. Coldplay - Parachutes
@@ -953,7 +953,7 @@ Current score: 20/1079
 - [ ] 946. Jurassic 5 - Power in Numbers
 - [ ] 947. Wilco - Yankee Hotel Foxtrot
 - [ ] 948. Christina Aguilera - Stripped
-- [ ] 949. Coldplay - A Rush of Blood to the Head
+- [X] 949. Coldplay - A Rush of Blood to the Head
 - [ ] 950. Ms Dynamite a Little Deeper
 - [ ] 951. Norah Jones - Come Away With Me
 - [ ] 952. The Flaming Lips - Yoshimi Battles the Pink Robots (2002)

@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 22/249
+Current score: 23/249
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -50,7 +50,7 @@ Current score: 22/249
 - [ ] 207. Miranda Lambert - Crazy Ex-Girlfriend
 - [ ] 206. UGK - Ridin’ Dirty
 - [ ] 205. Rage Against the Machine - The Battle of Los Angeles
-- [ ] 204. Bad Brains - I Against I
+- [X] 204. Bad Brains - I Against I
 - [ ] 203. Wipers - Youth of America
 - [ ] 202. Pink Floyd - Meddle
 - [ ] 201. Seo Taiji and Boys - Seo Taiji and Boys

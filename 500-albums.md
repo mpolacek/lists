@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 16/500
+Current score: 18/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -24,7 +24,7 @@ Current score: 16/500
 - [ ] 17. Kanye West - My Beautiful Dark Twisted Fantasy
 - [ ] 18. Bob Dylan - Highway 61 Revisited (1965)
 - [ ] 19. Kendrick Lamar - To Pimp a Butterfly
-- [ ] 20. Radiohead - Kid A (2000)
+- [X] 20. Radiohead - Kid A (2000)
 - [ ] 21. Bruce Springsteen - Born to Run
 - [ ] 22. Notorious B.I.G. - Ready to Die
 - [ ] 23. The Velvet Underground - The Velvet Underground & Nico
@@ -328,7 +328,7 @@ Current score: 16/500
 - [ ] 321. Lana Del Rey - Norman Fucking Rockwell
 - [ ] 322. Elvis Presley - From Elvis in Memphis (1969)
 - [ ] 323. The Clash - Sandinista!
-- [ ] 324. Coldplay - A Rush of Blood to the Head
+- [X] 324. Coldplay - A Rush of Blood to the Head
 - [ ] 325. Jerry Lee Lewis- All Killer, No Filler
 - [ ] 326. Prince - Dirty Mind (1980)
 - [ ] 327. The Who - Live at Leeds
