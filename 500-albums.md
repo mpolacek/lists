@@ -1,12 +1,12 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 24/500
+Current score: 28/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
 - [X] 1. Marvin Gaye - What's Going On
-- [ ] 2. The Beach Boys - Pet Sounds
+- [X] 2. The Beach Boys - Pet Sounds
 - [X] 3. Joni Mitchell - Blue
 - [X] 4. Stevie Wonder - Songs in the Key of Life
 - [X] 5. The Beatles - Abbey Road
@@ -28,7 +28,7 @@ Current score: 24/500
 - [ ] 21. Bruce Springsteen - Born to Run
 - [ ] 22. Notorious B.I.G. - Ready to Die
 - [ ] 23. The Velvet Underground - The Velvet Underground & Nico
-- [ ] 24. The Beatles - Sgt. Pepper's Lonely Hearts Club Band
+- [X] 24. The Beatles - Sgt. Pepper's Lonely Hearts Club Band
 - [ ] 25. Carole King - Tapestry (1971)
 - [ ] 26. Patti Smith - Horses (1975)
 - [ ] 27. Wu-Tang Clan - Enter the Wu-Tang (36 Chambers) (1993)
@@ -169,7 +169,7 @@ Current score: 24/500
 - [ ] 162. Pulp - Different Class (1995)
 - [ ] 163. Various Artists - Saturday Night Fever
 - [ ] 164. Johnny Cash - At Folsom Prison
-- [ ] 165. R.E.M.- Murmur
+- [X] 165. R.E.M. - Murmur
 - [ ] 166. Buddy Holly - 20 Golden Greats
 - [ ] 167. Depeche Mode - Violator (1990)
 - [ ] 168. Steely Dan - Can't Buy a Thrill
@@ -202,7 +202,7 @@ Current score: 24/500
 - [ ] 195. Leonard Cohen - Songs of Leonard Cohen (1967)
 - [ ] 196. Robyn - Body Talk
 - [ ] 197. The Beatles - Meet the Beatles!
-- [ ] 198. The B52's
+- [ ] 198. The B-52's - The B-52's
 - [ ] 199. Pavement - Slanted and Enchanted
 - [ ] 200. Sade - Diamond Life
 - [ ] 201. A Tribe Called Quest - Midnight Marauders
@@ -219,7 +219,7 @@ Current score: 24/500
 - [ ] 212. Nina Simone - Wild Is the Wind
 - [ ] 213. Fiona Apple - The Idler Wheel...
 - [ ] 214. Tom Petty - Wildflowers
-- [ ] 215. Grateful Dead - American Beauty
+- [X] 215. Grateful Dead - American Beauty
 - [ ] 216. Elliott Smith - Either/Or
 - [ ] 217. Oasis - Definitely Maybe
 - [ ] 218. TLC - Crazysexycool (1994)

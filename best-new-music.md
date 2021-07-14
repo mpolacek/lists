@@ -1,11 +1,11 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 6/822
+Current score: 10/822
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
-- [ ] 822. L'Rain - Fatigue
+- [X] 822. L'Rain - Fatigue
 - [ ] 821. Tyler, the Creator - Call Me If You Get Lost
 - [X] 820. Faye Webster - I Know I'm Funny haha
 - [ ] 819. Mach-Hommy - Pray for Haiti
@@ -711,9 +711,9 @@ Current score: 6/822
 - [ ] 119. Serena Maneesh - Serena Maneesh
 - [ ] 118. Kanye West - Late Registration
 - [ ] 117. The New Pornographers - Twin Cinema
-- [ ] 116. Sufjan Stevens - Illinois
+- [X] 116. Sufjan Stevens - Illinois
 - [ ] 115. Wilderness - Wilderness
-- [ ] 114. Clap Your Hands Say Yeah - Clap Your Hands Say Yeah
+- [X] 114. Clap Your Hands Say Yeah - Clap Your Hands Say Yeah
 - [ ] 113. Isolee - We Are Monster
 - [ ] 112. Art Brut - Bang Bang Rock & Roll
 - [ ] 111. Common - Be
@@ -784,7 +784,7 @@ Current score: 6/822
 - [ ] 46. Jay-Z - The Black Album
 - [ ] 45. The Unicorns - Who Will Cut Our Hair When We're Gone?
 - [ ] 44. Ellen Allien - Berlinette
-- [ ] 43. Menomena - I Am the Fun Blame Monster
+- [X] 43. Menomena - I Am the Fun Blame Monster
 - [ ] 42. Basement Jaxx - Kish Kash
 - [ ] 41. The Shins - Chutes Too Narrow
 - [ ] 40. Non-Prophets - Hope

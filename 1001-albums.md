@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 30/1079
+Current score: 35/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -65,7 +65,7 @@ Current score: 30/1079
 - [ ] 58. Bob Dylan, Highway 61 Revisited (1965)
 - [ ] 59. The Who My Generation
 - [ ] 60. The Beatles - Revolver (1966)
-- [ ] 61. The Beach Boys - Pet Sounds (1966)
+- [X] 61. The Beach Boys - Pet Sounds (1966)
 - [ ] 62. Fred Neil
 - [ ] 63. The Byrds: Fifth Dimension
 - [ ] 64. Bob Dylan, Blonde on Blonde (1966)
@@ -82,7 +82,7 @@ Current score: 30/1079
 - [ ] 75. Nina Simone - Wild Is the Wind
 - [ ] 76. Astrud Gilberto - Beach Samba
 - [ ] 77. Nico - Chelsea Girl (1967)
-- [ ] 78. The Beatles, Sgt. Pepper'S Lonely Hearts Club Band (1967)
+- [X] 78. The Beatles - Sgt. Pepper's Lonely Hearts Club Band (1967)
 - [ ] 79. Country Joe & the Fish: Electric Music for the Mind and Body
 - [ ] 80. Buffalo Springfield Again
 - [ ] 81. Captain Beefheart & His Magic Band - Safe as Milk
@@ -194,7 +194,7 @@ Current score: 30/1079
 - [ ] 187. Led Zeppelin III
 - [ ] 188. Deep Purple - Deep Purple in Rock
 - [ ] 189. Van Morrison - Moondance
-- [ ] 190. Grateful Dead- American Beauty
+- [X] 190. Grateful Dead - American Beauty
 - [ ] 191. Nick Drake - Bryter Layter (1970)
 - [ ] 192. Ananda Shankar - Ananda Shankar (1970)
 - [X] 193. The Who - Live at Leeds (1970)
@@ -522,7 +522,7 @@ Current score: 30/1079
 - [ ] 515. Violent Femmes - Violent Femmes
 - [ ] 516. Malcolm Mclaren - Duck Rock
 - [ ] 517. Def Leppard - Pyromania
-- [ ] 518. R.E.M. - Murmur
+- [X] 518. R.E.M. - Murmur
 - [ ] 519. The - The Soul Mining
 - [ ] 520. Swordfishtrombones (Tom Waits, 1983)
 - [ ] 521. The Blue Nile - A Walk Across the Rooftops (1984)
@@ -1009,7 +1009,7 @@ Current score: 30/1079
 - [ ] 1002. Antony & the Johnsons - I Am a Bird Now
 - [ ] 1003. Richard Hawley Coles Corner
 - [ ] 1004. Beck - Guero
-- [ ] 1005. Sufjan Stevens - Illinois
+- [X] 1005. Sufjan Stevens - Illinois
 - [ ] 1006. The White Stripes - Get Behind Me Satan
 - [ ] 1007. Amy Winehouse - Back to Black
 - [ ] 1008. Christina Aguilera - Back to Basics
