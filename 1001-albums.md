@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 27/1079
+Current score: 30/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -25,7 +25,7 @@ Current score: 27/1079
 - [ ] 18. Sarah Vaughan - Sarah Vaughan at Mister Kelly's (1958)
 - [ ] 19. Ella Fitzgerald - Sings the Gershwin Song Book (1959) [[D](https://www.discogs.com/Ella-Fitzgerald-Ella-Fitzgerald-Sings-The-Gershwin-Song-Book-Vol-1/master/260697)]
 - [ ] 20. Genius of Ray Charles
-- [ ] 21. Kind of Blue (Miles Davis, 1959)
+- [X] 21. Miles Davis - Kind of Blue (1959)
 - [ ] 22. Gunfighter Ballads and Trail Songs (Marty Robbins, 1959)
 - [ ] 23. Time Out (The Dave Brubeck Quartet, 1959)
 - [ ] 24. Joan Baez - Joan Baez (1960)
@@ -197,7 +197,7 @@ Current score: 27/1079
 - [ ] 190. Grateful Dead- American Beauty
 - [ ] 191. Nick Drake - Bryter Layter (1970)
 - [ ] 192. Ananda Shankar - Ananda Shankar (1970)
-- [ ] 193. The Who, Live at Leeds (1970)
+- [X] 193. The Who - Live at Leeds (1970)
 - [ ] 194. Soft Machine - Third
 - [ ] 195. Rod Stewart - Gasoline Alley (1970)
 - [ ] 196. George Harrison - All Things Must Pass
@@ -802,7 +802,7 @@ Current score: 27/1079
 - [ ] 795. Elastica - Elastica
 - [ ] 796. Supergrass I Should Coco
 - [X] 797. Radiohead - The Bends
-- [ ] 798. Guided by Voices - Alien Lanes
+- [X] 798. Guided by Voices - Alien Lanes
 - [ ] 799. Femi Kutti Femi Kutti
 - [ ] 800. The Verve - A Northern Soul
 - [ ] 801. Liquid Swords (GZA, 1995)

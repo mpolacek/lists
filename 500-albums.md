@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 21/500
+Current score: 24/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -35,7 +35,7 @@ Current score: 21/500
 - [ ] 28. D'Angelo - Voodoo
 - [ ] 29. The Beatles - The Beatles [White Album]
 - [ ] 30. The Jimi Hendrix Experience - Are You Experienced (1967)
-- [ ] 31. Miles Davis - Kind of Blue
+- [X] 31. Miles Davis - Kind of Blue
 - [X] 32. Beyoncé - Lemonade
 - [ ] 33. Amy Winehouse - Back to Black
 - [ ] 34. Stevie Wonder - Innervisions
@@ -130,7 +130,7 @@ Current score: 21/500
 - [ ] 123. Led Zeppelin II
 - [ ] 124. U2 - Achtung Baby (1991)
 - [ ] 125. Beastie Boys - Paul's Boutique
-- [ ] 126. Mary J. Blige- My Life
+- [X] 126. Mary J. Blige - My Life
 - [ ] 127. Ray Charles - Modern Sounds in Country and Western Music (1962)
 - [ ] 128. Queen - A Night at the Opera
 - [ ] 129. Pink Floyd - The Wall
@@ -331,7 +331,7 @@ Current score: 21/500
 - [X] 324. Coldplay - A Rush of Blood to the Head
 - [ ] 325. Jerry Lee Lewis- All Killer, No Filler
 - [ ] 326. Prince - Dirty Mind (1980)
-- [ ] 327. The Who - Live at Leeds
+- [X] 327. The Who - Live at Leeds
 - [ ] 328. Vampire Weekend - Modern Vampires of the City
 - [ ] 329. DJ Shadow - Endtroducing.....
 - [ ] 330. The Rolling Stones- Aftermath

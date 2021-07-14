@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 24/249
+Current score: 25/249
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -237,7 +237,7 @@ Current score: 24/249
 - [ ] 20. Ramones - End of the Century
 - [ ] 19. Randy Newman - Good Old Boys
 - [ ] 18. Janet Jackson - Rhythm Nation 1814
-- [ ] 17. Guided by Voices - Alien Lanes
+- [X] 17. Guided by Voices - Alien Lanes
 - [ ] 16. Erykah Badu - Mama's Gun
 - [X] 15. Brian Eno - Another Green World
 - [X] 14. Caetano Veloso - Caetano Veloso
