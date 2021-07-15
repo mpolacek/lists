@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 30/500
+Current score: 32/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -70,7 +70,7 @@ Current score: 30/500
 - [ ] 63. Steely Dan - Aja
 - [ ] 64. Outkast - Stankonia
 - [ ] 65. James Brown - Live at the Apollo
-- [ ] 66. John Coltrane - A Love Supreme
+- [X] 66. John Coltrane - A Love Supreme
 - [ ] 67. Jay-Z - Reasonable Doubt
 - [X] 68. Kate Bush - Hounds of Love (1985)
 - [ ] 69. Alanis Morrisette - Jagged Little Pill (1995)
@@ -333,7 +333,7 @@ Current score: 30/500
 - [ ] 326. Prince - Dirty Mind (1980)
 - [X] 327. The Who - Live at Leeds
 - [ ] 328. Vampire Weekend - Modern Vampires of the City
-- [ ] 329. DJ Shadow - Endtroducing.....
+- [X] 329. DJ Shadow - Endtroducing.....
 - [ ] 330. The Rolling Stones- Aftermath
 - [ ] 331. Madonna - Like a Prayer
 - [ ] 332. Elvis Presley

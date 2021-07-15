@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 38/1079
+Current score: 41/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -57,7 +57,7 @@ Current score: 38/1079
 - [ ] 50. Bob Dylan - Bringing It All Back Home
 - [ ] 51. Otis Redding - Otis Blue: Otis Redding Sings Soul
 - [ ] 52. The Beach Boys - The Beach Boys Today! (1965)
-- [ ] 53. John Coltrane - A Love Supreme (1965)
+- [X] 53. John Coltrane - A Love Supreme (1965)
 - [ ] 54. B.B. King - Live at the Regal
 - [ ] 55. The Beatles - Rubber Soul (1965)
 - [ ] 56. Bert Jansch - Bert Jansch (1965)
@@ -688,7 +688,7 @@ Current score: 38/1079
 - [ ] 681. Sinead O'Connor - I Do Not Want What I Haven't Got
 - [ ] 682. A Tribe Called Quest - People's Instinctive Travels
 - [ ] 683. Sonic Youth - Goo
-- [ ] 684. Ride - Nowhere
+- [X] 684. Ride - Nowhere
 - [X] 685. My Bloody Valentine - Loveless (1991)
 - [X] 686. Nirvana - Nevermind (1991)
 - [ ] 687. Crowded House - Woodface
@@ -820,7 +820,7 @@ Current score: 38/1079
 - [ ] 813. Tortoise - Millions Now Living Will Never Die
 - [ ] 814. Beck - Odelay
 - [ ] 815. Belle & Sebastian - Tigermilk
-- [ ] 816. Endtroducing..... (Dj Shadow, 1996)
+- [X] 816. DJ Shadow - Endtroducing..... (1996)
 - [ ] 817. Eels - Beautiful Freak
 - [ ] 818. Divine Comedy Casanova
 - [ ] 819. Fiona Apple - Tidal
