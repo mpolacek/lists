@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 28/500
+Current score: 30/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -46,7 +46,7 @@ Current score: 28/500
 - [ ] 39. Talking Heads - Remain in Light
 - [ ] 40. David Bowie - The Rise and Fall of Ziggy Stardust & the Spiders From Mars
 - [ ] 41. The Rolling Stones - Let It Bleed
-- [ ] 42. Radiohead - OK Computer (1997)
+- [X] 42. Radiohead - OK Computer (1997)
 - [ ] 43. A Tribe Called Quest - The Low End Theory (1991)
 - [ ] 44. Nas - Illmatic (1994)
 - [ ] 45. Prince - Sign O' the Times (1987)
@@ -245,7 +245,7 @@ Current score: 28/500
 - [ ] 238. Kraftwerk - Trans-Europe Express
 - [ ] 239. Boogie Down Productions - Criminal Minded
 - [ ] 240. Sam Cooke - Live at the Harlem Square Club, 1963
-- [ ] 241. Massive Attack - Blue Lines (1991)
+- [X] 241. Massive Attack - Blue Lines (1991)
 - [ ] 242. The Velvet Underground - Loaded
 - [ ] 243. The Zombies -Odessey and Oracle
 - [ ] 244. Kanye West - 808S and Heartbreak

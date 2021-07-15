@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 35/1079
+Current score: 38/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -520,7 +520,7 @@ Current score: 35/1079
 - [ ] 513. Iron Maiden - The Number of the Beast
 - [ ] 514. Duran Duran - Rio
 - [ ] 515. Violent Femmes - Violent Femmes
-- [ ] 516. Malcolm Mclaren - Duck Rock
+- [X] 516. Malcolm Mclaren - Duck Rock
 - [ ] 517. Def Leppard - Pyromania
 - [X] 518. R.E.M. - Murmur
 - [ ] 519. The - The Soul Mining
@@ -708,7 +708,7 @@ Current score: 35/1079
 - [X] 701. Slint - Spiderland (1991)
 - [ ] 702. U2 - Achtung Baby
 - [ ] 703. The KLF - The White Room
-- [ ] 704. Massive Attack: Blue Lines
+- [X] 704. Massive Attack - Blue Lines
 - [ ] 705. Primal Scream - Screamadelica
 - [ ] 706. Teenage Fanclub - Bandwagonesque
 - [ ] 707. Metallica - Metallica
@@ -842,7 +842,7 @@ Current score: 35/1079
 - [ ] 835. Ash - 1977
 - [ ] 836. Belle and Sebastian - If You're Feeling Sinister
 - [ ] 837. Blur - Blur
-- [ ] 838. Radiohead - OK Computer (1997)
+- [X] 838. Radiohead - OK Computer (1997)
 - [ ] 839. Finely Quaye Maverick a Strike
 - [ ] 840. Missy "Misdemeanor" Elliott- Supa Dupa Fly
 - [ ] 841. The Chemical Bros. - Dig Your Own Hole (1997)

@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 10/822
+Current score: 13/822
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -9,7 +9,7 @@ Current score: 10/822
 - [ ] 821. Tyler, the Creator - Call Me If You Get Lost
 - [X] 820. Faye Webster - I Know I'm Funny haha
 - [ ] 819. Mach-Hommy - Pray for Haiti
-- [ ] 818. Mdou Moctar - Afrique Victime
+- [X] 818. Mdou Moctar - Afrique Victime
 - [ ] 817. Iceage - Seek Shelter
 - [ ] 816. Arooj Aftab - Vulture Prince
 - [ ] 815. The Armed - ULTRAPOP
@@ -20,8 +20,8 @@ Current score: 10/822
 - [ ] 810. Floating Points / Pharoah Sanders / The London Symphony Orchestra - Promises
 - [ ] 809. Cassandra Jenkins - An Overview on Phenomenal Nature
 - [ ] 808. The Weather Station - Ignorance
-- [ ] 807. Jazmine Sullivan - Heaux Tales
-- [ ] 806. Navy Blue - Song of Sage: Post Panic!
+- [X] 807. Jazmine Sullivan - Heaux Tales
+- [X] 806. Navy Blue - Song of Sage: Post Panic!
 - [ ] 805. Playboi Carti - Whole Lotta Red
 - [ ] 804. Amaarae - The Angel You Don't Know
 - [ ] 803. Angel Bat Dawid / Tha Brothahood - LIVE
