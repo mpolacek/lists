@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 32/500
+Current score: 34/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -203,9 +203,9 @@ Current score: 32/500
 - [ ] 196. Robyn - Body Talk
 - [ ] 197. The Beatles - Meet the Beatles!
 - [ ] 198. The B-52's - The B-52's
-- [ ] 199. Pavement - Slanted and Enchanted
+- [X] 199. Pavement - Slanted and Enchanted
 - [ ] 200. Sade - Diamond Life
-- [ ] 201. A Tribe Called Quest - Midnight Marauders
+- [X] 201. A Tribe Called Quest - Midnight Marauders
 - [ ] 202. Björk - Homogenic (1997)
 - [ ] 203. Nick Drake - Pink Moon (1972)
 - [ ] 204. Kanye West - Graduation

@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 25/249
+Current score: 26/249
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -167,7 +167,7 @@ Current score: 25/249
 - [ ] 90. Neneh Cherry - Raw Like Sushi
 - [ ] 89. The Kinks - Something Else
 - [ ] 88. Bruce Springsteen - Nebraska
-- [ ] 87. Miles Davis - Get Up With It
+- [X] 87. Miles Davis - Get Up With It
 - [ ] 86. Scarface - The Diary
 - [ ] 85. Sublime - 40oz. to Freedom
 - [ ] 84. Belle and Sebastian - The Boy With the Arab Strap

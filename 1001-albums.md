@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 41/1079
+Current score: 45/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -149,8 +149,8 @@ Current score: 41/1079
 - [ ] 142. Johnny Cash - At San Quentin (1969)
 - [ ] 143. Creedence Clearwater Revival - Green River
 - [X] 144. The Beatles - Abbey Road (1969)
-- [ ] 145. Tommy (The Who, 1969)
-- [ ] 146. Miles Davis, in a Silent Way (1969)
+- [ ] 145. The Who - Tommy (1969)
+- [X] 146. Miles Davis - In a Silent Way (1969)
 - [ ] 147. Bee Gees - Odessa (1969)
 - [ ] 148. Pentangle - Basket of Light (1969)
 - [ ] 149. Let It Bleed (The Rolling Stones, 1969)
@@ -400,7 +400,7 @@ Current score: 41/1079
 - [ ] 393. Ian Dury - New Boots and Panties!!
 - [ ] 394. Sex Pistols - Never Mind the Bollocks Here's the Sex Pistols
 - [ ] 395. Pere Ubu: The Modern Dance
-- [ ] 396. Kraftwerk - The Man-Machine
+- [X] 396. Kraftwerk - The Man-Machine
 - [ ] 397. Blondie - Parallel Lines
 - [ ] 398. Elis Regina - Vento De Maio (1985)
 - [ ] 399. Pere Ubu - Dub Housing (1978)
@@ -712,7 +712,7 @@ Current score: 41/1079
 - [ ] 705. Primal Scream - Screamadelica
 - [ ] 706. Teenage Fanclub - Bandwagonesque
 - [ ] 707. Metallica - Metallica
-- [ ] 708. Pavement - Slanted and Enchanted
+- [X] 708. Pavement - Slanted and Enchanted
 - [ ] 709. Aphex Twin - Selected Ambient Works 85-92
 - [ ] 710. Three Years, Five Months, and Two Days in the Life of ...
 - [ ] 711. Haut De Gamme / Koweït Rive Gauche
@@ -931,7 +931,7 @@ Current score: 41/1079
 - [ ] 924. Ute Lemper • Punishing Kiss
 - [ ] 925. The Avalanches-Since I Left You
 - [ ] 926. Outkast - Stankonia
-- [ ] 927. Common - Like Water for Chocolate
+- [X] 927. Common - Like Water for Chocolate
 - [ ] 928. Silver Jews - Bright Flight
 - [ ] 929. Giant Sand Chore of Enchantment
 - [ ] 930. Björk - Vespertine (2001)
