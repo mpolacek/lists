@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 26/249
+Current score: 27/249
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -156,7 +156,7 @@ Current score: 26/249
 - [ ] 101. Curtis Mayfield - Super Fly
 - [ ] 100. The Band - The Band
 - [ ] 99. Hole - Live Through This
-- [ ] 98. Raekwon - Only Built 4 Cuban Linx
+- [X] 98. Raekwon - Only Built 4 Cuban Linx
 - [ ] 97. Aretha Franklin - Spirit in the Dark
 - [ ] 96. Bob Dylan - Time Out of Mind
 - [ ] 95. Public Image Ltd - The Flowers of Romance

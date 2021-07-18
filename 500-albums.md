@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 34/500
+Current score: 37/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -151,7 +151,7 @@ Current score: 34/500
 - [ ] 144. Led Zeppelin - Physical Graffiti
 - [ ] 145. Eminem - The Marshall Mathers LP
 - [ ] 146. Blondie - Parallel Lines
-- [ ] 147. Jeff Buckley - Grace (1994)
+- [X] 147. Jeff Buckley - Grace (1994)
 - [ ] 148. Frank Ocean - Channel Orange
 - [ ] 149. John Prine - John Prine
 - [ ] 150. Bruce Springsteen - Nebraska (1982)
@@ -223,7 +223,7 @@ Current score: 34/500
 - [ ] 216. Elliott Smith - Either/Or
 - [ ] 217. Oasis - Definitely Maybe
 - [ ] 218. TLC - Crazysexycool (1994)
-- [ ] 219. Raekwon- Only Built 4 Cuban Linx
+- [X] 219. Raekwon- Only Built 4 Cuban Linx
 - [ ] 220. Crosby, Stills, Nash and Young - Déjà Vu
 - [ ] 221. Rage Against the Machine - Rage Against the Machine
 - [ ] 222. Madonna - Ray of Light
@@ -428,7 +428,7 @@ Current score: 34/500
 - [ ] 421. M.I.A. - Arular
 - [ ] 422. Let's Get It On
 - [ ] 423. Yo La Tengo - I Can Hear the Heart Beating as One
-- [ ] 424. Beck - Odelay
+- [X] 424. Beck - Odelay
 - [ ] 425. Paul Simon - Paul Simon
 - [ ] 426. Lucinda Williams - Lucinda Williams
 - [ ] 427. Al Green- Call Me

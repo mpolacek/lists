@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 45/1079
+Current score: 50/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -784,7 +784,7 @@ Current score: 45/1079
 - [ ] 777. Manic Street Preachers - The Holy Bible
 - [ ] 778. Suede - Dog Man Star
 - [ ] 779. The Notorious B.I.G - Ready to Die
-- [ ] 780. Jeff Buckley - Grace
+- [X] 780. Jeff Buckley - Grace
 - [ ] 781. Orbital - Snivilisation
 - [X] 782. Nirvana - MTV Unplugged in New York (1994)
 - [ ] 783. Nine Inch Nails - The Downward Spiral
@@ -794,7 +794,7 @@ Current score: 45/1079
 - [ ] 787. Garbage - Garbage (1995)
 - [ ] 788. Nightmares on Wax Smokers Delight
 - [ ] 789. Tricky - Maxinquaye
-- [ ] 790. Raekwon- Only Built 4 Cuban Linx
+- [X] 790. Raekwon- Only Built 4 Cuban Linx
 - [ ] 791. Smashing Pumpkins - Mellon Collie and the Infinite Sadness
 - [ ] 792. Rocket From the Crypt Scream Dracula Scream
 - [ ] 793. The Chemical Brothers - Exit Planet Dust
@@ -818,7 +818,7 @@ Current score: 45/1079
 - [ ] 811. Dr. Octagon - Dr. Octagonecologyst (1996)
 - [ ] 812. Stereolab - Emperor Tomato Ketchup
 - [ ] 813. Tortoise - Millions Now Living Will Never Die
-- [ ] 814. Beck - Odelay
+- [X] 814. Beck - Odelay
 - [ ] 815. Belle & Sebastian - Tigermilk
 - [X] 816. DJ Shadow - Endtroducing..... (1996)
 - [ ] 817. Eels - Beautiful Freak
@@ -883,7 +883,7 @@ Current score: 45/1079
 - [ ] 876. Korn - Follow the Leader
 - [ ] 877. Talvin Singh - Ok
 - [ ] 878. Kid Rock - Devil Without a Cause
-- [ ] 879. Boards of Canada - Music Has the Right to Children (1998)
+- [X] 879. Boards of Canada - Music Has the Right to Children (1998)
 - [ ] 880. Suba - Sao Paulo Confessions
 - [ ] 881. Khaled - Kenza
 - [ ] 882. XTC - Apple Venus
@@ -896,7 +896,7 @@ Current score: 45/1079
 - [ ] 889. Nitin Sawhney Beyond Skin
 - [ ] 890. Death in Vegas Contino Sessions
 - [ ] 891. Moby - Play
-- [ ] 892. The Flaming Lips - The Soft Bulletin
+- [X] 892. The Flaming Lips - The Soft Bulletin
 - [ ] 893. Les Digitales Rhymes - Darkdancer
 - [ ] 894. Le Tigre - Le Tigre
 - [ ] 895. Eminem - The Slim Shady LP
