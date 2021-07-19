@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 27/250
+Current score: 28/250
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -185,7 +185,7 @@ Current score: 27/250
 - [ ] 73. Willie Nelson - Red Headed Stranger
 - [ ] 72. Nico - Chelsea Girl
 - [ ] 71. Sarah McLachlan - Fumbling Towards Ecstasy
-- [ ] 70. Yo La Tengo - I Can Hear the Heart Beating as One
+- [X] 70. Yo La Tengo - I Can Hear the Heart Beating as One
 - [ ] 69. The Smiths - The Queen Is Dead
 - [ ] 68. Brian Eno / John Cale - Wrong Way Up
 - [ ] 67. Wyclef Jean - The Carnival

@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 37/500
+Current score: 38/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -427,7 +427,7 @@ Current score: 37/500
 - [ ] 420. That's the Way of the World - Earth, Wind & Fire
 - [ ] 421. M.I.A. - Arular
 - [ ] 422. Let's Get It On
-- [ ] 423. Yo La Tengo - I Can Hear the Heart Beating as One
+- [X] 423. Yo La Tengo - I Can Hear the Heart Beating as One
 - [X] 424. Beck - Odelay
 - [ ] 425. Paul Simon - Paul Simon
 - [ ] 426. Lucinda Williams - Lucinda Williams
