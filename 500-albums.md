@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 38/500
+Current score: 40/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -47,7 +47,7 @@ Current score: 38/500
 - [ ] 40. David Bowie - The Rise and Fall of Ziggy Stardust & the Spiders From Mars
 - [ ] 41. The Rolling Stones - Let It Bleed
 - [X] 42. Radiohead - OK Computer (1997)
-- [ ] 43. A Tribe Called Quest - The Low End Theory (1991)
+- [X] 43. A Tribe Called Quest - The Low End Theory (1991)
 - [ ] 44. Nas - Illmatic (1994)
 - [ ] 45. Prince - Sign O' the Times (1987)
 - [ ] 46. Paul Simon - Graceland
@@ -380,7 +380,7 @@ Current score: 38/500
 - [ ] 373. Isaac Hayes - Hot Buttered Soul
 - [ ] 374. Robert Johnson - King of the Delta Blues Singers
 - [ ] 375. Green Day - Dookie
-- [ ] 376. Neutral Milk Hotel - In the Aeroplane Over the Sea
+- [X] 376. Neutral Milk Hotel - In the Aeroplane Over the Sea
 - [ ] 377. Yeah Yeah Yeahs - Fever to Tell
 - [ ] 378. Run DMC - Run DMC
 - [ ] 379. Rush - Moving Pictures (1981)

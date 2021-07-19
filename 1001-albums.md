@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 50/1079
+Current score: 51/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -701,7 +701,7 @@ Current score: 50/1079
 - [ ] 694. O.G. Original Gangster (1991) - Ice T
 - [ ] 695. Mudhoney- Every Good Boy Deserves Fudge
 - [ ] 696. Public Enemy - Apocalypse 91 Enemy Strikes Back
-- [ ] 697. A Tribe Called Quest - Low End Theory
+- [X] 697. A Tribe Called Quest - The Low End Theory
 - [ ] 698. Pearl Jam - Ten (1991)
 - [ ] 699. Saint Etienne - Fox Base Alpha
 - [ ] 700. Sepultura - Arise
