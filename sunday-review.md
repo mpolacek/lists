@@ -1,10 +1,11 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 27/249
+Current score: 27/250
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 250. Annie Lennox - Diva
 - [X] 249. Muse - Origin of Symmetry
 - [ ] 248. Laurie Anderson - United States Live
 - [ ] 247. Billy Joel - The Stranger
