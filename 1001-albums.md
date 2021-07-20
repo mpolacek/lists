@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 52/1079
+Current score: 53/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -764,7 +764,7 @@ Current score: 52/1079
 - [ ] 757. Frank Black - Teenager of the Year
 - [ ] 758. Girls Against Boys - Venus Luxure No 1 Baby
 - [ ] 759. Jeru the Damaja - The Sun Rises in the East
-- [ ] 760. Pavement - Crooked Rain, Crooked Rain
+- [X] 760. Pavement - Crooked Rain, Crooked Rain
 - [ ] 761. Portishead - Dummy
 - [ ] 762. Sabres of Paradise - Haunted Dancehall
 - [ ] 763. Nas - Illmatic

@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 40/500
+Current score: 41/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -438,7 +438,7 @@ Current score: 40/500
 - [ ] 431. Los Lobos - How Will the Wolf Survive?
 - [ ] 432. Usher - Confessions
 - [ ] 433. LCD Soundsystem - Sound of Silver
-- [ ] 434. Pavement - Crooked Rain, Crooked Rain
+- [X] 434. Pavement - Crooked Rain, Crooked Rain
 - [ ] 435. Actually - The Pet Shop Boys
 - [ ] 436. All Eyez on Me
 - [ ] 437. Primal Scream - Screamadelica
