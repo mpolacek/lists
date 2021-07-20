@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 51/1079
+Current score: 52/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -389,7 +389,7 @@ Current score: 51/1079
 - [ ] 382. Talking Heads - Talking Heads: 77
 - [ ] 383. Fleetwood Mac - Rumours
 - [ ] 384. David Bowie - "Heroes"
-- [ ] 385. Dennis Wilson - Pacific Ocean Blue (1977)
+- [X] 385. Dennis Wilson - Pacific Ocean Blue (1977)
 - [ ] 386. Suicide - Suicide
 - [ ] 387. The Idiot (Iggy Pop, 1977)
 - [ ] 388. Peter Gabriel - Peter Gabriel
