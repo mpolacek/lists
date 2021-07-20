@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 53/1079
+Current score: 55/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -840,7 +840,7 @@ Current score: 53/1079
 - [ ] 833. Marilyn Manson - Antichrist Superstar
 - [X] 834. The Fugees - The Score (1996)
 - [ ] 835. Ash - 1977
-- [ ] 836. Belle and Sebastian - If You're Feeling Sinister
+- [X] 836. Belle and Sebastian - If You're Feeling Sinister
 - [ ] 837. Blur - Blur
 - [X] 838. Radiohead - OK Computer (1997)
 - [ ] 839. Finely Quaye Maverick a Strike
@@ -901,7 +901,7 @@ Current score: 53/1079
 - [ ] 894. Le Tigre - Le Tigre
 - [ ] 895. Eminem - The Slim Shady LP
 - [ ] 896. Metallica - S&M
-- [ ] 897. Bonnie 'Prince' Billy - I See a Darkness
+- [X] 897. Bonnie 'Prince' Billy - I See a Darkness
 - [ ] 898. Shack - H.M.S. Fable
 - [ ] 899. Basement Jaxx, Remedy (1999)
 - [ ] 900. Britney Spears - ....Baby One More Time

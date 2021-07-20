@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 41/500
+Current score: 42/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -485,7 +485,7 @@ Current score: 41/500
 - [ ] 478. The Kinks - Something Else by the Kinks
 - [ ] 479. Selena - Amor Prohibido
 - [ ] 480. Miranda Lambert the Weight of These Wings
-- [ ] 481. Belle and Sebastian - If You're Feeling Sinister
+- [X] 481. Belle and Sebastian - If You're Feeling Sinister
 - [ ] 482. The Pharcyde - Bizarre Ride II the Pharcyde
 - [ ] 483. Muddy Waters- The Anthology
 - [ ] 484. Lady Gaga - Born This Way
