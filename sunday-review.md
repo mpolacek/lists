@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 28/250
+Current score: 29/250
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -69,7 +69,7 @@ Current score: 28/250
 - [ ] 189. Ol’ Dirty Bastard - Return to the 36 Chambers: The Dirty Version
 - [ ] 188. Toots and the Maytals - Funky Kingston
 - [ ] 187. No Doubt - Tragic Kingdom
-- [ ] 186. Björk - Post
+- [X] 186. Björk - Post
 - [ ] 185. Godspeed You! Black Emperor - F♯ A♯ ∞
 - [ ] 184. Type O Negative - Bloody Kisses
 - [ ] 183. Buffy Sainte-Marie - Illuminations

@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 42/500
+Current score: 44/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -180,7 +180,7 @@ Current score: 42/500
 - [X] 173. Nirvana - In Utero (1993)
 - [ ] 174. The Harder They Come
 - [ ] 175. Kendrick Lamar - DAMN.
-- [ ] 176. Public Enemy - Fear of a Black Planet
+- [X] 176. Public Enemy - Fear of a Black Planet
 - [ ] 177. Rod Stewart - Every Picture Tells a Story
 - [ ] 178. Otis Redding - Otis Blue: Otis Redding Sings Soul (1965)
 - [ ] 179. The Notorious B.I.G.- Life After Death
@@ -293,7 +293,7 @@ Current score: 42/500
 - [ ] 286. Red Hot Chili Peppers - Californication (1999)
 - [ ] 287. The Byrds - Mr. Tambourine Man
 - [ ] 288. The Modern Lovers - The Modern Lovers
-- [ ] 289. Björk - Post (1995)
+- [X] 289. Björk - Post (1995)
 - [ ] 290. Speakerboxxx/The Love Below (Outkast, 2003)
 - [ ] 291. Destiny's Child - The Writing's on the Wall (1999)
 - [ ] 292. Van Halen - Van Halen

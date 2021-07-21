@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 55/1079
+Current score: 56/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -684,7 +684,7 @@ Current score: 55/1079
 - [ ] 677. Ice Cube - Amerikkka's Most Wanted
 - [ ] 678. Jane's Addiction, Ritual De Lo Habitual (1990)
 - [ ] 679. LL Cool J- Mama Said Knock You Out
-- [ ] 680. Public Enemy - Fear of a Black Planet
+- [X] 680. Public Enemy - Fear of a Black Planet
 - [ ] 681. Sinead O'Connor - I Do Not Want What I Haven't Got
 - [ ] 682. A Tribe Called Quest - People's Instinctive Travels
 - [ ] 683. Sonic Youth - Goo
