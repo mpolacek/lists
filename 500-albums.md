@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 44/500
+Current score: 46/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -53,7 +53,7 @@ Current score: 44/500
 - [ ] 46. Paul Simon - Graceland
 - [ ] 47. Ramones - Ramones (1976)
 - [ ] 48. Bob Marley and the Wailers - Legend: The Best of Bob Marley
-- [ ] 49. Outkast - Aquemini
+- [X] 49. Outkast - Aquemini
 - [ ] 50. Jay-Z - The Blueprint
 - [ ] 51. Chuck Berry - The Great Twenty-Eight
 - [ ] 52. David Bowie - Station to Station (1976)
@@ -206,7 +206,7 @@ Current score: 44/500
 - [X] 199. Pavement - Slanted and Enchanted
 - [ ] 200. Sade - Diamond Life
 - [X] 201. A Tribe Called Quest - Midnight Marauders
-- [ ] 202. Björk - Homogenic (1997)
+- [X] 202. Björk - Homogenic (1997)
 - [ ] 203. Nick Drake - Pink Moon (1972)
 - [ ] 204. Kanye West - Graduation
 - [ ] 205. Cat Stevens - Tea for the Tillerman

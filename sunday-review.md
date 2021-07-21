@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 29/250
+Current score: 31/250
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -198,7 +198,7 @@ Current score: 29/250
 - [ ] 60. Tears for Fears - Songs From the Big Chair
 - [ ] 59. Fiona Apple - Tidal
 - [ ] 58. Sparklehorse - Good Morning Spider
-- [ ] 57. Silver Jews - American Water
+- [X] 57. Silver Jews - American Water
 - [ ] 56. Stereolab - Dots and Loops
 - [ ] 55. Guns N’ Roses - Appetite for Destruction
 - [ ] 54. Metallica - Metallica
@@ -223,7 +223,7 @@ Current score: 29/250
 - [ ] 35. Weezer - Weezer (Blue Album)
 - [X] 34. Neil Young - Trans
 - [ ] 33. Jim O'Rourke - Bad Timing
-- [ ] 32. Björk - Homogenic
+- [X] 32. Björk - Homogenic
 - [ ] 31. Pet Shop Boys - Behaviour
 - [ ] 30. Phil Ochs - I Ain't Marching Anymore
 - [ ] 29. X-Ray Spex - Germfree Adolescents
