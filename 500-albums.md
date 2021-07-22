@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 46/500
+Current score: 48/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -100,7 +100,7 @@ Current score: 46/500
 - [ ] 93. Missy "Misdemeanor" Elliott- Supa Dupa Fly
 - [ ] 94. The Stooges - Fun House
 - [ ] 95. Drake - Take Care (2011)
-- [ ] 96. R.E.M. - Automatic for the People
+- [X] 96. R.E.M. - Automatic for the People
 - [ ] 97. Metallica - Master of Puppets (1986)
 - [ ] 98. Lucinda Williams - Car Wheels on a Gravel Road
 - [ ] 99. Taylor Swift - Red
@@ -411,7 +411,7 @@ Current score: 46/500
 - [ ] 404. Anita Baker - Rapture
 - [ ] 405. Nuggets: Original Artyfacts From the First Psychedelic Era, 1965–1968
 - [ ] 406. The Magnetic Fields - 69 Love Songs
-- [ ] 407. Neil Young With Crazy Horse - Everybody Knows This Is Nowhere
+- [X] 407. Neil Young With Crazy Horse - Everybody Knows This Is Nowhere
 - [ ] 408. Motörhead - Ace of Spades
 - [ ] 409. The Grateful Dead: Workingman's Dead
 - [ ] 410. The Beach Boys - Wild Honey

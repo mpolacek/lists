@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 56/1079
+Current score: 58/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -140,7 +140,7 @@ Current score: 56/1079
 - [ ] 133. The Byrds, Sweetheart of the Rodeo (1968)
 - [ ] 134. The Beatles - The Beatles (White Album)
 - [ ] 135. Mothers of Invention: We're Only in It for the Money
-- [ ] 136. Neil Young, Everybody Knows This Is Nowhere (1969)
+- [X] 136. Neil Young - Everybody Knows This Is Nowhere (1969)
 - [ ] 137. Captain Beefheart & His Magic Band - Trout Mask Replica (1969)
 - [ ] 138. Bayou Country (Creedence Clearwater Revival, 1969)
 - [ ] 139. Crosby, Stills & Nash, Crosby Stills & Nash (1969)
@@ -723,7 +723,7 @@ Current score: 56/1079
 - [ ] 716. Disposable Heroes of Hiphoprisy - Hypocrisy Is the Greatest Luxury
 - [ ] 717. Ingenue-K.D. Lang
 - [X] 718. Dr. Dre - The Chronic (1992)
-- [ ] 719. R.E.M. - Automatic for the People
+- [X] 719. R.E.M. - Automatic for the People
 - [ ] 720. Bizarre Ride II the Pharcyde (The Pharcyde, 1992)
 - [ ] 721. Spiritualized - Laser Guided Melodies
 - [ ] 722. Sugar - Copper Blue
