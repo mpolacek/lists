@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 58/1079
+Current score: 62/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -485,7 +485,7 @@ Current score: 58/1079
 - [ ] 478. Einstürzende Neubauten - Kollaps
 - [ ] 479. Siouxsie and the Banshees - Juju
 - [ ] 480. Heaven 17 - Penthouse and Pavement (1981)
-- [ ] 481. Beauty and the Beat- The Go Go's
+- [X] 481. The Go Go's - Beauty and the Beat
 - [ ] 482. Motorhead - No Sleep 'Til Hammersmith
 - [ ] 483. Soft Cell - Non-Stop Erotic Cabaret
 - [ ] 484. Orchestral Manoeuvres in the Dark - Architecture & Morality (1981)
@@ -767,7 +767,7 @@ Current score: 58/1079
 - [X] 760. Pavement - Crooked Rain, Crooked Rain
 - [ ] 761. Portishead - Dummy
 - [ ] 762. Sabres of Paradise - Haunted Dancehall
-- [ ] 763. Nas - Illmatic
+- [X] 763. Nas - Illmatic
 - [ ] 764. Ill Communication (Beastie Boys, 1994)
 - [ ] 765. Elvis Costello Brutal Youth
 - [ ] 766. Morrissey - Vauxhall and I
@@ -816,7 +816,7 @@ Current score: 58/1079
 - [ ] 809. Super Furry Animals - Fuzzy Logic
 - [ ] 810. Better Living Through Chemistry
 - [ ] 811. Dr. Octagon - Dr. Octagonecologyst (1996)
-- [ ] 812. Stereolab - Emperor Tomato Ketchup
+- [X] 812. Stereolab - Emperor Tomato Ketchup
 - [ ] 813. Tortoise - Millions Now Living Will Never Die
 - [X] 814. Beck - Odelay
 - [ ] 815. Belle & Sebastian - Tigermilk
@@ -879,7 +879,7 @@ Current score: 58/1079
 - [ ] 872. The Dandy Warhols - Come Down
 - [ ] 873. Mercury Rev - Deserter's Songs
 - [ ] 874. Queens of the Stone Age - Queens of the Stone Age
-- [ ] 875. Moon Safari (Air, 1998)
+- [X] 875. Air - Moon Safari (1998)
 - [ ] 876. Korn - Follow the Leader
 - [ ] 877. Talvin Singh - Ok
 - [ ] 878. Kid Rock - Devil Without a Cause

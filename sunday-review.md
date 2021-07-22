@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 31/250
+Current score: 33/250
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -86,7 +86,7 @@ Current score: 31/250
 - [ ] 172. ...And You Will Know Us by the Trail of Dead - Madonna
 - [ ] 171. dead prez - Let’s Get Free
 - [ ] 170. Germs - (GI)
-- [ ] 169. The Go-Go’s - Beauty and the Beat
+- [X] 169. The Go-Go’s - Beauty and the Beat
 - [ ] 168. Roxy Music - For Your Pleasure
 - [ ] 167. John Mayer - Room for Squares
 - [ ] 166. ABBA - Gold: Greatest Hits
@@ -220,7 +220,7 @@ Current score: 31/250
 - [ ] 38. Wailing Souls - Wailing
 - [ ] 37. Thelonious Monk - Monk’s Music
 - [ ] 36. DMX - It’s Dark and Hell Is Hot
-- [ ] 35. Weezer - Weezer (Blue Album)
+- [X] 35. Weezer - Weezer (Blue Album)
 - [X] 34. Neil Young - Trans
 - [ ] 33. Jim O'Rourke - Bad Timing
 - [X] 32. Björk - Homogenic

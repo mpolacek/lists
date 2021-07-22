@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 48/500
+Current score: 51/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -48,7 +48,7 @@ Current score: 48/500
 - [ ] 41. The Rolling Stones - Let It Bleed
 - [X] 42. Radiohead - OK Computer (1997)
 - [X] 43. A Tribe Called Quest - The Low End Theory (1991)
-- [ ] 44. Nas - Illmatic (1994)
+- [X] 44. Nas - Illmatic (1994)
 - [ ] 45. Prince - Sign O' the Times (1987)
 - [ ] 46. Paul Simon - Graceland
 - [ ] 47. Ramones - Ramones (1976)
@@ -298,7 +298,7 @@ Current score: 48/500
 - [ ] 291. Destiny's Child - The Writing's on the Wall (1999)
 - [ ] 292. Van Halen - Van Halen
 - [ ] 293. The Breeders - Last Splash
-- [ ] 294. Weezer - Weezer (Blue Album)
+- [X] 294. Weezer - Weezer (Blue Album)
 - [ ] 295. Daft Punk - Random Access Memories
 - [ ] 296. Neil Young & Crazy Horse - Rust Never Sleeps
 - [ ] 297. Peter Gabriel So
@@ -404,7 +404,7 @@ Current score: 48/500
 - [ ] 397. Billie Eilish - When We All Fall Asleep, Where Do We Go?
 - [ ] 398. The Raincoats - The Raincoats
 - [ ] 399. Brian Wilson - Smile
-- [ ] 400. The Go-Go's - Beauty and the Beat
+- [X] 400. The Go-Go's - Beauty and the Beat
 - [ ] 401. Blondie
 - [ ] 402. Fela Kuti and Africa 70 - Expensive Shit
 - [ ] 403. Ghostface Killah - Supreme Clientele
