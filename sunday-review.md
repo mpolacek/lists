@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 33/250
+Current score: 34/250
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -214,7 +214,7 @@ Current score: 33/250
 - [ ] 44. Fugazi - In on the Kill Taker
 - [ ] 43. Portishead - Dummy
 - [X] 42. Black Flag - Damaged
-- [ ] 41. Sade - Love Deluxe
+- [X] 41. Sade - Love Deluxe
 - [ ] 40. Liquid Liquid - Liquid Liquid EP | Successive Reflexes EP | Optimo EP
 - [ ] 39. Glenn Gould - Bach: The Goldberg Variations
 - [ ] 38. Wailing Souls - Wailing

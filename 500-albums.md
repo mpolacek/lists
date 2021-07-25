@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 51/500
+Current score: 53/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -111,7 +111,7 @@ Current score: 51/500
 - [ ] 104. The Rolling Stones - Sticky Fingers
 - [ ] 105. The Allman Brothers Band - At Fillmore East (1971)
 - [ ] 106. Hole - Live Through This
-- [ ] 107. Television - Marquee Moon
+- [X] 107. Television - Marquee Moon
 - [ ] 108. Fiona Apple - When the Pawn
 - [ ] 109. Lou Reed - Transformer
 - [ ] 110. Joni Mitchell - Court and Spark (1974)
@@ -251,7 +251,7 @@ Current score: 51/500
 - [ ] 244. Kanye West - 808S and Heartbreak
 - [ ] 245. Cocteau Twins - Heaven or Las Vegas
 - [ ] 246. LL Cool J - Mama Said Knock You Out
-- [ ] 247. Sade-Love Deluxe
+- [X] 247. Sade - Love Deluxe
 - [ ] 248. Green Day - American Idiot
 - [X] 249. Whitney Houston - Whitney Houston
 - [ ] 250. Buzzcocks - Singles Going Steady (1979)

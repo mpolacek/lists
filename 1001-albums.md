@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 62/1079
+Current score: 65/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -393,7 +393,7 @@ Current score: 62/1079
 - [ ] 386. Suicide - Suicide
 - [ ] 387. The Idiot (Iggy Pop, 1977)
 - [ ] 388. Peter Gabriel - Peter Gabriel
-- [ ] 389. Marquee Moon (Television, 1977)
+- [X] 389. Television - Marquee Moon (1977)
 - [ ] 390. Meat Loaf - Bat Out of Hell
 - [ ] 391. Elvis Costello - My Aim Is True
 - [ ] 392. Lust for Life (Iggy Pop, 1977)
@@ -727,7 +727,7 @@ Current score: 62/1079
 - [ ] 720. Bizarre Ride II the Pharcyde (The Pharcyde, 1992)
 - [ ] 721. Spiritualized - Laser Guided Melodies
 - [ ] 722. Sugar - Copper Blue
-- [ ] 723. Bone Machine (Tom Waits, 1992)
+- [X] 723. Tom Waits - Bone Machine (1992)
 - [ ] 724. Sonic Youth - Dirty
 - [ ] 725. Stereo MC's - Connected
 - [ ] 726. Ministry - Psalm 69
@@ -793,7 +793,7 @@ Current score: 62/1079
 - [ ] 786. Foo Fighters - Foo Fighters
 - [ ] 787. Garbage - Garbage (1995)
 - [ ] 788. Nightmares on Wax Smokers Delight
-- [ ] 789. Tricky - Maxinquaye
+- [X] 789. Tricky - Maxinquaye
 - [X] 790. Raekwon- Only Built 4 Cuban Linx
 - [ ] 791. Smashing Pumpkins - Mellon Collie and the Infinite Sadness
 - [ ] 792. Rocket From the Crypt Scream Dracula Scream
