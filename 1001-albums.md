@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 65/1079
+Current score: 66/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -783,7 +783,7 @@ Current score: 65/1079
 - [ ] 776. Massive Attack - Protection
 - [ ] 777. Manic Street Preachers - The Holy Bible
 - [ ] 778. Suede - Dog Man Star
-- [ ] 779. The Notorious B.I.G - Ready to Die
+- [X] 779. The Notorious B.I.G - Ready to Die
 - [X] 780. Jeff Buckley - Grace
 - [ ] 781. Orbital - Snivilisation
 - [X] 782. Nirvana - MTV Unplugged in New York (1994)

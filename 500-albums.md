@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 53/500
+Current score: 55/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -26,7 +26,7 @@ Current score: 53/500
 - [ ] 19. Kendrick Lamar - To Pimp a Butterfly
 - [X] 20. Radiohead - Kid A (2000)
 - [ ] 21. Bruce Springsteen - Born to Run
-- [ ] 22. Notorious B.I.G. - Ready to Die
+- [X] 22. Notorious B.I.G. - Ready to Die
 - [ ] 23. The Velvet Underground - The Velvet Underground & Nico
 - [X] 24. The Beatles - Sgt. Pepper's Lonely Hearts Club Band
 - [ ] 25. Carole King - Tapestry (1971)
@@ -297,7 +297,7 @@ Current score: 53/500
 - [ ] 290. Speakerboxxx/The Love Below (Outkast, 2003)
 - [ ] 291. Destiny's Child - The Writing's on the Wall (1999)
 - [ ] 292. Van Halen - Van Halen
-- [ ] 293. The Breeders - Last Splash
+- [X] 293. The Breeders - Last Splash
 - [X] 294. Weezer - Weezer (Blue Album)
 - [ ] 295. Daft Punk - Random Access Memories
 - [ ] 296. Neil Young & Crazy Horse - Rust Never Sleeps
