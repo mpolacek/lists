@@ -1,10 +1,11 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 34/250
+Current score: 35/251
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 251. Diddy - Dirty Money - Last Train to Paris
 - [ ] 250. Annie Lennox - Diva
 - [X] 249. Muse - Origin of Symmetry
 - [ ] 248. Laurie Anderson - United States Live
@@ -161,7 +162,7 @@ Current score: 34/250
 - [ ] 97. Aretha Franklin - Spirit in the Dark
 - [ ] 96. Bob Dylan - Time Out of Mind
 - [ ] 95. Public Image Ltd - The Flowers of Romance
-- [ ] 94. Built to Spill - Perfect From Now On
+- [X] 94. Built to Spill - Perfect From Now On
 - [ ] 93. Jonathan Richman - I, Jonathan
 - [ ] 92. Eminem - The Marshall Mathers LP
 - [ ] 91. Johnny Cash - American Recordings

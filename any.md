@@ -1,10 +1,14 @@
 Various albums
 ==============
 
-Current score: 0/13
+Current score: 0/17
 
 `$ grep "\[X\]" any.md | wc -l`
 
+- [ ] 17. Daniel Johnston - Discovered, Covered: The Late, Great Daniel Johnston
+- [ ] 16. Daniel Johnston - Songs of Pain: The Early Recordings, Vol. 1
+- [ ] 15. Daniel Johnston - Rejected Unknown
+- [ ] 14. Built to Spill - Keep it Like a Secret
 - [ ] 13. Edgar Froese - Epsilon in Malaysian Pale
 - [ ] 12. Deathprod - Morals and Dogma
 - [ ] 11. Oneohtrix Point Never - Rifts
