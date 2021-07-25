@@ -13,7 +13,7 @@ Current score: 65/1079
 - [ ] 6. Ellington at Newport '56- Duke Ellington
 - [ ] 7. Frank Sinatra - Songs for Swinging Lovers! (1956)
 - [X] 8. Buddy Holly & The Crickets - The "Chirping" Crickets (1957)
-- [ ] 9. The Atomic Mr Basie- Count Basie
+- [ ] 9. The Atomic Mr Basie - Count Basie
 - [ ] 10. Thelonious Monk - Brilliant Corners
 - [ ] 11. Sabu - Palo Congo (1957)
 - [ ] 12. Birth of the Cool (Miles Davis)
@@ -23,7 +23,7 @@ Current score: 65/1079
 - [ ] 16. Billie Holiday - Lady in Satin
 - [ ] 17. Ramblin' Jack Elliott - Jack Takes the Floor (1958)
 - [ ] 18. Sarah Vaughan - Sarah Vaughan at Mister Kelly's (1958)
-- [ ] 19. Ella Fitzgerald - Sings the Gershwin Song Book (1959) [[D](https://www.discogs.com/Ella-Fitzgerald-Ella-Fitzgerald-Sings-The-Gershwin-Song-Book-Vol-1/master/260697)]
+- [ ] 19. Ella Fitzgerald - Sings the Gershwin Song Book (1959)
 - [ ] 20. Genius of Ray Charles
 - [X] 21. Miles Davis - Kind of Blue (1959)
 - [ ] 22. Gunfighter Ballads and Trail Songs (Marty Robbins, 1959)
@@ -32,23 +32,23 @@ Current score: 65/1079
 - [ ] 25. Elvis Is Back! - Elvis Presley
 - [ ] 26. Miriam Makeba - Miriam Makeba (1960)
 - [ ] 27. The Everly Brothers a Date With the Everly Brothers
-- [ ] 28. Back at the Chicken Shack- Jimmy Smith
+- [ ] 28. Back at the Chicken Shack - Jimmy Smith
 - [ ] 29. Muddy Waters at Newport 1960
 - [ ] 30. Sunday at the Village Vanguard Bill Evans
 - [ ] 31. Ray Charles - Modern Sounds in Country and Western Music (1962)
 - [ ] 32. Booker T. & the M.G.'S, Green Onions (1962)
-- [ ] 33. Jazz Samba- Stan Getz / Charlie Byrd
-- [ ] 34. Night Life- Ray Price
-- [ ] 35. With the Beatles- The Beatles
+- [ ] 33. Jazz Samba - Stan Getz / Charlie Byrd
+- [ ] 34. Night Life - Ray Price
+- [ ] 35. With the Beatles - The Beatles
 - [ ] 36. Bob Dylan, the Freewheelin' Bob Dylan (1963)
-- [ ] 37. Phil Spector- A Christmas Gift for You
+- [ ] 37. Phil Spector - A Christmas Gift for You
 - [ ] 38. Sam Cooke - Live at the Harlem Square Club
 - [ ] 39. Charles Mingus - The Black Saint and the Sinner Lady
 - [ ] 40. James Brown, Live at the Apollo (1963)
 - [ ] 41. Stan Getz & Joao Gilberto - Getz/Gilberto
 - [ ] 42. A Hard Day's Night (The Beatles, 1964)
 - [ ] 43. Olympia '64- Jacques Brel
-- [ ] 44. Rock & Soul- Solomon Burke
+- [ ] 44. Rock & Soul - Solomon Burke
 - [ ] 45. Dusty Springfield - A Girl Called Dusty (1964)
 - [ ] 46. The Rolling Stones - The Rolling Stones (1964)
 - [ ] 47. Buck Owens and His Buckaroos - I've Got a Tiger by the Tail (1964)
@@ -71,14 +71,14 @@ Current score: 65/1079
 - [ ] 64. Bob Dylan, Blonde on Blonde (1966)
 - [ ] 65. The Monks - Black Monk Time (1966)
 - [ ] 66. The Kinks - Face to Face
-- [ ] 67. If You Can Believe Your Eyes and Ears- The Mamas & the Papa
+- [ ] 67. If You Can Believe Your Eyes and Ears - The Mamas & the Papa
 - [ ] 68. Paul Revere and the Raiders - Midnight Ride (1966)
-- [ ] 69. The Mothers of Invention- Freak Out!
+- [ ] 69. The Mothers of Invention - Freak Out!
 - [ ] 70. The Rolling Stones - Aftermath (1966)
 - [ ] 71. Simon & Garfunkel - Parsley, Sage, Rosemary, & Thyme
 - [ ] 72. 13th Floor Elevators, the Psychedelic Sounds of the 13th Floor Elevators (1966)
-- [ ] 73. John Mayall With Eric Clapton- Blues Breakers
-- [ ] 74. The Yardbirds- Roger the Engineer
+- [ ] 73. John Mayall With Eric Clapton - Blues Breakers
+- [ ] 74. The Yardbirds - Roger the Engineer
 - [ ] 75. Nina Simone - Wild Is the Wind
 - [ ] 76. Astrud Gilberto - Beach Samba
 - [ ] 77. Nico - Chelsea Girl (1967)
@@ -157,8 +157,8 @@ Current score: 65/1079
 - [ ] 150. Nick Drake, Five Leaves Left (1969)
 - [ ] 151. Dusty Springfield, Dusty in Memphis (1969)
 - [ ] 152. Elvis Presley - From Elvis in Memphis (1969)
-- [ ] 153. The Velvet Underground- The Velvet Underground
-- [ ] 154. Quicksilver Messenger Service- Happy Trails
+- [ ] 153. The Velvet Underground - The Velvet Underground
+- [ ] 154. Quicksilver Messenger Service - Happy Trails
 - [ ] 155. Led Zeppelin - Led Zeppelin
 - [ ] 156. The Band - The Band (1969)
 - [ ] 157. Led Zeppelin, Led Zeppelin II (1969)
@@ -170,7 +170,7 @@ Current score: 65/1079
 - [ ] 163. Fairport Convention - Unhalfbricking
 - [ ] 164. Youngbloods - Elephant Mountain
 - [ ] 165. Hot Buttered Soul (Isaac Hayes, 1969)
-- [ ] 166. Grateful Dead- Live Dead
+- [ ] 166. Grateful Dead - Live Dead
 - [ ] 167. The Kinks - Arthur or the Decline and Fall of the British Empire
 - [ ] 168. King Crimson - In the Court of the Crimson King (1969)
 - [ ] 169. Leonard Cohen - Songs From a Room (1969)
@@ -205,7 +205,7 @@ Current score: 65/1079
 - [ ] 198. Tea for the Tillerman (Cat Stevens, 1970)
 - [ ] 199. Traffic - John Barleycorn Must Die
 - [ ] 200. The Stooges - Fun House
-- [ ] 201. James Taylor- Sweet Baby James
+- [ ] 201. James Taylor - Sweet Baby James
 - [ ] 202. Paul McCartney - McCartney (1970)
 - [ ] 203. Abraxas (Santana, 1970)
 - [ ] 204. Syd Barrett - The Madcap Laughs (1970)
@@ -226,7 +226,7 @@ Current score: 65/1079
 - [ ] 219. L.A. Woman - The Doors
 - [ ] 220. Can - Tago Mago (1971)
 - [ ] 221. Madman Across the Water (Elton John, 1971)
-- [ ] 222. Coat of Many Colors- Dolly Parton [1971]
+- [ ] 222. Coat of Many Colors - Dolly Parton [1971]
 - [ ] 223. Don Mclean - American Pie (1971)
 - [ ] 224. Emerson, Lake & Palmer - Tarkus
 - [ ] 225. Led Zeppelin - Led Zeppelin IV (1971)
@@ -235,9 +235,9 @@ Current score: 65/1079
 - [ ] 228. Emerson, Lake & Palmer - Pictures at an Exhibition (1972)
 - [ ] 229. Leonard Cohen - Songs of Love and Hate
 - [X] 230. Joni Mitchell - Blue (1971)
-- [ ] 231. Pearl- Janis Joplin
+- [ ] 231. Janis Joplin - Pearl
 - [ ] 232. Funkadelic - Maggot Brain
-- [ ] 233. Fela Ransome-Kuti & the Afrika 70 With Ginger Baker - Live!
+- [ ] 233. Fela Ransome - Kuti & the Afrika 70 With Ginger Baker - Live!
 - [ ] 234. The Faces - A Nod Is as Good as a Wink... to a Blind Horse
 - [ ] 235. Flamin' Groovies - Teenage Head
 - [ ] 236. Gene Clark - White Light (1971)
@@ -249,30 +249,30 @@ Current score: 65/1079
 - [ ] 242. Deep Purple - Machine Head (1972)
 - [ ] 243. Big Star - #1 Record
 - [ ] 244. Black Sabbath - Black Sabbath, Vol. 4
-- [ ] 245. Steely Dan- Can't Buy a Thrill
+- [ ] 245. Steely Dan - Can't Buy a Thrill
 - [ ] 246. Neil Young - Harvest (1972)
-- [ ] 247. Curtis Mayfield- Superfly
+- [ ] 247. Curtis Mayfield - Superfly
 - [ ] 248. Slade - Slayed
 - [ ] 249. Deep Purple - Made in Japan
 - [ ] 250. Yes - Close to the Edge (1972)
 - [ ] 251. Transformer (Lou Reed, 1972)
 - [ ] 252. Hugh Masekela - Home Is Where the Music Is (1972)
 - [ ] 253. Milton Nascimento E Lô Borges - Clube Da Esquina
-- [ ] 254. Todd Rundgren- Something/Anything?
+- [ ] 254. Todd Rundgren - Something/Anything?
 - [ ] 255. Nitty Gritty Dirt Band - Will the Circle Be Unbroken (1972)
-- [ ] 256. Stevie Wonder- Talking Book
+- [ ] 256. Stevie Wonder - Talking Book
 - [ ] 257. Manassas - Manassas (1972)
 - [ ] 258. The Slider ( T. Rex, 1972)
 - [ ] 259. Davd Ackles - American Gothic (1972)
 - [ ] 260. Tim Buckley - Greetings From LA
 - [ ] 261. Nick Drake - Pink Moon
 - [ ] 262. Eagles - Eagles
-- [ ] 263. Paul Simon- Paul Simon
+- [ ] 263. Paul Simon - Paul Simon
 - [ ] 264. Roxy Music - Roxy Music (1972)
 - [ ] 265. Alice Cooper School's Out
 - [ ] 266. The Temptations - All Directions (1972)
 - [ ] 267. David Bowie - The Rise and Fall of Ziggy Stardust & the Spiders From M
-- [ ] 268. War- The World Is a Ghetto
+- [ ] 268. War - The World Is a Ghetto
 - [ ] 269. Al Green - Let's Stay Together
 - [ ] 270. Rolling Stones - Exile on Main Street
 - [ ] 271. Lynyrd Skynyrd - (Pronounced 'Lĕh-'Nérd 'Skin-'Nérd)
@@ -282,7 +282,7 @@ Current score: 65/1079
 - [ ] 275. Bob Marley and the Wailers - Catch a Fire
 - [ ] 276. Hawkwind - Space Ritual (1973)
 - [ ] 277. John Cale - Paris 1919
-- [ ] 278. CAN- Future Days (1973)
+- [ ] 278. CAN - Future Days (1973)
 - [ ] 279. Lou Reed, Berlin (1973)
 - [ ] 280. Selling England by the Pound (Genesis, 1973)
 - [ ] 281. Marvin Gaye - Let's Get It On
@@ -327,7 +327,7 @@ Current score: 65/1079
 - [ ] 320. George Jones - The Grand Tour (1974)
 - [ ] 321. Gene Clark - No Other
 - [ ] 322. Steely Dan Pretzel Logic
-- [ ] 323. Randy Newman- Good Old Boys
+- [ ] 323. Randy Newman - Good Old Boys
 - [ ] 324. Bob Marley and the Wailers - Natty Dread
 - [ ] 325. Robert Wyatt - Rock Bottom
 - [ ] 326. Gram Parsons: Grievous Angel
@@ -350,10 +350,10 @@ Current score: 65/1079
 - [ ] 343. Patti Smith - Horses (1975)
 - [ ] 344. Pink Floyd Wish You Were
 - [ ] 345. Queen - A Night at the Opera
-- [ ] 346. Willie Nelson- Red Headed Stranger
+- [ ] 346. Willie Nelson - Red Headed Stranger
 - [ ] 347. Earth, Wind & Fire - That's the Way of the World
 - [ ] 348. Curtis Mayfield - There's No Place Like America Today
-- [ ] 349. Tom Petty and the Heartbreakers-Tom Petty and the Heartbreakers
+- [ ] 349. Tom Petty and the Heartbreakers - Tom Petty and the Heartbreakers
 - [ ] 350. The Modern Lovers - The Modern Lovers
 - [ ] 351. Station to Station (David Bowie, 1976)
 - [ ] 352. Joni Mitchell • Hejira
@@ -365,16 +365,16 @@ Current score: 65/1079
 - [ ] 358. Jorge Ben - África Brasil
 - [ ] 359. Joan Armatrading 1976
 - [ ] 360. Aerosmith - Rocks
-- [ ] 361. Parliament- Mothership Connection
+- [ ] 361. Parliament - Mothership Connection
 - [ ] 362. Penguin Cafe Orchestra - Music From the Penguin Café (1976)
 - [ ] 363. Jean-Michelle Jarre - Oxygene (1976)
-- [ ] 364. Ramones- Ramones (1976)
+- [ ] 364. Ramones - Ramones (1976)
 - [ ] 365. Fela Kuti & Afrika 70 - Zombie
 - [ ] 366. Peter Tosh - Legalize It
 - [X] 367. Stevie Wonder: Songs in the Key of Life
 - [ ] 368. Frampton Comes Alive! (Peter Frampton, 1976)
-- [ ] 369. Before and After Science (Brian Eno, 1977)
-- [ ] 370. Trans-Europe Express (Kraftwerk, 1977)
+- [ ] 369. Brian Eno - Before and After Science (1977)
+- [ ] 370. Kraftwerk - Trans-Europe Express (1977)
 - [ ] 371. Billy Joel - The Stranger
 - [ ] 372. Bob Marley and the Wailers - Exodus
 - [ ] 373. Electric Light Orchestra - Out of the Blue
@@ -383,7 +383,7 @@ Current score: 65/1079
 - [ ] 376. The Stranglers - Rattus Norvegicus
 - [ ] 377. The Clash - The Clash
 - [ ] 378. David Bowie - Low
-- [ ] 379. Steely Dan- Aja
+- [ ] 379. Steely Dan - Aja
 - [ ] 380. Wire - Pink Flag
 - [ ] 381. John Martyn One World
 - [ ] 382. Talking Heads - Talking Heads: 77
@@ -414,7 +414,7 @@ Current score: 65/1079
 - [ ] 407. Public Image Limited - Public Image Limited
 - [ ] 408. Magazine - Real Life
 - [ ] 409. Bruce Springsteen - Darkness on the Edge of Town
-- [ ] 410. Funkadelic- One Nation Under a Groove
+- [ ] 410. Funkadelic - One Nation Under a Groove
 - [ ] 411. Throbbing Gristle - D.O.A. Third and Final Report
 - [ ] 412. Thin Lizzy - Live and Dangerous
 - [ ] 413. Talking Heads - More Songs About Buildings and Food
@@ -426,7 +426,7 @@ Current score: 65/1079
 - [ ] 419. Dire Straits - Dire Straits (1978)
 - [ ] 420. The Saints - Eternally Yours (1978)
 - [X] 421. Marvin Gaye - Here, My Dear
-- [ ] 422. Willie Nelson- Stardust
+- [ ] 422. Willie Nelson - Stardust
 - [ ] 423. Chic - C'est Chic
 - [ ] 424. X-Ray Spex - Germ-Free Adolescents (1978)
 - [ ] 425. Brian Eno - Ambient 1: Music for Airports (1978)
@@ -434,8 +434,8 @@ Current score: 65/1079
 - [ ] 427. AC/DC - Highway to Hell
 - [ ] 428. Sister Sledge - We Are Family
 - [ ] 429. The Crusaders - Street Life (1979)
-- [ ] 430. Germs- GI
-- [ ] 431. The B-52'S- The B-52'S [1979]
+- [ ] 430. Germs - GI
+- [ ] 431. The B-52's - The B-52's [1979]
 - [ ] 432. Holger Czukay - Movies (1979)
 - [ ] 433. Reggatta De Blanc (The Police)
 - [ ] 434. Live at the Witch Trials
@@ -445,10 +445,10 @@ Current score: 65/1079
 - [ ] 438. Undertones - The Undertones
 - [ ] 439. The Clash - London Calling
 - [ ] 440. Japan - Quiet Life
-- [ ] 441. Broken English- Marianne Faithfull
+- [ ] 441. Broken English - Marianne Faithfull
 - [ ] 442. The Slits - Cut
 - [ ] 443. Elvis Costello and the Attractions - Armed Forces
-- [ ] 444. Neil Young and Crazy Horse- Rust Never Sleeps
+- [ ] 444. Neil Young and Crazy Horse - Rust Never Sleeps
 - [ ] 445. Gang of Four - Entertainment!
 - [ ] 446. Cheap Trick at Budokan
 - [ ] 447. Fleetwood Mac - Tusk
@@ -491,7 +491,7 @@ Current score: 65/1079
 - [ ] 484. Orchestral Manoeuvres in the Dark - Architecture & Morality (1981)
 - [ ] 485. David Byrne & Brian Eno - My Life in the Bush of Ghosts
 - [X] 486. Black Flag - Damaged
-- [ ] 487. X- Wild Gift
+- [ ] 487. X - Wild Gift
 - [ ] 488. The Psychedelic Furs - Talk Talk Talk
 - [X] 489. The Human League - Dare
 - [ ] 490. Gun Club : Fire of Love
@@ -506,7 +506,7 @@ Current score: 65/1079
 - [ ] 499. Elvis Costello & the Attractions - Imperial Bedroom
 - [ ] 500. The Cure - Pornography
 - [ ] 501. Dexys Midnight Runners - Too-Rye-Ay
-- [ ] 502. Simple Minds-New Gold Dream
+- [ ] 502. Simple Minds - New Gold Dream
 - [ ] 503. Madness - The Rise & Fall (1982)
 - [ ] 504. Donald Fagen - The Nightfly
 - [ ] 505. Haircut One Hundred - Pelican West (1982)
@@ -537,7 +537,7 @@ Current score: 65/1079
 - [ ] 530. Meat Puppets - Meat Puppets II
 - [ ] 531. Culture Club - Colour by Numbers
 - [ ] 532. Frankie Goes to Hollywood - Welcome to the Pleasuredome
-- [ ] 533. Run DMC- Run DMC
+- [ ] 533. Run DMC - Run DMC
 - [ ] 534. Sade - Diamond Life
 - [ ] 535. Cocteau Twins - Treasure
 - [ ] 536. Minor Threat - Out of Step
@@ -560,7 +560,7 @@ Current score: 65/1079
 - [ ] 553. The Mekons - Fear and Whiskey
 - [ ] 554. Big Black - Atomizer
 - [ ] 555. Suzanne Vega - Suzanne Vega (1985)
-- [ ] 556. The Pogues- Rum Sodomy and the Lash
+- [ ] 556. The Pogues - Rum Sodomy and the Lash
 - [X] 557. Kate Bush - Hounds of Love (1985)
 - [ ] 558. Meat Is Murder (The Smiths, 1985)
 - [ ] 559. Rain Dogs (Tom Waits, 1985)
@@ -626,7 +626,7 @@ Current score: 65/1079
 - [ ] 619. The Happy Mondays - Bummed
 - [ ] 620. The Go-Betweens - 16 Lovers Lane
 - [ ] 621. Cowboy Junkies - The Trinity Session (1988)
-- [ ] 622. Tracy Chapman-Tracy Chapman [1988]
+- [ ] 622. Tracy Chapman - Tracy Chapman [1988]
 - [ ] 623. My Bloody Valentine - Isn't Anything
 - [ ] 624. Surfer Rosa (Pixies, 1988)
 - [ ] 625. Metallica - ...And Justice for All (1988)
@@ -652,7 +652,7 @@ Current score: 65/1079
 - [ ] 645. The Young Gods - L'eau Rouge (1989)
 - [ ] 646. John Zorn - Spy vs. Spy (1989)
 - [ ] 647. The Stone Roses - The Stone Roses
-- [ ] 648. Raw Like Sushi- Neneh Cherry
+- [ ] 648. Raw Like Sushi - Neneh Cherry
 - [ ] 649. Baaba Maal & Mansour Seck - Djam Leelii (1989)
 - [ ] 650. The Sensual World
 - [ ] 651. Disintegration (The Cure, 1989)
@@ -661,7 +661,7 @@ Current score: 65/1079
 - [ ] 654. Barry Adamson - Moss Side Story (1989)
 - [ ] 655. Aerosmith - Pump
 - [ ] 656. Pixies - Doolittle
-- [ ] 657. Nick of Time- Bonnie Raitt [1989]
+- [ ] 657. Nick of Time - Bonnie Raitt [1989]
 - [ ] 658. Fugazi - Repeater
 - [ ] 659. Soul II Soul - Club Classics Vol. One
 - [ ] 660. De La Soul - 3 Feet High and Rising
@@ -683,7 +683,7 @@ Current score: 65/1079
 - [ ] 676. Neil Young and Crazy Horse - Ragged Glory
 - [ ] 677. Ice Cube - Amerikkka's Most Wanted
 - [ ] 678. Jane's Addiction, Ritual De Lo Habitual (1990)
-- [ ] 679. LL Cool J- Mama Said Knock You Out
+- [ ] 679. LL Cool J - Mama Said Knock You Out
 - [X] 680. Public Enemy - Fear of a Black Planet
 - [ ] 681. Sinead O'Connor - I Do Not Want What I Haven't Got
 - [ ] 682. A Tribe Called Quest - People's Instinctive Travels
@@ -695,11 +695,11 @@ Current score: 65/1079
 - [ ] 688. Cypress Hill - Cypress Hill
 - [ ] 689. Julian Cope Peggy Suicide
 - [ ] 690. Gang Starr - Step in the Arena
-- [ ] 691. MC Solar- Qui Seme Le Vent Recolte Le Tempo
-- [ ] 692. Jah Wobble-Rising Above Bedlam
+- [ ] 691. MC Solar - Qui Seme Le Vent Recolte Le Tempo
+- [ ] 692. Jah Wobble - Rising Above Bedlam
 - [ ] 693. Red Hot Chili Peppers - Blood Sugar Sex Magik
 - [ ] 694. O.G. Original Gangster (1991) - Ice T
-- [ ] 695. Mudhoney- Every Good Boy Deserves Fudge
+- [ ] 695. Mudhoney - Every Good Boy Deserves Fudge
 - [ ] 696. Public Enemy - Apocalypse 91 Enemy Strikes Back
 - [X] 697. A Tribe Called Quest - The Low End Theory
 - [ ] 698. Pearl Jam - Ten (1991)
@@ -721,7 +721,7 @@ Current score: 65/1079
 - [ ] 714. Lemonheads - It's a Shame About Ray
 - [ ] 715. Rage Against the Machine (Rage Against the Machine, 1992)
 - [ ] 716. Disposable Heroes of Hiphoprisy - Hypocrisy Is the Greatest Luxury
-- [ ] 717. Ingenue-K.D. Lang
+- [ ] 717. Ingenue - K.D. Lang
 - [X] 718. Dr. Dre - The Chronic (1992)
 - [X] 719. R.E.M. - Automatic for the People
 - [ ] 720. Bizarre Ride II the Pharcyde (The Pharcyde, 1992)
@@ -748,18 +748,18 @@ Current score: 65/1079
 - [ ] 741. Grant Lee Buffalo - Fuzzy
 - [X] 742. Nirvana - In Utero (1993)
 - [ ] 743. Jamiroquai - Emergency on Planet Earth
-- [ ] 744. Pet Shop Boys-Very
+- [ ] 744. Pet Shop Boys - Very
 - [ ] 745. P.J. Harvey - Rid of Me
 - [ ] 746. Blur - Modern Life Is Rubbish
 - [ ] 747. Tuesday Night Music Club
 - [ ] 748. The Infotainment Scan the Fall
-- [ ] 749. Enter the Wu-Tang (36 Chambers) (Wu-Tang Clan, 1993),
+- [ ] 749. Wu-Tang Clan - Enter the Wu-Tang (36 Chambers) (1993)
 - [ ] 750. Björk - Debut (1993)
-- [ ] 751. Orbital- Orbital 2
+- [ ] 751. Orbital - Orbital 2
 - [ ] 752. Doggystyle (Snoop Doggy Dogg, 1993)
 - [ ] 753. Sebadoh - Bubble and Scrape
 - [ ] 754. The Boo Radleys - Giant Steps
-- [ ] 755. William Orbit-Strange Cargo Lll
+- [ ] 755. William Orbit - Strange Cargo Lll
 - [ ] 756. Method Man - Tical
 - [ ] 757. Frank Black - Teenager of the Year
 - [ ] 758. Girls Against Boys - Venus Luxure No 1 Baby
@@ -771,7 +771,7 @@ Current score: 65/1079
 - [ ] 764. Ill Communication (Beastie Boys, 1994)
 - [ ] 765. Elvis Costello Brutal Youth
 - [ ] 766. Morrissey - Vauxhall and I
-- [ ] 767. Crazysexycool- TLC [1994]
+- [ ] 767. Crazysexycool - TLC [1994]
 - [ ] 768. Definitely Maybe (Oasis)
 - [ ] 769. Superunknown (Soundgarden, 1994)
 - [ ] 770. Smash (The Offspring, 1994)
@@ -779,7 +779,7 @@ Current score: 65/1079
 - [ ] 772. Blur - Parklife
 - [ ] 773. G Love & Special Sauce - G Love & Special Sauce
 - [ ] 774. Ali Farka Toure & Ry Cooder Talking Timbuktu
-- [ ] 775. Hole- Live Through This
+- [ ] 775. Hole - Live Through This
 - [ ] 776. Massive Attack - Protection
 - [ ] 777. Manic Street Preachers - The Holy Bible
 - [ ] 778. Suede - Dog Man Star
@@ -794,7 +794,7 @@ Current score: 65/1079
 - [ ] 787. Garbage - Garbage (1995)
 - [ ] 788. Nightmares on Wax Smokers Delight
 - [X] 789. Tricky - Maxinquaye
-- [X] 790. Raekwon- Only Built 4 Cuban Linx
+- [X] 790. Raekwon - Only Built 4 Cuban Linx
 - [ ] 791. Smashing Pumpkins - Mellon Collie and the Infinite Sadness
 - [ ] 792. Rocket From the Crypt Scream Dracula Scream
 - [ ] 793. The Chemical Brothers - Exit Planet Dust
@@ -844,37 +844,37 @@ Current score: 65/1079
 - [ ] 837. Blur - Blur
 - [X] 838. Radiohead - OK Computer (1997)
 - [ ] 839. Finely Quaye Maverick a Strike
-- [ ] 840. Missy "Misdemeanor" Elliott- Supa Dupa Fly
+- [ ] 840. Missy "Misdemeanor" Elliott - Supa Dupa Fly
 - [ ] 841. The Chemical Bros. - Dig Your Own Hole (1997)
 - [ ] 842. Primal Scream - Vanishing Point
 - [ ] 843. Robert Wyatt - Shleep
-- [ ] 844. David Holmes-Lets Get Killed
-- [ ] 845. Sleater-Kinney- Dig Me Out
+- [ ] 844. David Holmes - Lets Get Killed
+- [ ] 845. Sleater-Kinney - Dig Me Out
 - [ ] 846. The Prodigy - The Fat of the Land
-- [ ] 847. Buena Vista Social Club- Buena Vista Social Club
+- [ ] 847. Buena Vista Social Club - Buena Vista Social Club
 - [ ] 848. Nick Cave and the Bad Seeds - The Boatman's Call
 - [ ] 849. Divine Comedy - A Short Album About Love
 - [ ] 850. Cornershop - When I Was Born for the 7th Time
 - [ ] 851. Daft Punk - Homework
 - [ ] 852. Robbie Williams - Life Thru a Lens
-- [ ] 853. Mariah Carey-Butterfly
+- [ ] 853. Mariah Carey - Butterfly
 - [ ] 854. Supergrass - In It for the Money
 - [ ] 855. Bob Dylan - Time Out of Mind
 - [ ] 856. Reprazent and Roni Size - New Forms
 - [ ] 857. Elliott Smith - Either/Or
 - [ ] 858. The Verve - Urban Hymns
 - [ ] 859. Spiritualized - Ladies and Gentlemen We Are Floating in Space
-- [ ] 860. System of a Down-System of a Down
+- [ ] 860. System of a Down - System of a Down
 - [ ] 861. Bob Dylan, Live 1966 (1998)
 - [X] 862. Manu Chao - Clandestino
 - [ ] 863. Billy Bragg and Wilco Mermaid Avenue
 - [ ] 864. Turbonegro - Apocalypse Dudes
 - [ ] 865. Fatboy Slim - You've Come a Long Way Baby
 - [ ] 866. David Gray - White Ladder
-- [ ] 867. Lucinda Williams- Car Wheels on a Gravel Road
+- [ ] 867. Lucinda Williams - Car Wheels on a Gravel Road
 - [ ] 868. Pulp - This Is Hardcore
 - [ ] 869. Madonna - Ray of Light
-- [ ] 870. Lauryn Hill-The Miseducation of Lauryn Hill
+- [ ] 870. Lauryn Hill - The Miseducation of Lauryn Hill
 - [ ] 871. Hole - Celebrity Skin
 - [ ] 872. The Dandy Warhols - Come Down
 - [ ] 873. Mercury Rev - Deserter's Songs
@@ -929,7 +929,7 @@ Current score: 65/1079
 - [ ] 922. Eminem - The Marshall Mathers LP
 - [ ] 923. Red Snapper - Our Aim Is to Satisfy
 - [ ] 924. Ute Lemper • Punishing Kiss
-- [ ] 925. The Avalanches-Since I Left You
+- [ ] 925. The Avalanches - Since I Left You
 - [ ] 926. Outkast - Stankonia
 - [X] 927. Common - Like Water for Chocolate
 - [ ] 928. Silver Jews - Bright Flight
@@ -949,7 +949,7 @@ Current score: 65/1079
 - [ ] 942. Melody A.M. (Röyksopp, 2001)
 - [ ] 943. Drive by Truckers Southern Rock Opera
 - [ ] 944. Super Furry Animals - Rings Around the World
-- [ ] 945. The Vines-Highly Evolved
+- [ ] 945. The Vines - Highly Evolved
 - [ ] 946. Jurassic 5 - Power in Numbers
 - [ ] 947. Wilco - Yankee Hotel Foxtrot
 - [ ] 948. Christina Aguilera - Stripped
