@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 35/251
+Current score: 36/251
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -228,7 +228,7 @@ Current score: 35/251
 - [ ] 31. Pet Shop Boys - Behaviour
 - [ ] 30. Phil Ochs - I Ain't Marching Anymore
 - [ ] 29. X-Ray Spex - Germfree Adolescents
-- [ ] 28. Massive Attack - Mezzanine
+- [X] 28. Massive Attack - Mezzanine
 - [ ] 27. Jeff Buckley - Sketches for My Sweetheart the Drunk
 - [ ] 26. Brand New - The Devil and God Are Raging Inside Me
 - [ ] 25. Ice Cube - Death Certificate

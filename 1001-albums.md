@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 66/1079
+Current score: 67/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -628,7 +628,7 @@ Current score: 66/1079
 - [ ] 621. Cowboy Junkies - The Trinity Session (1988)
 - [ ] 622. Tracy Chapman - Tracy Chapman [1988]
 - [ ] 623. My Bloody Valentine - Isn't Anything
-- [ ] 624. Surfer Rosa (Pixies, 1988)
+- [ ] 624. Pixies - Surfer Rosa (1988)
 - [ ] 625. Metallica - ...And Justice for All (1988)
 - [ ] 626. Dinosaur Jr. - Bug (1988)
 - [ ] 627. Dagmar Krause - Tank Battles
@@ -674,7 +674,7 @@ Current score: 66/1079
 - [ ] 667. The La's, the La's (1990)
 - [ ] 668. Black Crowes - Shake Your Money Maker
 - [ ] 669. Depeche Mode - Violator (1990)
-- [ ] 670. Pixies - Bossanova
+- [X] 670. Pixies - Bossanova
 - [ ] 671. Megadeth - Rust in Peace
 - [ ] 672. Sex Packets (1990) - Digital Underground
 - [ ] 673. Pet Shop Boys - Behaviour

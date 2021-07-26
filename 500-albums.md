@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 55/500
+Current score: 56/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -387,7 +387,7 @@ Current score: 55/500
 - [ ] 380. Charles Mingus - Mingus Ah Um (1959)
 - [ ] 381. Lynyrd Skynyrd - (Pronounced 'Lĕh-'Nérd 'Skin-'Nérd)
 - [ ] 382. Tame Impala - Currents
-- [ ] 383. Massive Attack - Mezzanine (1998)
+- [X] 383. Massive Attack - Mezzanine (1998)
 - [ ] 384. The Kinks Are the Village Green Preservation Society
 - [ ] 385. Ramones - Rocket to Russia
 - [ ] 386. J Dilla - Donuts (2006)
