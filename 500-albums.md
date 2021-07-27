@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 56/500
+Current score: 57/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -39,7 +39,7 @@ Current score: 56/500
 - [X] 32. Beyoncé - Lemonade
 - [ ] 33. Amy Winehouse - Back to Black
 - [ ] 34. Stevie Wonder - Innervisions
-- [ ] 35. The Beatles - Rubber Soul
+- [X] 35. The Beatles - Rubber Soul
 - [ ] 36. Michael Jackson - Off the Wall
 - [X] 37. Dr. Dre - The Chronic (1992)
 - [ ] 38. Bob Dylan - Blonde on Blonde (1966)

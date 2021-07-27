@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 67/1079
+Current score: 70/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -59,7 +59,7 @@ Current score: 67/1079
 - [ ] 52. The Beach Boys - The Beach Boys Today! (1965)
 - [X] 53. John Coltrane - A Love Supreme (1965)
 - [ ] 54. B.B. King - Live at the Regal
-- [ ] 55. The Beatles - Rubber Soul (1965)
+- [X] 55. The Beatles - Rubber Soul (1965)
 - [ ] 56. Bert Jansch - Bert Jansch (1965)
 - [ ] 57. The Byrds - Mr. Tambourine Man
 - [ ] 58. Bob Dylan, Highway 61 Revisited (1965)
@@ -184,7 +184,7 @@ Current score: 67/1079
 - [ ] 177. Miles Davis - Bitches Brew (1970)
 - [ ] 178. Spirit - Twelve Dreams of Dr. Sardonicus
 - [ ] 179. Black Sabbath - Black Sabbath (1970)
-- [ ] 180. The Doors - Morrison Hotel
+- [X] 180. The Doors - Morrison Hotel
 - [ ] 181. Carpenters - Close to You (1970)
 - [ ] 182. Stephen Stills
 - [ ] 183. John Lennon - John Lennon & Plastic Ono Band
@@ -223,7 +223,7 @@ Current score: 67/1079
 - [ ] 216. John Lennon: Imagine
 - [ ] 217. The Beach Boys - Surf's Up (1971)
 - [ ] 218. Yes - Fragile (1970)
-- [ ] 219. L.A. Woman - The Doors
+- [X] 219. The Doors - L.A. Woman
 - [ ] 220. Can - Tago Mago (1971)
 - [ ] 221. Madman Across the Water (Elton John, 1971)
 - [ ] 222. Coat of Many Colors - Dolly Parton [1971]
