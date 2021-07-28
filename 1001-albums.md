@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 71/1079
+Current score: 74/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -348,7 +348,7 @@ Current score: 71/1079
 - [ ] 341. Neil Young - Tonight'S the Night (1975)
 - [ ] 342. Bob Dylan: Blood on the Tracks
 - [ ] 343. Patti Smith - Horses (1975)
-- [ ] 344. Pink Floyd Wish You Were
+- [X] 344. Pink Floyd - Wish You Were Here
 - [ ] 345. Queen - A Night at the Opera
 - [ ] 346. Willie Nelson - Red Headed Stranger
 - [ ] 347. Earth, Wind & Fire - That's the Way of the World
@@ -384,7 +384,7 @@ Current score: 71/1079
 - [ ] 377. The Clash - The Clash
 - [ ] 378. David Bowie - Low
 - [ ] 379. Steely Dan - Aja
-- [ ] 380. Wire - Pink Flag
+- [X] 380. Wire - Pink Flag
 - [ ] 381. John Martyn One World
 - [ ] 382. Talking Heads - Talking Heads: 77
 - [ ] 383. Fleetwood Mac - Rumours
@@ -742,7 +742,7 @@ Current score: 71/1079
 - [ ] 735. Paul Weller - Wild Wood
 - [ ] 736. Smashing Pumpkins - Siamese Dream
 - [ ] 737. The Auteurs New Wave
-- [ ] 738. Liz Phair - Exile in Guyville
+- [X] 738. Liz Phair - Exile in Guyville
 - [ ] 739. Afghan Whigs - Gentlemen
 - [ ] 740. Aimee Mann - Whatever
 - [ ] 741. Grant Lee Buffalo - Fuzzy

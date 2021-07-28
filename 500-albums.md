@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 58/500
+Current score: 61/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -60,7 +60,7 @@ Current score: 58/500
 - [ ] 53. Jimi Hendrix - Electric Ladyland (1968)
 - [ ] 54. James Brown - Star Time
 - [ ] 55. Pink Floyd - The Dark Side of the Moon
-- [ ] 56. Liz Phair - Exile in Guyville
+- [X] 56. Liz Phair - Exile in Guyville
 - [ ] 57. The Band - The Band (1969)
 - [ ] 58. Led Zeppelin - Led Zeppelin [IV]
 - [ ] 59. Stevie Wonder - Talking Book
@@ -268,7 +268,7 @@ Current score: 58/500
 - [ ] 261. Beastie Boys - Check Your Head
 - [ ] 262. New Order - Power, Corruption & Lies
 - [ ] 263. The Beatles - A Hard Day's Night
-- [ ] 264. Wish You Were Here
+- [X] 264. Pink Floyd - Wish You Were Here
 - [ ] 265. Pavement - Wowee Zowee
 - [ ] 266. The Beatles - Help!
 - [ ] 267. Minutemen - Double Nickels on the Dime
@@ -314,7 +314,7 @@ Current score: 58/500
 - [ ] 307. Sam Cooke- Portait of a Legend
 - [ ] 308. Eno - Here Comes the Warm Jets
 - [ ] 309. Joy Division - Closer
-- [ ] 310. Wire - Pink Flag
+- [X] 310. Wire - Pink Flag
 - [ ] 311. Neil Young - On the Beach (1974)
 - [ ] 312. Solange - A Seat at the Table (2016)
 - [ ] 313. PJ Harvey - Stories From the City, Stories From the Sea
