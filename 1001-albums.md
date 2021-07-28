@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 70/1079
+Current score: 71/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -236,7 +236,7 @@ Current score: 70/1079
 - [ ] 229. Leonard Cohen - Songs of Love and Hate
 - [X] 230. Joni Mitchell - Blue (1971)
 - [ ] 231. Janis Joplin - Pearl
-- [ ] 232. Funkadelic - Maggot Brain
+- [X] 232. Funkadelic - Maggot Brain
 - [ ] 233. Fela Ransome - Kuti & the Afrika 70 With Ginger Baker - Live!
 - [ ] 234. The Faces - A Nod Is as Good as a Wink... to a Blind Horse
 - [ ] 235. Flamin' Groovies - Teenage Head

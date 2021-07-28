@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 36/251
+Current score: 37/251
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -57,7 +57,7 @@ Current score: 36/251
 - [ ] 202. Pink Floyd - Meddle
 - [ ] 201. Seo Taiji and Boys - Seo Taiji and Boys
 - [ ] 200. Various Artists - Pure Moods, Vol. 1
-- [ ] 199. Funkadelic - Maggot Brain
+- [X] 199. Funkadelic - Maggot Brain
 - [ ] 198. Mazzy Star - So Tonight That I Might See
 - [ ] 197. Fabolous - Ghetto Fabolous
 - [ ] 196. Elliott Smith - Elliott Smith

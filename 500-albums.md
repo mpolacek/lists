@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 57/500
+Current score: 58/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -140,7 +140,7 @@ Current score: 57/500
 - [ ] 133. Joni Mitchell - Hejira
 - [X] 134. Fugees - The Score
 - [ ] 135. U2 - The Joshua Tree
-- [ ] 136. Funkadelic - Maggot Brain
+- [X] 136. Funkadelic - Maggot Brain
 - [ ] 137. Adele - 21
 - [ ] 138. Madonna - The Immaculate Collection
 - [X] 139. Black Sabbath - Paranoid
