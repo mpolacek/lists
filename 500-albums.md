@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 61/500
+Current score: 62/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -135,7 +135,7 @@ Current score: 61/500
 - [ ] 128. Queen - A Night at the Opera
 - [ ] 129. Pink Floyd - The Wall
 - [ ] 130. Prince - 1999
-- [ ] 131. Portishead - Dummy
+- [X] 131. Portishead - Dummy
 - [ ] 132. Hank Williams - 40 Greatest Hits
 - [ ] 133. Joni Mitchell - Hejira
 - [X] 134. Fugees - The Score

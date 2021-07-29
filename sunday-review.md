@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 37/251
+Current score: 39/251
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -71,7 +71,7 @@ Current score: 37/251
 - [ ] 188. Toots and the Maytals - Funky Kingston
 - [ ] 187. No Doubt - Tragic Kingdom
 - [X] 186. Björk - Post
-- [ ] 185. Godspeed You! Black Emperor - F♯ A♯ ∞
+- [X] 185. Godspeed You! Black Emperor - F♯ A♯ ∞
 - [ ] 184. Type O Negative - Bloody Kisses
 - [ ] 183. Buffy Sainte-Marie - Illuminations
 - [ ] 182. Shakira - Laundry Service
@@ -213,7 +213,7 @@ Current score: 37/251
 - [ ] 46. JAY-Z - Reasonable Doubt
 - [ ] 45. Green Day - Dookie
 - [ ] 44. Fugazi - In on the Kill Taker
-- [ ] 43. Portishead - Dummy
+- [X] 43. Portishead - Dummy
 - [X] 42. Black Flag - Damaged
 - [X] 41. Sade - Love Deluxe
 - [ ] 40. Liquid Liquid - Liquid Liquid EP | Successive Reflexes EP | Optimo EP

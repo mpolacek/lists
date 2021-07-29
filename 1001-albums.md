@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 74/1079
+Current score: 75/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -765,7 +765,7 @@ Current score: 74/1079
 - [ ] 758. Girls Against Boys - Venus Luxure No 1 Baby
 - [ ] 759. Jeru the Damaja - The Sun Rises in the East
 - [X] 760. Pavement - Crooked Rain, Crooked Rain
-- [ ] 761. Portishead - Dummy
+- [X] 761. Portishead - Dummy
 - [ ] 762. Sabres of Paradise - Haunted Dancehall
 - [X] 763. Nas - Illmatic
 - [ ] 764. Ill Communication (Beastie Boys, 1994)
