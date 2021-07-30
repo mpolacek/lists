@@ -1,10 +1,11 @@
 Various albums
 ==============
 
-Current score: 0/17
+Current score: 0/18
 
 `$ grep "\[X\]" any.md | wc -l`
 
+- [ ] 18. OOIOO - nijimusi
 - [ ] 17. Daniel Johnston - Discovered, Covered: The Late, Great Daniel Johnston
 - [ ] 16. Daniel Johnston - Songs of Pain: The Early Recordings, Vol. 1
 - [ ] 15. Daniel Johnston - Rejected Unknown

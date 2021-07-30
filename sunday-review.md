@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 39/251
+Current score: 40/251
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -252,7 +252,7 @@ Current score: 39/251
 - [ ] 7. De La Soul - Buhloone Mindstate
 - [ ] 6. Fleetwood Mac - Tusk
 - [ ] 5. Lauryn Hill - The Miseducation of Lauryn Hill
-- [ ] 4. Pulp - Different Class
+- [X] 4. Pulp - Different Class
 - [ ] 3. Neil Young - Tonight's the Night
 - [ ] 2. George Harrison - All Things Must Pass
 - [X] 1. Kate Bush - Hounds of Love

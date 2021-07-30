@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 75/1079
+Current score: 77/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -753,7 +753,7 @@ Current score: 75/1079
 - [ ] 746. Blur - Modern Life Is Rubbish
 - [ ] 747. Tuesday Night Music Club
 - [ ] 748. The Infotainment Scan the Fall
-- [ ] 749. Wu-Tang Clan - Enter the Wu-Tang (36 Chambers) (1993)
+- [X] 749. Wu-Tang Clan - Enter the Wu-Tang (36 Chambers) (1993)
 - [ ] 750. Björk - Debut (1993)
 - [ ] 751. Orbital - Orbital 2
 - [ ] 752. Doggystyle (Snoop Doggy Dogg, 1993)
@@ -806,7 +806,7 @@ Current score: 75/1079
 - [ ] 799. Femi Kutti Femi Kutti
 - [ ] 800. The Verve - A Northern Soul
 - [ ] 801. Liquid Swords (GZA, 1995)
-- [ ] 802. Pulp - Different Class
+- [X] 802. Pulp - Different Class
 - [ ] 803. Leftfield - Leftism
 - [ ] 804. D'Angelo - Brown Sugar
 - [ ] 805. (What's the Story) Morning Glory? by Oasis

@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 62/500
+Current score: 64/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -31,7 +31,7 @@ Current score: 62/500
 - [X] 24. The Beatles - Sgt. Pepper's Lonely Hearts Club Band
 - [ ] 25. Carole King - Tapestry (1971)
 - [ ] 26. Patti Smith - Horses (1975)
-- [ ] 27. Wu-Tang Clan - Enter the Wu-Tang (36 Chambers) (1993)
+- [X] 27. Wu-Tang Clan - Enter the Wu-Tang (36 Chambers) (1993)
 - [ ] 28. D'Angelo - Voodoo
 - [ ] 29. The Beatles - The Beatles [White Album]
 - [ ] 30. The Jimi Hendrix Experience - Are You Experienced (1967)
@@ -166,7 +166,7 @@ Current score: 62/500
 - [ ] 159. The Police - Synchronicity
 - [ ] 160. Pearl Jam - Ten (1991)
 - [ ] 161. Crosby, Stills & Nash - Crosby, Stills & Nash
-- [ ] 162. Pulp - Different Class (1995)
+- [X] 162. Pulp - Different Class (1995)
 - [ ] 163. Various Artists - Saturday Night Fever
 - [ ] 164. Johnny Cash - At Folsom Prison
 - [X] 165. R.E.M. - Murmur
