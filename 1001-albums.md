@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 77/1079
+Current score: 78/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -805,7 +805,7 @@ Current score: 77/1079
 - [X] 798. Guided by Voices - Alien Lanes
 - [ ] 799. Femi Kutti Femi Kutti
 - [ ] 800. The Verve - A Northern Soul
-- [ ] 801. Liquid Swords (GZA, 1995)
+- [X] 801. GZA - Liquid Swords (1995)
 - [X] 802. Pulp - Different Class
 - [ ] 803. Leftfield - Leftism
 - [ ] 804. D'Angelo - Brown Sugar

@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 64/500
+Current score: 65/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -351,7 +351,7 @@ Current score: 64/500
 - [ ] 344. Toots & the Maytals - Funky Kingston
 - [ ] 345. Bruce Springsteen- The Wild, the Innocent, and the E. Street Shuffle
 - [ ] 346. Arctic Monkeys - AM
-- [ ] 347. GZA - Liquid Swords
+- [X] 347. GZA - Liquid Swords
 - [ ] 348. Gillian Welch - Time (The Revelator)
 - [ ] 349. MC5 - Kick Out the Jams
 - [ ] 350. Stevie Wonder - Music of My Mind
