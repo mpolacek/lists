@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 65/500
+Current score: 66/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -410,7 +410,7 @@ Current score: 65/500
 - [ ] 403. Ghostface Killah - Supreme Clientele
 - [ ] 404. Anita Baker - Rapture
 - [ ] 405. Nuggets: Original Artyfacts From the First Psychedelic Era, 1965–1968
-- [ ] 406. The Magnetic Fields - 69 Love Songs
+- [X] 406. The Magnetic Fields - 69 Love Songs
 - [X] 407. Neil Young With Crazy Horse - Everybody Knows This Is Nowhere
 - [ ] 408. Motörhead - Ace of Spades
 - [ ] 409. The Grateful Dead: Workingman's Dead

@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 78/1079
+Current score: 79/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -889,7 +889,7 @@ Current score: 78/1079
 - [ ] 882. XTC - Apple Venus
 - [ ] 883. Incubus Make Yourself
 - [ ] 884. Skunk Anansie - Post-Orgasmic Chill
-- [ ] 885. The Magnetic Fields - 69 Love Songs
+- [X] 885. The Magnetic Fields - 69 Love Songs
 - [ ] 886. Travis Man Who
 - [ ] 887. Slipknot - Slipknot
 - [ ] 888. Beth Orton - Central Reservation
