@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 68/500
+Current score: 69/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -486,7 +486,7 @@ Current score: 68/500
 - [ ] 479. Selena - Amor Prohibido
 - [ ] 480. Miranda Lambert the Weight of These Wings
 - [X] 481. Belle and Sebastian - If You're Feeling Sinister
-- [ ] 482. The Pharcyde - Bizarre Ride II the Pharcyde
+- [X] 482. The Pharcyde - Bizarre Ride II the Pharcyde
 - [ ] 483. Muddy Waters- The Anthology
 - [ ] 484. Lady Gaga - Born This Way
 - [ ] 485. Richard Thompson - I Want to See the Bright Lights Tonight

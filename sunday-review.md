@@ -1,10 +1,11 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 40/251
+Current score: 41/252
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 252. DC Talk - Jesus Freak
 - [ ] 251. Diddy - Dirty Money - Last Train to Paris
 - [ ] 250. Annie Lennox - Diva
 - [X] 249. Muse - Origin of Symmetry
@@ -35,7 +36,7 @@ Current score: 40/251
 - [ ] 224. Virginia Astley - From Gardens Where We Feel Secure
 - [ ] 223. U2 - Zooropa
 - [ ] 222. Gil Scott-Heron - Pieces of a Man
-- [ ] 221. The Pharcyde - Bizarre Ride II the Pharcyde
+- [X] 221. The Pharcyde - Bizarre Ride II the Pharcyde
 - [ ] 220. George Harrison / Ravi Shankar - The Concert for Bangladesh
 - [ ] 219. Usher - Confessions
 - [ ] 218. John Lee Hooker - It Serve You Right to Suffer

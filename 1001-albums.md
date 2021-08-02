@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 81/1079
+Current score: 82/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -724,7 +724,7 @@ Current score: 81/1079
 - [ ] 717. Ingenue - K.D. Lang
 - [X] 718. Dr. Dre - The Chronic (1992)
 - [X] 719. R.E.M. - Automatic for the People
-- [ ] 720. Bizarre Ride II the Pharcyde (The Pharcyde, 1992)
+- [X] 720. The Pharcyde - Bizarre Ride II the Pharcyde (1992)
 - [ ] 721. Spiritualized - Laser Guided Melodies
 - [ ] 722. Sugar - Copper Blue
 - [X] 723. Tom Waits - Bone Machine (1992)
