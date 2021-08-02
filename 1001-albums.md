@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 79/1079
+Current score: 80/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -709,7 +709,7 @@ Current score: 79/1079
 - [ ] 702. U2 - Achtung Baby
 - [ ] 703. The KLF - The White Room
 - [X] 704. Massive Attack - Blue Lines
-- [ ] 705. Primal Scream - Screamadelica
+- [X] 705. Primal Scream - Screamadelica
 - [ ] 706. Teenage Fanclub - Bandwagonesque
 - [ ] 707. Metallica - Metallica
 - [X] 708. Pavement - Slanted and Enchanted
