@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 80/1079
+Current score: 81/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -877,7 +877,7 @@ Current score: 80/1079
 - [ ] 870. Lauryn Hill - The Miseducation of Lauryn Hill
 - [ ] 871. Hole - Celebrity Skin
 - [ ] 872. The Dandy Warhols - Come Down
-- [ ] 873. Mercury Rev - Deserter's Songs
+- [X] 873. Mercury Rev - Deserter's Songs
 - [ ] 874. Queens of the Stone Age - Queens of the Stone Age
 - [X] 875. Air - Moon Safari (1998)
 - [ ] 876. Korn - Follow the Leader

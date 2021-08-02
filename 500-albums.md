@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 67/500
+Current score: 68/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -265,7 +265,7 @@ Current score: 67/500
 - [ ] 258. Joni Mitchell - The Hissing of Summer Lawns
 - [ ] 259. Janis Joplin - Pearl
 - [ ] 260. The Slits - Cut (1979)
-- [ ] 261. Beastie Boys - Check Your Head
+- [X] 261. Beastie Boys - Check Your Head
 - [ ] 262. New Order - Power, Corruption & Lies
 - [ ] 263. The Beatles - A Hard Day's Night
 - [X] 264. Pink Floyd - Wish You Were Here
