@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 82/1079
+Current score: 84/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -687,7 +687,7 @@ Current score: 82/1079
 - [X] 680. Public Enemy - Fear of a Black Planet
 - [ ] 681. Sinead O'Connor - I Do Not Want What I Haven't Got
 - [ ] 682. A Tribe Called Quest - People's Instinctive Travels
-- [ ] 683. Sonic Youth - Goo
+- [X] 683. Sonic Youth - Goo
 - [X] 684. Ride - Nowhere
 - [X] 685. My Bloody Valentine - Loveless (1991)
 - [X] 686. Nirvana - Nevermind (1991)
@@ -734,7 +734,7 @@ Current score: 82/1079
 - [ ] 727. Tori Amos - Little Earthquakes
 - [ ] 728. Ice Cube - The Predator
 - [ ] 729. Pantera - Vulgar Display of Power
-- [ ] 730. Dirt (Alice in Chains, 1992)
+- [X] 730. Alice in Chains - Dirt (1992)
 - [ ] 731. Nick Cave and the Bad Seeds - By Henry's Dream
 - [ ] 732. Ali Fateh Nusart Khan - Devotional Songs
 - [ ] 733. P.J. Harvey - Dry

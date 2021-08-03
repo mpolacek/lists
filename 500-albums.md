@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 69/500
+Current score: 70/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -362,7 +362,7 @@ Current score: 69/500
 - [ ] 355. Black Sabbath - Black Sabbath
 - [ ] 356. Dr. John - Gris-Gris (1968)
 - [ ] 357. Tom Waits - Rain Dogs
-- [ ] 358. Sonic Youth - Goo
+- [X] 358. Sonic Youth - Goo
 - [ ] 359. Big Star - Radio City
 - [ ] 360. Funkadelic- One Nation Under a Groove
 - [ ] 361. My Chemical Romance - The Black Parade
