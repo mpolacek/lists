@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 41/252
+Current score: 42/252
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -143,7 +143,7 @@ Current score: 41/252
 - [ ] 117. J Dilla - Welcome 2 Detroit
 - [ ] 116. Maxwell - Maxwell’s Urban Hang Suite
 - [ ] 115. De La Soul - 3 Feet High and Rising
-- [ ] 114. PJ Harvey - Rid of Me
+- [X] 114. PJ Harvey - Rid of Me
 - [ ] 113. T.I. - Trap Muzik
 - [ ] 112. Milton Nascimento / Lô Borges - Clube Da Esquina
 - [ ] 111. Cap’n Jazz - Burritos, Inspiration Point, Fork Balloon Sports, Cards in the Spokes, Automatic Biographies, Kites, Kung Fu, Trophies, Banana Peels We’ve Slipped on, and Egg Shells We’ve Tippy Toed Over

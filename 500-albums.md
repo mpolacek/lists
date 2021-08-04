@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 70/500
+Current score: 71/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -157,7 +157,7 @@ Current score: 70/500
 - [ ] 150. Bruce Springsteen - Nebraska (1982)
 - [ ] 151. George Michael - Faith (1987)
 - [ ] 152. Pretenders - Pretenders
-- [ ] 153. PJ Harvey - Rid of Me
+- [X] 153. PJ Harvey - Rid of Me
 - [ ] 154. Aretha Franklin - Amazing Grace
 - [ ] 155. Jay-Z - The Black Album
 - [ ] 156. The Replacements - Let It Be

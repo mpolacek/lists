@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 84/1079
+Current score: 87/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -27,7 +27,7 @@ Current score: 84/1079
 - [ ] 20. Genius of Ray Charles
 - [X] 21. Miles Davis - Kind of Blue (1959)
 - [ ] 22. Gunfighter Ballads and Trail Songs (Marty Robbins, 1959)
-- [ ] 23. Time Out (The Dave Brubeck Quartet, 1959)
+- [X] 23. The Dave Brubeck Quartet - Time Out (1959)
 - [ ] 24. Joan Baez - Joan Baez (1960)
 - [ ] 25. Elvis Is Back! - Elvis Presley
 - [ ] 26. Miriam Makeba - Miriam Makeba (1960)
@@ -749,10 +749,10 @@ Current score: 84/1079
 - [X] 742. Nirvana - In Utero (1993)
 - [ ] 743. Jamiroquai - Emergency on Planet Earth
 - [ ] 744. Pet Shop Boys - Very
-- [ ] 745. P.J. Harvey - Rid of Me
+- [X] 745. PJ Harvey - Rid of Me
 - [ ] 746. Blur - Modern Life Is Rubbish
 - [ ] 747. Tuesday Night Music Club
-- [ ] 748. The Infotainment Scan the Fall
+- [X] 748. The Fall - The Infotainment Scan
 - [X] 749. Wu-Tang Clan - Enter the Wu-Tang (36 Chambers) (1993)
 - [ ] 750. Björk - Debut (1993)
 - [ ] 751. Orbital - Orbital 2
