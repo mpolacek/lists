@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 71/500
+Current score: 72/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -442,7 +442,7 @@ Current score: 71/500
 - [ ] 435. Actually - The Pet Shop Boys
 - [ ] 436. All Eyez on Me
 - [X] 437. Primal Scream - Screamadelica
-- [ ] 438. Blur - Parklife (1994)
+- [X] 438. Blur - Parklife (1994)
 - [ ] 439. James Brown- Sex Machine
 - [ ] 440. Coal Miner's Daughter - Loretta Lynn
 - [ ] 441. Britney Spears - Blackout

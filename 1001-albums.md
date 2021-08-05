@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 87/1079
+Current score: 91/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -468,7 +468,7 @@ Current score: 87/1079
 - [ ] 461. The Cure - Seventeen Seconds
 - [ ] 462. Echo & the Bunnymen - Crocodiles
 - [ ] 463. Motörhead - Ace of Spades
-- [ ] 464. Killing Joke - Killing Joke
+- [X] 464. Killing Joke - Killing Joke
 - [ ] 465. Judas Priest - British Steel
 - [ ] 466. Circle Jerks - Group Sex
 - [ ] 467. Talking Heads - Remain in Light
@@ -776,7 +776,7 @@ Current score: 87/1079
 - [ ] 769. Superunknown (Soundgarden, 1994)
 - [ ] 770. Smash (The Offspring, 1994)
 - [ ] 771. Drive Like Jehu - Yank Crime (1994)
-- [ ] 772. Blur - Parklife
+- [X] 772. Blur - Parklife
 - [ ] 773. G Love & Special Sauce - G Love & Special Sauce
 - [ ] 774. Ali Farka Toure & Ry Cooder Talking Timbuktu
 - [ ] 775. Hole - Live Through This
@@ -841,7 +841,7 @@ Current score: 87/1079
 - [X] 834. The Fugees - The Score (1996)
 - [ ] 835. Ash - 1977
 - [X] 836. Belle and Sebastian - If You're Feeling Sinister
-- [ ] 837. Blur - Blur
+- [X] 837. Blur - Blur
 - [X] 838. Radiohead - OK Computer (1997)
 - [ ] 839. Finely Quaye Maverick a Strike
 - [ ] 840. Missy "Misdemeanor" Elliott - Supa Dupa Fly
@@ -893,7 +893,7 @@ Current score: 87/1079
 - [ ] 886. Travis Man Who
 - [ ] 887. Slipknot - Slipknot
 - [ ] 888. Beth Orton - Central Reservation
-- [ ] 889. Nitin Sawhney Beyond Skin
+- [X] 889. Nitin Sawhney - Beyond Skin
 - [ ] 890. Death in Vegas Contino Sessions
 - [ ] 891. Moby - Play
 - [X] 892. The Flaming Lips - The Soft Bulletin
