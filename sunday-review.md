@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 42/252
+Current score: 43/252
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -147,7 +147,7 @@ Current score: 42/252
 - [ ] 113. T.I. - Trap Muzik
 - [ ] 112. Milton Nascimento / Lô Borges - Clube Da Esquina
 - [ ] 111. Cap’n Jazz - Burritos, Inspiration Point, Fork Balloon Sports, Cards in the Spokes, Automatic Biographies, Kites, Kung Fu, Trophies, Banana Peels We’ve Slipped on, and Egg Shells We’ve Tippy Toed Over
-- [ ] 110. The Prodigy - The Fat Of the Land
+- [X] 110. The Prodigy - The Fat Of the Land
 - [ ] 109. Earl Sweatshirt - Earl
 - [ ] 108. George Michael - Faith
 - [ ] 107. Bell Biv Devoe - Poison

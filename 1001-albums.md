@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 91/1079
+Current score: 93/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -477,7 +477,7 @@ Current score: 91/1079
 - [ ] 470. The Undertones - Hypnotised (1980)
 - [ ] 471. The Jam - Sound Affects
 - [ ] 472. Tom Waits - Heartattack and Vine (1980)
-- [ ] 473. UB40 - Signing Off
+- [X] 473. UB40 - Signing Off
 - [ ] 474. The Teardrop Explodes - Kilimanjaro
 - [ ] 475. The Specials - More Specials (1980)
 - [ ] 476. Steve Winwood - Arc of a Driver (1980)
@@ -850,7 +850,7 @@ Current score: 91/1079
 - [ ] 843. Robert Wyatt - Shleep
 - [ ] 844. David Holmes - Lets Get Killed
 - [ ] 845. Sleater-Kinney - Dig Me Out
-- [ ] 846. The Prodigy - The Fat of the Land
+- [X] 846. The Prodigy - The Fat of the Land
 - [ ] 847. Buena Vista Social Club - Buena Vista Social Club
 - [ ] 848. Nick Cave and the Bad Seeds - The Boatman's Call
 - [ ] 849. Divine Comedy - A Short Album About Love
