@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 72/500
+Current score: 74/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -220,7 +220,7 @@ Current score: 72/500
 - [ ] 213. Fiona Apple - The Idler Wheel...
 - [ ] 214. Tom Petty - Wildflowers
 - [X] 215. Grateful Dead - American Beauty
-- [ ] 216. Elliott Smith - Either/Or
+- [X] 216. Elliott Smith - Either/Or
 - [ ] 217. Oasis - Definitely Maybe
 - [ ] 218. TLC - Crazysexycool (1994)
 - [X] 219. Raekwon- Only Built 4 Cuban Linx
@@ -249,7 +249,7 @@ Current score: 72/500
 - [ ] 242. The Velvet Underground - Loaded
 - [ ] 243. The Zombies -Odessey and Oracle
 - [ ] 244. Kanye West - 808S and Heartbreak
-- [ ] 245. Cocteau Twins - Heaven or Las Vegas
+- [X] 245. Cocteau Twins - Heaven or Las Vegas
 - [ ] 246. LL Cool J - Mama Said Knock You Out
 - [X] 247. Sade - Love Deluxe
 - [ ] 248. Green Day - American Idiot

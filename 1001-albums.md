@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 93/1079
+Current score: 97/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -668,7 +668,7 @@ Current score: 93/1079
 - [ ] 661. Janet Jackson's Rhythm Nation 1814
 - [ ] 662. Jungle Brothers - Done by the Forces of Nature (1989)
 - [ ] 663. Straight Outta Compton (N.W.A, 1988)
-- [ ] 664. Heaven or Las Vegas (Cocteau Twins, 1990)
+- [X] 664. Cocteau Twins - Heaven or Las Vegas (1990)
 - [ ] 665. The Shamen - En-Tact (1990)
 - [ ] 666. World Clique (Deee-Lite, 1990)
 - [ ] 667. The La's, the La's (1990)
@@ -824,7 +824,7 @@ Current score: 93/1079
 - [ ] 817. Eels - Beautiful Freak
 - [ ] 818. Divine Comedy Casanova
 - [ ] 819. Fiona Apple - Tidal
-- [ ] 820. Wilco, Being There (1996)
+- [X] 820. Wilco - Being There (1996)
 - [ ] 821. Sepultura - Roots
 - [ ] 822. Barry Adamson Oedipus Schmoedipus
 - [ ] 823. Fun Lovin Criminals Come Find Yourself
@@ -861,9 +861,9 @@ Current score: 93/1079
 - [ ] 854. Supergrass - In It for the Money
 - [ ] 855. Bob Dylan - Time Out of Mind
 - [ ] 856. Reprazent and Roni Size - New Forms
-- [ ] 857. Elliott Smith - Either/Or
+- [X] 857. Elliott Smith - Either/Or
 - [ ] 858. The Verve - Urban Hymns
-- [ ] 859. Spiritualized - Ladies and Gentlemen We Are Floating in Space
+- [X] 859. Spiritualized - Ladies and Gentlemen We Are Floating in Space
 - [ ] 860. System of a Down - System of a Down
 - [ ] 861. Bob Dylan, Live 1966 (1998)
 - [X] 862. Manu Chao - Clandestino
