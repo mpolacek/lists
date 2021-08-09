@@ -1,10 +1,11 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 43/252
+Current score: 44/253
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 253. Bruce Springsteen - Born in the U.S.A.
 - [ ] 252. DC Talk - Jesus Freak
 - [ ] 251. Diddy - Dirty Money - Last Train to Paris
 - [ ] 250. Annie Lennox - Diva
@@ -132,7 +133,7 @@ Current score: 43/252
 - [ ] 128. Buzzcocks - Singles Going Steady
 - [ ] 127. Avril Lavigne - Let Go
 - [X] 126. Black Sabbath - Paranoid
-- [ ] 125. Daft Punk - Homework
+- [X] 125. Daft Punk - Homework
 - [ ] 124. Van Morrison - Moondance
 - [ ] 123. Lil Peep - Hellboy
 - [ ] 122. System of a Down - Toxicity

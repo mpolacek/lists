@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 97/1079
+Current score: 98/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -855,7 +855,7 @@ Current score: 97/1079
 - [ ] 848. Nick Cave and the Bad Seeds - The Boatman's Call
 - [ ] 849. Divine Comedy - A Short Album About Love
 - [ ] 850. Cornershop - When I Was Born for the 7th Time
-- [ ] 851. Daft Punk - Homework
+- [X] 851. Daft Punk - Homework
 - [ ] 852. Robbie Williams - Life Thru a Lens
 - [ ] 853. Mariah Carey - Butterfly
 - [ ] 854. Supergrass - In It for the Money

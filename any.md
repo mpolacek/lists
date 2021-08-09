@@ -1,10 +1,11 @@
 Various albums
 ==============
 
-Current score: 0/18
+Current score: 1/19
 
 `$ grep "\[X\]" any.md | wc -l`
 
+- [X] 19. Stone Temple Pilots - Core
 - [ ] 18. OOIOO - nijimusi
 - [ ] 17. Daniel Johnston - Discovered, Covered: The Late, Great Daniel Johnston
 - [ ] 16. Daniel Johnston - Songs of Pain: The Early Recordings, Vol. 1
