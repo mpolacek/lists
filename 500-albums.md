@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 74/500
+Current score: 75/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -225,7 +225,7 @@ Current score: 74/500
 - [ ] 218. TLC - Crazysexycool (1994)
 - [X] 219. Raekwon- Only Built 4 Cuban Linx
 - [ ] 220. Crosby, Stills, Nash and Young - Déjà Vu
-- [ ] 221. Rage Against the Machine - Rage Against the Machine
+- [X] 221. Rage Against the Machine - Rage Against the Machine
 - [ ] 222. Madonna - Ray of Light
 - [ ] 223. John Lennon - Imagine
 - [ ] 224. Dixie Chicks - Fly

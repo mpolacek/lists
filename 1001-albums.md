@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 98/1079
+Current score: 101/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -80,7 +80,7 @@ Current score: 98/1079
 - [ ] 73. John Mayall With Eric Clapton - Blues Breakers
 - [ ] 74. The Yardbirds - Roger the Engineer
 - [ ] 75. Nina Simone - Wild Is the Wind
-- [ ] 76. Astrud Gilberto - Beach Samba
+- [X] 76. Astrud Gilberto - Beach Samba
 - [ ] 77. Nico - Chelsea Girl (1967)
 - [X] 78. The Beatles - Sgt. Pepper's Lonely Hearts Club Band (1967)
 - [ ] 79. Country Joe & the Fish: Electric Music for the Mind and Body
@@ -677,7 +677,7 @@ Current score: 98/1079
 - [X] 670. Pixies - Bossanova
 - [ ] 671. Megadeth - Rust in Peace
 - [ ] 672. Sex Packets (1990) - Digital Underground
-- [ ] 673. Pet Shop Boys - Behaviour
+- [X] 673. Pet Shop Boys - Behaviour
 - [ ] 674. Happy Mondays - Pills N Thrills and Bellyaches
 - [ ] 675. George Michael Listen Without Prejudice: Vol 1
 - [ ] 676. Neil Young and Crazy Horse - Ragged Glory
@@ -719,7 +719,7 @@ Current score: 98/1079
 - [ ] 712. Morrissey - Your Arsenal
 - [ ] 713. Baaba Maal Lam Torro
 - [ ] 714. Lemonheads - It's a Shame About Ray
-- [ ] 715. Rage Against the Machine (Rage Against the Machine, 1992)
+- [X] 715. Rage Against the Machine - Rage Against the Machine (1992)
 - [ ] 716. Disposable Heroes of Hiphoprisy - Hypocrisy Is the Greatest Luxury
 - [ ] 717. Ingenue - K.D. Lang
 - [X] 718. Dr. Dre - The Chronic (1992)

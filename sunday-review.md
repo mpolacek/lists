@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 44/253
+Current score: 46/253
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -181,7 +181,7 @@ Current score: 44/253
 - [ ] 80. The-Dream - Love/Hate
 - [ ] 79. Gil Scott-Heron / Brian Jackson - Winter in America
 - [X] 78. The Blue Nile - Hats
-- [ ] 77. Rage Against the Machine - Rage Against the Machine
+- [X] 77. Rage Against the Machine - Rage Against the Machine
 - [ ] 76. Mariah Carey - Daydream
 - [ ] 75. Lou Reed - Metal Machine Music
 - [ ] 74. Bronski Beat - The Age of Consent
@@ -227,7 +227,7 @@ Current score: 44/253
 - [X] 34. Neil Young - Trans
 - [ ] 33. Jim O'Rourke - Bad Timing
 - [X] 32. Björk - Homogenic
-- [ ] 31. Pet Shop Boys - Behaviour
+- [X] 31. Pet Shop Boys - Behaviour
 - [ ] 30. Phil Ochs - I Ain't Marching Anymore
 - [ ] 29. X-Ray Spex - Germfree Adolescents
 - [X] 28. Massive Attack - Mezzanine
