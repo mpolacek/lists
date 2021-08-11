@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 46/253
+Current score: 47/253
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -206,7 +206,7 @@ Current score: 46/253
 - [ ] 55. Guns N’ Roses - Appetite for Destruction
 - [ ] 54. Metallica - Metallica
 - [X] 53. Marvin Gaye - Here, My Dear
-- [ ] 52. ZZ Top - Tres Hombres
+- [X] 52. ZZ Top - Tres Hombres
 - [ ] 51. Destiny’s Child - The Writing’s on the Wall
 - [ ] 50. Salt-N-Pepa - Very Necessary
 - [ ] 49. Ghostface Killah - Supreme Clientele

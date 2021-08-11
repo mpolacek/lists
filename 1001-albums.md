@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 101/1079
+Current score: 104/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -298,7 +298,7 @@ Current score: 101/1079
 - [ ] 291. Waylon Jennings - Honky Tonk Heroes (1973)
 - [ ] 292. Pink Floyd - 'Dark Side of the Moon'
 - [ ] 293. Stevie Wonder: Innervisions
-- [ ] 294. ZZ Top : Tres Hombres.
+- [X] 294. ZZ Top - Tres Hombres
 - [ ] 295. Band on the Run (Paul McCartney and Wings, 1973)
 - [ ] 296. The Sensational Alex Harvey Band - Next (1973)
 - [ ] 297. Alice Cooper - Billion Dollar Babies
@@ -593,7 +593,7 @@ Current score: 101/1079
 - [ ] 586. Anthrax - Among the Living
 - [X] 587. Dinosaur Jr. - You're Living All Over Me
 - [ ] 588. Dolly Parton - Linda Ronstadt - Emmylou Harrys - Trio (1987)
-- [ ] 589. Def Leppard - Hysteria
+- [X] 589. Def Leppard - Hysteria
 - [ ] 590. R.E.M. - Document
 - [ ] 591. Prince - Sign 'O' the Times
 - [ ] 592. The Cult : Electric.
@@ -761,7 +761,7 @@ Current score: 101/1079
 - [ ] 754. The Boo Radleys - Giant Steps
 - [ ] 755. William Orbit - Strange Cargo Lll
 - [ ] 756. Method Man - Tical
-- [ ] 757. Frank Black - Teenager of the Year
+- [X] 757. Frank Black - Teenager of the Year
 - [ ] 758. Girls Against Boys - Venus Luxure No 1 Baby
 - [ ] 759. Jeru the Damaja - The Sun Rises in the East
 - [X] 760. Pavement - Crooked Rain, Crooked Rain
