@@ -1,7 +1,7 @@
 Various albums
 ==============
 
-Current score: 1/35
+Current score: 2/35
 
 `$ grep "\[X\]" any.md | wc -l`
 
@@ -20,7 +20,7 @@ Current score: 1/35
 - [ ] 23. Meat Puppets - No Strings Attached
 - [ ] 22. L7 - Smell the Magic
 - [ ] 21. The Chills - Submarine Bells
-- [ ] 20. Tom Zé - Brazil Classics 4: The Best of Tom Zé
+- [X] 20. Tom Zé - Brazil Classics 4: The Best of Tom Zé
 - [X] 19. Stone Temple Pilots - Core
 - [ ] 18. OOIOO - nijimusi
 - [ ] 17. Daniel Johnston - Discovered, Covered: The Late, Great Daniel Johnston
