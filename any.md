@@ -1,10 +1,26 @@
 Various albums
 ==============
 
-Current score: 1/19
+Current score: 1/35
 
 `$ grep "\[X\]" any.md | wc -l`
 
+- [ ] 35. Snap - World Power
+- [ ] 34. Eric B. & Rakim - Let the Rhythm Hit 'Em
+- [ ] 33. Bangles - Greatest Hits
+- [ ] 32. Ministry - In Case You Didn't Feel Like Showing Up (Live)
+- [ ] 31. Living Colour - Time's Up
+- [ ] 30. Nick Lowe - Party of One
+- [ ] 29. The Deighton Family - Mama Was Right
+- [ ] 28. Rosanne Cash - Interiors
+- [ ] 27. Bob Dylan - Under the Red Sky
+- [ ] 26. The Beautiful South - Welcome to the Beautiful South
+- [ ] 25. Beats International - Let Them Eat Bingo
+- [ ] 24. Ladysmith Black Mambazo - Classic Tracks
+- [ ] 23. Meat Puppets - No Strings Attached
+- [ ] 22. L7 - Smell the Magic
+- [ ] 21. The Chills - Submarine Bells
+- [ ] 20. Tom Zé - Brazil Classics 4: The Best of Tom Zé
 - [X] 19. Stone Temple Pilots - Core
 - [ ] 18. OOIOO - nijimusi
 - [ ] 17. Daniel Johnston - Discovered, Covered: The Late, Great Daniel Johnston

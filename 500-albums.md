@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 75/500
+Current score: 76/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -232,7 +232,7 @@ Current score: 75/500
 - [ ] 225. Wilco - Yankee Hotel Foxtrot (2001)
 - [ ] 226. Derek and the Dominos - Layla and Other Assorted Love Songs
 - [ ] 227. Little Richard - Here's Little Richard
-- [ ] 228. De La Soul - De La Soul Is Dead
+- [X] 228. De La Soul - De La Soul Is Dead
 - [ ] 229. Patsy Cline the Ultimate Collection
 - [ ] 230. Rihanna - Anti
 - [ ] 231. Tom Petty & the Heartbreakers - Damn the Torpedoes
