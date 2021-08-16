@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 76/500
+Current score: 80/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -40,7 +40,7 @@ Current score: 76/500
 - [ ] 33. Amy Winehouse - Back to Black
 - [ ] 34. Stevie Wonder - Innervisions
 - [X] 35. The Beatles - Rubber Soul
-- [ ] 36. Michael Jackson - Off the Wall
+- [X] 36. Michael Jackson - Off the Wall
 - [X] 37. Dr. Dre - The Chronic (1992)
 - [ ] 38. Bob Dylan - Blonde on Blonde (1966)
 - [ ] 39. Talking Heads - Remain in Light
@@ -91,7 +91,7 @@ Current score: 76/500
 - [ ] 84. AC/DC - Back in Black (1980)
 - [ ] 85. John Lennon / Plastic Ono Band - John Lennon / Plastic Ono Band
 - [ ] 86. The Doors - The Doors (1967)
-- [ ] 87. Miles Davis - Bitches Brew
+- [X] 87. Miles Davis - Bitches Brew
 - [ ] 88. David Bowie - Hunky Dory (1971)
 - [ ] 89. Erykah Badu - Baduizm (1997)
 - [ ] 90. Neil Young - After the Gold Rush (1970)
@@ -210,7 +210,7 @@ Current score: 76/500
 - [ ] 203. Nick Drake - Pink Moon (1972)
 - [ ] 204. Kanye West - Graduation
 - [ ] 205. Cat Stevens - Tea for the Tillerman
-- [ ] 206. David Bowie - Low
+- [X] 206. David Bowie - Low
 - [ ] 207. Eagles - Eagles
 - [ ] 208. Lil Wayne - Tha Carter III
 - [ ] 209. Run DMC - Raising Hell
@@ -377,7 +377,7 @@ Current score: 76/500
 - [ ] 370. Lil Wayne - Tha Carter II
 - [ ] 371. The Temptations Anthology
 - [ ] 372. Big Brother & the Holding Company - Cheap Thrills
-- [ ] 373. Isaac Hayes - Hot Buttered Soul
+- [X] 373. Isaac Hayes - Hot Buttered Soul
 - [ ] 374. Robert Johnson - King of the Delta Blues Singers
 - [ ] 375. Green Day - Dookie
 - [X] 376. Neutral Milk Hotel - In the Aeroplane Over the Sea

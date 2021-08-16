@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 13/822
+Current score: 14/822
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -559,7 +559,7 @@ Current score: 13/822
 - [ ] 271. Volcano Choir - Unmap
 - [ ] 270. Raekwon - Only Built 4 Cuban Linx... Pt II
 - [ ] 269. Wild Beasts - Two Dancers
-- [ ] 268. The Xx - The Xx
+- [X] 268. The Xx - The Xx
 - [ ] 267. Yacht - See Mystery Lights
 - [ ] 266. The Antlers - Hospice
 - [ ] 265. Delorean - Ayrton Senna EP

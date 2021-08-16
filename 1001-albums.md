@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 104/1079
+Current score: 109/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -169,7 +169,7 @@ Current score: 104/1079
 - [ ] 162. Chicago - Chicago Transit Authority
 - [ ] 163. Fairport Convention - Unhalfbricking
 - [ ] 164. Youngbloods - Elephant Mountain
-- [ ] 165. Hot Buttered Soul (Isaac Hayes, 1969)
+- [X] 165. Isaac Hayes - Hot Buttered Soul (1969)
 - [ ] 166. Grateful Dead - Live Dead
 - [ ] 167. The Kinks - Arthur or the Decline and Fall of the British Empire
 - [ ] 168. King Crimson - In the Court of the Crimson King (1969)
@@ -181,7 +181,7 @@ Current score: 104/1079
 - [ ] 174. Frank Zappa - Hot Rats
 - [ ] 175. Cosmo's Factory (Creedence Clearwater Revival, 1970)
 - [ ] 176. Derek and the Dominos – Layla & Other Assorted Love Songs
-- [ ] 177. Miles Davis - Bitches Brew (1970)
+- [X] 177. Miles Davis - Bitches Brew (1970)
 - [ ] 178. Spirit - Twelve Dreams of Dr. Sardonicus
 - [ ] 179. Black Sabbath - Black Sabbath (1970)
 - [X] 180. The Doors - Morrison Hotel
@@ -382,7 +382,7 @@ Current score: 104/1079
 - [ ] 375. Muddy Waters - Hard Again (1977)
 - [ ] 376. The Stranglers - Rattus Norvegicus
 - [ ] 377. The Clash - The Clash
-- [ ] 378. David Bowie - Low
+- [X] 378. David Bowie - Low
 - [ ] 379. Steely Dan - Aja
 - [X] 380. Wire - Pink Flag
 - [ ] 381. John Martyn One World
@@ -454,7 +454,7 @@ Current score: 104/1079
 - [ ] 447. Fleetwood Mac - Tusk
 - [ ] 448. Pink Floyd - The Wall (1979)
 - [ ] 449. Public Image, Ltd. - Metal Box
-- [ ] 450. Michael Jackson - Off the Wall
+- [X] 450. Michael Jackson - Off the Wall
 - [ ] 451. The Damned - Machine Gun Etiquette
 - [ ] 452. Gary Numan - The Pleasure Principle (1979)
 - [ ] 453. The Specials - The Specials
@@ -1042,7 +1042,7 @@ Current score: 104/1079
 - [ ] 1035. Grizzly Bear - Veckatimest
 - [ ] 1036. Yeah Yeah Yeahs - It's Blitz!
 - [ ] 1037. Dirty Projectors - Bitte Orca
-- [ ] 1038. The Xx - Xx
+- [X] 1038. The Xx - Xx
 - [ ] 1039. Fever Ray - Fever Ray
 - [ ] 1040. Beach House - Teen Dream
 - [ ] 1041. The Black Keys -Brothers
