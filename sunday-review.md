@@ -1,10 +1,11 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 47/253
+Current score: 47/254
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 254. The Gun Club - Fire of Love
 - [ ] 253. Bruce Springsteen - Born in the U.S.A.
 - [ ] 252. DC Talk - Jesus Freak
 - [ ] 251. Diddy - Dirty Money - Last Train to Paris
