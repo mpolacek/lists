@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 109/1079
+Current score: 111/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -238,7 +238,7 @@ Current score: 109/1079
 - [ ] 231. Janis Joplin - Pearl
 - [X] 232. Funkadelic - Maggot Brain
 - [ ] 233. Fela Ransome - Kuti & the Afrika 70 With Ginger Baker - Live!
-- [ ] 234. The Faces - A Nod Is as Good as a Wink... to a Blind Horse
+- [X] 234. The Faces - A Nod Is as Good as a Wink... to a Blind Horse
 - [ ] 235. Flamin' Groovies - Teenage Head
 - [ ] 236. Gene Clark - White Light (1971)
 - [ ] 237. John Prine - John Prine
@@ -717,7 +717,7 @@ Current score: 109/1079
 - [ ] 710. Three Years, Five Months, and Two Days in the Life of ...
 - [ ] 711. Haut De Gamme / Koweït Rive Gauche
 - [ ] 712. Morrissey - Your Arsenal
-- [ ] 713. Baaba Maal Lam Torro
+- [X] 713. Baaba Maal - Lam Torro
 - [ ] 714. Lemonheads - It's a Shame About Ray
 - [X] 715. Rage Against the Machine - Rage Against the Machine (1992)
 - [ ] 716. Disposable Heroes of Hiphoprisy - Hypocrisy Is the Greatest Luxury
