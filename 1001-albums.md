@@ -1,11 +1,11 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 111/1079
+Current score: 114/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
-- [ ] 1. Frank Sinatra - In the Wee Small Hours (1955)
+- [X] 1. Frank Sinatra - In the Wee Small Hours (1955)
 - [ ] 2. Elvis Presley (Elvis Presley, 1956)
 - [ ] 3. The Louvin Brothers - Tragic Songs of Life (1956)
 - [ ] 4. Louis Prima - The Wildest! (1956)
@@ -13,7 +13,7 @@ Current score: 111/1079
 - [ ] 6. Ellington at Newport '56- Duke Ellington
 - [ ] 7. Frank Sinatra - Songs for Swinging Lovers! (1956)
 - [X] 8. Buddy Holly & The Crickets - The "Chirping" Crickets (1957)
-- [ ] 9. The Atomic Mr Basie - Count Basie
+- [X] 9. The Atomic Mr Basie - Count Basie
 - [ ] 10. Thelonious Monk - Brilliant Corners
 - [ ] 11. Sabu - Palo Congo (1957)
 - [ ] 12. Birth of the Cool (Miles Davis)
@@ -68,7 +68,7 @@ Current score: 111/1079
 - [X] 61. The Beach Boys - Pet Sounds (1966)
 - [ ] 62. Fred Neil
 - [ ] 63. The Byrds: Fifth Dimension
-- [ ] 64. Bob Dylan, Blonde on Blonde (1966)
+- [X] 64. Bob Dylan - Blonde on Blonde (1966)
 - [ ] 65. The Monks - Black Monk Time (1966)
 - [ ] 66. The Kinks - Face to Face
 - [ ] 67. If You Can Believe Your Eyes and Ears - The Mamas & the Papa

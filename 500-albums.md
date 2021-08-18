@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 80/500
+Current score: 82/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -42,7 +42,7 @@ Current score: 80/500
 - [X] 35. The Beatles - Rubber Soul
 - [X] 36. Michael Jackson - Off the Wall
 - [X] 37. Dr. Dre - The Chronic (1992)
-- [ ] 38. Bob Dylan - Blonde on Blonde (1966)
+- [X] 38. Bob Dylan - Blonde on Blonde (1966)
 - [ ] 39. Talking Heads - Remain in Light
 - [ ] 40. David Bowie - The Rise and Fall of Ziggy Stardust & the Spiders From Mars
 - [ ] 41. The Rolling Stones - Let It Bleed
@@ -286,7 +286,7 @@ Current score: 80/500
 - [X] 279. Nirvana - MTV Unplugged in New York
 - [ ] 280. 50 Cent - Get Rich or Die Tryin'
 - [ ] 281. Harry Nilsson - Nilsson Schmilsson
-- [ ] 282. Frank Sinatra - In the Wee Small Hours (1955)
+- [X] 282. Frank Sinatra - In the Wee Small Hours (1955)
 - [ ] 283. Donna Summer - Bad Girls
 - [ ] 284. Merle Haggard- Down Every Road
 - [ ] 285. Big Star - Third / Sister Lovers
