@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 82/500
+Current score: 85/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -11,9 +11,9 @@ Current score: 82/500
 - [X] 4. Stevie Wonder - Songs in the Key of Life
 - [X] 5. The Beatles - Abbey Road
 - [X] 6. Nirvana - Nevermind (1991)
-- [ ] 7. Fleetwood Mac - Rumours
-- [ ] 8. Prince - Purple Rain
-- [ ] 9. Bob Dylan - Blood on the Tracks (1975)
+- [X] 7. Fleetwood Mac - Rumours
+- [X] 8. Prince - Purple Rain
+- [X] 9. Bob Dylan - Blood on the Tracks (1975)
 - [ ] 10. Lauryn Hill - The Miseducation of Lauryn Hill
 - [ ] 11. The Beatles - Revolver (1966)
 - [ ] 12. Michael Jackson - Thriller (1982)

@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 47/254
+Current score: 48/254
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -238,7 +238,7 @@ Current score: 47/254
 - [ ] 24. Leonard Cohen - I'm Your Man
 - [ ] 23. Minutemen - Double Nickels on the Dime
 - [ ] 22. ABBA - Arrival
-- [ ] 21. Bob Dylan - Blood on the Tracks
+- [X] 21. Bob Dylan - Blood on the Tracks
 - [ ] 20. Ramones - End of the Century
 - [ ] 19. Randy Newman - Good Old Boys
 - [ ] 18. Janet Jackson - Rhythm Nation 1814

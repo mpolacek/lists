@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 114/1079
+Current score: 117/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -346,7 +346,7 @@ Current score: 114/1079
 - [ ] 339. Tom Waits - Nighthawks at the Diner (1975)
 - [ ] 340. Rahul Dev Burman - Shalimar (1978)
 - [ ] 341. Neil Young - Tonight'S the Night (1975)
-- [ ] 342. Bob Dylan: Blood on the Tracks
+- [X] 342. Bob Dylan - Blood on the Tracks
 - [ ] 343. Patti Smith - Horses (1975)
 - [X] 344. Pink Floyd - Wish You Were Here
 - [ ] 345. Queen - A Night at the Opera
@@ -387,7 +387,7 @@ Current score: 114/1079
 - [X] 380. Wire - Pink Flag
 - [ ] 381. John Martyn One World
 - [ ] 382. Talking Heads - Talking Heads: 77
-- [ ] 383. Fleetwood Mac - Rumours
+- [X] 383. Fleetwood Mac - Rumours
 - [ ] 384. David Bowie - "Heroes"
 - [X] 385. Dennis Wilson - Pacific Ocean Blue (1977)
 - [ ] 386. Suicide - Suicide
@@ -542,7 +542,7 @@ Current score: 114/1079
 - [ ] 535. Cocteau Twins - Treasure
 - [ ] 536. Minor Threat - Out of Step
 - [ ] 537. 1984 - Van Halen
-- [ ] 538. Prince - Purple Rain
+- [X] 538. Prince - Purple Rain
 - [ ] 539. The Replacements - Let It Be
 - [ ] 540. The Style Council - Café Bleu (1984)
 - [ ] 541. Tina Turner Private Dancer
