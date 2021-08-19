@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 117/1079
+Current score: 120/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -100,7 +100,7 @@ Current score: 117/1079
 - [ ] 93. The Doors - The Doors
 - [ ] 94. The Byrds - Younger Than Yesterday
 - [ ] 95. The Young Rascals - Groovin' (1967)
-- [ ] 96. Jefferson Airplane, Surrealistic Pillow (1967)
+- [X] 96. Jefferson Airplane - Surrealistic Pillow (1967)
 - [ ] 97. The Kinks - Something Else by the Kinks
 - [X] 98. Donovan - Sunshine Superman (1967)
 - [ ] 99. Merle Haggard - I'm a Lonesome Fugitive (1967)
@@ -153,7 +153,7 @@ Current score: 117/1079
 - [X] 146. Miles Davis - In a Silent Way (1969)
 - [ ] 147. Bee Gees - Odessa (1969)
 - [ ] 148. Pentangle - Basket of Light (1969)
-- [ ] 149. Let It Bleed (The Rolling Stones, 1969)
+- [X] 149. The Rolling Stones - Let It Bleed (1969)
 - [ ] 150. Nick Drake, Five Leaves Left (1969)
 - [ ] 151. Dusty Springfield, Dusty in Memphis (1969)
 - [ ] 152. Elvis Presley - From Elvis in Memphis (1969)
@@ -1011,7 +1011,7 @@ Current score: 117/1079
 - [ ] 1004. Beck - Guero
 - [X] 1005. Sufjan Stevens - Illinois
 - [ ] 1006. The White Stripes - Get Behind Me Satan
-- [ ] 1007. Amy Winehouse - Back to Black
+- [X] 1007. Amy Winehouse - Back to Black
 - [ ] 1008. Christina Aguilera - Back to Basics
 - [ ] 1009. Lupe Fiasco's Food & Liquor
 - [ ] 1010. Ghostface Killah - Fishscale

@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 85/500
+Current score: 88/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -37,7 +37,7 @@ Current score: 85/500
 - [ ] 30. The Jimi Hendrix Experience - Are You Experienced (1967)
 - [X] 31. Miles Davis - Kind of Blue
 - [X] 32. Beyoncé - Lemonade
-- [ ] 33. Amy Winehouse - Back to Black
+- [X] 33. Amy Winehouse - Back to Black
 - [ ] 34. Stevie Wonder - Innervisions
 - [X] 35. The Beatles - Rubber Soul
 - [X] 36. Michael Jackson - Off the Wall
@@ -45,7 +45,7 @@ Current score: 85/500
 - [X] 38. Bob Dylan - Blonde on Blonde (1966)
 - [ ] 39. Talking Heads - Remain in Light
 - [ ] 40. David Bowie - The Rise and Fall of Ziggy Stardust & the Spiders From Mars
-- [ ] 41. The Rolling Stones - Let It Bleed
+- [X] 41. The Rolling Stones - Let It Bleed
 - [X] 42. Radiohead - OK Computer (1997)
 - [X] 43. A Tribe Called Quest - The Low End Theory (1991)
 - [X] 44. Nas - Illmatic (1994)
@@ -475,7 +475,7 @@ Current score: 85/500
 - [ ] 468. The Rolling Stones - Some Girls
 - [X] 469. Manu Chao - Clandestino
 - [ ] 470. Juvenile - 400 Degreez
-- [ ] 471. Jefferson Airplane - Surrealistic Pillow
+- [X] 471. Jefferson Airplane - Surrealistic Pillow
 - [ ] 472. Sza - Ctrl
 - [ ] 473. Daddy Yankee - Barrio Fino
 - [ ] 474. Big Star #1 Record
