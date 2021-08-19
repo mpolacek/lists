@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 88/500
+Current score: 89/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -346,7 +346,7 @@ Current score: 88/500
 - [ ] 339. Janet Jackson - Rhythm Nation 1814 (1989)
 - [ ] 340. Snoop Doggy Dogg - Doggystyle
 - [ ] 341. Siamese Dream - The Smashing Pumpkins
-- [ ] 342. Let It Be
+- [X] 342. The Beatles - Let It Be
 - [ ] 343. Sly and the Family Stone - Greatest Hits
 - [ ] 344. Toots & the Maytals - Funky Kingston
 - [ ] 345. Bruce Springsteen- The Wild, the Innocent, and the E. Street Shuffle
