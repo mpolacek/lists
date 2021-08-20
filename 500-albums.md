@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 89/500
+Current score: 90/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -64,7 +64,7 @@ Current score: 89/500
 - [ ] 57. The Band - The Band (1969)
 - [ ] 58. Led Zeppelin - Led Zeppelin [IV]
 - [ ] 59. Stevie Wonder - Talking Book
-- [ ] 60. Van Morrison - Astral Weeks
+- [X] 60. Van Morrison - Astral Weeks
 - [ ] 61. Eric B. and Rakim - Paid in Full
 - [ ] 62. Guns N' Roses - Appetite for Destruction (1987)
 - [ ] 63. Steely Dan - Aja

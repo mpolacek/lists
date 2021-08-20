@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 120/1079
+Current score: 121/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -136,7 +136,7 @@ Current score: 120/1079
 - [X] 129. Caetano Veloso - Caetano Veloso
 - [ ] 130. Scott Walker - Scott 2
 - [ ] 131. The Zombies, Odessey and Oracle (1968)
-- [ ] 132. Van Morrison, Astral Weeks (1968)
+- [X] 132. Van Morrison - Astral Weeks (1968)
 - [ ] 133. The Byrds, Sweetheart of the Rodeo (1968)
 - [ ] 134. The Beatles - The Beatles (White Album)
 - [ ] 135. Mothers of Invention: We're Only in It for the Money
