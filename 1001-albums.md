@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 121/1079
+Current score: 128/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -9,17 +9,17 @@ Current score: 121/1079
 - [ ] 2. Elvis Presley (Elvis Presley, 1956)
 - [ ] 3. The Louvin Brothers - Tragic Songs of Life (1956)
 - [ ] 4. Louis Prima - The Wildest! (1956)
-- [ ] 5. Fats Domino - This Is Fats (1956)
+- [X] 5. Fats Domino - This Is Fats (1956)
 - [ ] 6. Ellington at Newport '56- Duke Ellington
 - [ ] 7. Frank Sinatra - Songs for Swinging Lovers! (1956)
 - [X] 8. Buddy Holly & The Crickets - The "Chirping" Crickets (1957)
 - [X] 9. The Atomic Mr Basie - Count Basie
-- [ ] 10. Thelonious Monk - Brilliant Corners
-- [ ] 11. Sabu - Palo Congo (1957)
+- [X] 10. Thelonious Monk - Brilliant Corners
+- [X] 11. Sabu - Palo Congo (1957)
 - [ ] 12. Birth of the Cool (Miles Davis)
 - [ ] 13. Kenya - Machito
 - [ ] 14. Little Richard - Here's Little Richard (1957)
-- [ ] 15. Dance Mania - Tito Puente
+- [X] 15. Dance Mania - Tito Puente
 - [ ] 16. Billie Holiday - Lady in Satin
 - [ ] 17. Ramblin' Jack Elliott - Jack Takes the Floor (1958)
 - [ ] 18. Sarah Vaughan - Sarah Vaughan at Mister Kelly's (1958)
@@ -58,7 +58,7 @@ Current score: 121/1079
 - [ ] 51. Otis Redding - Otis Blue: Otis Redding Sings Soul
 - [ ] 52. The Beach Boys - The Beach Boys Today! (1965)
 - [X] 53. John Coltrane - A Love Supreme (1965)
-- [ ] 54. B.B. King - Live at the Regal
+- [X] 54. B.B. King - Live at the Regal
 - [X] 55. The Beatles - Rubber Soul (1965)
 - [ ] 56. Bert Jansch - Bert Jansch (1965)
 - [ ] 57. The Byrds - Mr. Tambourine Man
@@ -166,7 +166,7 @@ Current score: 121/1079
 - [ ] 159. The Temptations - Cloud Nine (1969)
 - [ ] 160. Sly & the Family Stone, Stand! (1969)
 - [ ] 161. Tim Buckley - Happy Sad
-- [ ] 162. Chicago - Chicago Transit Authority
+- [X] 162. Chicago - Chicago Transit Authority
 - [ ] 163. Fairport Convention - Unhalfbricking
 - [ ] 164. Youngbloods - Elephant Mountain
 - [X] 165. Isaac Hayes - Hot Buttered Soul (1969)
@@ -398,7 +398,7 @@ Current score: 121/1079
 - [ ] 391. Elvis Costello - My Aim Is True
 - [ ] 392. Lust for Life (Iggy Pop, 1977)
 - [ ] 393. Ian Dury - New Boots and Panties!!
-- [ ] 394. Sex Pistols - Never Mind the Bollocks Here's the Sex Pistols
+- [X] 394. Sex Pistols - Never Mind the Bollocks, Here's the Sex Pistols
 - [ ] 395. Pere Ubu: The Modern Dance
 - [X] 396. Kraftwerk - The Man-Machine
 - [ ] 397. Blondie - Parallel Lines

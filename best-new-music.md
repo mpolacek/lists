@@ -1,12 +1,13 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 14/822
+Current score: 16/823
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 823. Ka - A Martyr’s Reward
 - [X] 822. L'Rain - Fatigue
-- [ ] 821. Tyler, the Creator - Call Me If You Get Lost
+- [X] 821. Tyler, the Creator - Call Me If You Get Lost
 - [X] 820. Faye Webster - I Know I'm Funny haha
 - [ ] 819. Mach-Hommy - Pray for Haiti
 - [X] 818. Mdou Moctar - Afrique Victime
@@ -31,7 +32,7 @@ Current score: 14/822
 - [ ] 799. Bartees Strange - Live Forever
 - [ ] 798. Fleet Foxes - Shore
 - [ ] 797. Lomelda - Hannah
-- [ ] 796. Jyoti - Mama, You Can Bet!
+- [X] 796. Jyoti - Mama, You Can Bet!
 - [ ] 795. Fireboy DML - APOLLO
 - [ ] 794. Nubya Garcia - Source
 - [ ] 793. Popcaan - FIXTAPE

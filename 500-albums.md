@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 90/500
+Current score: 92/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -84,7 +84,7 @@ Current score: 90/500
 - [ ] 77. Who's Next
 - [ ] 78. Elvis Presley - The Sun Sessions
 - [ ] 79. Frank Ocean - Blonde
-- [ ] 80. Sex Pistols - Never Mind the Bollocks (1977)
+- [X] 80. Sex Pistols - Never Mind the Bollocks (1977)
 - [ ] 81. Beyoncé - Beyoncé (2013)
 - [ ] 82. Sly & the Family Stone - There's a Riot Goin' on (1971)
 - [ ] 83. Dusty Springfield - Dusty in Memphis
@@ -303,7 +303,7 @@ Current score: 90/500
 - [ ] 296. Neil Young & Crazy Horse - Rust Never Sleeps
 - [ ] 297. Peter Gabriel So
 - [ ] 298. Tom Petty - Full Moon Fever
-- [ ] 299. B.B. King - Live at the Regal
+- [X] 299. B.B. King - Live at the Regal
 - [ ] 300. Shania Twain - Come on Over (1997)
 - [ ] 301. New York Dolls - New York Dolls
 - [ ] 302. Neil Young- Tonight's the Night

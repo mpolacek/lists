@@ -1,10 +1,11 @@
 Various albums
 ==============
 
-Current score: 2/35
+Current score: 4/36
 
 `$ grep "\[X\]" any.md | wc -l`
 
+- [ ] 36. Fang - Landshark
 - [ ] 35. Snap - World Power
 - [ ] 34. Eric B. & Rakim - Let the Rhythm Hit 'Em
 - [ ] 33. Bangles - Greatest Hits
@@ -22,7 +23,7 @@ Current score: 2/35
 - [ ] 21. The Chills - Submarine Bells
 - [X] 20. Tom Zé - Brazil Classics 4: The Best of Tom Zé
 - [X] 19. Stone Temple Pilots - Core
-- [ ] 18. OOIOO - nijimusi
+- [X] 18. OOIOO - nijimusi
 - [ ] 17. Daniel Johnston - Discovered, Covered: The Late, Great Daniel Johnston
 - [ ] 16. Daniel Johnston - Songs of Pain: The Early Recordings, Vol. 1
 - [ ] 15. Daniel Johnston - Rejected Unknown
@@ -39,4 +40,4 @@ Current score: 2/35
 - [ ] 4. Pan Sonic - Kesto (234:48:4)
 - [ ] 3. Axolotl - Memory Theatre
 - [ ] 2. Schneider TM & Kptmichigan - Binokular
-- [ ] 1. Foodman - Yasuragi Land
+- [X] 1. Foodman - Yasuragi Land
