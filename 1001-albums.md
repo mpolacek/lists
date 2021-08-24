@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 128/1079
+Current score: 131/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -16,7 +16,7 @@ Current score: 128/1079
 - [X] 9. The Atomic Mr Basie - Count Basie
 - [X] 10. Thelonious Monk - Brilliant Corners
 - [X] 11. Sabu - Palo Congo (1957)
-- [ ] 12. Birth of the Cool (Miles Davis)
+- [X] 12. Miles Davis - Birth of the Cool
 - [ ] 13. Kenya - Machito
 - [ ] 14. Little Richard - Here's Little Richard (1957)
 - [X] 15. Dance Mania - Tito Puente
@@ -28,7 +28,7 @@ Current score: 128/1079
 - [X] 21. Miles Davis - Kind of Blue (1959)
 - [ ] 22. Gunfighter Ballads and Trail Songs (Marty Robbins, 1959)
 - [X] 23. The Dave Brubeck Quartet - Time Out (1959)
-- [ ] 24. Joan Baez - Joan Baez (1960)
+- [X] 24. Joan Baez - Joan Baez (1960)
 - [ ] 25. Elvis Is Back! - Elvis Presley
 - [ ] 26. Miriam Makeba - Miriam Makeba (1960)
 - [ ] 27. The Everly Brothers a Date With the Everly Brothers
@@ -44,9 +44,9 @@ Current score: 128/1079
 - [ ] 37. Phil Spector - A Christmas Gift for You
 - [ ] 38. Sam Cooke - Live at the Harlem Square Club
 - [ ] 39. Charles Mingus - The Black Saint and the Sinner Lady
-- [ ] 40. James Brown, Live at the Apollo (1963)
-- [ ] 41. Stan Getz & Joao Gilberto - Getz/Gilberto
-- [ ] 42. A Hard Day's Night (The Beatles, 1964)
+- [ ] 40. James Brown - Live at the Apollo (1963)
+- [X] 41. Stan Getz & Joao Gilberto - Getz/Gilberto
+- [ ] 42. The Beatles - A Hard Day's Night (1964)
 - [ ] 43. Olympia '64- Jacques Brel
 - [ ] 44. Rock & Soul - Solomon Burke
 - [ ] 45. Dusty Springfield - A Girl Called Dusty (1964)
