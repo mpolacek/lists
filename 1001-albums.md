@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 131/1079
+Current score: 135/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -46,8 +46,8 @@ Current score: 131/1079
 - [ ] 39. Charles Mingus - The Black Saint and the Sinner Lady
 - [ ] 40. James Brown - Live at the Apollo (1963)
 - [X] 41. Stan Getz & Joao Gilberto - Getz/Gilberto
-- [ ] 42. The Beatles - A Hard Day's Night (1964)
-- [ ] 43. Olympia '64- Jacques Brel
+- [X] 42. The Beatles - A Hard Day's Night (1964)
+- [X] 43. Jacques Brel - Olympia '64
 - [ ] 44. Rock & Soul - Solomon Burke
 - [ ] 45. Dusty Springfield - A Girl Called Dusty (1964)
 - [ ] 46. The Rolling Stones - The Rolling Stones (1964)
@@ -446,7 +446,7 @@ Current score: 131/1079
 - [ ] 439. The Clash - London Calling
 - [ ] 440. Japan - Quiet Life
 - [ ] 441. Broken English - Marianne Faithfull
-- [ ] 442. The Slits - Cut
+- [X] 442. The Slits - Cut
 - [ ] 443. Elvis Costello and the Attractions - Armed Forces
 - [ ] 444. Neil Young and Crazy Horse - Rust Never Sleeps
 - [ ] 445. Gang of Four - Entertainment!
@@ -585,7 +585,7 @@ Current score: 131/1079
 - [ ] 578. Paul Simon - Graceland
 - [ ] 579. Run DMC - Raising Hell
 - [ ] 580. XTC - Skylarking
-- [ ] 581. Steve Earle - Guitar Town
+- [X] 581. Steve Earle - Guitar Town
 - [X] 582. Bad Brains - I Against I
 - [ ] 583. Anita Baker - Rapture
 - [ ] 584. The Smiths - The Queen Is Dead

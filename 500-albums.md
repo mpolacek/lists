@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 92/500
+Current score: 94/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -264,10 +264,10 @@ Current score: 92/500
 - [ ] 257. Dolly Parton - Coat of Many Colors (1971)
 - [ ] 258. Joni Mitchell - The Hissing of Summer Lawns
 - [ ] 259. Janis Joplin - Pearl
-- [ ] 260. The Slits - Cut (1979)
+- [X] 260. The Slits - Cut (1979)
 - [X] 261. Beastie Boys - Check Your Head
 - [ ] 262. New Order - Power, Corruption & Lies
-- [ ] 263. The Beatles - A Hard Day's Night
+- [X] 263. The Beatles - A Hard Day's Night
 - [X] 264. Pink Floyd - Wish You Were Here
 - [ ] 265. Pavement - Wowee Zowee
 - [ ] 266. The Beatles - Help!
