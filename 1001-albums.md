@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 135/1079
+Current score: 138/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -337,7 +337,7 @@ Current score: 135/1079
 - [ ] 330. Led Zeppelin - Physical Graffiti
 - [ ] 331. Keith Jarrett - The Köln Concert
 - [ ] 332. Aerosmith - Toys in the Attic
-- [ ] 333. David Bowie - Young Americans
+- [X] 333. David Bowie - Young Americans
 - [ ] 334. Burning Spear - Marcus Garvey
 - [ ] 335. Bruce Springsteen - Born to Run (1975)
 - [ ] 336. Emmylou Harris - Pieces of the Sky
@@ -795,7 +795,7 @@ Current score: 135/1079
 - [ ] 788. Nightmares on Wax Smokers Delight
 - [X] 789. Tricky - Maxinquaye
 - [X] 790. Raekwon - Only Built 4 Cuban Linx
-- [ ] 791. Smashing Pumpkins - Mellon Collie and the Infinite Sadness
+- [X] 791. Smashing Pumpkins - Mellon Collie and the Infinite Sadness
 - [ ] 792. Rocket From the Crypt Scream Dracula Scream
 - [ ] 793. The Chemical Brothers - Exit Planet Dust
 - [ ] 794. 2Pac - Me Against the World
@@ -830,7 +830,7 @@ Current score: 135/1079
 - [ ] 823. Fun Lovin Criminals Come Find Yourself
 - [ ] 824. Maxwell - Urban Hang Suite
 - [ ] 825. The Charlatans - Tellin' Stories
-- [ ] 826. Manic Street Preachers - Everything Must Go
+- [X] 826. Manic Street Preachers - Everything Must Go
 - [ ] 827. Everything but the Girl Walking Wounded
 - [ ] 828. Nick Cave & the Bad Seeds - Murder Ballads (1996)
 - [ ] 829. Ltj Bukem Locial Progression
