@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 94/500
+Current score: 95/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -44,7 +44,7 @@ Current score: 94/500
 - [X] 37. Dr. Dre - The Chronic (1992)
 - [X] 38. Bob Dylan - Blonde on Blonde (1966)
 - [ ] 39. Talking Heads - Remain in Light
-- [ ] 40. David Bowie - The Rise and Fall of Ziggy Stardust & the Spiders From Mars
+- [X] 40. David Bowie - The Rise and Fall of Ziggy Stardust & the Spiders From Mars
 - [X] 41. The Rolling Stones - Let It Bleed
 - [X] 42. Radiohead - OK Computer (1997)
 - [X] 43. A Tribe Called Quest - The Low End Theory (1991)

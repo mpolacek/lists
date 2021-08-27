@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 16/823
+Current score: 18/823
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -606,10 +606,10 @@ Current score: 16/823
 - [ ] 225. Air France - No Way Down
 - [ ] 224. Lil Wayne - Tha Carter III
 - [ ] 223. Crystal Antlers - EP
-- [ ] 222. Fleet Foxes - Fleet Foxes
+- [X] 222. Fleet Foxes - Fleet Foxes
 - [ ] 221. Spiritualized - Songs in a & E
 - [ ] 220. Bonnie "Prince" Billy - Lie Down in the Light
-- [ ] 219. No Age - Nouns
+- [X] 219. No Age - Nouns
 - [ ] 218. Portishead - Third
 - [ ] 217. Titus Andronicus - The Airing of Grievances
 - [ ] 216. M83 - Saturdays = Youth

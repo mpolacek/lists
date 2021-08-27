@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 138/1079
+Current score: 142/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -271,7 +271,7 @@ Current score: 138/1079
 - [ ] 264. Roxy Music - Roxy Music (1972)
 - [ ] 265. Alice Cooper School's Out
 - [ ] 266. The Temptations - All Directions (1972)
-- [ ] 267. David Bowie - The Rise and Fall of Ziggy Stardust & the Spiders From M
+- [X] 267. David Bowie - The Rise and Fall of Ziggy Stardust & the Spiders From Mars
 - [ ] 268. War - The World Is a Ghetto
 - [ ] 269. Al Green - Let's Stay Together
 - [ ] 270. Rolling Stones - Exile on Main Street
@@ -935,7 +935,7 @@ Current score: 138/1079
 - [ ] 928. Silver Jews - Bright Flight
 - [ ] 929. Giant Sand Chore of Enchantment
 - [ ] 930. Björk - Vespertine (2001)
-- [ ] 931. Radiohead - Amnesiac
+- [X] 931. Radiohead - Amnesiac
 - [ ] 932. Ryan Adams - Gold
 - [ ] 933. Gorillaz - Gorillaz
 - [ ] 934. The Strokes, Is This It (2001)
@@ -1007,7 +1007,7 @@ Current score: 138/1079
 - [ ] 1000. M.I.A. - Arular
 - [ ] 1001. Common, Be (2005)
 - [ ] 1002. Antony & the Johnsons - I Am a Bird Now
-- [ ] 1003. Richard Hawley Coles Corner
+- [X] 1003. Richard Hawley - Coles Corner
 - [ ] 1004. Beck - Guero
 - [X] 1005. Sufjan Stevens - Illinois
 - [ ] 1006. The White Stripes - Get Behind Me Satan
@@ -1028,7 +1028,7 @@ Current score: 138/1079
 - [ ] 1021. Justice - Cross
 - [ ] 1022. Q-Tip - The Renaissance
 - [ ] 1023. Kings of Leon - Only by the Night
-- [ ] 1024. Fleet Foxes - Fleet Foxes
+- [X] 1024. Fleet Foxes - Fleet Foxes
 - [ ] 1025. The Last Shadow Puppets - The Age of Understatement
 - [ ] 1026. Elbow - The Seldom Seen Kid
 - [ ] 1027. Portishead - Third
