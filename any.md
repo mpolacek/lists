@@ -1,10 +1,11 @@
 Various albums
 ==============
 
-Current score: 4/36
+Current score: 5/37
 
 `$ grep "\[X\]" any.md | wc -l`
 
+- [X] 37. Green River - Come On Down
 - [ ] 36. Fang - Landshark
 - [ ] 35. Snap - World Power
 - [ ] 34. Eric B. & Rakim - Let the Rhythm Hit 'Em

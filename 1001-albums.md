@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 142/1079
+Current score: 145/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -541,7 +541,7 @@ Current score: 142/1079
 - [ ] 534. Sade - Diamond Life
 - [ ] 535. Cocteau Twins - Treasure
 - [ ] 536. Minor Threat - Out of Step
-- [ ] 537. 1984 - Van Halen
+- [X] 537. Van Halen - 1984
 - [X] 538. Prince - Purple Rain
 - [ ] 539. The Replacements - Let It Be
 - [ ] 540. The Style Council - Café Bleu (1984)
@@ -608,7 +608,7 @@ Current score: 142/1079
 - [ ] 601. The Jesus and Mary Chains - Darklands
 - [ ] 602. Ladysmith Black Mambazo - Shaka Zulu (1987)
 - [ ] 603. Laibach - Opus Dei (1987)
-- [ ] 604. Napalm Death -- "Scum"
+- [X] 604. Napalm Death - Scum
 - [ ] 605. Sonic Youth - Sister
 - [ ] 606. The Triffids - Calenture (1987)
 - [ ] 607. Michael Jackson Bad
@@ -675,7 +675,7 @@ Current score: 142/1079
 - [ ] 668. Black Crowes - Shake Your Money Maker
 - [ ] 669. Depeche Mode - Violator (1990)
 - [X] 670. Pixies - Bossanova
-- [ ] 671. Megadeth - Rust in Peace
+- [X] 671. Megadeth - Rust in Peace
 - [ ] 672. Sex Packets (1990) - Digital Underground
 - [X] 673. Pet Shop Boys - Behaviour
 - [ ] 674. Happy Mondays - Pills N Thrills and Bellyaches

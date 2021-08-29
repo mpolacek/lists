@@ -1,10 +1,11 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 18/823
+Current score: 18/824
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 824. Turnstile - Glow On
 - [ ] 823. Ka - A Martyr’s Reward
 - [X] 822. L'Rain - Fatigue
 - [X] 821. Tyler, the Creator - Call Me If You Get Lost
