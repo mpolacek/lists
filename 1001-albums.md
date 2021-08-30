@@ -1,16 +1,16 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 148/1079
+Current score: 151/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
 - [X] 1. Frank Sinatra - In the Wee Small Hours (1955)
-- [ ] 2. Elvis Presley (Elvis Presley, 1956)
+- [ ] 2. Elvis Presley - Elvis Presley (1956)
 - [ ] 3. The Louvin Brothers - Tragic Songs of Life (1956)
 - [ ] 4. Louis Prima - The Wildest! (1956)
 - [X] 5. Fats Domino - This Is Fats (1956)
-- [ ] 6. Ellington at Newport '56- Duke Ellington
+- [ ] 6. Duke Ellington - Ellington at Newport '56
 - [ ] 7. Frank Sinatra - Songs for Swinging Lovers! (1956)
 - [X] 8. Buddy Holly & The Crickets - The "Chirping" Crickets (1957)
 - [X] 9. The Atomic Mr Basie - Count Basie
@@ -19,28 +19,28 @@ Current score: 148/1079
 - [X] 12. Miles Davis - Birth of the Cool
 - [ ] 13. Kenya - Machito
 - [ ] 14. Little Richard - Here's Little Richard (1957)
-- [X] 15. Dance Mania - Tito Puente
+- [X] 15. Tito Puente - Dance Mania
 - [ ] 16. Billie Holiday - Lady in Satin
 - [ ] 17. Ramblin' Jack Elliott - Jack Takes the Floor (1958)
 - [ ] 18. Sarah Vaughan - Sarah Vaughan at Mister Kelly's (1958)
 - [ ] 19. Ella Fitzgerald - Sings the Gershwin Song Book (1959)
 - [ ] 20. Genius of Ray Charles
 - [X] 21. Miles Davis - Kind of Blue (1959)
-- [ ] 22. Gunfighter Ballads and Trail Songs (Marty Robbins, 1959)
+- [ ] 22. Marty Robbins - Gunfighter Ballads and Trail Songs (1959)
 - [X] 23. The Dave Brubeck Quartet - Time Out (1959)
 - [X] 24. Joan Baez - Joan Baez (1960)
-- [ ] 25. Elvis Is Back! - Elvis Presley
+- [ ] 25. Elvis Presley - Elvis Is Back!
 - [ ] 26. Miriam Makeba - Miriam Makeba (1960)
-- [ ] 27. The Everly Brothers a Date With the Everly Brothers
-- [ ] 28. Back at the Chicken Shack - Jimmy Smith
+- [ ] 27. The Everly Brothers - A Date With the Everly Brothers
+- [ ] 28. Jimmy Smith - Back at the Chicken Shack
 - [ ] 29. Muddy Waters at Newport 1960
-- [ ] 30. Sunday at the Village Vanguard Bill Evans
+- [X] 30. Bill Evans - Sunday at the Village Vanguard
 - [ ] 31. Ray Charles - Modern Sounds in Country and Western Music (1962)
-- [ ] 32. Booker T. & the M.G.'S, Green Onions (1962)
+- [ ] 32. Booker T. & the M.G.'S - Green Onions (1962)
 - [ ] 33. Jazz Samba - Stan Getz / Charlie Byrd
 - [X] 34. Ray Price - Night Life
-- [ ] 35. With the Beatles - The Beatles
-- [ ] 36. Bob Dylan, the Freewheelin' Bob Dylan (1963)
+- [ ] 35. The Beatles - With the Beatles
+- [ ] 36. Bob Dylan - The Freewheelin' Bob Dylan (1963)
 - [ ] 37. Phil Spector - A Christmas Gift for You
 - [ ] 38. Sam Cooke - Live at the Harlem Square Club
 - [ ] 39. Charles Mingus - The Black Saint and the Sinner Lady
@@ -48,7 +48,7 @@ Current score: 148/1079
 - [X] 41. Stan Getz & Joao Gilberto - Getz/Gilberto
 - [X] 42. The Beatles - A Hard Day's Night (1964)
 - [X] 43. Jacques Brel - Olympia '64
-- [ ] 44. Rock & Soul - Solomon Burke
+- [ ] 44. Solomon Burke - Rock & Soul
 - [ ] 45. Dusty Springfield - A Girl Called Dusty (1964)
 - [ ] 46. The Rolling Stones - The Rolling Stones (1964)
 - [ ] 47. Buck Owens and His Buckaroos - I've Got a Tiger by the Tail (1964)
@@ -71,17 +71,17 @@ Current score: 148/1079
 - [X] 64. Bob Dylan - Blonde on Blonde (1966)
 - [ ] 65. The Monks - Black Monk Time (1966)
 - [ ] 66. The Kinks - Face to Face
-- [ ] 67. If You Can Believe Your Eyes and Ears - The Mamas & the Papa
+- [X] 67. The Mamas & The Papas - If You Can Believe Your Eyes and Ears
 - [ ] 68. Paul Revere and the Raiders - Midnight Ride (1966)
 - [ ] 69. The Mothers of Invention - Freak Out!
 - [ ] 70. The Rolling Stones - Aftermath (1966)
 - [ ] 71. Simon & Garfunkel - Parsley, Sage, Rosemary, & Thyme
-- [ ] 72. 13th Floor Elevators, the Psychedelic Sounds of the 13th Floor Elevators (1966)
+- [ ] 72. 13th Floor Elevators - The Psychedelic Sounds of the 13th Floor Elevators (1966)
 - [ ] 73. John Mayall With Eric Clapton - Blues Breakers
 - [ ] 74. The Yardbirds - Roger the Engineer
 - [ ] 75. Nina Simone - Wild Is the Wind
 - [X] 76. Astrud Gilberto - Beach Samba
-- [ ] 77. Nico - Chelsea Girl (1967)
+- [X] 77. Nico - Chelsea Girl (1967)
 - [X] 78. The Beatles - Sgt. Pepper's Lonely Hearts Club Band (1967)
 - [ ] 79. Country Joe & the Fish: Electric Music for the Mind and Body
 - [ ] 80. Buffalo Springfield Again
@@ -91,11 +91,11 @@ Current score: 148/1079
 - [ ] 84. Beau Brummels (The) Triangle
 - [ ] 85. The Monkees - Headquarters (1967)
 - [ ] 86. Tim Buckley - Goodbye and Hello (1967)
-- [ ] 87. Love, Forever Changes (1967)
+- [ ] 87. Love - Forever Changes (1967)
 - [ ] 88. Cream - Disraeli Gears
 - [ ] 89. Pink Floyd - The Piper at the Gates of Dawn (1967)
-- [ ] 90. The Who Sell Out (The Who, 1967)
-- [ ] 91. The Velvet Underground & Nico (The Velvet Underground and Nico, 1967)
+- [ ] 90. The Who - The Who Sell Out (1967)
+- [ ] 91. The Velvet Underground & Nico - The Velvet Underground & Nico (1967)
 - [ ] 92. Francis Albert Sinatra & Antonio Carlos Jobim (1967)
 - [ ] 93. The Doors - The Doors
 - [ ] 94. The Byrds - Younger Than Yesterday
@@ -104,27 +104,27 @@ Current score: 148/1079
 - [ ] 97. The Kinks - Something Else by the Kinks
 - [X] 98. Donovan - Sunshine Superman (1967)
 - [ ] 99. Merle Haggard - I'm a Lonesome Fugitive (1967)
-- [ ] 100. Are You Experienced? - The Jimi Hendrix Experience
+- [ ] 100. The Jimi Hendrix Experience - Are You Experienced?
 - [ ] 101. The Electric Prunes (Album)
 - [ ] 102. Loretta Lynn - Don't Come Home a Drinkin' (With Lovin' on Your Mind)
 - [ ] 103. Shivkumar Sharma - Call of the Valley (1967)
 - [ ] 104. The Velvet Underground, White Light/White Heat (1968)
 - [ ] 105. Axis: Bold as Love (The Jimi Hendrix Experience, 1967)
-- [ ] 106. Aretha Franklin, I Never Loved a Man the Way I Love You (1967)
-- [ ] 107. The Rolling Stones : Beggars Banquet
+- [ ] 106. Aretha Franklin - I Never Loved a Man the Way I Love You (1967)
+- [ ] 107. The Rolling Stones - Beggars Banquet
 - [ ] 108. Traffic - Traffic (1968)
 - [ ] 109. The Incredible String Band - The Hangman's Beautiful Daughter (1968)
 - [ ] 110. The Kinks - The Kinks Are the Village Green Preservation Society
 - [ ] 111. Ravi Shankar - The Sounds of India (1968)
 - [ ] 112. Os Mutantes - Os Mutantes (1968)
-- [ ] 113. The Jimi Hendrix Experience, Electric Ladyland (1968)
+- [ ] 113. The Jimi Hendrix Experience - Electric Ladyland (1968)
 - [ ] 114. Leonard Cohen - Songs of Leonard Cohen
-- [ ] 115. Johnny Cash, at Folsom Prison (1968)
+- [ ] 115. Johnny Cash - At Folsom Prison (1968)
 - [ ] 116. Laura Nyro - Eli and the Thirteenth Confession
-- [ ] 117. Aretha Franklin, Lady Soul (1968)
+- [ ] 117. Aretha Franklin - Lady Soul (1968)
 - [ ] 118. Blue Cheer - Vincebus Eruptum (1968)
 - [ ] 119. The Byrds - The Notorious Byrd Brothers
-- [ ] 120. Big Brother and the Holding Company, Cheap Thrills (1968)
+- [ ] 120. Big Brother and the Holding Company - Cheap Thrills (1968)
 - [ ] 121. United States of America - S/T
 - [ ] 122. Dr. John the Nighttripper - Gris-Gris
 - [ ] 123. Iron Butterfly - In-A-Gadda-Da-Vida

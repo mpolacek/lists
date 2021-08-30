@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 48/255
+Current score: 49/255
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -188,7 +188,7 @@ Current score: 48/255
 - [ ] 75. Lou Reed - Metal Machine Music
 - [ ] 74. Bronski Beat - The Age of Consent
 - [ ] 73. Willie Nelson - Red Headed Stranger
-- [ ] 72. Nico - Chelsea Girl
+- [X] 72. Nico - Chelsea Girl
 - [ ] 71. Sarah McLachlan - Fumbling Towards Ecstasy
 - [X] 70. Yo La Tengo - I Can Hear the Heart Beating as One
 - [ ] 69. The Smiths - The Queen Is Dead

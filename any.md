@@ -1,10 +1,11 @@
 Various albums
 ==============
 
-Current score: 5/37
+Current score: 5/38
 
 `$ grep "\[X\]" any.md | wc -l`
 
+- [ ] 38. Steve Gunn - Other You
 - [X] 37. Green River - Come On Down
 - [ ] 36. Fang - Landshark
 - [ ] 35. Snap - World Power
