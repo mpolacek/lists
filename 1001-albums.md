@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 145/1079
+Current score: 148/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -38,7 +38,7 @@ Current score: 145/1079
 - [ ] 31. Ray Charles - Modern Sounds in Country and Western Music (1962)
 - [ ] 32. Booker T. & the M.G.'S, Green Onions (1962)
 - [ ] 33. Jazz Samba - Stan Getz / Charlie Byrd
-- [ ] 34. Night Life - Ray Price
+- [X] 34. Ray Price - Night Life
 - [ ] 35. With the Beatles - The Beatles
 - [ ] 36. Bob Dylan, the Freewheelin' Bob Dylan (1963)
 - [ ] 37. Phil Spector - A Christmas Gift for You
@@ -609,7 +609,7 @@ Current score: 145/1079
 - [ ] 602. Ladysmith Black Mambazo - Shaka Zulu (1987)
 - [ ] 603. Laibach - Opus Dei (1987)
 - [X] 604. Napalm Death - Scum
-- [ ] 605. Sonic Youth - Sister
+- [X] 605. Sonic Youth - Sister
 - [ ] 606. The Triffids - Calenture (1987)
 - [ ] 607. Michael Jackson Bad
 - [ ] 608. Pet Shop Boys - Actually
@@ -1034,7 +1034,7 @@ Current score: 145/1079
 - [ ] 1027. Portishead - Third
 - [ ] 1028. MGMT - Oracular Spectacular
 - [ ] 1029. Goldfrapp - Seventh Tree
-- [ ] 1030. TV on the Radio - Dear Science
+- [X] 1030. TV on the Radio - Dear Science
 - [ ] 1031. Slipknot - All Hope Is Gone
 - [ ] 1032. Wild Beasts - Two Dancers
 - [ ] 1033. Bill Callahan - Sometimes I Wish We Were an Eagle

@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 18/824
+Current score: 19/824
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -585,7 +585,7 @@ Current score: 18/824
 - [ ] 247. Fever Ray - Fever Ray
 - [ ] 246. Dan Deacon-Bromst
 - [ ] 245. Cymbals Eat Guitars - Why There Are Mountains
-- [ ] 244. Wavves ‎– Wavvves (2009)
+- [ ] 244. Wavves - Wavvves (2009)
 - [ ] 243. Dark Was the Night
 - [ ] 242. The Pains of Being Pure at Heart - The Pains of Being Pure at Heart
 - [ ] 241. Antony and the Johnsons - The Crying Light
@@ -598,7 +598,7 @@ Current score: 18/824
 - [ ] 234. Marnie Stern - This Is It and I Am It and You Are It And...
 - [ ] 233. Department of Eagles - In Ear Park
 - [ ] 232. Vivian Girls - Vivian Girls
-- [ ] 231. TV on the Radio - Dear Science
+- [X] 231. TV on the Radio - Dear Science
 - [ ] 230. Flying Lotus - Los Angeles
 - [ ] 229. Lindstrom - Where You Go I Go Too
 - [ ] 228. The Walkmen - You & Me
