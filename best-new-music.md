@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 19/824
+Current score: 20/824
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -390,7 +390,7 @@ Current score: 19/824
 - [ ] 442. Youth Lagoon - Wondrous Bughouse
 - [ ] 441. Autre Ne Veut - Anxiety
 - [ ] 440. Iceage - You're Nothing
-- [ ] 439. My Bloody Valentine - Mbv
+- [X] 439. My Bloody Valentine - mbv
 - [ ] 438. Grouper - The Man Who Died in His Boat
 - [ ] 437. Foxygen-We Are the 21st Century Ambassadors of Peace and Magic
 - [ ] 436. Burial - Truant/Rough Sleeper

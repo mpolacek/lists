@@ -1,12 +1,12 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 49/255
+Current score: 50/255
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
 - [ ] 255. The Cranberries - Everybody Else Is Doing It, So Why Can’t We?
-- [ ] 254. The Gun Club - Fire of Love
+- [X] 254. The Gun Club - Fire of Love
 - [ ] 253. Bruce Springsteen - Born in the U.S.A.
 - [ ] 252. DC Talk - Jesus Freak
 - [ ] 251. Diddy - Dirty Money - Last Train to Paris

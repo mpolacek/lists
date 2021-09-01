@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 151/1079
+Current score: 154/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -122,7 +122,7 @@ Current score: 151/1079
 - [ ] 115. Johnny Cash - At Folsom Prison (1968)
 - [ ] 116. Laura Nyro - Eli and the Thirteenth Confession
 - [ ] 117. Aretha Franklin - Lady Soul (1968)
-- [ ] 118. Blue Cheer - Vincebus Eruptum (1968)
+- [X] 118. Blue Cheer - Vincebus Eruptum (1968)
 - [ ] 119. The Byrds - The Notorious Byrd Brothers
 - [ ] 120. Big Brother and the Holding Company - Cheap Thrills (1968)
 - [ ] 121. United States of America - S/T
@@ -494,7 +494,7 @@ Current score: 151/1079
 - [ ] 487. X - Wild Gift
 - [ ] 488. The Psychedelic Furs - Talk Talk Talk
 - [X] 489. The Human League - Dare
-- [ ] 490. Gun Club : Fire of Love
+- [X] 490. The Gun Club - Fire of Love
 - [ ] 491. Bauhaus - Mask
 - [ ] 492. Bobby Womack - The Poet (1981)
 - [ ] 493. Tom Tom Club - Tom Tom Club (1981)
@@ -1060,7 +1060,7 @@ Current score: 151/1079
 - [ ] 1053. Frank Ocean - Channel Orange
 - [ ] 1054. Jack White - Blunderbuss
 - [ ] 1055. Django Django - Django Django
-- [ ] 1056. My Bloody Valentine - M B V (2013)
+- [X] 1056. My Bloody Valentine - M B V (2013)
 - [ ] 1057. Kanye West - Yeezus
 - [ ] 1058. The Next Day (David Bowie, 2013)
 - [ ] 1059. CHVRCHES - The Bones of What You Believe

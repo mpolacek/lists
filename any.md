@@ -1,10 +1,12 @@
 Various albums
 ==============
 
-Current score: 5/38
+Current score: 6/40
 
 `$ grep "\[X\]" any.md | wc -l`
 
+- [ ] 40. The Bug - Fire
+- [X] 39. Strapping Young Lad - Alien
 - [ ] 38. Steve Gunn - Other You
 - [X] 37. Green River - Come On Down
 - [ ] 36. Fang - Landshark
