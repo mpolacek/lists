@@ -1,12 +1,12 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 156/1079
+Current score: 159/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
 - [X] 1. Frank Sinatra - In the Wee Small Hours (1955)
-- [ ] 2. Elvis Presley - Elvis Presley (1956)
+- [X] 2. Elvis Presley - Elvis Presley (1956)
 - [ ] 3. The Louvin Brothers - Tragic Songs of Life (1956)
 - [ ] 4. Louis Prima - The Wildest! (1956)
 - [X] 5. Fats Domino - This Is Fats (1956)
@@ -562,7 +562,7 @@ Current score: 156/1079
 - [ ] 555. Suzanne Vega - Suzanne Vega (1985)
 - [ ] 556. The Pogues - Rum Sodomy and the Lash
 - [X] 557. Kate Bush - Hounds of Love (1985)
-- [ ] 558. Meat Is Murder (The Smiths, 1985)
+- [ ] 558. The Smiths - Meat Is Murder (1985)
 - [ ] 559. Rain Dogs (Tom Waits, 1985)
 - [ ] 560. The Jesus and Mary Chain - Psychocandy
 - [ ] 561. New Order - Low-Life
@@ -623,7 +623,7 @@ Current score: 156/1079
 - [ ] 616. Living Colour - Vivid
 - [ ] 617. Mudhoney - Superfuzz Bigmuff
 - [ ] 618. R.E.M. - Green
-- [ ] 619. The Happy Mondays - Bummed
+- [ ] 619. Happy Mondays - Bummed
 - [ ] 620. The Go-Betweens - 16 Lovers Lane
 - [ ] 621. Cowboy Junkies - The Trinity Session (1988)
 - [ ] 622. Tracy Chapman - Tracy Chapman [1988]
@@ -678,7 +678,7 @@ Current score: 156/1079
 - [X] 671. Megadeth - Rust in Peace
 - [ ] 672. Sex Packets (1990) - Digital Underground
 - [X] 673. Pet Shop Boys - Behaviour
-- [ ] 674. Happy Mondays - Pills N Thrills and Bellyaches
+- [X] 674. Happy Mondays - Pills N Thrills and Bellyaches
 - [ ] 675. George Michael Listen Without Prejudice: Vol 1
 - [ ] 676. Neil Young and Crazy Horse - Ragged Glory
 - [ ] 677. Ice Cube - Amerikkka's Most Wanted
@@ -947,7 +947,7 @@ Current score: 156/1079
 - [ ] 940. White Blood Cells (The White Stripes, 2001)
 - [ ] 941. The Blueprint (JAY Z, 2001)
 - [ ] 942. Melody A.M. (Röyksopp, 2001)
-- [ ] 943. Drive by Truckers Southern Rock Opera
+- [X] 943. Drive by Truckers - Southern Rock Opera
 - [ ] 944. Super Furry Animals - Rings Around the World
 - [ ] 945. The Vines - Highly Evolved
 - [ ] 946. Jurassic 5 - Power in Numbers

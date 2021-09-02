@@ -1,10 +1,11 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 20/824
+Current score: 20/825
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 825. Indigo De Souza - Any Shape You Take
 - [ ] 824. Turnstile - Glow On
 - [ ] 823. Ka - A Martyr’s Reward
 - [X] 822. L'Rain - Fatigue
