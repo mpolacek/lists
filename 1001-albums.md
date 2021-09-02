@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 154/1079
+Current score: 156/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -95,7 +95,7 @@ Current score: 154/1079
 - [ ] 88. Cream - Disraeli Gears
 - [ ] 89. Pink Floyd - The Piper at the Gates of Dawn (1967)
 - [ ] 90. The Who - The Who Sell Out (1967)
-- [ ] 91. The Velvet Underground & Nico - The Velvet Underground & Nico (1967)
+- [X] 91. The Velvet Underground & Nico - The Velvet Underground & Nico (1967)
 - [ ] 92. Francis Albert Sinatra & Antonio Carlos Jobim (1967)
 - [ ] 93. The Doors - The Doors
 - [ ] 94. The Byrds - Younger Than Yesterday
@@ -119,7 +119,7 @@ Current score: 154/1079
 - [ ] 112. Os Mutantes - Os Mutantes (1968)
 - [ ] 113. The Jimi Hendrix Experience - Electric Ladyland (1968)
 - [ ] 114. Leonard Cohen - Songs of Leonard Cohen
-- [ ] 115. Johnny Cash - At Folsom Prison (1968)
+- [X] 115. Johnny Cash - At Folsom Prison (1968)
 - [ ] 116. Laura Nyro - Eli and the Thirteenth Confession
 - [ ] 117. Aretha Franklin - Lady Soul (1968)
 - [X] 118. Blue Cheer - Vincebus Eruptum (1968)

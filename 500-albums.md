@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 95/500
+Current score: 97/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -27,7 +27,7 @@ Current score: 95/500
 - [X] 20. Radiohead - Kid A (2000)
 - [ ] 21. Bruce Springsteen - Born to Run
 - [X] 22. Notorious B.I.G. - Ready to Die
-- [ ] 23. The Velvet Underground - The Velvet Underground & Nico
+- [X] 23. The Velvet Underground - The Velvet Underground & Nico
 - [X] 24. The Beatles - Sgt. Pepper's Lonely Hearts Club Band
 - [ ] 25. Carole King - Tapestry (1971)
 - [ ] 26. Patti Smith - Horses (1975)
@@ -147,7 +147,7 @@ Current score: 95/500
 - [ ] 140. Bob Marley and the Wailers - Catch a Fire
 - [ ] 141. Pixies - Doolittle
 - [ ] 142. Bruce Springsteen - Born in the U.S.A.
-- [ ] 143. The Velvet Underground
+- [ ] 143. The Velvet Underground - The Velvet Underground
 - [ ] 144. Led Zeppelin - Physical Graffiti
 - [ ] 145. Eminem - The Marshall Mathers LP
 - [ ] 146. Blondie - Parallel Lines
@@ -168,7 +168,7 @@ Current score: 95/500
 - [ ] 161. Crosby, Stills & Nash - Crosby, Stills & Nash
 - [X] 162. Pulp - Different Class (1995)
 - [ ] 163. Various Artists - Saturday Night Fever
-- [ ] 164. Johnny Cash - At Folsom Prison
+- [X] 164. Johnny Cash - At Folsom Prison
 - [X] 165. R.E.M. - Murmur
 - [ ] 166. Buddy Holly - 20 Golden Greats
 - [ ] 167. Depeche Mode - Violator (1990)
