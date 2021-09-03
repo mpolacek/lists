@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 159/1079
+Current score: 160/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -161,7 +161,7 @@ Current score: 159/1079
 - [ ] 154. Quicksilver Messenger Service - Happy Trails
 - [ ] 155. Led Zeppelin - Led Zeppelin
 - [ ] 156. The Band - The Band (1969)
-- [ ] 157. Led Zeppelin, Led Zeppelin II (1969)
+- [X] 157. Led Zeppelin - Led Zeppelin II (1969)
 - [ ] 158. MC5, Kick Out the Jams (1969)
 - [ ] 159. The Temptations - Cloud Nine (1969)
 - [ ] 160. Sly & the Family Stone, Stand! (1969)
@@ -191,7 +191,7 @@ Current score: 159/1079
 - [ ] 184. Deja Vu (Crosby, Stills, Nash & Young, 1970)
 - [X] 185. Black Sabbath - Paranoid
 - [ ] 186. Neil Young - After the Gold Rush (1970)
-- [ ] 187. Led Zeppelin III
+- [ ] 187. Led Zeppelin - Led Zeppelin III
 - [ ] 188. Deep Purple - Deep Purple in Rock
 - [ ] 189. Van Morrison - Moondance
 - [X] 190. Grateful Dead - American Beauty

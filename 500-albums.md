@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 97/500
+Current score: 98/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -105,7 +105,7 @@ Current score: 97/500
 - [ ] 98. Lucinda Williams - Car Wheels on a Gravel Road
 - [ ] 99. Taylor Swift - Red
 - [ ] 100. The Band - Music From Big Pink (1968)
-- [ ] 101. Led Zeppelin
+- [ ] 101. Led Zeppelin - Led Zeppelin
 - [ ] 102. The Clash - The Clash
 - [ ] 103. De La Soul - 3 Feet High and Rising
 - [ ] 104. The Rolling Stones - Sticky Fingers
@@ -127,7 +127,7 @@ Current score: 97/500
 - [ ] 120. Van Morrison - Moondance
 - [ ] 121. Elvis Costello - This Year's Model
 - [ ] 122. Nine Inch Nails - The Downward Spiral
-- [ ] 123. Led Zeppelin II
+- [X] 123. Led Zeppelin - Led Zeppelin II
 - [ ] 124. U2 - Achtung Baby (1991)
 - [ ] 125. Beastie Boys - Paul's Boutique
 - [X] 126. Mary J. Blige - My Life
