@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 160/1079
+Current score: 162/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -97,7 +97,7 @@ Current score: 160/1079
 - [ ] 90. The Who - The Who Sell Out (1967)
 - [X] 91. The Velvet Underground & Nico - The Velvet Underground & Nico (1967)
 - [ ] 92. Francis Albert Sinatra & Antonio Carlos Jobim (1967)
-- [ ] 93. The Doors - The Doors
+- [X] 93. The Doors - The Doors
 - [ ] 94. The Byrds - Younger Than Yesterday
 - [ ] 95. The Young Rascals - Groovin' (1967)
 - [X] 96. Jefferson Airplane - Surrealistic Pillow (1967)
@@ -190,7 +190,7 @@ Current score: 160/1079
 - [ ] 183. John Lennon - John Lennon & Plastic Ono Band
 - [ ] 184. Deja Vu (Crosby, Stills, Nash & Young, 1970)
 - [X] 185. Black Sabbath - Paranoid
-- [ ] 186. Neil Young - After the Gold Rush (1970)
+- [X] 186. Neil Young - After the Gold Rush (1970)
 - [ ] 187. Led Zeppelin - Led Zeppelin III
 - [ ] 188. Deep Purple - Deep Purple in Rock
 - [ ] 189. Van Morrison - Moondance

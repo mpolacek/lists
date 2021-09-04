@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 98/500
+Current score: 100/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -90,11 +90,11 @@ Current score: 98/500
 - [ ] 83. Dusty Springfield - Dusty in Memphis
 - [ ] 84. AC/DC - Back in Black (1980)
 - [ ] 85. John Lennon / Plastic Ono Band - John Lennon / Plastic Ono Band
-- [ ] 86. The Doors - The Doors (1967)
+- [X] 86. The Doors - The Doors (1967)
 - [X] 87. Miles Davis - Bitches Brew
 - [ ] 88. David Bowie - Hunky Dory (1971)
 - [ ] 89. Erykah Badu - Baduizm (1997)
-- [ ] 90. Neil Young - After the Gold Rush (1970)
+- [X] 90. Neil Young - After the Gold Rush (1970)
 - [ ] 91. Bruce Springsteen - Darkness on the Edge of Town
 - [ ] 92. Jimi Hendrix - Axis: Bold as Love
 - [ ] 93. Missy "Misdemeanor" Elliott- Supa Dupa Fly
