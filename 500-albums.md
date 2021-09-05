@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 100/500
+Current score: 101/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -56,7 +56,7 @@ Current score: 100/500
 - [X] 49. Outkast - Aquemini
 - [ ] 50. Jay-Z - The Blueprint
 - [ ] 51. Chuck Berry - The Great Twenty-Eight
-- [ ] 52. David Bowie - Station to Station (1976)
+- [X] 52. David Bowie - Station to Station (1976)
 - [ ] 53. Jimi Hendrix - Electric Ladyland (1968)
 - [ ] 54. James Brown - Star Time
 - [ ] 55. Pink Floyd - The Dark Side of the Moon

@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 162/1079
+Current score: 163/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -355,8 +355,8 @@ Current score: 162/1079
 - [ ] 348. Curtis Mayfield - There's No Place Like America Today
 - [ ] 349. Tom Petty and the Heartbreakers - Tom Petty and the Heartbreakers
 - [ ] 350. The Modern Lovers - The Modern Lovers
-- [ ] 351. Station to Station (David Bowie, 1976)
-- [ ] 352. Joni Mitchell • Hejira
+- [X] 351. David Bowie - Station to Station (1976)
+- [ ] 352. Joni Mitchell - Hejira
 - [ ] 353. Boston - Boston
 - [X] 354. Eagles - Hotel California
 - [ ] 355. ABBA - Arrival
