@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 101/500
+Current score: 102/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -15,7 +15,7 @@ Current score: 101/500
 - [X] 8. Prince - Purple Rain
 - [X] 9. Bob Dylan - Blood on the Tracks (1975)
 - [ ] 10. Lauryn Hill - The Miseducation of Lauryn Hill
-- [ ] 11. The Beatles - Revolver (1966)
+- [X] 11. The Beatles - Revolver (1966)
 - [ ] 12. Michael Jackson - Thriller (1982)
 - [ ] 13. Aretha Franklin- I Never Loved a Man the Way I Love You
 - [ ] 14. The Rolling Stones - Exile on Main St.

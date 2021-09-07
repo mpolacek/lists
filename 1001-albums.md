@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 163/1079
+Current score: 165/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -64,7 +64,7 @@ Current score: 163/1079
 - [ ] 57. The Byrds - Mr. Tambourine Man
 - [ ] 58. Bob Dylan, Highway 61 Revisited (1965)
 - [ ] 59. The Who My Generation
-- [ ] 60. The Beatles - Revolver (1966)
+- [X] 60. The Beatles - Revolver (1966)
 - [X] 61. The Beach Boys - Pet Sounds (1966)
 - [ ] 62. Fred Neil
 - [ ] 63. The Byrds: Fifth Dimension
@@ -772,8 +772,8 @@ Current score: 163/1079
 - [ ] 765. Elvis Costello Brutal Youth
 - [ ] 766. Morrissey - Vauxhall and I
 - [ ] 767. Crazysexycool - TLC [1994]
-- [ ] 768. Definitely Maybe (Oasis)
-- [ ] 769. Superunknown (Soundgarden, 1994)
+- [ ] 768. Oasis - Definitely Maybe
+- [ ] 769. Soundgarden - Superunknown (1994)
 - [ ] 770. Smash (The Offspring, 1994)
 - [ ] 771. Drive Like Jehu - Yank Crime (1994)
 - [X] 772. Blur - Parklife
@@ -1045,7 +1045,7 @@ Current score: 163/1079
 - [X] 1038. The Xx - Xx
 - [ ] 1039. Fever Ray - Fever Ray
 - [ ] 1040. Beach House - Teen Dream
-- [ ] 1041. The Black Keys -Brothers
+- [X] 1041. The Black Keys - Brothers
 - [ ] 1042. My Beautiful Dark Twisted Fantasy (Kanye West, 2010)
 - [ ] 1043. John Grant - Queen of Denmark
 - [ ] 1044. Janelle Monáe - The Archandroid
@@ -1054,18 +1054,18 @@ Current score: 163/1079
 - [ ] 1047. Arcade Fire - The Suburbs
 - [ ] 1048. Adele - 21
 - [ ] 1049. P.J. Harvey - Let England Shake
-- [ ] 1050. White Denim, D (2011)
-- [ ] 1051. Good Kid, M.A.A.D City (Kendrick Lamar, 2012)
+- [ ] 1050. White Denim - D (2011)
+- [ ] 1051. Kendrick Lamar - Good Kid, M.A.A.D City (2012)
 - [ ] 1052. Hot Chip - In Our Heads
 - [ ] 1053. Frank Ocean - Channel Orange
 - [ ] 1054. Jack White - Blunderbuss
 - [ ] 1055. Django Django - Django Django
 - [X] 1056. My Bloody Valentine - M B V (2013)
 - [ ] 1057. Kanye West - Yeezus
-- [ ] 1058. The Next Day (David Bowie, 2013)
+- [ ] 1058. David Bowie - The Next Day (2013)
 - [ ] 1059. CHVRCHES - The Bones of What You Believe
 - [ ] 1060. Beyonce - Beyonce
-- [ ] 1061. Taylor Swift, 1989 (2014)
+- [ ] 1061. Taylor Swift - 1989 (2014)
 - [ ] 1062. FKA Twigs - LP1
 - [ ] 1063. The War on Drugs - Lost in the Dream
 - [ ] 1064. Adele - 25
@@ -1078,7 +1078,7 @@ Current score: 163/1079
 - [ ] 1071. Leonard Cohen - You Want It Darker (2016)
 - [ ] 1072. The xx - I See You
 - [ ] 1073. Jane Weaver - Modern Kosmology
-- [ ] 1074. American Dream - LCD Soundsystem
+- [ ] 1074. LCD Soundsystem - American Dream
 - [ ] 1075. Lorde - Melodrama (2017)
 - [ ] 1076. Thundercat - Drunk
 - [ ] 1077. Take Me Apart - Kelela (2017)
