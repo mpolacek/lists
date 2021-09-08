@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 165/1079
+Current score: 167/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -159,7 +159,7 @@ Current score: 165/1079
 - [ ] 152. Elvis Presley - From Elvis in Memphis (1969)
 - [ ] 153. The Velvet Underground - The Velvet Underground
 - [ ] 154. Quicksilver Messenger Service - Happy Trails
-- [ ] 155. Led Zeppelin - Led Zeppelin
+- [X] 155. Led Zeppelin - Led Zeppelin
 - [ ] 156. The Band - The Band (1969)
 - [X] 157. Led Zeppelin - Led Zeppelin II (1969)
 - [ ] 158. MC5, Kick Out the Jams (1969)
@@ -338,7 +338,7 @@ Current score: 165/1079
 - [ ] 331. Keith Jarrett - The Köln Concert
 - [ ] 332. Aerosmith - Toys in the Attic
 - [X] 333. David Bowie - Young Americans
-- [ ] 334. Burning Spear - Marcus Garvey
+- [X] 334. Burning Spear - Marcus Garvey
 - [ ] 335. Bruce Springsteen - Born to Run (1975)
 - [ ] 336. Emmylou Harris - Pieces of the Sky
 - [ ] 337. Dion - Born to Be With You (1975)
