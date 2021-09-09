@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 167/1079
+Current score: 172/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -211,7 +211,7 @@ Current score: 167/1079
 - [ ] 204. Syd Barrett - The Madcap Laughs (1970)
 - [ ] 205. Jethro Tull - Aqualung
 - [ ] 206. David Crosby - If I Could Only Remember My Name
-- [ ] 207. There's a Riot Goin' on (Sly & the Family Stone, 1971)
+- [X] 207. Sly & the Family Stone - There's a Riot Goin' on (1971)
 - [X] 208. Marvin Gaye - What's Going On
 - [ ] 209. Bee Gees - Trafalgar (1971)
 - [ ] 210. The Yes Album - Yes
@@ -253,7 +253,7 @@ Current score: 167/1079
 - [ ] 246. Neil Young - Harvest (1972)
 - [ ] 247. Curtis Mayfield - Superfly
 - [ ] 248. Slade - Slayed
-- [ ] 249. Deep Purple - Made in Japan
+- [X] 249. Deep Purple - Made in Japan
 - [ ] 250. Yes - Close to the Edge (1972)
 - [ ] 251. Transformer (Lou Reed, 1972)
 - [ ] 252. Hugh Masekela - Home Is Where the Music Is (1972)
@@ -281,7 +281,7 @@ Current score: 167/1079
 - [ ] 274. King Crimson - Larks' Tongues in Aspic (1973)
 - [ ] 275. Bob Marley and the Wailers - Catch a Fire
 - [ ] 276. Hawkwind - Space Ritual (1973)
-- [ ] 277. John Cale - Paris 1919
+- [X] 277. John Cale - Paris 1919
 - [ ] 278. CAN - Future Days (1973)
 - [ ] 279. Lou Reed, Berlin (1973)
 - [ ] 280. Selling England by the Pound (Genesis, 1973)
@@ -714,7 +714,7 @@ Current score: 167/1079
 - [ ] 707. Metallica - Metallica
 - [X] 708. Pavement - Slanted and Enchanted
 - [ ] 709. Aphex Twin - Selected Ambient Works 85-92
-- [ ] 710. Three Years, Five Months, and Two Days in the Life of ...
+- [X] 710. Arrested Development - 3 Years, 5 Months and 2 Days in the Life Of...
 - [ ] 711. Haut De Gamme / Koweït Rive Gauche
 - [ ] 712. Morrissey - Your Arsenal
 - [X] 713. Baaba Maal - Lam Torro
@@ -1014,7 +1014,7 @@ Current score: 167/1079
 - [X] 1007. Amy Winehouse - Back to Black
 - [ ] 1008. Christina Aguilera - Back to Basics
 - [ ] 1009. Lupe Fiasco's Food & Liquor
-- [ ] 1010. Ghostface Killah - Fishscale
+- [X] 1010. Ghostface Killah - Fishscale
 - [ ] 1011. Ali Farka Touré - Savane
 - [ ] 1012. Muse - Black Holes and Revelations
 - [ ] 1013. Joanna Newsom - Ys

@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 20/825
+Current score: 21/825
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -693,7 +693,7 @@ Current score: 20/825
 - [ ] 140. Scott Walker - The Drift (2006)
 - [ ] 139. Sunset Rubdown - Shut Up I Am Dreaming
 - [ ] 138. Islands - Return to the Sea
-- [ ] 137. Ghostface Killah - Fishscale
+- [X] 137. Ghostface Killah - Fishscale
 - [ ] 136. Band of Horses Everything All the Time
 - [ ] 135. Tapes 'N Tapes - The Loon
 - [ ] 134. Liars - Drum's Not Dead
