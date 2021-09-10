@@ -1,13 +1,14 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 50/255
+Current score: 53/256
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [X] 256. Erykah Badu - Baduizm
 - [ ] 255. The Cranberries - Everybody Else Is Doing It, So Why Can’t We?
 - [X] 254. The Gun Club - Fire of Love
-- [ ] 253. Bruce Springsteen - Born in the U.S.A.
+- [X] 253. Bruce Springsteen - Born in the U.S.A.
 - [ ] 252. DC Talk - Jesus Freak
 - [ ] 251. Diddy - Dirty Money - Last Train to Paris
 - [ ] 250. Annie Lennox - Diva
@@ -109,7 +110,7 @@ Current score: 50/255
 - [ ] 154. Koji Kondo - The Legend of Zelda: Ocarina of Time
 - [ ] 153. Sigur Rós - Ágætis byrjun
 - [ ] 152. Neutral Milk Hotel - On Avery Island
-- [ ] 151. AC/DC - Back in Black
+- [X] 151. AC/DC - Back in Black
 - [ ] 150. Roky Erickson - Never Say Goodbye
 - [ ] 149. Pavement - Terror Twilight
 - [ ] 148. Felt - Forever Breathes the Lonely Word

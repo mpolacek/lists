@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 172/1079
+Current score: 174/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -460,8 +460,8 @@ Current score: 172/1079
 - [ ] 453. The Specials - The Specials
 - [ ] 454. Adam and the Ants: Kings of the Wild Frontier
 - [ ] 455. Dexy's Midnight Runners - Searching for the Young Soul Rebels
-- [ ] 456. AC/DC - Back in Black
-- [ ] 457. The Cramps : The Songs the Lord Taught Us
+- [X] 456. AC/DC - Back in Black
+- [ ] 457. The Cramps - The Songs the Lord Taught Us
 - [ ] 458. Fresh Fruit for Rotting Vegetables (The Dead Kennedys, 1980)
 - [ ] 459. Peter Gabriel (Peter Gabriel, 1980)
 - [ ] 460. The Soft Boys - Underwater Moonlight
@@ -515,7 +515,7 @@ Current score: 172/1079
 - [ ] 508. Michael Jackson - Thriller
 - [ ] 509. The Birthday Party - Junkyard
 - [ ] 510. Venom - Black Metal
-- [ ] 511. Bruce Springsteen Nebraska
+- [ ] 511. Bruce Springsteen - Nebraska
 - [ ] 512. Associates - Sulk (1982)
 - [ ] 513. Iron Maiden - The Number of the Beast
 - [ ] 514. Duran Duran - Rio
@@ -550,7 +550,7 @@ Current score: 172/1079
 - [ ] 543. Minutemen - Double Nickels on the Dime
 - [ ] 544. Llyod Cole and the Commotions - Rattlesnakes (1984)
 - [ ] 545. N'dour Youssou Immigres
-- [ ] 546. Bruce Springsteen - Born in the U.S.A.
+- [X] 546. Bruce Springsteen - Born in the U.S.A.
 - [ ] 547. The Fall - This Nation's Saving Grace
 - [ ] 548. Abdullah Ibrahim - Water From an Ancient Well (1985)
 - [ ] 549. A-Ha - Hunting High and Low (1985)

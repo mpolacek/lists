@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 104/500
+Current score: 107/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -88,12 +88,12 @@ Current score: 104/500
 - [ ] 81. Beyoncé - Beyoncé (2013)
 - [X] 82. Sly & the Family Stone - There's a Riot Goin' on (1971)
 - [ ] 83. Dusty Springfield - Dusty in Memphis
-- [ ] 84. AC/DC - Back in Black (1980)
+- [X] 84. AC/DC - Back in Black (1980)
 - [ ] 85. John Lennon / Plastic Ono Band - John Lennon / Plastic Ono Band
 - [X] 86. The Doors - The Doors (1967)
 - [X] 87. Miles Davis - Bitches Brew
 - [ ] 88. David Bowie - Hunky Dory (1971)
-- [ ] 89. Erykah Badu - Baduizm (1997)
+- [X] 89. Erykah Badu - Baduizm (1997)
 - [X] 90. Neil Young - After the Gold Rush (1970)
 - [ ] 91. Bruce Springsteen - Darkness on the Edge of Town
 - [ ] 92. Jimi Hendrix - Axis: Bold as Love
@@ -146,7 +146,7 @@ Current score: 104/500
 - [X] 139. Black Sabbath - Paranoid
 - [ ] 140. Bob Marley and the Wailers - Catch a Fire
 - [ ] 141. Pixies - Doolittle
-- [ ] 142. Bruce Springsteen - Born in the U.S.A.
+- [X] 142. Bruce Springsteen - Born in the U.S.A.
 - [ ] 143. The Velvet Underground - The Velvet Underground
 - [ ] 144. Led Zeppelin - Physical Graffiti
 - [ ] 145. Eminem - The Marshall Mathers LP
@@ -349,7 +349,7 @@ Current score: 104/500
 - [X] 342. The Beatles - Let It Be
 - [ ] 343. Sly and the Family Stone - Greatest Hits
 - [ ] 344. Toots & the Maytals - Funky Kingston
-- [ ] 345. Bruce Springsteen- The Wild, the Innocent, and the E. Street Shuffle
+- [ ] 345. Bruce Springsteen - The Wild, the Innocent, and the E. Street Shuffle
 - [ ] 346. Arctic Monkeys - AM
 - [X] 347. GZA - Liquid Swords
 - [ ] 348. Gillian Welch - Time (The Revelator)
