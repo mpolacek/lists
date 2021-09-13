@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 174/1079
+Current score: 178/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -33,7 +33,7 @@ Current score: 174/1079
 - [ ] 26. Miriam Makeba - Miriam Makeba (1960)
 - [ ] 27. The Everly Brothers - A Date With the Everly Brothers
 - [ ] 28. Jimmy Smith - Back at the Chicken Shack
-- [ ] 29. Muddy Waters at Newport 1960
+- [X] 29. Muddy Waters - At Newport 1960
 - [X] 30. Bill Evans - Sunday at the Village Vanguard
 - [ ] 31. Ray Charles - Modern Sounds in Country and Western Music (1962)
 - [ ] 32. Booker T. & the M.G.'S - Green Onions (1962)
@@ -179,7 +179,7 @@ Current score: 174/1079
 - [ ] 172. The Stooges, the Stooges (1969)
 - [ ] 173. Alexander Spence - Oar
 - [ ] 174. Frank Zappa - Hot Rats
-- [ ] 175. Cosmo's Factory (Creedence Clearwater Revival, 1970)
+- [X] 175. Creedence Clearwater Revival - Cosmo's Factory (1970)
 - [ ] 176. Derek and the Dominos – Layla & Other Assorted Love Songs
 - [X] 177. Miles Davis - Bitches Brew (1970)
 - [ ] 178. Spirit - Twelve Dreams of Dr. Sardonicus
@@ -335,7 +335,7 @@ Current score: 174/1079
 - [ ] 328. The Dictators - Go Girl Crazy! (1975)
 - [ ] 329. NEU! - Neu! '75 (1975)
 - [ ] 330. Led Zeppelin - Physical Graffiti
-- [ ] 331. Keith Jarrett - The Köln Concert
+- [X] 331. Keith Jarrett - The Köln Concert
 - [ ] 332. Aerosmith - Toys in the Attic
 - [X] 333. David Bowie - Young Americans
 - [X] 334. Burning Spear - Marcus Garvey
@@ -938,7 +938,7 @@ Current score: 174/1079
 - [X] 931. Radiohead - Amnesiac
 - [ ] 932. Ryan Adams - Gold
 - [ ] 933. Gorillaz - Gorillaz
-- [ ] 934. The Strokes, Is This It (2001)
+- [X] 934. The Strokes - Is This It (2001)
 - [ ] 935. Destiny's Child - Survivor
 - [ ] 936. Gillian Welch - The Revelator
 - [ ] 937. Gotan Project, La Revancha Del Tango (2001)

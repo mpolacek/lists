@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 53/256
+Current score: 54/256
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -155,7 +155,7 @@ Current score: 53/256
 - [ ] 109. Earl Sweatshirt - Earl
 - [ ] 108. George Michael - Faith
 - [ ] 107. Bell Biv Devoe - Poison
-- [ ] 106. Creedence Clearwater Revival - Cosmo’s Factory
+- [X] 106. Creedence Clearwater Revival - Cosmo's Factory
 - [ ] 105. Juvenile - 400 Degreez
 - [ ] 104. Mary Margaret O’Hara - Miss America
 - [X] 103. Nirvana - Incesticide

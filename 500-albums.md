@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 107/500
+Current score: 109/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -118,7 +118,7 @@ Current score: 107/500
 - [ ] 111. Janet Jackson - Control (1986)
 - [ ] 112. Elton John - Goodbye Yellow Brick Road
 - [ ] 113. The Smiths - The Queen Is Dead
-- [ ] 114. The Strokes - Is This It
+- [X] 114. The Strokes - Is This It
 - [ ] 115. Kendrick Lamar - Good Kid, M.A.A.D City
 - [ ] 116. The Cure - Disintegration
 - [ ] 117. Kanye West - Late Registration
@@ -417,7 +417,7 @@ Current score: 107/500
 - [ ] 410. The Beach Boys - Wild Honey
 - [ ] 411. Bob Dylan - Love and Theft
 - [ ] 412. Going to a Go-Go- Smokey Robinson & the Miracles
-- [ ] 413. Creedence Clearwater Revival - Cosmo's Factory
+- [X] 413. Creedence Clearwater Revival - Cosmo's Factory
 - [ ] 414. Chic - Risqué (1979)
 - [ ] 415. The Meters- Look-Ka Py Py
 - [ ] 416. The Roots - Things Fall Apart

@@ -1,11 +1,12 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 21/825
+Current score: 23/826
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
-- [ ] 825. Indigo De Souza - Any Shape You Take
+- [ ] 826. Low - Hey What
+- [X] 825. Indigo De Souza - Any Shape You Take
 - [ ] 824. Turnstile - Glow On
 - [ ] 823. Ka - A Martyr’s Reward
 - [X] 822. L'Rain - Fatigue
@@ -32,7 +33,7 @@ Current score: 21/825
 - [ ] 801. Jay Electronica - Act II: The Patents of Nobility (The Turn)
 - [ ] 800. Touché Amoré - Lament
 - [ ] 799. Bartees Strange - Live Forever
-- [ ] 798. Fleet Foxes - Shore
+- [X] 798. Fleet Foxes - Shore
 - [ ] 797. Lomelda - Hannah
 - [X] 796. Jyoti - Mama, You Can Bet!
 - [ ] 795. Fireboy DML - APOLLO
