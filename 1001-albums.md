@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 178/1079
+Current score: 182/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -124,7 +124,7 @@ Current score: 178/1079
 - [ ] 117. Aretha Franklin - Lady Soul (1968)
 - [X] 118. Blue Cheer - Vincebus Eruptum (1968)
 - [ ] 119. The Byrds - The Notorious Byrd Brothers
-- [ ] 120. Big Brother and the Holding Company - Cheap Thrills (1968)
+- [X] 120. Big Brother and the Holding Company - Cheap Thrills (1968)
 - [ ] 121. United States of America - S/T
 - [ ] 122. Dr. John the Nighttripper - Gris-Gris
 - [ ] 123. Iron Butterfly - In-A-Gadda-Da-Vida
@@ -158,7 +158,7 @@ Current score: 178/1079
 - [ ] 151. Dusty Springfield, Dusty in Memphis (1969)
 - [ ] 152. Elvis Presley - From Elvis in Memphis (1969)
 - [ ] 153. The Velvet Underground - The Velvet Underground
-- [ ] 154. Quicksilver Messenger Service - Happy Trails
+- [X] 154. Quicksilver Messenger Service - Happy Trails
 - [X] 155. Led Zeppelin - Led Zeppelin
 - [ ] 156. The Band - The Band (1969)
 - [X] 157. Led Zeppelin - Led Zeppelin II (1969)
@@ -539,7 +539,7 @@ Current score: 178/1079
 - [ ] 532. Frankie Goes to Hollywood - Welcome to the Pleasuredome
 - [ ] 533. Run DMC - Run DMC
 - [ ] 534. Sade - Diamond Life
-- [ ] 535. Cocteau Twins - Treasure
+- [X] 535. Cocteau Twins - Treasure
 - [ ] 536. Minor Threat - Out of Step
 - [X] 537. Van Halen - 1984
 - [X] 538. Prince - Purple Rain
@@ -768,7 +768,7 @@ Current score: 178/1079
 - [X] 761. Portishead - Dummy
 - [ ] 762. Sabres of Paradise - Haunted Dancehall
 - [X] 763. Nas - Illmatic
-- [ ] 764. Ill Communication (Beastie Boys, 1994)
+- [X] 764. Beastie Boys - Ill Communication (1994)
 - [ ] 765. Elvis Costello Brutal Youth
 - [ ] 766. Morrissey - Vauxhall and I
 - [ ] 767. Crazysexycool - TLC [1994]

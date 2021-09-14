@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 109/500
+Current score: 110/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -376,7 +376,7 @@ Current score: 109/500
 - [ ] 369. Mobb Deep - The Infamous
 - [ ] 370. Lil Wayne - Tha Carter II
 - [ ] 371. The Temptations Anthology
-- [ ] 372. Big Brother & the Holding Company - Cheap Thrills
+- [X] 372. Big Brother & the Holding Company - Cheap Thrills
 - [X] 373. Isaac Hayes - Hot Buttered Soul
 - [ ] 374. Robert Johnson - King of the Delta Blues Singers
 - [ ] 375. Green Day - Dookie
