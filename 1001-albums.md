@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 182/1079
+Current score: 185/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -55,7 +55,7 @@ Current score: 182/1079
 - [ ] 48. Jerry Lee Lewis - Live at the Star Club Hamburg
 - [ ] 49. The Sonics - Here Are the Sonics
 - [ ] 50. Bob Dylan - Bringing It All Back Home
-- [ ] 51. Otis Redding - Otis Blue: Otis Redding Sings Soul
+- [X] 51. Otis Redding - Otis Blue: Otis Redding Sings Soul
 - [ ] 52. The Beach Boys - The Beach Boys Today! (1965)
 - [X] 53. John Coltrane - A Love Supreme (1965)
 - [X] 54. B.B. King - Live at the Regal
@@ -681,7 +681,7 @@ Current score: 182/1079
 - [X] 674. Happy Mondays - Pills N Thrills and Bellyaches
 - [ ] 675. George Michael Listen Without Prejudice: Vol 1
 - [ ] 676. Neil Young and Crazy Horse - Ragged Glory
-- [ ] 677. Ice Cube - Amerikkka's Most Wanted
+- [X] 677. Ice Cube - Amerikkka's Most Wanted
 - [ ] 678. Jane's Addiction, Ritual De Lo Habitual (1990)
 - [ ] 679. LL Cool J - Mama Said Knock You Out
 - [X] 680. Public Enemy - Fear of a Black Planet
@@ -1077,7 +1077,7 @@ Current score: 182/1079
 - [ ] 1070. David Bowie - Blackstar (2016)
 - [ ] 1071. Leonard Cohen - You Want It Darker (2016)
 - [ ] 1072. The xx - I See You
-- [ ] 1073. Jane Weaver - Modern Kosmology
+- [X] 1073. Jane Weaver - Modern Kosmology
 - [ ] 1074. LCD Soundsystem - American Dream
 - [ ] 1075. Lorde - Melodrama (2017)
 - [ ] 1076. Thundercat - Drunk

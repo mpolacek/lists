@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 110/500
+Current score: 111/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -191,7 +191,7 @@ Current score: 110/500
 - [ ] 184. Cyndi Lauper - She's So Unusual
 - [ ] 185. The Rolling Stones - Beggar's Banquet
 - [ ] 186. Red Hot Chili Peppers - Blood Sugar Sex Magik
-- [ ] 187. Ice Cube - Amerikkka's Most Wanted
+- [X] 187. Ice Cube - Amerikkka's Most Wanted
 - [ ] 188. T. Rex - Electric Warrior
 - [ ] 189. Sleater-Kinney- Dig Me Out
 - [ ] 190. The Who - Tommy
