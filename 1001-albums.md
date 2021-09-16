@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 185/1079
+Current score: 188/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -160,7 +160,7 @@ Current score: 185/1079
 - [ ] 153. The Velvet Underground - The Velvet Underground
 - [X] 154. Quicksilver Messenger Service - Happy Trails
 - [X] 155. Led Zeppelin - Led Zeppelin
-- [ ] 156. The Band - The Band (1969)
+- [X] 156. The Band - The Band (1969)
 - [X] 157. Led Zeppelin - Led Zeppelin II (1969)
 - [ ] 158. MC5, Kick Out the Jams (1969)
 - [ ] 159. The Temptations - Cloud Nine (1969)
@@ -440,7 +440,7 @@ Current score: 185/1079
 - [ ] 433. Reggatta De Blanc (The Police)
 - [ ] 434. Live at the Witch Trials
 - [ ] 435. Fear of Music (Talking Heads, 1979)
-- [ ] 436. Joy Division - Unknown Pleasures
+- [X] 436. Joy Division - Unknown Pleasures
 - [ ] 437. Chic - Risque
 - [ ] 438. Undertones - The Undertones
 - [ ] 439. The Clash - London Calling
@@ -472,7 +472,7 @@ Current score: 185/1079
 - [ ] 465. Judas Priest - British Steel
 - [ ] 466. Circle Jerks - Group Sex
 - [ ] 467. Talking Heads - Remain in Light
-- [ ] 468. Joy Division - Closer
+- [X] 468. Joy Division - Closer
 - [ ] 469. Iron Maiden - Iron Maiden
 - [ ] 470. The Undertones - Hypnotised (1980)
 - [ ] 471. The Jam - Sound Affects

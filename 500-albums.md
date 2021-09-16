@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 111/500
+Current score: 114/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -61,7 +61,7 @@ Current score: 111/500
 - [ ] 54. James Brown - Star Time
 - [ ] 55. Pink Floyd - The Dark Side of the Moon
 - [X] 56. Liz Phair - Exile in Guyville
-- [ ] 57. The Band - The Band (1969)
+- [X] 57. The Band - The Band (1969)
 - [ ] 58. Led Zeppelin - Led Zeppelin [IV]
 - [ ] 59. Stevie Wonder - Talking Book
 - [X] 60. Van Morrison - Astral Weeks
@@ -215,7 +215,7 @@ Current score: 111/500
 - [ ] 208. Lil Wayne - Tha Carter III
 - [ ] 209. Run DMC - Raising Hell
 - [ ] 210. Ray Charles - The Birth of Soul
-- [ ] 211. Joy Division - Unknown Pleasures
+- [X] 211. Joy Division - Unknown Pleasures
 - [ ] 212. Nina Simone - Wild Is the Wind
 - [ ] 213. Fiona Apple - The Idler Wheel...
 - [ ] 214. Tom Petty - Wildflowers
@@ -313,7 +313,7 @@ Current score: 111/500
 - [ ] 306. Al Green- I'm Still in Love With You
 - [ ] 307. Sam Cooke- Portait of a Legend
 - [ ] 308. Eno - Here Comes the Warm Jets
-- [ ] 309. Joy Division - Closer
+- [X] 309. Joy Division - Closer
 - [X] 310. Wire - Pink Flag
 - [ ] 311. Neil Young - On the Beach (1974)
 - [ ] 312. Solange - A Seat at the Table (2016)

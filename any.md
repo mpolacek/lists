@@ -1,10 +1,12 @@
 Various albums
 ==============
 
-Current score: 7/40
+Current score: 9/42
 
 `$ grep "\[X\]" any.md | wc -l`
 
+- [X] 41. Irena and Vojtech Havlovi - Melodies in the Sand
+- [X] 41. Mudhoney - Digital Garbage
 - [ ] 40. The Bug - Fire
 - [X] 39. Strapping Young Lad - Alien
 - [X] 38. Steve Gunn - Other You
