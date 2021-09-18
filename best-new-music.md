@@ -1,12 +1,12 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 23/827
+Current score: 24/827
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
 - [ ] 827. Nala Sinephro - Space 1.8
-- [ ] 826. Low - Hey What
+- [X] 826. Low - Hey What
 - [X] 825. Indigo De Souza - Any Shape You Take
 - [ ] 824. Turnstile - Glow On
 - [ ] 823. Ka - A Martyr’s Reward

@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 114/500
+Current score: 115/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -62,7 +62,7 @@ Current score: 114/500
 - [ ] 55. Pink Floyd - The Dark Side of the Moon
 - [X] 56. Liz Phair - Exile in Guyville
 - [X] 57. The Band - The Band (1969)
-- [ ] 58. Led Zeppelin - Led Zeppelin [IV]
+- [X] 58. Led Zeppelin - Led Zeppelin IV
 - [ ] 59. Stevie Wonder - Talking Book
 - [X] 60. Van Morrison - Astral Weeks
 - [ ] 61. Eric B. and Rakim - Paid in Full

@@ -1,11 +1,12 @@
 Various albums
 ==============
 
-Current score: 9/42
+Current score: 10/43
 
 `$ grep "\[X\]" any.md | wc -l`
 
-- [X] 41. Irena and Vojtech Havlovi - Melodies in the Sand
+- [X] 43. The Smashing Pumpkins - Gish
+- [X] 42. Irena and Vojtech Havlovi - Melodies in the Sand
 - [X] 41. Mudhoney - Digital Garbage
 - [ ] 40. The Bug - Fire
 - [X] 39. Strapping Young Lad - Alien

@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 188/1079
+Current score: 189/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -229,7 +229,7 @@ Current score: 188/1079
 - [ ] 222. Coat of Many Colors - Dolly Parton [1971]
 - [ ] 223. Don Mclean - American Pie (1971)
 - [ ] 224. Emerson, Lake & Palmer - Tarkus
-- [ ] 225. Led Zeppelin - Led Zeppelin IV (1971)
+- [X] 225. Led Zeppelin - Led Zeppelin IV (1971)
 - [ ] 226. Serge Gainsbourg - Histoire De Melody Nelson
 - [ ] 227. Rod Stewart - Every Picture Tells a Story
 - [ ] 228. Emerson, Lake & Palmer - Pictures at an Exhibition (1972)
