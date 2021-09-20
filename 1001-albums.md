@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 189/1079
+Current score: 191/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -274,7 +274,7 @@ Current score: 189/1079
 - [X] 267. David Bowie - The Rise and Fall of Ziggy Stardust & the Spiders From Mars
 - [ ] 268. War - The World Is a Ghetto
 - [ ] 269. Al Green - Let's Stay Together
-- [ ] 270. Rolling Stones - Exile on Main Street
+- [X] 270. Rolling Stones - Exile on Main Street
 - [ ] 271. Lynyrd Skynyrd - (Pronounced 'Lĕh-'Nérd 'Skin-'Nérd)
 - [ ] 272. The Incredible Bongo Band - Bongo Rock (1973)
 - [ ] 273. Aladdin Sane (David Bowie, 1973)
@@ -779,7 +779,7 @@ Current score: 189/1079
 - [X] 772. Blur - Parklife
 - [ ] 773. G Love & Special Sauce - G Love & Special Sauce
 - [ ] 774. Ali Farka Toure & Ry Cooder Talking Timbuktu
-- [ ] 775. Hole - Live Through This
+- [X] 775. Hole - Live Through This
 - [ ] 776. Massive Attack - Protection
 - [ ] 777. Manic Street Preachers - The Holy Bible
 - [ ] 778. Suede - Dog Man Star

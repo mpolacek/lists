@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 55/256
+Current score: 56/256
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -162,7 +162,7 @@ Current score: 55/256
 - [ ] 102. John Frusciante - To Record Only Water for Ten Days
 - [ ] 101. Curtis Mayfield - Super Fly
 - [X] 100. The Band - The Band
-- [ ] 99. Hole - Live Through This
+- [X] 99. Hole - Live Through This
 - [X] 98. Raekwon - Only Built 4 Cuban Linx
 - [ ] 97. Aretha Franklin - Spirit in the Dark
 - [ ] 96. Bob Dylan - Time Out of Mind

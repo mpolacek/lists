@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 115/500
+Current score: 118/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -18,7 +18,7 @@ Current score: 115/500
 - [X] 11. The Beatles - Revolver (1966)
 - [ ] 12. Michael Jackson - Thriller (1982)
 - [ ] 13. Aretha Franklin- I Never Loved a Man the Way I Love You
-- [ ] 14. The Rolling Stones - Exile on Main St.
+- [X] 14. The Rolling Stones - Exile on Main St.
 - [ ] 15. Public Enemy - It Takes a Nation of Millions to Hold Us Back
 - [ ] 16. The Clash - London Calling (1979)
 - [ ] 17. Kanye West - My Beautiful Dark Twisted Fantasy
@@ -110,7 +110,7 @@ Current score: 115/500
 - [ ] 103. De La Soul - 3 Feet High and Rising
 - [ ] 104. The Rolling Stones - Sticky Fingers
 - [ ] 105. The Allman Brothers Band - At Fillmore East (1971)
-- [ ] 106. Hole - Live Through This
+- [X] 106. Hole - Live Through This
 - [X] 107. Television - Marquee Moon
 - [ ] 108. Fiona Apple - When the Pawn
 - [ ] 109. Lou Reed - Transformer
@@ -282,7 +282,7 @@ Current score: 115/500
 - [ ] 275. Curtis Mayfield - Curtis
 - [X] 276. Radiohead - The Bends (1995)
 - [ ] 277. Alicia Keys the Diary of Alicia Keys
-- [ ] 278. Led Zeppelin - Houses of the Holy
+- [X] 278. Led Zeppelin - Houses of the Holy
 - [X] 279. Nirvana - MTV Unplugged in New York
 - [ ] 280. 50 Cent - Get Rich or Die Tryin'
 - [ ] 281. Harry Nilsson - Nilsson Schmilsson
