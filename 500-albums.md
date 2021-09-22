@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 118/500
+Current score: 120/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -148,7 +148,7 @@ Current score: 118/500
 - [ ] 141. Pixies - Doolittle
 - [X] 142. Bruce Springsteen - Born in the U.S.A.
 - [ ] 143. The Velvet Underground - The Velvet Underground
-- [ ] 144. Led Zeppelin - Physical Graffiti
+- [X] 144. Led Zeppelin - Physical Graffiti
 - [ ] 145. Eminem - The Marshall Mathers LP
 - [ ] 146. Blondie - Parallel Lines
 - [X] 147. Jeff Buckley - Grace (1994)
@@ -370,7 +370,7 @@ Current score: 118/500
 - [ ] 363. Parliament - Mothership Connection
 - [ ] 364. Talking Heads - More Songs About Buildings and Food (1978)
 - [ ] 365. Madvillain - Madvillainy
-- [ ] 366. Aerosmith - Rocks (1976)
+- [X] 366. Aerosmith - Rocks (1976)
 - [ ] 367. If You're Reading This It's Too Late
 - [ ] 368. George Harrison - All Things Must Pass
 - [ ] 369. Mobb Deep - The Infamous

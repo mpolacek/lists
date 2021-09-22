@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 191/1079
+Current score: 197/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -191,7 +191,7 @@ Current score: 191/1079
 - [ ] 184. Deja Vu (Crosby, Stills, Nash & Young, 1970)
 - [X] 185. Black Sabbath - Paranoid
 - [X] 186. Neil Young - After the Gold Rush (1970)
-- [ ] 187. Led Zeppelin - Led Zeppelin III
+- [X] 187. Led Zeppelin - Led Zeppelin III
 - [ ] 188. Deep Purple - Deep Purple in Rock
 - [ ] 189. Van Morrison - Moondance
 - [X] 190. Grateful Dead - American Beauty
@@ -334,7 +334,7 @@ Current score: 191/1079
 - [X] 327. Brian Eno - Another Green World (1975)
 - [ ] 328. The Dictators - Go Girl Crazy! (1975)
 - [ ] 329. NEU! - Neu! '75 (1975)
-- [ ] 330. Led Zeppelin - Physical Graffiti
+- [X] 330. Led Zeppelin - Physical Graffiti
 - [X] 331. Keith Jarrett - The Köln Concert
 - [ ] 332. Aerosmith - Toys in the Attic
 - [X] 333. David Bowie - Young Americans
@@ -364,7 +364,7 @@ Current score: 191/1079
 - [ ] 357. Rush - 2112 (1976)
 - [ ] 358. Jorge Ben - África Brasil
 - [ ] 359. Joan Armatrading 1976
-- [ ] 360. Aerosmith - Rocks
+- [X] 360. Aerosmith - Rocks
 - [ ] 361. Parliament - Mothership Connection
 - [ ] 362. Penguin Cafe Orchestra - Music From the Penguin Café (1976)
 - [ ] 363. Jean-Michelle Jarre - Oxygene (1976)
@@ -662,7 +662,7 @@ Current score: 191/1079
 - [ ] 655. Aerosmith - Pump
 - [ ] 656. Pixies - Doolittle
 - [ ] 657. Nick of Time - Bonnie Raitt [1989]
-- [ ] 658. Fugazi - Repeater
+- [X] 658. Fugazi - Repeater
 - [ ] 659. Soul II Soul - Club Classics Vol. One
 - [ ] 660. De La Soul - 3 Feet High and Rising
 - [ ] 661. Janet Jackson's Rhythm Nation 1814
@@ -792,7 +792,7 @@ Current score: 191/1079
 - [ ] 785. Green Day : Dookie
 - [ ] 786. Foo Fighters - Foo Fighters
 - [ ] 787. Garbage - Garbage (1995)
-- [ ] 788. Nightmares on Wax Smokers Delight
+- [X] 788. Nightmares on Wax - Smokers Delight
 - [X] 789. Tricky - Maxinquaye
 - [X] 790. Raekwon - Only Built 4 Cuban Linx
 - [X] 791. Smashing Pumpkins - Mellon Collie and the Infinite Sadness
@@ -807,7 +807,7 @@ Current score: 191/1079
 - [ ] 800. The Verve - A Northern Soul
 - [X] 801. GZA - Liquid Swords (1995)
 - [X] 802. Pulp - Different Class
-- [ ] 803. Leftfield - Leftism
+- [X] 803. Leftfield - Leftism
 - [ ] 804. D'Angelo - Brown Sugar
 - [ ] 805. (What's the Story) Morning Glory? by Oasis
 - [ ] 806. Goldie - Timeless
