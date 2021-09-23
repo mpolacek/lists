@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 197/1079
+Current score: 202/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -36,10 +36,10 @@ Current score: 197/1079
 - [X] 29. Muddy Waters - At Newport 1960
 - [X] 30. Bill Evans - Sunday at the Village Vanguard
 - [ ] 31. Ray Charles - Modern Sounds in Country and Western Music (1962)
-- [ ] 32. Booker T. & the M.G.'S - Green Onions (1962)
+- [X] 32. Booker T. & the M.G.'S - Green Onions (1962)
 - [ ] 33. Jazz Samba - Stan Getz / Charlie Byrd
 - [X] 34. Ray Price - Night Life
-- [ ] 35. The Beatles - With the Beatles
+- [X] 35. The Beatles - With the Beatles
 - [ ] 36. Bob Dylan - The Freewheelin' Bob Dylan (1963)
 - [ ] 37. Phil Spector - A Christmas Gift for You
 - [ ] 38. Sam Cooke - Live at the Harlem Square Club
@@ -138,7 +138,7 @@ Current score: 197/1079
 - [ ] 131. The Zombies, Odessey and Oracle (1968)
 - [X] 132. Van Morrison - Astral Weeks (1968)
 - [ ] 133. The Byrds, Sweetheart of the Rodeo (1968)
-- [ ] 134. The Beatles - The Beatles (White Album)
+- [X] 134. The Beatles - The Beatles (White Album)
 - [ ] 135. Mothers of Invention: We're Only in It for the Money
 - [X] 136. Neil Young - Everybody Knows This Is Nowhere (1969)
 - [ ] 137. Captain Beefheart & His Magic Band - Trout Mask Replica (1969)
@@ -544,7 +544,7 @@ Current score: 197/1079
 - [X] 537. Van Halen - 1984
 - [X] 538. Prince - Purple Rain
 - [ ] 539. The Replacements - Let It Be
-- [ ] 540. The Style Council - Café Bleu (1984)
+- [X] 540. The Style Council - Café Bleu (1984)
 - [ ] 541. Tina Turner Private Dancer
 - [ ] 542. Echo and the Bunnymen - Ocean Rain
 - [ ] 543. Minutemen - Double Nickels on the Dime
@@ -810,7 +810,7 @@ Current score: 197/1079
 - [X] 803. Leftfield - Leftism
 - [ ] 804. D'Angelo - Brown Sugar
 - [ ] 805. (What's the Story) Morning Glory? by Oasis
-- [ ] 806. Goldie - Timeless
+- [X] 806. Goldie - Timeless
 - [ ] 807. Jagged Little Pill (Alanis Morissette, 1995)
 - [ ] 808. Screaming Trees - Dust
 - [ ] 809. Super Furry Animals - Fuzzy Logic

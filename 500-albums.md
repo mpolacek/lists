@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 120/500
+Current score: 121/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -33,7 +33,7 @@ Current score: 120/500
 - [ ] 26. Patti Smith - Horses (1975)
 - [X] 27. Wu-Tang Clan - Enter the Wu-Tang (36 Chambers) (1993)
 - [ ] 28. D'Angelo - Voodoo
-- [ ] 29. The Beatles - The Beatles [White Album]
+- [X] 29. The Beatles - The Beatles [White Album]
 - [ ] 30. The Jimi Hendrix Experience - Are You Experienced (1967)
 - [X] 31. Miles Davis - Kind of Blue
 - [X] 32. Beyoncé - Lemonade
