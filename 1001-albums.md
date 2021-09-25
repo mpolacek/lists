@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 202/1079
+Current score: 205/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -61,7 +61,7 @@ Current score: 202/1079
 - [X] 54. B.B. King - Live at the Regal
 - [X] 55. The Beatles - Rubber Soul (1965)
 - [ ] 56. Bert Jansch - Bert Jansch (1965)
-- [ ] 57. The Byrds - Mr. Tambourine Man
+- [X] 57. The Byrds - Mr. Tambourine Man
 - [ ] 58. Bob Dylan, Highway 61 Revisited (1965)
 - [ ] 59. The Who My Generation
 - [X] 60. The Beatles - Revolver (1966)
@@ -699,7 +699,7 @@ Current score: 202/1079
 - [ ] 692. Jah Wobble - Rising Above Bedlam
 - [ ] 693. Red Hot Chili Peppers - Blood Sugar Sex Magik
 - [ ] 694. O.G. Original Gangster (1991) - Ice T
-- [ ] 695. Mudhoney - Every Good Boy Deserves Fudge
+- [X] 695. Mudhoney - Every Good Boy Deserves Fudge
 - [ ] 696. Public Enemy - Apocalypse 91 Enemy Strikes Back
 - [X] 697. A Tribe Called Quest - The Low End Theory
 - [ ] 698. Pearl Jam - Ten (1991)
@@ -874,7 +874,7 @@ Current score: 202/1079
 - [ ] 867. Lucinda Williams - Car Wheels on a Gravel Road
 - [ ] 868. Pulp - This Is Hardcore
 - [ ] 869. Madonna - Ray of Light
-- [ ] 870. Lauryn Hill - The Miseducation of Lauryn Hill
+- [X] 870. Lauryn Hill - The Miseducation of Lauryn Hill
 - [ ] 871. Hole - Celebrity Skin
 - [ ] 872. The Dandy Warhols - Come Down
 - [X] 873. Mercury Rev - Deserter's Songs

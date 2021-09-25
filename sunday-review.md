@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 56/256
+Current score: 57/256
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -256,7 +256,7 @@ Current score: 56/256
 - [ ] 8. Red Hot Chili Peppers - Blood Sugar Sex Magik
 - [ ] 7. De La Soul - Buhloone Mindstate
 - [ ] 6. Fleetwood Mac - Tusk
-- [ ] 5. Lauryn Hill - The Miseducation of Lauryn Hill
+- [X] 5. Lauryn Hill - The Miseducation of Lauryn Hill
 - [X] 4. Pulp - Different Class
 - [ ] 3. Neil Young - Tonight's the Night
 - [ ] 2. George Harrison - All Things Must Pass

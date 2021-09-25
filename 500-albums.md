@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 121/500
+Current score: 124/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -14,7 +14,7 @@ Current score: 121/500
 - [X] 7. Fleetwood Mac - Rumours
 - [X] 8. Prince - Purple Rain
 - [X] 9. Bob Dylan - Blood on the Tracks (1975)
-- [ ] 10. Lauryn Hill - The Miseducation of Lauryn Hill
+- [X] 10. Lauryn Hill - The Miseducation of Lauryn Hill
 - [X] 11. The Beatles - Revolver (1966)
 - [ ] 12. Michael Jackson - Thriller (1982)
 - [ ] 13. Aretha Franklin- I Never Loved a Man the Way I Love You
@@ -246,8 +246,8 @@ Current score: 121/500
 - [ ] 239. Boogie Down Productions - Criminal Minded
 - [ ] 240. Sam Cooke - Live at the Harlem Square Club, 1963
 - [X] 241. Massive Attack - Blue Lines (1991)
-- [ ] 242. The Velvet Underground - Loaded
-- [ ] 243. The Zombies -Odessey and Oracle
+- [X] 242. The Velvet Underground - Loaded
+- [ ] 243. The Zombies - Odessey and Oracle
 - [ ] 244. Kanye West - 808S and Heartbreak
 - [X] 245. Cocteau Twins - Heaven or Las Vegas
 - [ ] 246. LL Cool J - Mama Said Knock You Out
@@ -291,7 +291,7 @@ Current score: 121/500
 - [ ] 284. Merle Haggard- Down Every Road
 - [ ] 285. Big Star - Third / Sister Lovers
 - [ ] 286. Red Hot Chili Peppers - Californication (1999)
-- [ ] 287. The Byrds - Mr. Tambourine Man
+- [X] 287. The Byrds - Mr. Tambourine Man
 - [ ] 288. The Modern Lovers - The Modern Lovers
 - [X] 289. Björk - Post (1995)
 - [ ] 290. Speakerboxxx/The Love Below (Outkast, 2003)
