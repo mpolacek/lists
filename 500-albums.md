@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 125/500
+Current score: 126/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -80,7 +80,7 @@ Current score: 125/500
 - [ ] 73. My Bloody Valentine - Loveless
 - [ ] 74. Kanye West - The College Dropout
 - [ ] 75. Aretha Franklin - Lady Soul (1968)
-- [ ] 76. Curtis Mayfield - Superfly (1972)
+- [X] 76. Curtis Mayfield - Superfly (1972)
 - [ ] 77. Who's Next
 - [ ] 78. Elvis Presley - The Sun Sessions
 - [ ] 79. Frank Ocean - Blonde
@@ -419,7 +419,7 @@ Current score: 125/500
 - [ ] 412. Going to a Go-Go- Smokey Robinson & the Miracles
 - [X] 413. Creedence Clearwater Revival - Cosmo's Factory
 - [ ] 414. Chic - Risqué (1979)
-- [ ] 415. The Meters- Look-Ka Py Py
+- [ ] 415. The Meters - Look-Ka Py Py
 - [ ] 416. The Roots - Things Fall Apart
 - [ ] 417. Ornette Coleman - The Shape of Jazz to Come
 - [ ] 418. Dire Straits- Brothers in Arms

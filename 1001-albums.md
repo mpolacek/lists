@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 206/1079
+Current score: 208/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -251,7 +251,7 @@ Current score: 206/1079
 - [ ] 244. Black Sabbath - Black Sabbath, Vol. 4
 - [ ] 245. Steely Dan - Can't Buy a Thrill
 - [ ] 246. Neil Young - Harvest (1972)
-- [ ] 247. Curtis Mayfield - Superfly
+- [X] 247. Curtis Mayfield - Superfly
 - [ ] 248. Slade - Slayed
 - [X] 249. Deep Purple - Made in Japan
 - [ ] 250. Yes - Close to the Edge (1972)
@@ -812,7 +812,7 @@ Current score: 206/1079
 - [ ] 805. (What's the Story) Morning Glory? by Oasis
 - [X] 806. Goldie - Timeless
 - [ ] 807. Jagged Little Pill (Alanis Morissette, 1995)
-- [ ] 808. Screaming Trees - Dust
+- [X] 808. Screaming Trees - Dust
 - [ ] 809. Super Furry Animals - Fuzzy Logic
 - [ ] 810. Better Living Through Chemistry
 - [ ] 811. Dr. Octagon - Dr. Octagonecologyst (1996)

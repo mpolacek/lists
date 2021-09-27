@@ -1,10 +1,12 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 58/256
+Current score: 58/258
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 258. The Meters - Look-Ka Py Py
+- [ ] 257. Bobbie Gentry - The Delta Sweete
 - [X] 256. Erykah Badu - Baduizm
 - [ ] 255. The Cranberries - Everybody Else Is Doing It, So Why Can’t We?
 - [X] 254. The Gun Club - Fire of Love
