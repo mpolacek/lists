@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 205/1079
+Current score: 206/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -588,7 +588,7 @@ Current score: 205/1079
 - [X] 581. Steve Earle - Guitar Town
 - [X] 582. Bad Brains - I Against I
 - [ ] 583. Anita Baker - Rapture
-- [ ] 584. The Smiths - The Queen Is Dead
+- [X] 584. The Smiths - The Queen Is Dead
 - [ ] 585. Peter Gabriel So
 - [ ] 586. Anthrax - Among the Living
 - [X] 587. Dinosaur Jr. - You're Living All Over Me

@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 57/256
+Current score: 58/256
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -192,7 +192,7 @@ Current score: 57/256
 - [X] 72. Nico - Chelsea Girl
 - [ ] 71. Sarah McLachlan - Fumbling Towards Ecstasy
 - [X] 70. Yo La Tengo - I Can Hear the Heart Beating as One
-- [ ] 69. The Smiths - The Queen Is Dead
+- [X] 69. The Smiths - The Queen Is Dead
 - [ ] 68. Brian Eno / John Cale - Wrong Way Up
 - [ ] 67. Wyclef Jean - The Carnival
 - [X] 66. DJ Jazzy Jeff & The Fresh Prince - He’s the DJ, I’m the Rapper

@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 124/500
+Current score: 125/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -117,7 +117,7 @@ Current score: 124/500
 - [ ] 110. Joni Mitchell - Court and Spark (1974)
 - [ ] 111. Janet Jackson - Control (1986)
 - [ ] 112. Elton John - Goodbye Yellow Brick Road
-- [ ] 113. The Smiths - The Queen Is Dead
+- [X] 113. The Smiths - The Queen Is Dead
 - [X] 114. The Strokes - Is This It
 - [ ] 115. Kendrick Lamar - Good Kid, M.A.A.D City
 - [ ] 116. The Cure - Disintegration
