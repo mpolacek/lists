@@ -1,13 +1,13 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 208/1079
+Current score: 209/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
 - [X] 1. Frank Sinatra - In the Wee Small Hours (1955)
 - [X] 2. Elvis Presley - Elvis Presley (1956)
-- [ ] 3. The Louvin Brothers - Tragic Songs of Life (1956)
+- [X] 3. The Louvin Brothers - Tragic Songs of Life (1956)
 - [ ] 4. Louis Prima - The Wildest! (1956)
 - [X] 5. Fats Domino - This Is Fats (1956)
 - [ ] 6. Duke Ellington - Ellington at Newport '56

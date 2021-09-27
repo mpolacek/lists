@@ -17,7 +17,7 @@ Current score: 126/500
 - [X] 10. Lauryn Hill - The Miseducation of Lauryn Hill
 - [X] 11. The Beatles - Revolver (1966)
 - [ ] 12. Michael Jackson - Thriller (1982)
-- [ ] 13. Aretha Franklin- I Never Loved a Man the Way I Love You
+- [ ] 13. Aretha Franklin - I Never Loved a Man the Way I Love You
 - [X] 14. The Rolling Stones - Exile on Main St.
 - [ ] 15. Public Enemy - It Takes a Nation of Millions to Hold Us Back
 - [ ] 16. The Clash - London Calling (1979)
@@ -81,7 +81,7 @@ Current score: 126/500
 - [ ] 74. Kanye West - The College Dropout
 - [ ] 75. Aretha Franklin - Lady Soul (1968)
 - [X] 76. Curtis Mayfield - Superfly (1972)
-- [ ] 77. Who's Next
+- [ ] 77. The Who - Who's Next
 - [ ] 78. Elvis Presley - The Sun Sessions
 - [ ] 79. Frank Ocean - Blonde
 - [X] 80. Sex Pistols - Never Mind the Bollocks (1977)
@@ -97,7 +97,7 @@ Current score: 126/500
 - [X] 90. Neil Young - After the Gold Rush (1970)
 - [ ] 91. Bruce Springsteen - Darkness on the Edge of Town
 - [ ] 92. Jimi Hendrix - Axis: Bold as Love
-- [ ] 93. Missy "Misdemeanor" Elliott- Supa Dupa Fly
+- [ ] 93. Missy "Misdemeanor" Elliott - Supa Dupa Fly
 - [ ] 94. The Stooges - Fun House
 - [ ] 95. Drake - Take Care (2011)
 - [X] 96. R.E.M. - Automatic for the People
@@ -193,10 +193,10 @@ Current score: 126/500
 - [ ] 186. Red Hot Chili Peppers - Blood Sugar Sex Magik
 - [X] 187. Ice Cube - Amerikkka's Most Wanted
 - [ ] 188. T. Rex - Electric Warrior
-- [ ] 189. Sleater-Kinney- Dig Me Out
+- [ ] 189. Sleater-Kinney - Dig Me Out
 - [ ] 190. The Who - Tommy
 - [ ] 191. Etta James - At Last! (1960)
-- [ ] 192. Licensed to Ill
+- [ ] 192. Beastie Boys - Licensed to Ill
 - [ ] 193. Creedence Clearwater Revival - Willy and the Poor Boys
 - [ ] 194. Michael Jackson - Bad
 - [ ] 195. Leonard Cohen - Songs of Leonard Cohen (1967)
@@ -301,7 +301,7 @@ Current score: 126/500
 - [X] 294. Weezer - Weezer (Blue Album)
 - [ ] 295. Daft Punk - Random Access Memories
 - [ ] 296. Neil Young & Crazy Horse - Rust Never Sleeps
-- [ ] 297. Peter Gabriel So
+- [ ] 297. Peter Gabriel - So
 - [ ] 298. Tom Petty - Full Moon Fever
 - [X] 299. B.B. King - Live at the Regal
 - [ ] 300. Shania Twain - Come on Over (1997)
@@ -319,8 +319,8 @@ Current score: 126/500
 - [ ] 312. Solange - A Seat at the Table (2016)
 - [ ] 313. PJ Harvey - Stories From the City, Stories From the Sea
 - [ ] 314. Aaliyah - One in a Million
-- [ ] 315. Rosalia- El Mal Querer
-- [ ] 316. The Who Sell Out (1967)
+- [ ] 315. Rosalia - El Mal Querer
+- [ ] 316. The Who - The Who Sell Out (1967)
 - [ ] 317. Billie Holiday - Lady in Satin
 - [ ] 318. Janet Jackson- The Velvet Rope
 - [ ] 319. The Stone Roses - The Stone Roses
@@ -336,7 +336,7 @@ Current score: 126/500
 - [X] 329. DJ Shadow - Endtroducing.....
 - [ ] 330. The Rolling Stones- Aftermath
 - [ ] 331. Madonna - Like a Prayer
-- [ ] 332. Elvis Presley
+- [ ] 332. Elvis Presley - Elvis Presley
 - [ ] 333. Bill Withers - Still Bill
 - [ ] 334. Santana - Abraxas
 - [ ] 335. Bob Dylan and the Band- Basement Tapes
@@ -358,7 +358,7 @@ Current score: 126/500
 - [ ] 351. Roxy Music - For Your Pleasure
 - [ ] 352. Eminem - The Slim Shady LP
 - [ ] 353. The Cars - The Cars
-- [ ] 354. Germfree Adolescents (X-Ray Spex)
+- [ ] 354. X-Ray Spex - Germfree Adolescents
 - [ ] 355. Black Sabbath - Black Sabbath
 - [ ] 356. Dr. John - Gris-Gris (1968)
 - [ ] 357. Tom Waits - Rain Dogs
@@ -426,14 +426,14 @@ Current score: 126/500
 - [ ] 419. Eric Church - Chief
 - [ ] 420. That's the Way of the World - Earth, Wind & Fire
 - [ ] 421. M.I.A. - Arular
-- [ ] 422. Let's Get It On
+- [ ] 422. Marvin Gaye - Let's Get It On
 - [X] 423. Yo La Tengo - I Can Hear the Heart Beating as One
 - [X] 424. Beck - Odelay
 - [ ] 425. Paul Simon - Paul Simon
 - [ ] 426. Lucinda Williams - Lucinda Williams
-- [ ] 427. Al Green- Call Me
+- [ ] 427. Al Green - Call Me
 - [ ] 428. Hüsker Dü - New Day Rising
-- [ ] 429. Four Tops - Reach Out
+- [ ] 429. The Four Tops - Reach Out
 - [ ] 430. Elvis Costello - My Aim Is True
 - [ ] 431. Los Lobos - How Will the Wolf Survive?
 - [ ] 432. Usher - Confessions
@@ -456,8 +456,8 @@ Current score: 126/500
 - [ ] 449. The White Stripes - Elephant
 - [ ] 450. Paul McCartney - RAM
 - [ ] 451. Roberta Flack - First Take
-- [ ] 452. Diana Ross and the Supremes Anthology
-- [ ] 453. Pretty Hate Machine
+- [ ] 452. Diana Ross and the Supremes - Anthology
+- [ ] 453. Nine Inch Nails - Pretty Hate Machine
 - [ ] 454. Can - Ege Bamyasi
 - [ ] 455. Bo Diddley/Go Bo Diddley
 - [ ] 456. Al Green - Greatest Hits
