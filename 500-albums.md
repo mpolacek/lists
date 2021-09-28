@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 126/500
+Current score: 127/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -59,7 +59,7 @@ Current score: 126/500
 - [X] 52. David Bowie - Station to Station (1976)
 - [ ] 53. Jimi Hendrix - Electric Ladyland (1968)
 - [ ] 54. James Brown - Star Time
-- [ ] 55. Pink Floyd - The Dark Side of the Moon
+- [X] 55. Pink Floyd - The Dark Side of the Moon
 - [X] 56. Liz Phair - Exile in Guyville
 - [X] 57. The Band - The Band (1969)
 - [X] 58. Led Zeppelin - Led Zeppelin IV

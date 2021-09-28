@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 210/1079
+Current score: 212/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -296,7 +296,7 @@ Current score: 210/1079
 - [ ] 289. Goodbye Yellow Brick Road (Elton John 1973)
 - [ ] 290. Steely Dan - Countdown to Ecstasy
 - [ ] 291. Waylon Jennings - Honky Tonk Heroes (1973)
-- [ ] 292. Pink Floyd - 'Dark Side of the Moon'
+- [X] 292. Pink Floyd - Dark Side of the Moon
 - [ ] 293. Stevie Wonder: Innervisions
 - [X] 294. ZZ Top - Tres Hombres
 - [ ] 295. Band on the Run (Paul McCartney and Wings, 1973)
@@ -499,7 +499,7 @@ Current score: 210/1079
 - [ ] 492. Bobby Womack - The Poet (1981)
 - [ ] 493. Tom Tom Club - Tom Tom Club (1981)
 - [ ] 494. Rush - Moving Pictures (1981)
-- [ ] 495. ABBA - The Visitors (1981)
+- [X] 495. ABBA - The Visitors (1981)
 - [ ] 496. ABC - The Lexicon of Love
 - [ ] 497. Prince - 1999
 - [ ] 498. Grandmaster Flash - The Message
