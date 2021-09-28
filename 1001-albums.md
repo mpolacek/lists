@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 209/1079
+Current score: 210/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -451,7 +451,7 @@ Current score: 209/1079
 - [ ] 444. Neil Young and Crazy Horse - Rust Never Sleeps
 - [ ] 445. Gang of Four - Entertainment!
 - [ ] 446. Cheap Trick at Budokan
-- [ ] 447. Fleetwood Mac - Tusk
+- [X] 447. Fleetwood Mac - Tusk
 - [ ] 448. Pink Floyd - The Wall (1979)
 - [ ] 449. Public Image, Ltd. - Metal Box
 - [X] 450. Michael Jackson - Off the Wall

@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 58/258
+Current score: 59/258
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -257,7 +257,7 @@ Current score: 58/258
 - [ ] 9. Michael Jackson - Dangerous
 - [ ] 8. Red Hot Chili Peppers - Blood Sugar Sex Magik
 - [ ] 7. De La Soul - Buhloone Mindstate
-- [ ] 6. Fleetwood Mac - Tusk
+- [X] 6. Fleetwood Mac - Tusk
 - [X] 5. Lauryn Hill - The Miseducation of Lauryn Hill
 - [X] 4. Pulp - Different Class
 - [ ] 3. Neil Young - Tonight's the Night
