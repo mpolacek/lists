@@ -1,10 +1,11 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 59/258
+Current score: 60/259
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 259. Lewis Taylor - Lewis Taylor
 - [ ] 258. The Meters - Look-Ka Py Py
 - [ ] 257. Bobbie Gentry - The Delta Sweete
 - [X] 256. Erykah Badu - Baduizm
@@ -200,7 +201,7 @@ Current score: 59/258
 - [X] 66. DJ Jazzy Jeff & The Fresh Prince - He’s the DJ, I’m the Rapper
 - [ ] 65. Elastica - Elastica
 - [ ] 64. Deftones - White Pony
-- [ ] 63. King Crimson - Red
+- [X] 63. King Crimson - Red
 - [ ] 62. Nelly - Country Grammar
 - [ ] 61. Joe Bataan - Gypsy Woman
 - [ ] 60. Tears for Fears - Songs From the Big Chair

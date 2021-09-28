@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 212/1079
+Current score: 213/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -288,10 +288,10 @@ Current score: 212/1079
 - [ ] 281. Marvin Gaye - Let's Get It On
 - [ ] 282. John Martyn - Solid Air
 - [ ] 283. Roxy Music - For Your Pleasure
-- [ ] 284. Faust - Faust IV (1973)
-- [ ] 285. Herbie Hancock Headhunters
+- [X] 284. Faust - Faust IV (1973)
+- [ ] 285. Herbie Hancock - Headhunters
 - [ ] 286. Mott Mott the Hoople
-- [ ] 287. Mike Oldfield Tubular Bells
+- [ ] 287. Mike Oldfield - Tubular Bells
 - [ ] 288. Todd Rundgren - A Wizard / a True Star
 - [ ] 289. Goodbye Yellow Brick Road (Elton John 1973)
 - [ ] 290. Steely Dan - Countdown to Ecstasy
