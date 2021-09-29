@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 213/1079
+Current score: 216/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -62,8 +62,8 @@ Current score: 213/1079
 - [X] 55. The Beatles - Rubber Soul (1965)
 - [ ] 56. Bert Jansch - Bert Jansch (1965)
 - [X] 57. The Byrds - Mr. Tambourine Man
-- [ ] 58. Bob Dylan, Highway 61 Revisited (1965)
-- [ ] 59. The Who My Generation
+- [X] 58. Bob Dylan - Highway 61 Revisited (1965)
+- [ ] 59. The Who - My Generation
 - [X] 60. The Beatles - Revolver (1966)
 - [X] 61. The Beach Boys - Pet Sounds (1966)
 - [ ] 62. Fred Neil
@@ -377,7 +377,7 @@ Current score: 213/1079
 - [ ] 370. Kraftwerk - Trans-Europe Express (1977)
 - [ ] 371. Billy Joel - The Stranger
 - [ ] 372. Bob Marley and the Wailers - Exodus
-- [ ] 373. Electric Light Orchestra - Out of the Blue
+- [X] 373. Electric Light Orchestra - Out of the Blue
 - [ ] 374. Weather Report - Heavy Weather (1977)
 - [ ] 375. Muddy Waters - Hard Again (1977)
 - [ ] 376. The Stranglers - Rattus Norvegicus
@@ -702,7 +702,7 @@ Current score: 213/1079
 - [X] 695. Mudhoney - Every Good Boy Deserves Fudge
 - [ ] 696. Public Enemy - Apocalypse 91 Enemy Strikes Back
 - [X] 697. A Tribe Called Quest - The Low End Theory
-- [ ] 698. Pearl Jam - Ten (1991)
+- [X] 698. Pearl Jam - Ten (1991)
 - [ ] 699. Saint Etienne - Fox Base Alpha
 - [ ] 700. Sepultura - Arise
 - [X] 701. Slint - Spiderland (1991)

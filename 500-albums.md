@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 127/500
+Current score: 129/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -22,7 +22,7 @@ Current score: 127/500
 - [ ] 15. Public Enemy - It Takes a Nation of Millions to Hold Us Back
 - [ ] 16. The Clash - London Calling (1979)
 - [ ] 17. Kanye West - My Beautiful Dark Twisted Fantasy
-- [ ] 18. Bob Dylan - Highway 61 Revisited (1965)
+- [X] 18. Bob Dylan - Highway 61 Revisited (1965)
 - [ ] 19. Kendrick Lamar - To Pimp a Butterfly
 - [X] 20. Radiohead - Kid A (2000)
 - [ ] 21. Bruce Springsteen - Born to Run
@@ -164,7 +164,7 @@ Current score: 127/500
 - [ ] 157. Oasis - (What's the Story) Morning Glory
 - [ ] 158. Erykah Badu - Mama's Gun
 - [ ] 159. The Police - Synchronicity
-- [ ] 160. Pearl Jam - Ten (1991)
+- [X] 160. Pearl Jam - Ten (1991)
 - [ ] 161. Crosby, Stills & Nash - Crosby, Stills & Nash
 - [X] 162. Pulp - Different Class (1995)
 - [ ] 163. Various Artists - Saturday Night Fever
