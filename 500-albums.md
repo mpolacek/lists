@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 129/500
+Current score: 130/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -96,7 +96,7 @@ Current score: 129/500
 - [X] 89. Erykah Badu - Baduizm (1997)
 - [X] 90. Neil Young - After the Gold Rush (1970)
 - [ ] 91. Bruce Springsteen - Darkness on the Edge of Town
-- [ ] 92. Jimi Hendrix - Axis: Bold as Love
+- [X] 92. Jimi Hendrix - Axis: Bold as Love
 - [ ] 93. Missy "Misdemeanor" Elliott - Supa Dupa Fly
 - [ ] 94. The Stooges - Fun House
 - [ ] 95. Drake - Take Care (2011)

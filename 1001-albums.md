@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 216/1079
+Current score: 219/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -106,10 +106,10 @@ Current score: 216/1079
 - [ ] 99. Merle Haggard - I'm a Lonesome Fugitive (1967)
 - [ ] 100. The Jimi Hendrix Experience - Are You Experienced?
 - [ ] 101. The Electric Prunes (Album)
-- [ ] 102. Loretta Lynn - Don't Come Home a Drinkin' (With Lovin' on Your Mind)
+- [X] 102. Loretta Lynn - Don't Come Home a Drinkin' (With Lovin' on Your Mind)
 - [ ] 103. Shivkumar Sharma - Call of the Valley (1967)
 - [ ] 104. The Velvet Underground, White Light/White Heat (1968)
-- [ ] 105. Axis: Bold as Love (The Jimi Hendrix Experience, 1967)
+- [X] 105. The Jimi Hendrix Experience - Axis: Bold as Love (1967)
 - [ ] 106. Aretha Franklin - I Never Loved a Man the Way I Love You (1967)
 - [ ] 107. The Rolling Stones - Beggars Banquet
 - [ ] 108. Traffic - Traffic (1968)
@@ -621,7 +621,7 @@ Current score: 216/1079
 - [ ] 614. Fishbone - Truth and Soul (1988)
 - [ ] 615. Everything but the Girl - Idlewild (1988)
 - [ ] 616. Living Colour - Vivid
-- [ ] 617. Mudhoney - Superfuzz Bigmuff
+- [X] 617. Mudhoney - Superfuzz Bigmuff
 - [ ] 618. R.E.M. - Green
 - [ ] 619. Happy Mondays - Bummed
 - [ ] 620. The Go-Betweens - 16 Lovers Lane
