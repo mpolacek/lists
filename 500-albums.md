@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 130/500
+Current score: 131/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -98,7 +98,7 @@ Current score: 130/500
 - [ ] 91. Bruce Springsteen - Darkness on the Edge of Town
 - [X] 92. Jimi Hendrix - Axis: Bold as Love
 - [ ] 93. Missy "Misdemeanor" Elliott - Supa Dupa Fly
-- [ ] 94. The Stooges - Fun House
+- [X] 94. The Stooges - Fun House
 - [ ] 95. Drake - Take Care (2011)
 - [X] 96. R.E.M. - Automatic for the People
 - [ ] 97. Metallica - Master of Puppets (1986)

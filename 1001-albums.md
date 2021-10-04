@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 219/1079
+Current score: 222/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -204,7 +204,7 @@ Current score: 219/1079
 - [ ] 197. Simon & Garfunkel - Bridge Over Troubled Water
 - [ ] 198. Tea for the Tillerman (Cat Stevens, 1970)
 - [ ] 199. Traffic - John Barleycorn Must Die
-- [ ] 200. The Stooges - Fun House
+- [X] 200. The Stooges - Fun House
 - [ ] 201. James Taylor - Sweet Baby James
 - [ ] 202. Paul McCartney - McCartney (1970)
 - [ ] 203. Abraxas (Santana, 1970)
@@ -426,7 +426,7 @@ Current score: 219/1079
 - [ ] 419. Dire Straits - Dire Straits (1978)
 - [ ] 420. The Saints - Eternally Yours (1978)
 - [X] 421. Marvin Gaye - Here, My Dear
-- [ ] 422. Willie Nelson - Stardust
+- [X] 422. Willie Nelson - Stardust
 - [ ] 423. Chic - C'est Chic
 - [ ] 424. X-Ray Spex - Germ-Free Adolescents (1978)
 - [ ] 425. Brian Eno - Ambient 1: Music for Airports (1978)
@@ -773,7 +773,7 @@ Current score: 219/1079
 - [ ] 766. Morrissey - Vauxhall and I
 - [ ] 767. Crazysexycool - TLC [1994]
 - [ ] 768. Oasis - Definitely Maybe
-- [ ] 769. Soundgarden - Superunknown (1994)
+- [X] 769. Soundgarden - Superunknown (1994)
 - [ ] 770. Smash (The Offspring, 1994)
 - [ ] 771. Drive Like Jehu - Yank Crime (1994)
 - [X] 772. Blur - Parklife

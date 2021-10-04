@@ -1,10 +1,11 @@
 Various albums
 ==============
 
-Current score: 11/44
+Current score: 12/45
 
 `$ grep "\[X\]" any.md | wc -l`
 
+- [X] 45. Phil Puleo - VIVAHA
 - [X] 44. Crass - The Feeding of the 5000
 - [X] 43. The Smashing Pumpkins - Gish
 - [X] 42. Irena and Vojtech Havlovi - Melodies in the Sand

@@ -1,10 +1,11 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 24/827
+Current score: 24/828
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 828. Tirzah - Colourgrade
 - [ ] 827. Nala Sinephro - Space 1.8
 - [X] 826. Low - Hey What
 - [X] 825. Indigo De Souza - Any Shape You Take
