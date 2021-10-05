@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 131/500
+Current score: 132/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -359,7 +359,7 @@ Current score: 131/500
 - [ ] 352. Eminem - The Slim Shady LP
 - [ ] 353. The Cars - The Cars
 - [ ] 354. X-Ray Spex - Germfree Adolescents
-- [ ] 355. Black Sabbath - Black Sabbath
+- [X] 355. Black Sabbath - Black Sabbath
 - [ ] 356. Dr. John - Gris-Gris (1968)
 - [ ] 357. Tom Waits - Rain Dogs
 - [X] 358. Sonic Youth - Goo

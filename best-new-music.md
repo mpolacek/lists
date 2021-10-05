@@ -1,10 +1,11 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 24/828
+Current score: 25/829
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 829. Wiki - Half God
 - [ ] 828. Tirzah - Colourgrade
 - [ ] 827. Nala Sinephro - Space 1.8
 - [X] 826. Low - Hey What
@@ -575,7 +576,7 @@ Current score: 24/828
 - [ ] 261. Sunset Rubdown - Dragonslayer
 - [ ] 260. Dinosaur Jr. - Farm
 - [ ] 259. Mos Def - The Ecstatic
-- [ ] 258. Dirty Projectors - Bitte Orca
+- [X] 258. Dirty Projectors - Bitte Orca
 - [ ] 257. Sunn O))) - Monoliths & Dimensions
 - [ ] 256. Phoenix - Wolfgang Amadeus Phoenix
 - [ ] 255. Grizzly Bear - Veckatimest

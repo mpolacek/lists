@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 222/1079
+Current score: 226/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -183,7 +183,7 @@ Current score: 222/1079
 - [ ] 176. Derek and the Dominos – Layla & Other Assorted Love Songs
 - [X] 177. Miles Davis - Bitches Brew (1970)
 - [ ] 178. Spirit - Twelve Dreams of Dr. Sardonicus
-- [ ] 179. Black Sabbath - Black Sabbath (1970)
+- [X] 179. Black Sabbath - Black Sabbath (1970)
 - [X] 180. The Doors - Morrison Hotel
 - [ ] 181. Carpenters - Close to You (1970)
 - [ ] 182. Stephen Stills
@@ -302,7 +302,7 @@ Current score: 222/1079
 - [ ] 295. Band on the Run (Paul McCartney and Wings, 1973)
 - [ ] 296. The Sensational Alex Harvey Band - Next (1973)
 - [ ] 297. Alice Cooper - Billion Dollar Babies
-- [ ] 298. Raw Power (Iggy and the Stooges, 1973)
+- [X] 298. Iggy and the Stooges - Raw Power (1973)
 - [ ] 299. Isley Brothers 3+3
 - [ ] 300. New York Dolls - New York Dolls
 - [ ] 301. Here Come the Warm Jets (Brian Eno, 1973)
@@ -565,7 +565,7 @@ Current score: 222/1079
 - [ ] 558. The Smiths - Meat Is Murder (1985)
 - [ ] 559. Rain Dogs (Tom Waits, 1985)
 - [ ] 560. The Jesus and Mary Chain - Psychocandy
-- [ ] 561. New Order - Low-Life
+- [X] 561. New Order - Low-Life
 - [ ] 562. Simply Red - Picture Book
 - [ ] 563. Dexy's Midnight Runners - Don't Stand Me Down
 - [ ] 564. Scritti Politti - Cupid & Psyche 85 (1985)
@@ -1041,7 +1041,7 @@ Current score: 222/1079
 - [ ] 1034. Animal Collective - Merriweather Post Pavilion (2009)
 - [ ] 1035. Grizzly Bear - Veckatimest
 - [ ] 1036. Yeah Yeah Yeahs - It's Blitz!
-- [ ] 1037. Dirty Projectors - Bitte Orca
+- [X] 1037. Dirty Projectors - Bitte Orca
 - [X] 1038. The Xx - Xx
 - [ ] 1039. Fever Ray - Fever Ray
 - [ ] 1040. Beach House - Teen Dream
