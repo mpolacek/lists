@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 226/1079
+Current score: 228/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -241,7 +241,7 @@ Current score: 226/1079
 - [X] 234. The Faces - A Nod Is as Good as a Wink... to a Blind Horse
 - [ ] 235. Flamin' Groovies - Teenage Head
 - [ ] 236. Gene Clark - White Light (1971)
-- [ ] 237. John Prine - John Prine
+- [X] 237. John Prine - John Prine
 - [ ] 238. Harry Nilsson - Nilsson Schmilsson
 - [ ] 239. T. Rex - Electric Warrior
 - [ ] 240. Hunky Dory (David Bowie, 1971)
@@ -345,7 +345,7 @@ Current score: 226/1079
 - [ ] 338. Joni Mitchell - The Hissing of Summer Lawns
 - [ ] 339. Tom Waits - Nighthawks at the Diner (1975)
 - [ ] 340. Rahul Dev Burman - Shalimar (1978)
-- [ ] 341. Neil Young - Tonight'S the Night (1975)
+- [X] 341. Neil Young - Tonight's the Night (1975)
 - [X] 342. Bob Dylan - Blood on the Tracks
 - [ ] 343. Patti Smith - Horses (1975)
 - [X] 344. Pink Floyd - Wish You Were Here

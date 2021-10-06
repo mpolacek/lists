@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 61/259
+Current score: 62/259
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -261,6 +261,6 @@ Current score: 61/259
 - [X] 6. Fleetwood Mac - Tusk
 - [X] 5. Lauryn Hill - The Miseducation of Lauryn Hill
 - [X] 4. Pulp - Different Class
-- [ ] 3. Neil Young - Tonight's the Night
+- [X] 3. Neil Young - Tonight's the Night
 - [ ] 2. George Harrison - All Things Must Pass
 - [X] 1. Kate Bush - Hounds of Love

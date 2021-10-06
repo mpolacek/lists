@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 132/500
+Current score: 134/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -153,7 +153,7 @@ Current score: 132/500
 - [ ] 146. Blondie - Parallel Lines
 - [X] 147. Jeff Buckley - Grace (1994)
 - [ ] 148. Frank Ocean - Channel Orange
-- [ ] 149. John Prine - John Prine
+- [X] 149. John Prine - John Prine
 - [ ] 150. Bruce Springsteen - Nebraska (1982)
 - [ ] 151. George Michael - Faith (1987)
 - [ ] 152. Pretenders - Pretenders
@@ -306,7 +306,7 @@ Current score: 132/500
 - [X] 299. B.B. King - Live at the Regal
 - [ ] 300. Shania Twain - Come on Over (1997)
 - [ ] 301. New York Dolls - New York Dolls
-- [ ] 302. Neil Young- Tonight's the Night
+- [X] 302. Neil Young - Tonight's the Night
 - [ ] 303. The Definitive Collection -ABBA [2001]
 - [ ] 304. Bill Withers - Just as I Am
 - [ ] 305. Kiss - Alive! (1975)
