@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 134/500
+Current score: 135/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -85,7 +85,7 @@ Current score: 134/500
 - [ ] 78. Elvis Presley - The Sun Sessions
 - [ ] 79. Frank Ocean - Blonde
 - [X] 80. Sex Pistols - Never Mind the Bollocks (1977)
-- [ ] 81. Beyoncé - Beyoncé (2013)
+- [X] 81. Beyoncé - Beyoncé (2013)
 - [X] 82. Sly & the Family Stone - There's a Riot Goin' on (1971)
 - [ ] 83. Dusty Springfield - Dusty in Memphis
 - [X] 84. AC/DC - Back in Black (1980)

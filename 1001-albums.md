@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 228/1079
+Current score: 229/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -1064,7 +1064,7 @@ Current score: 228/1079
 - [ ] 1057. Kanye West - Yeezus
 - [ ] 1058. David Bowie - The Next Day (2013)
 - [ ] 1059. CHVRCHES - The Bones of What You Believe
-- [ ] 1060. Beyonce - Beyonce
+- [X] 1060. Beyonce - Beyonce
 - [ ] 1061. Taylor Swift - 1989 (2014)
 - [ ] 1062. FKA Twigs - LP1
 - [ ] 1063. The War on Drugs - Lost in the Dream

@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 25/829
+Current score: 26/829
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -342,7 +342,7 @@ Current score: 25/829
 - [ ] 495. St. Vincent - St. Vincent
 - [ ] 494. Angel Olsen - Burn Your Fire for No Witness
 - [ ] 493. Sun Kil Moon - Benji
-- [ ] 492. Beyonce - Beyonce
+- [X] 492. Beyonce - Beyonce
 - [ ] 491. Burial - Rival Dealer
 - [ ] 490. Death Grips - Government Plates
 - [ ] 489. Blood Orange - Cupid Deluxe
