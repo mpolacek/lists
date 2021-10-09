@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 229/1079
+Current score: 230/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -471,7 +471,7 @@ Current score: 229/1079
 - [X] 464. Killing Joke - Killing Joke
 - [ ] 465. Judas Priest - British Steel
 - [ ] 466. Circle Jerks - Group Sex
-- [ ] 467. Talking Heads - Remain in Light
+- [X] 467. Talking Heads - Remain in Light
 - [X] 468. Joy Division - Closer
 - [ ] 469. Iron Maiden - Iron Maiden
 - [ ] 470. The Undertones - Hypnotised (1980)
