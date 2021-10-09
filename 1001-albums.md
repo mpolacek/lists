@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 230/1079
+Current score: 231/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -871,7 +871,7 @@ Current score: 230/1079
 - [ ] 864. Turbonegro - Apocalypse Dudes
 - [ ] 865. Fatboy Slim - You've Come a Long Way Baby
 - [ ] 866. David Gray - White Ladder
-- [ ] 867. Lucinda Williams - Car Wheels on a Gravel Road
+- [X] 867. Lucinda Williams - Car Wheels on a Gravel Road
 - [ ] 868. Pulp - This Is Hardcore
 - [ ] 869. Madonna - Ray of Light
 - [X] 870. Lauryn Hill - The Miseducation of Lauryn Hill

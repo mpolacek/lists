@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 63/259
+Current score: 64/259
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -144,7 +144,7 @@ Current score: 63/259
 - [ ] 123. Lil Peep - Hellboy
 - [ ] 122. System of a Down - Toxicity
 - [ ] 121. Missy Elliott - Supa Dupa Fly
-- [ ] 120. Lucinda Williams - Car Wheels on a Gravel Road
+- [X] 120. Lucinda Williams - Car Wheels on a Gravel Road
 - [X] 119. Talking Heads - Remain in Light
 - [ ] 118. The B-52’s - The B-52’s
 - [ ] 117. J Dilla - Welcome 2 Detroit

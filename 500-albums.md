@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 136/500
+Current score: 137/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -102,7 +102,7 @@ Current score: 136/500
 - [ ] 95. Drake - Take Care (2011)
 - [X] 96. R.E.M. - Automatic for the People
 - [ ] 97. Metallica - Master of Puppets (1986)
-- [ ] 98. Lucinda Williams - Car Wheels on a Gravel Road
+- [X] 98. Lucinda Williams - Car Wheels on a Gravel Road
 - [ ] 99. Taylor Swift - Red
 - [ ] 100. The Band - Music From Big Pink (1968)
 - [X] 101. Led Zeppelin - Led Zeppelin
