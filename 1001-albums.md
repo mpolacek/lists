@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 231/1079
+Current score: 233/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -512,7 +512,7 @@ Current score: 231/1079
 - [ ] 505. Haircut One Hundred - Pelican West (1982)
 - [ ] 506. Kate Bush: The Dreaming
 - [ ] 507. Orange Juice - Rip It Up (1982)
-- [ ] 508. Michael Jackson - Thriller
+- [X] 508. Michael Jackson - Thriller
 - [ ] 509. The Birthday Party - Junkyard
 - [ ] 510. Venom - Black Metal
 - [ ] 511. Bruce Springsteen - Nebraska
@@ -580,7 +580,7 @@ Current score: 231/1079
 - [ ] 573. Megadeth - Peace Sells... but Who's Buying?
 - [ ] 574. Bon Jovi - Slippery When Wet
 - [ ] 575. Sonic Youth - EVOL
-- [ ] 576. Slayer - Reign in Blood
+- [X] 576. Slayer - Reign in Blood
 - [ ] 577. Throwing Muses - Throwing Muses
 - [ ] 578. Paul Simon - Graceland
 - [ ] 579. Run DMC - Raising Hell

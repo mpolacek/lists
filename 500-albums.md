@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 137/500
+Current score: 138/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -16,7 +16,7 @@ Current score: 137/500
 - [X] 9. Bob Dylan - Blood on the Tracks (1975)
 - [X] 10. Lauryn Hill - The Miseducation of Lauryn Hill
 - [X] 11. The Beatles - Revolver (1966)
-- [ ] 12. Michael Jackson - Thriller (1982)
+- [X] 12. Michael Jackson - Thriller (1982)
 - [ ] 13. Aretha Franklin - I Never Loved a Man the Way I Love You
 - [X] 14. The Rolling Stones - Exile on Main St.
 - [ ] 15. Public Enemy - It Takes a Nation of Millions to Hold Us Back
