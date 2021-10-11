@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 26/829
+Current score: 28/829
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -22,7 +22,7 @@ Current score: 26/829
 - [ ] 815. The Armed - ULTRAPOP
 - [ ] 814. Vijay Iyer / Linda May Han Oh / Tyshawn Sorey - Uneasy
 - [ ] 813. Spirit of the Beehive - ENTERTAINMENT, DEATH
-- [ ] 812. Dry Cleaning - New Long Leg
+- [X] 812. Dry Cleaning - New Long Leg
 - [ ] 811. Lost Girls - Menneskekollektivet
 - [ ] 810. Floating Points / Pharoah Sanders / The London Symphony Orchestra - Promises
 - [ ] 809. Cassandra Jenkins - An Overview on Phenomenal Nature
@@ -723,7 +723,7 @@ Current score: 26/829
 - [X] 114. Clap Your Hands Say Yeah - Clap Your Hands Say Yeah
 - [ ] 113. Isolee - We Are Monster
 - [ ] 112. Art Brut - Bang Bang Rock & Roll
-- [ ] 111. Common - Be
+- [X] 111. Common - Be
 - [ ] 110. Stephen Malkmus - Face the Truth
 - [ ] 109. Sleater-Kinney - The Woods
 - [ ] 108. The Hold Steady - Separation Sunday

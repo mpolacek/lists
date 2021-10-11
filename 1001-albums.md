@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 233/1079
+Current score: 235/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -43,7 +43,7 @@ Current score: 233/1079
 - [ ] 36. Bob Dylan - The Freewheelin' Bob Dylan (1963)
 - [ ] 37. Phil Spector - A Christmas Gift for You
 - [ ] 38. Sam Cooke - Live at the Harlem Square Club
-- [ ] 39. Charles Mingus - The Black Saint and the Sinner Lady
+- [X] 39. Charles Mingus - The Black Saint and the Sinner Lady
 - [ ] 40. James Brown - Live at the Apollo (1963)
 - [X] 41. Stan Getz & Joao Gilberto - Getz/Gilberto
 - [X] 42. The Beatles - A Hard Day's Night (1964)
@@ -1005,7 +1005,7 @@ Current score: 233/1079
 - [ ] 998. Icarus Line Penance Soiree
 - [ ] 999. Morrissey - You Are the Quarry
 - [ ] 1000. M.I.A. - Arular
-- [ ] 1001. Common, Be (2005)
+- [X] 1001. Common - Be (2005)
 - [ ] 1002. Antony & the Johnsons - I Am a Bird Now
 - [X] 1003. Richard Hawley - Coles Corner
 - [ ] 1004. Beck - Guero

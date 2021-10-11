@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 138/500
+Current score: 139/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -240,7 +240,7 @@ Current score: 138/500
 - [ ] 233. Tori Amos - Little Earthquakes
 - [ ] 234. Black Sabbath - Master of Reality
 - [ ] 235. Metallica - Metallica
-- [ ] 236. Daft Punk - Discovery (2001)
+- [X] 236. Daft Punk - Discovery (2001)
 - [ ] 237. Willie Nelson- Red Headed Stranger
 - [ ] 238. Kraftwerk - Trans-Europe Express
 - [ ] 239. Boogie Down Productions - Criminal Minded
