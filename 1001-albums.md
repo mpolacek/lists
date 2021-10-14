@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 235/1079
+Current score: 240/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -216,7 +216,7 @@ Current score: 235/1079
 - [ ] 209. Bee Gees - Trafalgar (1971)
 - [ ] 210. The Yes Album - Yes
 - [ ] 211. Who's Next (The Who, 1971)
-- [ ] 212. Carole King - Tapestry
+- [X] 212. Carole King - Tapestry
 - [ ] 213. Isaac Hayes - Shaft: Music From the Soundtrack
 - [ ] 214. The Allman Brothers Band - At Fillmore East (1971)
 - [ ] 215. Sticky Fingers (The Rolling Stones, 1971)
@@ -260,7 +260,7 @@ Current score: 235/1079
 - [ ] 253. Milton Nascimento E Lô Borges - Clube Da Esquina
 - [ ] 254. Todd Rundgren - Something/Anything?
 - [ ] 255. Nitty Gritty Dirt Band - Will the Circle Be Unbroken (1972)
-- [ ] 256. Stevie Wonder - Talking Book
+- [X] 256. Stevie Wonder - Talking Book
 - [ ] 257. Manassas - Manassas (1972)
 - [ ] 258. The Slider ( T. Rex, 1972)
 - [ ] 259. Davd Ackles - American Gothic (1972)
@@ -881,10 +881,10 @@ Current score: 235/1079
 - [ ] 874. Queens of the Stone Age - Queens of the Stone Age
 - [X] 875. Air - Moon Safari (1998)
 - [ ] 876. Korn - Follow the Leader
-- [ ] 877. Talvin Singh - Ok
+- [X] 877. Talvin Singh - Ok
 - [ ] 878. Kid Rock - Devil Without a Cause
 - [X] 879. Boards of Canada - Music Has the Right to Children (1998)
-- [ ] 880. Suba - Sao Paulo Confessions
+- [X] 880. Suba - Sao Paulo Confessions
 - [ ] 881. Khaled - Kenza
 - [ ] 882. XTC - Apple Venus
 - [ ] 883. Incubus Make Yourself
@@ -1030,7 +1030,7 @@ Current score: 235/1079
 - [ ] 1023. Kings of Leon - Only by the Night
 - [X] 1024. Fleet Foxes - Fleet Foxes
 - [ ] 1025. The Last Shadow Puppets - The Age of Understatement
-- [ ] 1026. Elbow - The Seldom Seen Kid
+- [X] 1026. Elbow - The Seldom Seen Kid
 - [ ] 1027. Portishead - Third
 - [ ] 1028. MGMT - Oracular Spectacular
 - [ ] 1029. Goldfrapp - Seventh Tree
@@ -1046,7 +1046,7 @@ Current score: 235/1079
 - [ ] 1039. Fever Ray - Fever Ray
 - [ ] 1040. Beach House - Teen Dream
 - [X] 1041. The Black Keys - Brothers
-- [ ] 1042. My Beautiful Dark Twisted Fantasy (Kanye West, 2010)
+- [ ] 1042. Kanye West - My Beautiful Dark Twisted Fantasy (2010)
 - [ ] 1043. John Grant - Queen of Denmark
 - [ ] 1044. Janelle Monáe - The Archandroid
 - [ ] 1045. The National - High Violet

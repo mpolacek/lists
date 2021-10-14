@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 64/259
+Current score: 65/259
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -87,7 +87,7 @@ Current score: 64/259
 - [ ] 180. Max B / French Montana - Coke Wave
 - [ ] 179. Blink-182 - Enema of the State
 - [ ] 178. Peter Gabriel - So
-- [ ] 177. Carole King - Tapestry
+- [X] 177. Carole King - Tapestry
 - [X] 176. Dr. Dre - The Chronic
 - [ ] 175. My Chemical Romance - Three Cheers for Sweet Revenge
 - [ ] 174. The Rolling Stones - Tattoo You

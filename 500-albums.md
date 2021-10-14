@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 139/500
+Current score: 142/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -29,7 +29,7 @@ Current score: 139/500
 - [X] 22. Notorious B.I.G. - Ready to Die
 - [X] 23. The Velvet Underground - The Velvet Underground & Nico
 - [X] 24. The Beatles - Sgt. Pepper's Lonely Hearts Club Band
-- [ ] 25. Carole King - Tapestry (1971)
+- [X] 25. Carole King - Tapestry (1971)
 - [ ] 26. Patti Smith - Horses (1975)
 - [X] 27. Wu-Tang Clan - Enter the Wu-Tang (36 Chambers) (1993)
 - [ ] 28. D'Angelo - Voodoo
@@ -63,7 +63,7 @@ Current score: 139/500
 - [X] 56. Liz Phair - Exile in Guyville
 - [X] 57. The Band - The Band (1969)
 - [X] 58. Led Zeppelin - Led Zeppelin IV
-- [ ] 59. Stevie Wonder - Talking Book
+- [X] 59. Stevie Wonder - Talking Book
 - [X] 60. Van Morrison - Astral Weeks
 - [ ] 61. Eric B. and Rakim - Paid in Full
 - [ ] 62. Guns N' Roses - Appetite for Destruction (1987)
@@ -236,7 +236,7 @@ Current score: 139/500
 - [ ] 229. Patsy Cline the Ultimate Collection
 - [ ] 230. Rihanna - Anti
 - [ ] 231. Tom Petty & the Heartbreakers - Damn the Torpedoes
-- [ ] 232. John Coltrane - Giant Steps
+- [X] 232. John Coltrane - Giant Steps
 - [ ] 233. Tori Amos - Little Earthquakes
 - [ ] 234. Black Sabbath - Master of Reality
 - [ ] 235. Metallica - Metallica
