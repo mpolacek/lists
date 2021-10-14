@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 240/1079
+Current score: 242/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -244,7 +244,7 @@ Current score: 240/1079
 - [X] 237. John Prine - John Prine
 - [ ] 238. Harry Nilsson - Nilsson Schmilsson
 - [ ] 239. T. Rex - Electric Warrior
-- [ ] 240. Hunky Dory (David Bowie, 1971)
+- [X] 240. David Bowie - Hunky Dory (1971)
 - [ ] 241. Randy Newman - Sail Away
 - [ ] 242. Deep Purple - Machine Head (1972)
 - [ ] 243. Big Star - #1 Record
@@ -632,7 +632,7 @@ Current score: 240/1079
 - [ ] 625. Metallica - ...And Justice for All (1988)
 - [ ] 626. Dinosaur Jr. - Bug (1988)
 - [ ] 627. Dagmar Krause - Tank Battles
-- [ ] 628. K.D. Lang - Shadowland
+- [X] 628. k.d. lang - Shadowland
 - [ ] 629. American Music Club - California (1988)
 - [ ] 630. Morrissey - Viva Hate
 - [ ] 631. Sonic Youth - Daydream Nation (1988)
@@ -721,7 +721,7 @@ Current score: 240/1079
 - [ ] 714. Lemonheads - It's a Shame About Ray
 - [X] 715. Rage Against the Machine - Rage Against the Machine (1992)
 - [ ] 716. Disposable Heroes of Hiphoprisy - Hypocrisy Is the Greatest Luxury
-- [ ] 717. Ingenue - K.D. Lang
+- [ ] 717. k.d. lang - Ingenue
 - [X] 718. Dr. Dre - The Chronic (1992)
 - [X] 719. R.E.M. - Automatic for the People
 - [X] 720. The Pharcyde - Bizarre Ride II the Pharcyde (1992)

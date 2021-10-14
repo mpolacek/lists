@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 142/500
+Current score: 143/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -92,7 +92,7 @@ Current score: 142/500
 - [ ] 85. John Lennon / Plastic Ono Band - John Lennon / Plastic Ono Band
 - [X] 86. The Doors - The Doors (1967)
 - [X] 87. Miles Davis - Bitches Brew
-- [ ] 88. David Bowie - Hunky Dory (1971)
+- [X] 88. David Bowie - Hunky Dory (1971)
 - [X] 89. Erykah Badu - Baduizm (1997)
 - [X] 90. Neil Young - After the Gold Rush (1970)
 - [ ] 91. Bruce Springsteen - Darkness on the Edge of Town
