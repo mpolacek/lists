@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 247/1079
+Current score: 251/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -245,7 +245,7 @@ Current score: 247/1079
 - [X] 238. Harry Nilsson - Nilsson Schmilsson
 - [ ] 239. T. Rex - Electric Warrior
 - [X] 240. David Bowie - Hunky Dory (1971)
-- [ ] 241. Randy Newman - Sail Away
+- [X] 241. Randy Newman - Sail Away
 - [ ] 242. Deep Purple - Machine Head (1972)
 - [ ] 243. Big Star - #1 Record
 - [ ] 244. Black Sabbath - Black Sabbath, Vol. 4
@@ -615,7 +615,7 @@ Current score: 247/1079
 - [ ] 608. Pet Shop Boys - Actually
 - [ ] 609. U2 - The Joshua Tree
 - [ ] 610. Introducing the Hardline According to Terence Trent D'Arby
-- [ ] 611. The Pogues - If I Should Fall From Grace With God (1988)
+- [X] 611. The Pogues - If I Should Fall From Grace With God (1988)
 - [ ] 612. Leonard Cohen - I'M Your Man (1988)
 - [ ] 613. Fisherman's Blues - The Waterboys
 - [ ] 614. Fishbone - Truth and Soul (1988)
@@ -635,7 +635,7 @@ Current score: 247/1079
 - [X] 628. k.d. lang - Shadowland
 - [ ] 629. American Music Club - California (1988)
 - [ ] 630. Morrissey - Viva Hate
-- [ ] 631. Sonic Youth - Daydream Nation (1988)
+- [X] 631. Sonic Youth - Daydream Nation (1988)
 - [ ] 632. The Sugarcubes - Life's Too Good (1988)
 - [ ] 633. Dwight Yoakam - Buenas Noches From a Lonely Room (1988)
 - [ ] 634. Jane's Addiction - Nothing's Shocking
@@ -915,7 +915,7 @@ Current score: 247/1079
 - [ ] 908. Limp Bizkit - Chocolate Starfish and the Hot Dog Flavored Water
 - [ ] 909. Emmylou Harris - Red Dirt Girl
 - [X] 910. Radiohead - Kid A (2000)
-- [ ] 911. Badly Drawn Boy - Hour of Bewilderbeast
+- [X] 911. Badly Drawn Boy - Hour of Bewilderbeast
 - [ ] 912. U2 - All That You Can't Leave Behind
 - [ ] 913. Coldplay - Parachutes
 - [ ] 914. Elliott Smith - Figure 8

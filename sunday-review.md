@@ -1,10 +1,13 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 65/259
+Current score: 65/262
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 262. Seal - Seal
+- [ ] 261. Dave Matthews Band - Crash
+- [ ] 260. Kesha - Animal
 - [ ] 259. Lewis Taylor - Lewis Taylor
 - [ ] 258. The Meters - Look-Ka Py Py
 - [ ] 257. Bobbie Gentry - The Delta Sweete

@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 150/500
+Current score: 152/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -175,7 +175,7 @@ Current score: 150/500
 - [ ] 168. Steely Dan - Can't Buy a Thrill
 - [ ] 169. Billy Joel - The Stranger (1977)
 - [ ] 170. Cream - Disraeli Gears
-- [ ] 171. Sonic Youth - Daydream Nation
+- [X] 171. Sonic Youth - Daydream Nation
 - [ ] 172. Simon and Garfunkel - Bridge Over Troubled Water
 - [X] 173. Nirvana - In Utero (1993)
 - [ ] 174. The Harder They Come
@@ -272,7 +272,7 @@ Current score: 150/500
 - [ ] 265. Pavement - Wowee Zowee
 - [ ] 266. The Beatles - Help!
 - [ ] 267. Minutemen - Double Nickels on the Dime
-- [ ] 268. Randy Newman - Sail Away
+- [X] 268. Randy Newman - Sail Away
 - [ ] 269. Kanye West - Yeezus (2013)
 - [ ] 270. Kacey Musgraves - Golden Hour
 - [ ] 271. Mary J. Blige Whats the 411?
