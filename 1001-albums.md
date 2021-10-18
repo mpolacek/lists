@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 242/1079
+Current score: 247/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -110,7 +110,7 @@ Current score: 242/1079
 - [ ] 103. Shivkumar Sharma - Call of the Valley (1967)
 - [ ] 104. The Velvet Underground, White Light/White Heat (1968)
 - [X] 105. The Jimi Hendrix Experience - Axis: Bold as Love (1967)
-- [ ] 106. Aretha Franklin - I Never Loved a Man the Way I Love You (1967)
+- [X] 106. Aretha Franklin - I Never Loved a Man the Way I Love You (1967)
 - [ ] 107. The Rolling Stones - Beggars Banquet
 - [ ] 108. Traffic - Traffic (1968)
 - [ ] 109. The Incredible String Band - The Hangman's Beautiful Daughter (1968)
@@ -155,7 +155,7 @@ Current score: 242/1079
 - [ ] 148. Pentangle - Basket of Light (1969)
 - [X] 149. The Rolling Stones - Let It Bleed (1969)
 - [ ] 150. Nick Drake, Five Leaves Left (1969)
-- [ ] 151. Dusty Springfield, Dusty in Memphis (1969)
+- [X] 151. Dusty Springfield - Dusty in Memphis (1969)
 - [ ] 152. Elvis Presley - From Elvis in Memphis (1969)
 - [ ] 153. The Velvet Underground - The Velvet Underground
 - [X] 154. Quicksilver Messenger Service - Happy Trails
@@ -242,7 +242,7 @@ Current score: 242/1079
 - [ ] 235. Flamin' Groovies - Teenage Head
 - [ ] 236. Gene Clark - White Light (1971)
 - [X] 237. John Prine - John Prine
-- [ ] 238. Harry Nilsson - Nilsson Schmilsson
+- [X] 238. Harry Nilsson - Nilsson Schmilsson
 - [ ] 239. T. Rex - Electric Warrior
 - [X] 240. David Bowie - Hunky Dory (1971)
 - [ ] 241. Randy Newman - Sail Away
@@ -401,7 +401,7 @@ Current score: 242/1079
 - [X] 394. Sex Pistols - Never Mind the Bollocks, Here's the Sex Pistols
 - [ ] 395. Pere Ubu: The Modern Dance
 - [X] 396. Kraftwerk - The Man-Machine
-- [ ] 397. Blondie - Parallel Lines
+- [X] 397. Blondie - Parallel Lines
 - [ ] 398. Elis Regina - Vento De Maio (1985)
 - [ ] 399. Pere Ubu - Dub Housing (1978)
 - [ ] 400. The Only Ones - The Only Ones (1978)
@@ -998,7 +998,7 @@ Current score: 242/1079
 - [ ] 991. The Libertines - The Libertines
 - [ ] 992. TV on the Radio - Desperate Youth, Blood Thirsty Babes
 - [ ] 993. Liars - They Were Wrong So We Drowned
-- [ ] 994. Arcade Fire - Funeral
+- [X] 994. Arcade Fire - Funeral
 - [ ] 995. The Zutons - Who Killed the Zutons
 - [ ] 996. The Killers - Hot Fuss
 - [ ] 997. Green Day - American Idiot

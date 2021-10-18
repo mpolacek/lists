@@ -1,10 +1,11 @@
 Various albums
 ==============
 
-Current score: 12/45
+Current score: 13/46
 
 `$ grep "\[X\]" any.md | wc -l`
 
+- [X] 46. Mark Seelig - The Disciple's Path
 - [X] 45. Phil Puleo - VIVAHA
 - [X] 44. Crass - The Feeding of the 5000
 - [X] 43. The Smashing Pumpkins - Gish

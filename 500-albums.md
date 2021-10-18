@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 143/500
+Current score: 150/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -17,7 +17,7 @@ Current score: 143/500
 - [X] 10. Lauryn Hill - The Miseducation of Lauryn Hill
 - [X] 11. The Beatles - Revolver (1966)
 - [X] 12. Michael Jackson - Thriller (1982)
-- [ ] 13. Aretha Franklin - I Never Loved a Man the Way I Love You
+- [X] 13. Aretha Franklin - I Never Loved a Man the Way I Love You
 - [X] 14. The Rolling Stones - Exile on Main St.
 - [ ] 15. Public Enemy - It Takes a Nation of Millions to Hold Us Back
 - [ ] 16. The Clash - London Calling (1979)
@@ -77,17 +77,17 @@ Current score: 143/500
 - [ ] 70. N.W.A. - Straight Outta Compton
 - [ ] 71. Bob Marley and the Wailers - Exodus
 - [ ] 72. Neil Young - Harvest (1972)
-- [ ] 73. My Bloody Valentine - Loveless
+- [X] 73. My Bloody Valentine - Loveless
 - [ ] 74. Kanye West - The College Dropout
 - [ ] 75. Aretha Franklin - Lady Soul (1968)
 - [X] 76. Curtis Mayfield - Superfly (1972)
 - [ ] 77. The Who - Who's Next
 - [ ] 78. Elvis Presley - The Sun Sessions
-- [ ] 79. Frank Ocean - Blonde
+- [X] 79. Frank Ocean - Blonde
 - [X] 80. Sex Pistols - Never Mind the Bollocks (1977)
 - [X] 81. Beyoncé - Beyoncé (2013)
 - [X] 82. Sly & the Family Stone - There's a Riot Goin' on (1971)
-- [ ] 83. Dusty Springfield - Dusty in Memphis
+- [X] 83. Dusty Springfield - Dusty in Memphis
 - [X] 84. AC/DC - Back in Black (1980)
 - [ ] 85. John Lennon / Plastic Ono Band - John Lennon / Plastic Ono Band
 - [X] 86. The Doors - The Doors (1967)
@@ -150,7 +150,7 @@ Current score: 143/500
 - [ ] 143. The Velvet Underground - The Velvet Underground
 - [X] 144. Led Zeppelin - Physical Graffiti
 - [ ] 145. Eminem - The Marshall Mathers LP
-- [ ] 146. Blondie - Parallel Lines
+- [X] 146. Blondie - Parallel Lines
 - [X] 147. Jeff Buckley - Grace (1994)
 - [ ] 148. Frank Ocean - Channel Orange
 - [X] 149. John Prine - John Prine
@@ -285,7 +285,7 @@ Current score: 143/500
 - [X] 278. Led Zeppelin - Houses of the Holy
 - [X] 279. Nirvana - MTV Unplugged in New York
 - [ ] 280. 50 Cent - Get Rich or Die Tryin'
-- [ ] 281. Harry Nilsson - Nilsson Schmilsson
+- [X] 281. Harry Nilsson - Nilsson Schmilsson
 - [X] 282. Frank Sinatra - In the Wee Small Hours (1955)
 - [ ] 283. Donna Summer - Bad Girls
 - [ ] 284. Merle Haggard- Down Every Road
@@ -504,4 +504,4 @@ Current score: 143/500
 - [ ] 497. Various Artists - The Indestructible Beat of Soweto
 - [ ] 498. Suicide - Suicide
 - [ ] 499. Rufus Featuring Chaka Khan - Ask Rufus
-- [ ] 500. Arcade Fire - Funeral (2004)
+- [X] 500. Arcade Fire - Funeral (2004)

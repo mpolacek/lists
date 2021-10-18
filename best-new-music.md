@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 28/829
+Current score: 30/829
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -224,7 +224,7 @@ Current score: 28/829
 - [ ] 613. Nick Cave & the Bad Seeds - Skeleton Tree (2016)
 - [ ] 612. Angel Olsen - My Woman
 - [ ] 611. Young Thug - JEFFERY
-- [ ] 610. Frank Ocean - Blonde
+- [X] 610. Frank Ocean - Blonde
 - [ ] 609. Elza Soares - A Mulher Do Fim Do Mundo (The Woman at the End of the World)
 - [ ] 608. Jamila Woods - HEAVN
 - [ ] 607. Schoolboy Q - Blank Face LP
@@ -756,7 +756,7 @@ Current score: 28/829
 - [ ] 81. Interpol - Antics
 - [ ] 80. Dungen - Ta Det Lugnt
 - [ ] 79. The Foreign Exchange - Connected
-- [ ] 78. Arcade Fire - Funeral
+- [X] 78. Arcade Fire - Funeral
 - [ ] 77. Castanets - Cathedral (2004)
 - [ ] 76. Bjork - Medulla
 - [ ] 75. The Futureheads - The Futureheads
