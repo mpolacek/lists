@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 152/500
+Current score: 154/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -147,7 +147,7 @@ Current score: 152/500
 - [ ] 140. Bob Marley and the Wailers - Catch a Fire
 - [ ] 141. Pixies - Doolittle
 - [X] 142. Bruce Springsteen - Born in the U.S.A.
-- [ ] 143. The Velvet Underground - The Velvet Underground
+- [X] 143. The Velvet Underground - The Velvet Underground
 - [X] 144. Led Zeppelin - Physical Graffiti
 - [ ] 145. Eminem - The Marshall Mathers LP
 - [X] 146. Blondie - Parallel Lines
@@ -276,7 +276,7 @@ Current score: 152/500
 - [ ] 269. Kanye West - Yeezus (2013)
 - [ ] 270. Kacey Musgraves - Golden Hour
 - [ ] 271. Mary J. Blige Whats the 411?
-- [ ] 272. The Velvet Underground - White Light/White Heat
+- [X] 272. The Velvet Underground - White Light/White Heat
 - [ ] 273. Gang of Four - Entertainment!
 - [ ] 274. The Byrds - Sweetheart of the Rodeo
 - [ ] 275. Curtis Mayfield - Curtis

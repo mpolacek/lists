@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 251/1079
+Current score: 253/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -108,7 +108,7 @@ Current score: 251/1079
 - [ ] 101. The Electric Prunes (Album)
 - [X] 102. Loretta Lynn - Don't Come Home a Drinkin' (With Lovin' on Your Mind)
 - [ ] 103. Shivkumar Sharma - Call of the Valley (1967)
-- [ ] 104. The Velvet Underground, White Light/White Heat (1968)
+- [X] 104. The Velvet Underground - White Light/White Heat (1968)
 - [X] 105. The Jimi Hendrix Experience - Axis: Bold as Love (1967)
 - [X] 106. Aretha Franklin - I Never Loved a Man the Way I Love You (1967)
 - [ ] 107. The Rolling Stones - Beggars Banquet
@@ -157,7 +157,7 @@ Current score: 251/1079
 - [ ] 150. Nick Drake, Five Leaves Left (1969)
 - [X] 151. Dusty Springfield - Dusty in Memphis (1969)
 - [ ] 152. Elvis Presley - From Elvis in Memphis (1969)
-- [ ] 153. The Velvet Underground - The Velvet Underground
+- [X] 153. The Velvet Underground - The Velvet Underground
 - [X] 154. Quicksilver Messenger Service - Happy Trails
 - [X] 155. Led Zeppelin - Led Zeppelin
 - [X] 156. The Band - The Band (1969)
