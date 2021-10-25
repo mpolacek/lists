@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 154/500
+Current score: 155/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -89,7 +89,7 @@ Current score: 154/500
 - [X] 82. Sly & the Family Stone - There's a Riot Goin' on (1971)
 - [X] 83. Dusty Springfield - Dusty in Memphis
 - [X] 84. AC/DC - Back in Black (1980)
-- [ ] 85. John Lennon / Plastic Ono Band - John Lennon / Plastic Ono Band
+- [X] 85. John Lennon / Plastic Ono Band - John Lennon / Plastic Ono Band
 - [X] 86. The Doors - The Doors (1967)
 - [X] 87. Miles Davis - Bitches Brew
 - [X] 88. David Bowie - Hunky Dory (1971)

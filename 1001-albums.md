@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 253/1079
+Current score: 255/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -187,7 +187,7 @@ Current score: 253/1079
 - [X] 180. The Doors - Morrison Hotel
 - [ ] 181. Carpenters - Close to You (1970)
 - [ ] 182. Stephen Stills
-- [ ] 183. John Lennon - John Lennon & Plastic Ono Band
+- [X] 183. John Lennon - John Lennon & Plastic Ono Band
 - [ ] 184. Deja Vu (Crosby, Stills, Nash & Young, 1970)
 - [X] 185. Black Sabbath - Paranoid
 - [X] 186. Neil Young - After the Gold Rush (1970)
@@ -754,7 +754,7 @@ Current score: 253/1079
 - [ ] 747. Tuesday Night Music Club
 - [X] 748. The Fall - The Infotainment Scan
 - [X] 749. Wu-Tang Clan - Enter the Wu-Tang (36 Chambers) (1993)
-- [ ] 750. Björk - Debut (1993)
+- [X] 750. Björk - Debut (1993)
 - [ ] 751. Orbital - Orbital 2
 - [ ] 752. Doggystyle (Snoop Doggy Dogg, 1993)
 - [ ] 753. Sebadoh - Bubble and Scrape

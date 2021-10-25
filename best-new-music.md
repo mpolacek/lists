@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 30/829
+Current score: 33/829
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -338,7 +338,7 @@ Current score: 30/829
 - [ ] 499. Cloud Nothings - Here and Nowhere Else
 - [ ] 498. The War on Drugs - Lost in the Dream
 - [ ] 497. Perfect Pussy - Say Yes to Love
-- [ ] 496. Real Estate - Atlas
+- [X] 496. Real Estate - Atlas
 - [ ] 495. St. Vincent - St. Vincent
 - [ ] 494. Angel Olsen - Burn Your Fire for No Witness
 - [ ] 493. Sun Kil Moon - Benji
@@ -455,7 +455,7 @@ Current score: 30/829
 - [ ] 382. Oneohtrix Point Never - Replica (2011)
 - [ ] 381. A$AP Rocky - Livelovea$AP
 - [ ] 380. Atlas Sound - Parallax
-- [ ] 379. Real Estate - Days
+- [X] 379. Real Estate - Days
 - [ ] 378. M83 - Hurry Up, We're Dreaming
 - [ ] 377. Trash Talk - Awake EP
 - [ ] 376. Youth Lagoon - The Year of Hibernation
@@ -766,7 +766,7 @@ Current score: 30/829
 - [ ] 71. The Plastic Constellations - Mazatlan
 - [ ] 70. Junior Boys - Last Exit
 - [ ] 69. A.C. Newman - The Slow Wonder
-- [ ] 68. Sonic Youth - Sonic Nurse
+- [X] 68. Sonic Youth - Sonic Nurse
 - [ ] 67. Morrissey - You Are the Quarry
 - [ ] 66. The Streets - A Grand Don't Come for Free
 - [ ] 65. Mirah - C'mon Miracle
