@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 155/500
+Current score: 157/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -78,7 +78,7 @@ Current score: 155/500
 - [ ] 71. Bob Marley and the Wailers - Exodus
 - [ ] 72. Neil Young - Harvest (1972)
 - [X] 73. My Bloody Valentine - Loveless
-- [ ] 74. Kanye West - The College Dropout
+- [X] 74. Kanye West - The College Dropout
 - [ ] 75. Aretha Franklin - Lady Soul (1968)
 - [X] 76. Curtis Mayfield - Superfly (1972)
 - [ ] 77. The Who - Who's Next
@@ -500,7 +500,7 @@ Current score: 155/500
 - [X] 493. Marvin Gaye - Here, My Dear
 - [ ] 494. Presenting the Fabulous Ronettes
 - [ ] 495. Boyz II Men - II
-- [ ] 496. Shakira - ¿Dónde Están Los Ladrones?
+- [X] 496. Shakira - ¿Dónde Están Los Ladrones?
 - [ ] 497. Various Artists - The Indestructible Beat of Soweto
 - [ ] 498. Suicide - Suicide
 - [ ] 499. Rufus Featuring Chaka Khan - Ask Rufus

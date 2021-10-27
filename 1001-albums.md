@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 255/1079
+Current score: 260/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -397,7 +397,7 @@ Current score: 255/1079
 - [ ] 390. Meat Loaf - Bat Out of Hell
 - [ ] 391. Elvis Costello - My Aim Is True
 - [ ] 392. Lust for Life (Iggy Pop, 1977)
-- [ ] 393. Ian Dury - New Boots and Panties!!
+- [X] 393. Ian Dury - New Boots and Panties!!
 - [X] 394. Sex Pistols - Never Mind the Bollocks, Here's the Sex Pistols
 - [ ] 395. Pere Ubu: The Modern Dance
 - [X] 396. Kraftwerk - The Man-Machine
@@ -716,7 +716,7 @@ Current score: 255/1079
 - [ ] 709. Aphex Twin - Selected Ambient Works 85-92
 - [X] 710. Arrested Development - 3 Years, 5 Months and 2 Days in the Life Of...
 - [ ] 711. Haut De Gamme / Koweït Rive Gauche
-- [ ] 712. Morrissey - Your Arsenal
+- [X] 712. Morrissey - Your Arsenal
 - [X] 713. Baaba Maal - Lam Torro
 - [ ] 714. Lemonheads - It's a Shame About Ray
 - [X] 715. Rage Against the Machine - Rage Against the Machine (1992)
@@ -774,7 +774,7 @@ Current score: 255/1079
 - [ ] 767. Crazysexycool - TLC [1994]
 - [ ] 768. Oasis - Definitely Maybe
 - [X] 769. Soundgarden - Superunknown (1994)
-- [ ] 770. Smash (The Offspring, 1994)
+- [X] 770. The Offspring - Smash (1994)
 - [ ] 771. Drive Like Jehu - Yank Crime (1994)
 - [X] 772. Blur - Parklife
 - [ ] 773. G Love & Special Sauce - G Love & Special Sauce
@@ -868,7 +868,7 @@ Current score: 255/1079
 - [ ] 861. Bob Dylan, Live 1966 (1998)
 - [X] 862. Manu Chao - Clandestino
 - [ ] 863. Billy Bragg and Wilco Mermaid Avenue
-- [ ] 864. Turbonegro - Apocalypse Dudes
+- [X] 864. Turbonegro - Apocalypse Dudes
 - [ ] 865. Fatboy Slim - You've Come a Long Way Baby
 - [ ] 866. David Gray - White Ladder
 - [X] 867. Lucinda Williams - Car Wheels on a Gravel Road
@@ -986,7 +986,7 @@ Current score: 255/1079
 - [ ] 979. Franz Ferdinand - Franz Ferdinand
 - [ ] 980. Björk - Medúlla
 - [ ] 981. N * E * R * D - Fly or Die
-- [ ] 982. Kanye West - The College Dropout
+- [X] 982. Kanye West - The College Dropout
 - [ ] 983. Cee-Lo Green... Is the Soul Machine
 - [ ] 984. Kings of Leon - Aha Shake Heartbreak
 - [ ] 985. Mylo Destroy Rock and Roll

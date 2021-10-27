@@ -1,10 +1,12 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 33/829
+Current score: 35/831
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 831. Grouper - Shade
+- [ ] 830. Xenia Rubinos - Una Rosa
 - [ ] 829. Wiki - Half God
 - [ ] 828. Tirzah - Colourgrade
 - [ ] 827. Nala Sinephro - Space 1.8
@@ -782,10 +784,10 @@ Current score: 33/829
 - [ ] 55. Sufjan Stevens - Seven Swans
 - [ ] 54. Franz Ferdinand - Franz Ferdinand
 - [ ] 53. Cee-Lo Green... Is the Soul Machine
-- [ ] 52. Kanye West - The College Dropout
+- [X] 52. Kanye West - The College Dropout
 - [ ] 51. Xiu Xiu - Fabulous Muscles
 - [ ] 50. The Walkmen - Bows and Arrows
-- [ ] 49. Air - Talkie Walkie
+- [X] 49. Air - Talkie Walkie
 - [ ] 48. Phillip Jeck - 7
 - [ ] 47. Mu - Afro Finger & Gel
 - [ ] 46. Jay-Z - The Black Album
