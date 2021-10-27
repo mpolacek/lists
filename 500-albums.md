@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 157/500
+Current score: 159/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -186,7 +186,7 @@ Current score: 157/500
 - [ ] 179. The Notorious B.I.G.- Life After Death
 - [ ] 180. Love - Forever Changes (1967)
 - [ ] 181. Bob Dylan - Bringing It All Back Home (1965)
-- [ ] 182. James Taylor- Sweet Baby James
+- [X] 182. James Taylor - Sweet Baby James
 - [ ] 183. D'Angelo - Brown Sugar
 - [ ] 184. Cyndi Lauper - She's So Unusual
 - [ ] 185. The Rolling Stones - Beggar's Banquet
@@ -492,7 +492,7 @@ Current score: 157/500
 - [ ] 485. Richard Thompson - I Want to See the Bright Lights Tonight
 - [ ] 486. John Mayer - Continuum
 - [X] 487. Black Flag - Damaged
-- [ ] 488. The Stooges - The Stooges (1969)
+- [X] 488. The Stooges - The Stooges (1969)
 - [ ] 489. Phil Spector (Various Artists) - Back to Mono
 - [ ] 490. Linda Ronstadt - Heart Like a Wheel
 - [ ] 491. Harry Styles - Fine Line

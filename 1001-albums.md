@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 260/1079
+Current score: 262/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -176,7 +176,7 @@ Current score: 260/1079
 - [ ] 169. Leonard Cohen - Songs From a Room (1969)
 - [ ] 170. Fairport Convention: Liege & Lief
 - [ ] 171. Scott Walker - Scott4
-- [ ] 172. The Stooges, the Stooges (1969)
+- [X] 172. The Stooges - The Stooges (1969)
 - [ ] 173. Alexander Spence - Oar
 - [ ] 174. Frank Zappa - Hot Rats
 - [X] 175. Creedence Clearwater Revival - Cosmo's Factory (1970)
@@ -205,7 +205,7 @@ Current score: 260/1079
 - [ ] 198. Tea for the Tillerman (Cat Stevens, 1970)
 - [ ] 199. Traffic - John Barleycorn Must Die
 - [X] 200. The Stooges - Fun House
-- [ ] 201. James Taylor - Sweet Baby James
+- [X] 201. James Taylor - Sweet Baby James
 - [ ] 202. Paul McCartney - McCartney (1970)
 - [ ] 203. Abraxas (Santana, 1970)
 - [ ] 204. Syd Barrett - The Madcap Laughs (1970)

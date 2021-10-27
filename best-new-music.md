@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 35/831
+Current score: 38/831
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -120,7 +120,7 @@ Current score: 35/831
 - [ ] 719. Nivhek - After Its Own Death / Walking in a Spiral Towards the House
 - [ ] 718. Jessica Pratt - Quiet Signs
 - [ ] 717. Sharon Van Etten - Remind Me Tomorrow
-- [ ] 716. Jeff Tweedy - WARM
+- [X] 716. Jeff Tweedy - WARM
 - [ ] 715. Earl Sweatshirt - Some Rap Songs
 - [ ] 714. The 1975 - A Brief Inquiry Into Online Relationships (2018)
 - [ ] 713. Rosalia- El Mal Querer
@@ -609,9 +609,9 @@ Current score: 35/831
 - [ ] 230. Flying Lotus - Los Angeles
 - [ ] 229. Lindstrom - Where You Go I Go Too
 - [ ] 228. The Walkmen - You & Me
-- [ ] 227. The Bug - London Zoo
+- [X] 227. The Bug - London Zoo
 - [ ] 226. Harvey Milk - Life... the Best Game in Town (2008)
-- [ ] 225. Air France - No Way Down
+- [X] 225. Air France - No Way Down
 - [ ] 224. Lil Wayne - Tha Carter III
 - [ ] 223. Crystal Antlers - EP
 - [X] 222. Fleet Foxes - Fleet Foxes
