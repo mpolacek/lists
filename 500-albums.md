@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 159/500
+Current score: 163/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -69,7 +69,7 @@ Current score: 159/500
 - [ ] 62. Guns N' Roses - Appetite for Destruction (1987)
 - [ ] 63. Steely Dan - Aja
 - [ ] 64. Outkast - Stankonia
-- [ ] 65. James Brown - Live at the Apollo
+- [X] 65. James Brown - Live at the Apollo
 - [X] 66. John Coltrane - A Love Supreme
 - [ ] 67. Jay-Z - Reasonable Doubt
 - [X] 68. Kate Bush - Hounds of Love (1985)
@@ -198,7 +198,7 @@ Current score: 159/500
 - [ ] 191. Etta James - At Last! (1960)
 - [ ] 192. Beastie Boys - Licensed to Ill
 - [ ] 193. Creedence Clearwater Revival - Willy and the Poor Boys
-- [ ] 194. Michael Jackson - Bad
+- [X] 194. Michael Jackson - Bad
 - [ ] 195. Leonard Cohen - Songs of Leonard Cohen (1967)
 - [ ] 196. Robyn - Body Talk
 - [ ] 197. The Beatles - Meet the Beatles!
@@ -216,7 +216,7 @@ Current score: 159/500
 - [ ] 209. Run DMC - Raising Hell
 - [ ] 210. Ray Charles - The Birth of Soul
 - [X] 211. Joy Division - Unknown Pleasures
-- [ ] 212. Nina Simone - Wild Is the Wind
+- [X] 212. Nina Simone - Wild Is the Wind
 - [ ] 213. Fiona Apple - The Idler Wheel...
 - [ ] 214. Tom Petty - Wildflowers
 - [X] 215. Grateful Dead - American Beauty
@@ -312,7 +312,7 @@ Current score: 159/500
 - [ ] 305. Kiss - Alive! (1975)
 - [ ] 306. Al Green- I'm Still in Love With You
 - [ ] 307. Sam Cooke- Portait of a Legend
-- [ ] 308. Eno - Here Comes the Warm Jets
+- [X] 308. Brian Eno - Here Come the Warm Jets
 - [X] 309. Joy Division - Closer
 - [X] 310. Wire - Pink Flag
 - [ ] 311. Neil Young - On the Beach (1974)

@@ -1,16 +1,16 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 262/1079
+Current score: 269/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
 - [X] 1. Frank Sinatra - In the Wee Small Hours (1955)
 - [X] 2. Elvis Presley - Elvis Presley (1956)
 - [X] 3. The Louvin Brothers - Tragic Songs of Life (1956)
-- [ ] 4. Louis Prima - The Wildest! (1956)
+- [X] 4. Louis Prima - The Wildest! (1956)
 - [X] 5. Fats Domino - This Is Fats (1956)
-- [ ] 6. Duke Ellington - Ellington at Newport '56
+- [X] 6. Duke Ellington - Ellington at Newport '56
 - [ ] 7. Frank Sinatra - Songs for Swinging Lovers! (1956)
 - [X] 8. Buddy Holly & The Crickets - The "Chirping" Crickets (1957)
 - [X] 9. The Atomic Mr Basie - Count Basie
@@ -44,7 +44,7 @@ Current score: 262/1079
 - [ ] 37. Phil Spector - A Christmas Gift for You
 - [ ] 38. Sam Cooke - Live at the Harlem Square Club
 - [X] 39. Charles Mingus - The Black Saint and the Sinner Lady
-- [ ] 40. James Brown - Live at the Apollo (1963)
+- [X] 40. James Brown - Live at the Apollo (1963)
 - [X] 41. Stan Getz & Joao Gilberto - Getz/Gilberto
 - [X] 42. The Beatles - A Hard Day's Night (1964)
 - [X] 43. Jacques Brel - Olympia '64
@@ -79,7 +79,7 @@ Current score: 262/1079
 - [ ] 72. 13th Floor Elevators - The Psychedelic Sounds of the 13th Floor Elevators (1966)
 - [ ] 73. John Mayall With Eric Clapton - Blues Breakers
 - [ ] 74. The Yardbirds - Roger the Engineer
-- [ ] 75. Nina Simone - Wild Is the Wind
+- [X] 75. Nina Simone - Wild Is the Wind
 - [X] 76. Astrud Gilberto - Beach Samba
 - [X] 77. Nico - Chelsea Girl (1967)
 - [X] 78. The Beatles - Sgt. Pepper's Lonely Hearts Club Band (1967)
@@ -305,7 +305,7 @@ Current score: 262/1079
 - [X] 298. Iggy and the Stooges - Raw Power (1973)
 - [ ] 299. Isley Brothers 3+3
 - [ ] 300. New York Dolls - New York Dolls
-- [ ] 301. Here Come the Warm Jets (Brian Eno, 1973)
+- [X] 301. Brian Eno - Here Come the Warm Jets (1973)
 - [ ] 302. Bad Company - Bad Company
 - [ ] 303. The Lamb Lies Down on Broadway (Genesis, 1974)
 - [ ] 304. Inspiration Information (Shuggie Otis, 1974)
@@ -569,7 +569,7 @@ Current score: 262/1079
 - [ ] 562. Simply Red - Picture Book
 - [ ] 563. Dexy's Midnight Runners - Don't Stand Me Down
 - [ ] 564. Scritti Politti - Cupid & Psyche 85 (1985)
-- [ ] 565. Elvis Costello - Blood & Chocolate
+- [X] 565. Elvis Costello - Blood & Chocolate
 - [ ] 566. Afrika Bambaataa and the Soul Sonic Force Planet Rock
 - [ ] 567. Licensed to Ill (Beastie Boys, 1986)
 - [ ] 568. Metallica - Master of Puppets (1986)
@@ -611,7 +611,7 @@ Current score: 262/1079
 - [X] 604. Napalm Death - Scum
 - [X] 605. Sonic Youth - Sister
 - [ ] 606. The Triffids - Calenture (1987)
-- [ ] 607. Michael Jackson Bad
+- [X] 607. Michael Jackson - Bad
 - [ ] 608. Pet Shop Boys - Actually
 - [ ] 609. U2 - The Joshua Tree
 - [ ] 610. Introducing the Hardline According to Terence Trent D'Arby

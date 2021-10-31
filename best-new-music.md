@@ -1,10 +1,11 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 38/831
+Current score: 38/832
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 832. The War on Drugs - I Don’t Live Here Anymore
 - [ ] 831. Grouper - Shade
 - [ ] 830. Xenia Rubinos - Una Rosa
 - [ ] 829. Wiki - Half God
