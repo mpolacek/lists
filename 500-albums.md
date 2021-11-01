@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 163/500
+Current score: 164/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -468,7 +468,7 @@ Current score: 163/500
 - [ ] 461. Bon Iver - For Emma, Forever Ago
 - [ ] 462. The Flying Burrito Bros - The Gilded Palace of Sin
 - [ ] 463. Eli & the Thirteenth Confession
-- [ ] 464. The Isley Brothers - 3+3
+- [X] 464. The Isley Brothers - 3+3
 - [ ] 465. King Sunny Adé - The Best of the Classic Years (2003)
 - [ ] 466. The Beach Boys Today! (1965)
 - [ ] 467. Maxwell-Blacksummers' Night

@@ -1,10 +1,12 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 65/262
+Current score: 66/264
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 264. Shania Twain - Come On Over
+- [ ] 263. The Clash - Combat Rock
 - [ ] 262. Seal - Seal
 - [ ] 261. Dave Matthews Band - Crash
 - [ ] 260. Kesha - Animal
@@ -230,7 +232,7 @@ Current score: 65/262
 - [ ] 40. Liquid Liquid - Liquid Liquid EP | Successive Reflexes EP | Optimo EP
 - [ ] 39. Glenn Gould - Bach: The Goldberg Variations
 - [ ] 38. Wailing Souls - Wailing
-- [ ] 37. Thelonious Monk - Monk’s Music
+- [X] 37. Thelonious Monk - Monk's Music
 - [ ] 36. DMX - It’s Dark and Hell Is Hot
 - [X] 35. Weezer - Weezer (Blue Album)
 - [X] 34. Neil Young - Trans

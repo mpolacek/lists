@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 269/1079
+Current score: 272/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -37,7 +37,7 @@ Current score: 269/1079
 - [X] 30. Bill Evans - Sunday at the Village Vanguard
 - [ ] 31. Ray Charles - Modern Sounds in Country and Western Music (1962)
 - [X] 32. Booker T. & the M.G.'S - Green Onions (1962)
-- [ ] 33. Jazz Samba - Stan Getz / Charlie Byrd
+- [X] 33. Stan Getz / Charlie Byrd - Jazz Samba
 - [X] 34. Ray Price - Night Life
 - [X] 35. The Beatles - With the Beatles
 - [ ] 36. Bob Dylan - The Freewheelin' Bob Dylan (1963)
@@ -303,7 +303,7 @@ Current score: 269/1079
 - [ ] 296. The Sensational Alex Harvey Band - Next (1973)
 - [ ] 297. Alice Cooper - Billion Dollar Babies
 - [X] 298. Iggy and the Stooges - Raw Power (1973)
-- [ ] 299. Isley Brothers 3+3
+- [X] 299. Isley Brothers - 3+3
 - [ ] 300. New York Dolls - New York Dolls
 - [X] 301. Brian Eno - Here Come the Warm Jets (1973)
 - [ ] 302. Bad Company - Bad Company
@@ -524,7 +524,7 @@ Current score: 269/1079
 - [ ] 517. Def Leppard - Pyromania
 - [X] 518. R.E.M. - Murmur
 - [ ] 519. The - The Soul Mining
-- [ ] 520. Swordfishtrombones (Tom Waits, 1983)
+- [X] 520. Tom Waits - Swordfishtrombones (1983)
 - [ ] 521. The Blue Nile - A Walk Across the Rooftops (1984)
 - [ ] 522. Hanoi Rocks - Back to Mystery City (1983)
 - [ ] 523. Cyndi Lauper - She's So Unusual
