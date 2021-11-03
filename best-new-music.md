@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 38/833
+Current score: 39/833
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -218,7 +218,7 @@ Current score: 38/833
 - [ ] 623. Leonard Cohen - You Want It Darker (2016)
 - [ ] 622. Weyes Blood - Front Row Seat to Earth
 - [ ] 621. Nxworries - Yes Lawd!
-- [ ] 620. Solange - A Seat at the Table (2016)
+- [X] 620. Solange - A Seat at the Table (2016)
 - [ ] 619. Jenny Hval - Blood Bitch
 - [ ] 618. Danny Brown - Atrocity Exhibition
 - [ ] 617. Bon Iver - 22, a Million (2016)

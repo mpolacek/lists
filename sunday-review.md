@@ -1,13 +1,13 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 66/264
+Current score: 67/264
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
 - [ ] 264. Shania Twain - Come On Over
 - [ ] 263. The Clash - Combat Rock
-- [ ] 262. Seal - Seal
+- [X] 262. Seal - Seal
 - [ ] 261. Dave Matthews Band - Crash
 - [ ] 260. Kesha - Animal
 - [ ] 259. Lewis Taylor - Lewis Taylor

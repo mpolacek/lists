@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 164/500
+Current score: 167/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -20,7 +20,7 @@ Current score: 164/500
 - [X] 13. Aretha Franklin - I Never Loved a Man the Way I Love You
 - [X] 14. The Rolling Stones - Exile on Main St.
 - [ ] 15. Public Enemy - It Takes a Nation of Millions to Hold Us Back
-- [ ] 16. The Clash - London Calling (1979)
+- [X] 16. The Clash - London Calling (1979)
 - [ ] 17. Kanye West - My Beautiful Dark Twisted Fantasy
 - [X] 18. Bob Dylan - Highway 61 Revisited (1965)
 - [ ] 19. Kendrick Lamar - To Pimp a Butterfly
@@ -204,7 +204,7 @@ Current score: 164/500
 - [ ] 197. The Beatles - Meet the Beatles!
 - [ ] 198. The B-52's - The B-52's
 - [X] 199. Pavement - Slanted and Enchanted
-- [ ] 200. Sade - Diamond Life
+- [X] 200. Sade - Diamond Life
 - [X] 201. A Tribe Called Quest - Midnight Marauders
 - [X] 202. Björk - Homogenic (1997)
 - [ ] 203. Nick Drake - Pink Moon (1972)
@@ -316,7 +316,7 @@ Current score: 164/500
 - [X] 309. Joy Division - Closer
 - [X] 310. Wire - Pink Flag
 - [ ] 311. Neil Young - On the Beach (1974)
-- [ ] 312. Solange - A Seat at the Table (2016)
+- [X] 312. Solange - A Seat at the Table (2016)
 - [ ] 313. PJ Harvey - Stories From the City, Stories From the Sea
 - [ ] 314. Aaliyah - One in a Million
 - [ ] 315. Rosalia - El Mal Querer

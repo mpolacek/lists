@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 272/1079
+Current score: 278/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -246,7 +246,7 @@ Current score: 272/1079
 - [ ] 239. T. Rex - Electric Warrior
 - [X] 240. David Bowie - Hunky Dory (1971)
 - [X] 241. Randy Newman - Sail Away
-- [ ] 242. Deep Purple - Machine Head (1972)
+- [X] 242. Deep Purple - Machine Head (1972)
 - [ ] 243. Big Star - #1 Record
 - [ ] 244. Black Sabbath - Black Sabbath, Vol. 4
 - [ ] 245. Steely Dan - Can't Buy a Thrill
@@ -442,10 +442,10 @@ Current score: 272/1079
 - [ ] 435. Fear of Music (Talking Heads, 1979)
 - [X] 436. Joy Division - Unknown Pleasures
 - [ ] 437. Chic - Risque
-- [ ] 438. Undertones - The Undertones
-- [ ] 439. The Clash - London Calling
+- [X] 438. Undertones - The Undertones
+- [X] 439. The Clash - London Calling
 - [ ] 440. Japan - Quiet Life
-- [ ] 441. Broken English - Marianne Faithfull
+- [X] 441. Marianne Faithfull - Broken English
 - [X] 442. The Slits - Cut
 - [ ] 443. Elvis Costello and the Attractions - Armed Forces
 - [ ] 444. Neil Young and Crazy Horse - Rust Never Sleeps
@@ -538,7 +538,7 @@ Current score: 272/1079
 - [ ] 531. Culture Club - Colour by Numbers
 - [ ] 532. Frankie Goes to Hollywood - Welcome to the Pleasuredome
 - [ ] 533. Run DMC - Run DMC
-- [ ] 534. Sade - Diamond Life
+- [X] 534. Sade - Diamond Life
 - [X] 535. Cocteau Twins - Treasure
 - [ ] 536. Minor Threat - Out of Step
 - [X] 537. Van Halen - 1984
@@ -1073,7 +1073,7 @@ Current score: 272/1079
 - [ ] 1066. Kendrick Lamar - To Pimp a Butterfly
 - [ ] 1067. Songhoy Blues - Music in Exile (2015)
 - [ ] 1068. Skepta - Konnichiwa
-- [ ] 1069. Solange - A Seat at the Table (2016)
+- [X] 1069. Solange - A Seat at the Table (2016)
 - [ ] 1070. David Bowie - Blackstar (2016)
 - [ ] 1071. Leonard Cohen - You Want It Darker (2016)
 - [ ] 1072. The xx - I See You
