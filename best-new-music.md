@@ -1,10 +1,11 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 39/833
+Current score: 39/834
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 834. Snail Mail - Valentine
 - [ ] 833. aya - im hole
 - [ ] 832. The War on Drugs - I Don’t Live Here Anymore
 - [ ] 831. Grouper - Shade

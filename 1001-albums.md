@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 278/1079
+Current score: 281/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -373,7 +373,7 @@ Current score: 278/1079
 - [ ] 366. Peter Tosh - Legalize It
 - [X] 367. Stevie Wonder: Songs in the Key of Life
 - [ ] 368. Frampton Comes Alive! (Peter Frampton, 1976)
-- [ ] 369. Brian Eno - Before and After Science (1977)
+- [X] 369. Brian Eno - Before and After Science (1977)
 - [ ] 370. Kraftwerk - Trans-Europe Express (1977)
 - [ ] 371. Billy Joel - The Stranger
 - [ ] 372. Bob Marley and the Wailers - Exodus
@@ -627,9 +627,9 @@ Current score: 278/1079
 - [ ] 620. The Go-Betweens - 16 Lovers Lane
 - [ ] 621. Cowboy Junkies - The Trinity Session (1988)
 - [ ] 622. Tracy Chapman - Tracy Chapman [1988]
-- [ ] 623. My Bloody Valentine - Isn't Anything
+- [X] 623. My Bloody Valentine - Isn't Anything
 - [ ] 624. Pixies - Surfer Rosa (1988)
-- [ ] 625. Metallica - ...And Justice for All (1988)
+- [X] 625. Metallica - ...And Justice for All (1988)
 - [ ] 626. Dinosaur Jr. - Bug (1988)
 - [ ] 627. Dagmar Krause - Tank Battles
 - [X] 628. k.d. lang - Shadowland
