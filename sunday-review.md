@@ -1,10 +1,11 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 67/264
+Current score: 69/265
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 265. White Town - Women in Technology
 - [ ] 264. Shania Twain - Come On Over
 - [ ] 263. The Clash - Combat Rock
 - [X] 262. Seal - Seal
@@ -173,7 +174,7 @@ Current score: 67/264
 - [X] 99. Hole - Live Through This
 - [X] 98. Raekwon - Only Built 4 Cuban Linx
 - [ ] 97. Aretha Franklin - Spirit in the Dark
-- [ ] 96. Bob Dylan - Time Out of Mind
+- [X] 96. Bob Dylan - Time Out of Mind
 - [ ] 95. Public Image Ltd - The Flowers of Romance
 - [X] 94. Built to Spill - Perfect From Now On
 - [ ] 93. Jonathan Richman - I, Jonathan
@@ -223,7 +224,7 @@ Current score: 67/264
 - [ ] 49. Ghostface Killah - Supreme Clientele
 - [ ] 48. Patti Smith Group - Easter
 - [ ] 47. Violent Femmes - Violent Femmes
-- [ ] 46. JAY-Z - Reasonable Doubt
+- [X] 46. JAY-Z - Reasonable Doubt
 - [ ] 45. Green Day - Dookie
 - [ ] 44. Fugazi - In on the Kill Taker
 - [X] 43. Portishead - Dummy

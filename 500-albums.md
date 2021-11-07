@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 167/500
+Current score: 173/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -32,7 +32,7 @@ Current score: 167/500
 - [X] 25. Carole King - Tapestry (1971)
 - [ ] 26. Patti Smith - Horses (1975)
 - [X] 27. Wu-Tang Clan - Enter the Wu-Tang (36 Chambers) (1993)
-- [ ] 28. D'Angelo - Voodoo
+- [X] 28. D'Angelo - Voodoo
 - [X] 29. The Beatles - The Beatles [White Album]
 - [ ] 30. The Jimi Hendrix Experience - Are You Experienced (1967)
 - [X] 31. Miles Davis - Kind of Blue
@@ -71,7 +71,7 @@ Current score: 167/500
 - [ ] 64. Outkast - Stankonia
 - [X] 65. James Brown - Live at the Apollo
 - [X] 66. John Coltrane - A Love Supreme
-- [ ] 67. Jay-Z - Reasonable Doubt
+- [X] 67. Jay-Z - Reasonable Doubt
 - [X] 68. Kate Bush - Hounds of Love (1985)
 - [ ] 69. Alanis Morrisette - Jagged Little Pill (1995)
 - [ ] 70. N.W.A. - Straight Outta Compton
@@ -101,7 +101,7 @@ Current score: 167/500
 - [X] 94. The Stooges - Fun House
 - [ ] 95. Drake - Take Care (2011)
 - [X] 96. R.E.M. - Automatic for the People
-- [ ] 97. Metallica - Master of Puppets (1986)
+- [X] 97. Metallica - Master of Puppets (1986)
 - [X] 98. Lucinda Williams - Car Wheels on a Gravel Road
 - [ ] 99. Taylor Swift - Red
 - [ ] 100. The Band - Music From Big Pink (1968)
@@ -229,7 +229,7 @@ Current score: 167/500
 - [ ] 222. Madonna - Ray of Light
 - [ ] 223. John Lennon - Imagine
 - [ ] 224. Dixie Chicks - Fly
-- [ ] 225. Wilco - Yankee Hotel Foxtrot (2001)
+- [X] 225. Wilco - Yankee Hotel Foxtrot (2001)
 - [ ] 226. Derek and the Dominos - Layla and Other Assorted Love Songs
 - [ ] 227. Little Richard - Here's Little Richard
 - [X] 228. De La Soul - De La Soul Is Dead
@@ -391,7 +391,7 @@ Current score: 167/500
 - [ ] 384. The Kinks Are the Village Green Preservation Society
 - [ ] 385. Ramones - Rocket to Russia
 - [ ] 386. J Dilla - Donuts (2006)
-- [ ] 387. Radiohead - In Rainbows (2007)
+- [X] 387. Radiohead - In Rainbows (2007)
 - [ ] 388. Aretha Franklin - Young, Gifted & Black
 - [ ] 389. Mariah Carey - The Emancipation of Mimi
 - [ ] 390. Pixies - Surfer Rosa
@@ -458,7 +458,7 @@ Current score: 167/500
 - [ ] 451. Roberta Flack - First Take
 - [ ] 452. Diana Ross and the Supremes - Anthology
 - [ ] 453. Nine Inch Nails - Pretty Hate Machine
-- [ ] 454. Can - Ege Bamyasi
+- [X] 454. Can - Ege Bamyasi
 - [ ] 455. Bo Diddley/Go Bo Diddley
 - [ ] 456. Al Green - Greatest Hits
 - [ ] 457. Sinead O'Connor - I Do Not Want What I Haven't Got

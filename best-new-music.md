@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 39/834
+Current score: 40/834
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -641,7 +641,7 @@ Current score: 39/834
 - [ ] 201. Jay-Z - American Gangster
 - [ ] 200. Grizzly Bear - Friend EP
 - [ ] 199. The Tough Alliance - A New Chance
-- [ ] 198. Radiohead - In Rainbows
+- [X] 198. Radiohead - In Rainbows
 - [ ] 197. Chromatics - Night Drive
 - [ ] 196. Black Kids - Wizard of Ahhhs
 - [ ] 195. Sunset Rubdown - Random Spirit Lover

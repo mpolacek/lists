@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 281/1079
+Current score: 287/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -230,7 +230,7 @@ Current score: 281/1079
 - [ ] 223. Don Mclean - American Pie (1971)
 - [ ] 224. Emerson, Lake & Palmer - Tarkus
 - [X] 225. Led Zeppelin - Led Zeppelin IV (1971)
-- [ ] 226. Serge Gainsbourg - Histoire De Melody Nelson
+- [X] 226. Serge Gainsbourg - Histoire De Melody Nelson
 - [ ] 227. Rod Stewart - Every Picture Tells a Story
 - [ ] 228. Emerson, Lake & Palmer - Pictures at an Exhibition (1972)
 - [ ] 229. Leonard Cohen - Songs of Love and Hate
@@ -282,7 +282,7 @@ Current score: 281/1079
 - [ ] 275. Bob Marley and the Wailers - Catch a Fire
 - [ ] 276. Hawkwind - Space Ritual (1973)
 - [X] 277. John Cale - Paris 1919
-- [ ] 278. CAN - Future Days (1973)
+- [X] 278. CAN - Future Days (1973)
 - [ ] 279. Lou Reed, Berlin (1973)
 - [ ] 280. Selling England by the Pound (Genesis, 1973)
 - [ ] 281. Marvin Gaye - Let's Get It On
@@ -572,7 +572,7 @@ Current score: 281/1079
 - [X] 565. Elvis Costello - Blood & Chocolate
 - [ ] 566. Afrika Bambaataa and the Soul Sonic Force Planet Rock
 - [ ] 567. Licensed to Ill (Beastie Boys, 1986)
-- [ ] 568. Metallica - Master of Puppets (1986)
+- [X] 568. Metallica - Master of Puppets (1986)
 - [ ] 569. The The, Infected (1986)
 - [ ] 570. Nanci Griffith - The Last of the True Believers (1986)
 - [ ] 571. Billy Bragg - Talking With the Taxman About Poetry (1986)
@@ -859,7 +859,7 @@ Current score: 281/1079
 - [ ] 852. Robbie Williams - Life Thru a Lens
 - [ ] 853. Mariah Carey - Butterfly
 - [ ] 854. Supergrass - In It for the Money
-- [ ] 855. Bob Dylan - Time Out of Mind
+- [X] 855. Bob Dylan - Time Out of Mind
 - [ ] 856. Reprazent and Roni Size - New Forms
 - [X] 857. Elliott Smith - Either/Or
 - [ ] 858. The Verve - Urban Hymns
@@ -951,7 +951,7 @@ Current score: 281/1079
 - [ ] 944. Super Furry Animals - Rings Around the World
 - [ ] 945. The Vines - Highly Evolved
 - [ ] 946. Jurassic 5 - Power in Numbers
-- [ ] 947. Wilco - Yankee Hotel Foxtrot
+- [X] 947. Wilco - Yankee Hotel Foxtrot
 - [ ] 948. Christina Aguilera - Stripped
 - [X] 949. Coldplay - A Rush of Blood to the Head
 - [ ] 950. Ms Dynamite a Little Deeper
@@ -1021,7 +1021,7 @@ Current score: 281/1079
 - [ ] 1014. Arctic Monkeys - Whatever People Say I Am, That's What I'm Now
 - [ ] 1015. Klaxons - Myths of the Near Future
 - [ ] 1016. LCD Soundsystem - Sound of Silver
-- [ ] 1017. Radiohead - In Rainbows
+- [X] 1017. Radiohead - In Rainbows
 - [ ] 1018. Arcade Fire - Neon Bible
 - [ ] 1019. MIA - Kala
 - [ ] 1020. The Good, the Bad & the Queen - The Good, the Bad & the Queen
