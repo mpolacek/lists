@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 173/500
+Current score: 178/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -50,11 +50,11 @@ Current score: 173/500
 - [X] 43. A Tribe Called Quest - The Low End Theory (1991)
 - [X] 44. Nas - Illmatic (1994)
 - [ ] 45. Prince - Sign O' the Times (1987)
-- [ ] 46. Paul Simon - Graceland
+- [X] 46. Paul Simon - Graceland
 - [ ] 47. Ramones - Ramones (1976)
 - [ ] 48. Bob Marley and the Wailers - Legend: The Best of Bob Marley
 - [X] 49. Outkast - Aquemini
-- [ ] 50. Jay-Z - The Blueprint
+- [X] 50. Jay-Z - The Blueprint
 - [ ] 51. Chuck Berry - The Great Twenty-Eight
 - [X] 52. David Bowie - Station to Station (1976)
 - [ ] 53. Jimi Hendrix - Electric Ladyland (1968)
@@ -124,7 +124,7 @@ Current score: 173/500
 - [ ] 117. Kanye West - Late Registration
 - [X] 118. Eagles - Hotel California
 - [ ] 119. Sly & the Family Stone - Stand!
-- [ ] 120. Van Morrison - Moondance
+- [X] 120. Van Morrison - Moondance
 - [ ] 121. Elvis Costello - This Year's Model
 - [ ] 122. Nine Inch Nails - The Downward Spiral
 - [X] 123. Led Zeppelin - Led Zeppelin II
@@ -254,7 +254,7 @@ Current score: 173/500
 - [X] 247. Sade - Love Deluxe
 - [ ] 248. Green Day - American Idiot
 - [X] 249. Whitney Houston - Whitney Houston
-- [ ] 250. Buzzcocks - Singles Going Steady (1979)
+- [X] 250. Buzzcocks - Singles Going Steady (1979)
 - [ ] 251. Elton John- Honky Chateau
 - [ ] 252. Devo - Q: Are We Not Men? A: We Are Devo! (1978)
 - [ ] 253. Pink Floyd - The Piper at the Gates of Dawn (1967)
@@ -431,7 +431,7 @@ Current score: 173/500
 - [X] 424. Beck - Odelay
 - [ ] 425. Paul Simon - Paul Simon
 - [ ] 426. Lucinda Williams - Lucinda Williams
-- [ ] 427. Al Green - Call Me
+- [X] 427. Al Green - Call Me
 - [ ] 428. Hüsker Dü - New Day Rising
 - [ ] 429. The Four Tops - Reach Out
 - [ ] 430. Elvis Costello - My Aim Is True

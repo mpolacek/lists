@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 287/1079
+Current score: 291/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -193,7 +193,7 @@ Current score: 287/1079
 - [X] 186. Neil Young - After the Gold Rush (1970)
 - [X] 187. Led Zeppelin - Led Zeppelin III
 - [ ] 188. Deep Purple - Deep Purple in Rock
-- [ ] 189. Van Morrison - Moondance
+- [X] 189. Van Morrison - Moondance
 - [X] 190. Grateful Dead - American Beauty
 - [ ] 191. Nick Drake - Bryter Layter (1970)
 - [ ] 192. Ananda Shankar - Ananda Shankar (1970)
@@ -582,7 +582,7 @@ Current score: 287/1079
 - [ ] 575. Sonic Youth - EVOL
 - [X] 576. Slayer - Reign in Blood
 - [ ] 577. Throwing Muses - Throwing Muses
-- [ ] 578. Paul Simon - Graceland
+- [X] 578. Paul Simon - Graceland
 - [ ] 579. Run DMC - Raising Hell
 - [ ] 580. XTC - Skylarking
 - [X] 581. Steve Earle - Guitar Town
@@ -834,7 +834,7 @@ Current score: 287/1079
 - [ ] 827. Everything but the Girl Walking Wounded
 - [ ] 828. Nick Cave & the Bad Seeds - Murder Ballads (1996)
 - [ ] 829. Ltj Bukem Locial Progression
-- [ ] 830. Underworld Second Toughest in the Infants
+- [X] 830. Underworld - Second Toughest in the Infants
 - [ ] 831. Jon Spencer Blues Group Now I Got Worry
 - [ ] 832. Cardigans First Band on the Moon
 - [ ] 833. Marilyn Manson - Antichrist Superstar
@@ -945,7 +945,7 @@ Current score: 287/1079
 - [ ] 938. The Beta Band - Hot Shots II
 - [ ] 939. The Hives - Your New Favorite Band (Compilation)
 - [ ] 940. White Blood Cells (The White Stripes, 2001)
-- [ ] 941. The Blueprint (JAY Z, 2001)
+- [X] 941. Jay-Z - The Blueprint (2001)
 - [ ] 942. Melody A.M. (Röyksopp, 2001)
 - [X] 943. Drive by Truckers - Southern Rock Opera
 - [ ] 944. Super Furry Animals - Rings Around the World

@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 69/265
+Current score: 71/265
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -142,11 +142,11 @@ Current score: 69/265
 - [ ] 131. Robert Ashley - Private Parts
 - [ ] 130. Tracy Chapman - Tracy Chapman
 - [ ] 129. Talk Talk - Spirit of Eden
-- [ ] 128. Buzzcocks - Singles Going Steady
+- [X] 128. Buzzcocks - Singles Going Steady
 - [ ] 127. Avril Lavigne - Let Go
 - [X] 126. Black Sabbath - Paranoid
 - [X] 125. Daft Punk - Homework
-- [ ] 124. Van Morrison - Moondance
+- [X] 124. Van Morrison - Moondance
 - [ ] 123. Lil Peep - Hellboy
 - [ ] 122. System of a Down - Toxicity
 - [ ] 121. Missy Elliott - Supa Dupa Fly
