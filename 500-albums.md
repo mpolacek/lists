@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 178/500
+Current score: 181/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -109,7 +109,7 @@ Current score: 178/500
 - [ ] 102. The Clash - The Clash
 - [ ] 103. De La Soul - 3 Feet High and Rising
 - [ ] 104. The Rolling Stones - Sticky Fingers
-- [ ] 105. The Allman Brothers Band - At Fillmore East (1971)
+- [X] 105. The Allman Brothers Band - At Fillmore East (1971)
 - [X] 106. Hole - Live Through This
 - [X] 107. Television - Marquee Moon
 - [ ] 108. Fiona Apple - When the Pawn
@@ -453,8 +453,8 @@ Current score: 178/500
 - [ ] 446. Journey in Satchidananda (Alice Coltrane, 1971)
 - [ ] 447. Bad Bunny - X 100PRE
 - [ ] 448. Otis Redding- Dictionary of Soul
-- [ ] 449. The White Stripes - Elephant
-- [ ] 450. Paul McCartney - RAM
+- [X] 449. The White Stripes - Elephant
+- [X] 450. Paul McCartney - RAM
 - [ ] 451. Roberta Flack - First Take
 - [ ] 452. Diana Ross and the Supremes - Anthology
 - [ ] 453. Nine Inch Nails - Pretty Hate Machine

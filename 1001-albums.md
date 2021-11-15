@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 291/1079
+Current score: 298/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -53,7 +53,7 @@ Current score: 291/1079
 - [ ] 46. The Rolling Stones - The Rolling Stones (1964)
 - [ ] 47. Buck Owens and His Buckaroos - I've Got a Tiger by the Tail (1964)
 - [ ] 48. Jerry Lee Lewis - Live at the Star Club Hamburg
-- [ ] 49. The Sonics - Here Are the Sonics
+- [X] 49. The Sonics - Here Are the Sonics
 - [ ] 50. Bob Dylan - Bringing It All Back Home
 - [X] 51. Otis Redding - Otis Blue: Otis Redding Sings Soul
 - [ ] 52. The Beach Boys - The Beach Boys Today! (1965)
@@ -84,7 +84,7 @@ Current score: 291/1079
 - [X] 77. Nico - Chelsea Girl (1967)
 - [X] 78. The Beatles - Sgt. Pepper's Lonely Hearts Club Band (1967)
 - [ ] 79. Country Joe & the Fish: Electric Music for the Mind and Body
-- [ ] 80. Buffalo Springfield Again
+- [X] 80. Buffalo Springfield - Buffalo Springfield Again
 - [ ] 81. Captain Beefheart & His Magic Band - Safe as Milk
 - [ ] 82. Moby Grape - Moby Grape (1967)
 - [ ] 83. Love - Da Capo
@@ -115,7 +115,7 @@ Current score: 291/1079
 - [ ] 108. Traffic - Traffic (1968)
 - [ ] 109. The Incredible String Band - The Hangman's Beautiful Daughter (1968)
 - [ ] 110. The Kinks - The Kinks Are the Village Green Preservation Society
-- [ ] 111. Ravi Shankar - The Sounds of India (1968)
+- [X] 111. Ravi Shankar - The Sounds of India (1968)
 - [ ] 112. Os Mutantes - Os Mutantes (1968)
 - [ ] 113. The Jimi Hendrix Experience - Electric Ladyland (1968)
 - [ ] 114. Leonard Cohen - Songs of Leonard Cohen
@@ -177,7 +177,7 @@ Current score: 291/1079
 - [ ] 170. Fairport Convention: Liege & Lief
 - [ ] 171. Scott Walker - Scott4
 - [X] 172. The Stooges - The Stooges (1969)
-- [ ] 173. Alexander Spence - Oar
+- [X] 173. Alexander "Skip" Spence - Oar
 - [ ] 174. Frank Zappa - Hot Rats
 - [X] 175. Creedence Clearwater Revival - Cosmo's Factory (1970)
 - [ ] 176. Derek and the Dominos – Layla & Other Assorted Love Songs
@@ -218,7 +218,7 @@ Current score: 291/1079
 - [ ] 211. Who's Next (The Who, 1971)
 - [X] 212. Carole King - Tapestry
 - [ ] 213. Isaac Hayes - Shaft: Music From the Soundtrack
-- [ ] 214. The Allman Brothers Band - At Fillmore East (1971)
+- [X] 214. The Allman Brothers Band - At Fillmore East (1971)
 - [ ] 215. Sticky Fingers (The Rolling Stones, 1971)
 - [ ] 216. John Lennon: Imagine
 - [ ] 217. The Beach Boys - Surf's Up (1971)
@@ -950,7 +950,7 @@ Current score: 291/1079
 - [X] 943. Drive by Truckers - Southern Rock Opera
 - [ ] 944. Super Furry Animals - Rings Around the World
 - [ ] 945. The Vines - Highly Evolved
-- [ ] 946. Jurassic 5 - Power in Numbers
+- [X] 946. Jurassic 5 - Power in Numbers
 - [X] 947. Wilco - Yankee Hotel Foxtrot
 - [ ] 948. Christina Aguilera - Stripped
 - [X] 949. Coldplay - A Rush of Blood to the Head
@@ -974,7 +974,7 @@ Current score: 291/1079
 - [ ] 967. Dizzee Rascal - Boy in Da Corner
 - [ ] 968. The Mars Volta - De-Loused in the Comatorium
 - [ ] 969. Lightning Bolt - Wonderful Rainbow
-- [ ] 970. Elephant - The White Stripes
+- [X] 970. The White Stripes - Elephant
 - [ ] 971. Kings of Leon - Youth and Young Manhood
 - [ ] 972. Rufus Wainwright - Want One
 - [ ] 973. The Thrills - So Much for the City

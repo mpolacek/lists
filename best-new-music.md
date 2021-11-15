@@ -1,11 +1,11 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 40/834
+Current score: 42/834
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
-- [ ] 834. Snail Mail - Valentine
+- [X] 834. Snail Mail - Valentine
 - [ ] 833. aya - im hole
 - [ ] 832. The War on Drugs - I Don’t Live Here Anymore
 - [ ] 831. Grouper - Shade
@@ -392,7 +392,7 @@ Current score: 40/834
 - [ ] 450. The Haxan Cloak - Excavation
 - [ ] 449. Kurt Vile - Wakin on a Pretty Daze
 - [ ] 448. The Knife - Shaking the Habitual
-- [ ] 447. DJ Koze - Amygdala
+- [X] 447. DJ Koze - Amygdala
 - [ ] 446. Justin Timberlake- The 20/20 Experience
 - [ ] 445. Phosphorescent - Muchacho
 - [ ] 444. Waxahatchee - Cerulean Salt
