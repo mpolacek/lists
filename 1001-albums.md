@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 298/1079
+Current score: 301/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -31,7 +31,7 @@ Current score: 298/1079
 - [X] 24. Joan Baez - Joan Baez (1960)
 - [ ] 25. Elvis Presley - Elvis Is Back!
 - [ ] 26. Miriam Makeba - Miriam Makeba (1960)
-- [ ] 27. The Everly Brothers - A Date With the Everly Brothers
+- [X] 27. The Everly Brothers - A Date With the Everly Brothers
 - [ ] 28. Jimmy Smith - Back at the Chicken Shack
 - [X] 29. Muddy Waters - At Newport 1960
 - [X] 30. Bill Evans - Sunday at the Village Vanguard
@@ -640,7 +640,7 @@ Current score: 298/1079
 - [ ] 633. Dwight Yoakam - Buenas Noches From a Lonely Room (1988)
 - [ ] 634. Jane's Addiction - Nothing's Shocking
 - [ ] 635. It Takes a Nation of Millions to Hold Us Back (Public Enemy, 1988)
-- [ ] 636. Faith No More - The Real Thing
+- [X] 636. Faith No More - The Real Thing
 - [ ] 637. Lenny Kravitz - Let Love Rule (1989)
 - [ ] 638. John Lee Hooker - The Healer (1989)
 - [ ] 639. New Order - Technique
@@ -991,7 +991,7 @@ Current score: 298/1079
 - [ ] 984. Kings of Leon - Aha Shake Heartbreak
 - [ ] 985. Mylo Destroy Rock and Roll
 - [ ] 986. Ozomatli - Street Signs
-- [ ] 987. The Streets - A Grand Don't Come for Free
+- [X] 987. The Streets - A Grand Don't Come for Free
 - [ ] 988. Brian Wilson - Brian Wilson Presents: Smile (2004)
 - [ ] 989. The Beta Band - Heroes to Zeros
 - [ ] 990. Rufus Wainwright Want Two

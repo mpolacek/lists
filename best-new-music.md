@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 42/834
+Current score: 48/834
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -577,7 +577,7 @@ Current score: 42/834
 - [ ] 265. Delorean - Ayrton Senna EP
 - [ ] 264. Jj - Jj Nº 2
 - [ ] 263. Cass McCombs - Catacombs
-- [ ] 262. Bibio - Ambivalence Avenue
+- [X] 262. Bibio - Ambivalence Avenue
 - [ ] 261. Sunset Rubdown - Dragonslayer
 - [ ] 260. Dinosaur Jr. - Farm
 - [ ] 259. Mos Def - The Ecstatic
@@ -773,7 +773,7 @@ Current score: 42/834
 - [ ] 69. A.C. Newman - The Slow Wonder
 - [X] 68. Sonic Youth - Sonic Nurse
 - [ ] 67. Morrissey - You Are the Quarry
-- [ ] 66. The Streets - A Grand Don't Come for Free
+- [X] 66. The Streets - A Grand Don't Come for Free
 - [ ] 65. Mirah - C'mon Miracle
 - [ ] 64. Erlend Øye - DJ Kicks
 - [ ] 63. Animal Collective - Sung Tongs
@@ -820,7 +820,7 @@ Current score: 42/834
 - [ ] 22. Fog - Ether Teeth
 - [ ] 21. M83 - Dead Cities, Red Seas & Lost Ghosts
 - [ ] 20. Prefuse 73 - One Word Extinguisher
-- [ ] 19. Four Tet - Rounds
+- [X] 19. Four Tet - Rounds
 - [ ] 18. Panthers - Let's Get Serious EP
 - [ ] 17. Sunburned Hand of the Man - Headdress
 - [ ] 16. Exploding Hearts - Guitar Romantic
@@ -832,10 +832,10 @@ Current score: 42/834
 - [ ] 10. Lightning Bolt - Wonderful Rainbow
 - [ ] 9. Majesticons - Beauty Party
 - [ ] 8. Various Artists - Supersilent 6
-- [ ] 7. Giddy Motors - Make It Pop
+- [X] 7. Giddy Motors - Make It Pop
 - [ ] 6. Ted Leo and the Pharmacists - Hearts of Oak
 - [ ] 5. The Soft Pink Truth - Do You Party?
-- [ ] 4. Broken Social Scene - You Forgot It in People (2002)
+- [X] 4. Broken Social Scene - You Forgot It in People (2002)
 - [ ] 3. The Angels of Light - Everything Is Good Here/Please Come Home
 - [ ] 2. The Microphones - Mount Eerie
-- [ ] 1. Out Hud - S.T.R.E.E.T. D.A.D.
+- [X] 1. Out Hud - S.T.R.E.E.T. D.A.D.
