@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 48/834
+Current score: 49/834
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -152,7 +152,7 @@ Current score: 48/834
 - [ ] 690. Beach House - 7
 - [ ] 689. Jon Hopkins - Singularity
 - [ ] 688. Iceage - Beyondless
-- [ ] 687. DJ Koze - Knock Knock (2018)
+- [X] 687. DJ Koze - Knock Knock (2018)
 - [ ] 686. Sleep - The Sciences
 - [ ] 685. Saba - Care for Me
 - [ ] 684. Kali Uchis - Isolation
