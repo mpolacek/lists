@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 71/265
+Current score: 73/265
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -247,8 +247,8 @@ Current score: 71/265
 - [ ] 26. Brand New - The Devil and God Are Raging Inside Me
 - [ ] 25. Ice Cube - Death Certificate
 - [ ] 24. Leonard Cohen - I'm Your Man
-- [ ] 23. Minutemen - Double Nickels on the Dime
-- [ ] 22. ABBA - Arrival
+- [X] 23. Minutemen - Double Nickels on the Dime
+- [X] 22. ABBA - Arrival
 - [X] 21. Bob Dylan - Blood on the Tracks
 - [ ] 20. Ramones - End of the Century
 - [ ] 19. Randy Newman - Good Old Boys

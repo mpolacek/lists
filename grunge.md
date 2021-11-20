@@ -3,7 +3,7 @@
 
 [web](https://www.rollingstone.com/music/music-lists/50-greatest-grunge-albums-798851/)
 
-Current score: 27/50
+Current score: 28/50
 
 `$ grep "\[X\]" grunge.md | wc -l`
 
@@ -20,7 +20,7 @@ Current score: 27/50
 - [X] 11. Stone Temple Pilots - Core (1992)
 - [X] 12. Smashing Pumpkins - Siamese Dream (1993)
 - [X] 13. Nirvana - Bleach (1989)
-- [ ] 14. Alice in Chains - Facelift (1990)
+- [X] 14. Alice in Chains - Facelift (1990)
 - [X] 15. L7 - Bricks Are Heavy (1992)
 - [X] 16. Melvins - Houdini (1993)
 - [X] 17. Screaming Trees - Sweet Oblivion (1992)

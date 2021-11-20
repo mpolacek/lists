@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 301/1079
+Current score: 305/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -347,7 +347,7 @@ Current score: 301/1079
 - [ ] 340. Rahul Dev Burman - Shalimar (1978)
 - [X] 341. Neil Young - Tonight's the Night (1975)
 - [X] 342. Bob Dylan - Blood on the Tracks
-- [ ] 343. Patti Smith - Horses (1975)
+- [X] 343. Patti Smith - Horses (1975)
 - [X] 344. Pink Floyd - Wish You Were Here
 - [ ] 345. Queen - A Night at the Opera
 - [ ] 346. Willie Nelson - Red Headed Stranger
@@ -359,7 +359,7 @@ Current score: 301/1079
 - [ ] 352. Joni Mitchell - Hejira
 - [ ] 353. Boston - Boston
 - [X] 354. Eagles - Hotel California
-- [ ] 355. ABBA - Arrival
+- [X] 355. ABBA - Arrival
 - [ ] 356. Kiss - Destroyer
 - [ ] 357. Rush - 2112 (1976)
 - [ ] 358. Jorge Ben - África Brasil
@@ -547,7 +547,7 @@ Current score: 301/1079
 - [X] 540. The Style Council - Café Bleu (1984)
 - [ ] 541. Tina Turner Private Dancer
 - [ ] 542. Echo and the Bunnymen - Ocean Rain
-- [ ] 543. Minutemen - Double Nickels on the Dime
+- [X] 543. Minutemen - Double Nickels on the Dime
 - [ ] 544. Llyod Cole and the Commotions - Rattlesnakes (1984)
 - [ ] 545. N'dour Youssou Immigres
 - [X] 546. Bruce Springsteen - Born in the U.S.A.
@@ -613,7 +613,7 @@ Current score: 301/1079
 - [ ] 606. The Triffids - Calenture (1987)
 - [X] 607. Michael Jackson - Bad
 - [ ] 608. Pet Shop Boys - Actually
-- [ ] 609. U2 - The Joshua Tree
+- [X] 609. U2 - The Joshua Tree
 - [ ] 610. Introducing the Hardline According to Terence Trent D'Arby
 - [X] 611. The Pogues - If I Should Fall From Grace With God (1988)
 - [ ] 612. Leonard Cohen - I'M Your Man (1988)

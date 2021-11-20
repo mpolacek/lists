@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 181/500
+Current score: 184/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -30,7 +30,7 @@ Current score: 181/500
 - [X] 23. The Velvet Underground - The Velvet Underground & Nico
 - [X] 24. The Beatles - Sgt. Pepper's Lonely Hearts Club Band
 - [X] 25. Carole King - Tapestry (1971)
-- [ ] 26. Patti Smith - Horses (1975)
+- [X] 26. Patti Smith - Horses (1975)
 - [X] 27. Wu-Tang Clan - Enter the Wu-Tang (36 Chambers) (1993)
 - [X] 28. D'Angelo - Voodoo
 - [X] 29. The Beatles - The Beatles [White Album]
@@ -139,7 +139,7 @@ Current score: 181/500
 - [ ] 132. Hank Williams - 40 Greatest Hits
 - [ ] 133. Joni Mitchell - Hejira
 - [X] 134. Fugees - The Score
-- [ ] 135. U2 - The Joshua Tree
+- [X] 135. U2 - The Joshua Tree
 - [X] 136. Funkadelic - Maggot Brain
 - [ ] 137. Adele - 21
 - [ ] 138. Madonna - The Immaculate Collection
@@ -271,7 +271,7 @@ Current score: 181/500
 - [X] 264. Pink Floyd - Wish You Were Here
 - [ ] 265. Pavement - Wowee Zowee
 - [ ] 266. The Beatles - Help!
-- [ ] 267. Minutemen - Double Nickels on the Dime
+- [X] 267. Minutemen - Double Nickels on the Dime
 - [X] 268. Randy Newman - Sail Away
 - [ ] 269. Kanye West - Yeezus (2013)
 - [ ] 270. Kacey Musgraves - Golden Hour
