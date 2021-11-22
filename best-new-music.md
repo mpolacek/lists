@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 49/834
+Current score: 53/834
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -154,7 +154,7 @@ Current score: 49/834
 - [ ] 688. Iceage - Beyondless
 - [X] 687. DJ Koze - Knock Knock (2018)
 - [ ] 686. Sleep - The Sciences
-- [ ] 685. Saba - Care for Me
+- [X] 685. Saba - Care for Me
 - [ ] 684. Kali Uchis - Isolation
 - [ ] 683. Cardi B - Invasion of Privacy
 - [ ] 682. Jean Grae & Quelle Chris - Everything's Fine
@@ -563,14 +563,14 @@ Current score: 49/834
 - [ ] 279. Fuck Buttons - Tarot Sport
 - [ ] 278. Atlas Sound - Logos
 - [ ] 277. The Mountain Goats - The Life of the World to Come
-- [ ] 276. Neon Indian - Psychic Chasms
+- [X] 276. Neon Indian - Psychic Chasms
 - [ ] 275. The Flaming Lips - Embryonic
 - [ ] 274. The Very Best - Warm Heart of Africa
 - [ ] 273. Memory Tapes - Seek Magic
 - [ ] 272. Girls - Album
 - [ ] 271. Volcano Choir - Unmap
 - [ ] 270. Raekwon - Only Built 4 Cuban Linx... Pt II
-- [ ] 269. Wild Beasts - Two Dancers
+- [X] 269. Wild Beasts - Two Dancers
 - [X] 268. The Xx - The Xx
 - [ ] 267. Yacht - See Mystery Lights
 - [ ] 266. The Antlers - Hospice
@@ -584,7 +584,7 @@ Current score: 49/834
 - [X] 258. Dirty Projectors - Bitte Orca
 - [ ] 257. Sunn O))) - Monoliths & Dimensions
 - [ ] 256. Phoenix - Wolfgang Amadeus Phoenix
-- [ ] 255. Grizzly Bear - Veckatimest
+- [X] 255. Grizzly Bear - Veckatimest
 - [ ] 254. Isis - Wavering Radiant
 - [ ] 253. St. Vincent - Actor
 - [ ] 252. Japandroids - Post-Nothing

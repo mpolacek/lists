@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 305/1079
+Current score: 308/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -151,7 +151,7 @@ Current score: 305/1079
 - [X] 144. The Beatles - Abbey Road (1969)
 - [ ] 145. The Who - Tommy (1969)
 - [X] 146. Miles Davis - In a Silent Way (1969)
-- [ ] 147. Bee Gees - Odessa (1969)
+- [X] 147. Bee Gees - Odessa (1969)
 - [ ] 148. Pentangle - Basket of Light (1969)
 - [X] 149. The Rolling Stones - Let It Bleed (1969)
 - [ ] 150. Nick Drake, Five Leaves Left (1969)
@@ -1036,10 +1036,10 @@ Current score: 305/1079
 - [ ] 1029. Goldfrapp - Seventh Tree
 - [X] 1030. TV on the Radio - Dear Science
 - [ ] 1031. Slipknot - All Hope Is Gone
-- [ ] 1032. Wild Beasts - Two Dancers
+- [X] 1032. Wild Beasts - Two Dancers
 - [ ] 1033. Bill Callahan - Sometimes I Wish We Were an Eagle
 - [ ] 1034. Animal Collective - Merriweather Post Pavilion (2009)
-- [ ] 1035. Grizzly Bear - Veckatimest
+- [X] 1035. Grizzly Bear - Veckatimest
 - [ ] 1036. Yeah Yeah Yeahs - It's Blitz!
 - [X] 1037. Dirty Projectors - Bitte Orca
 - [X] 1038. The Xx - Xx

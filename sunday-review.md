@@ -1,11 +1,13 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 73/265
+Current score: 76/267
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
-- [ ] 265. White Town - Women in Technology
+- [X] 267. Master P - MP Da Last Don
+- [X] 266. Boz Scaggs - Silk Degrees
+- [X] 265. White Town - Women in Technology
 - [ ] 264. Shania Twain - Come On Over
 - [ ] 263. The Clash - Combat Rock
 - [X] 262. Seal - Seal
