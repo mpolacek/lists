@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 308/1079
+Current score: 311/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -265,7 +265,7 @@ Current score: 308/1079
 - [ ] 258. The Slider ( T. Rex, 1972)
 - [ ] 259. Davd Ackles - American Gothic (1972)
 - [ ] 260. Tim Buckley - Greetings From LA
-- [ ] 261. Nick Drake - Pink Moon
+- [X] 261. Nick Drake - Pink Moon
 - [ ] 262. Eagles - Eagles
 - [ ] 263. Paul Simon - Paul Simon
 - [ ] 264. Roxy Music - Roxy Music (1972)
@@ -878,7 +878,7 @@ Current score: 308/1079
 - [ ] 871. Hole - Celebrity Skin
 - [ ] 872. The Dandy Warhols - Come Down
 - [X] 873. Mercury Rev - Deserter's Songs
-- [ ] 874. Queens of the Stone Age - Queens of the Stone Age
+- [X] 874. Queens of the Stone Age - Queens of the Stone Age
 - [X] 875. Air - Moon Safari (1998)
 - [ ] 876. Korn - Follow the Leader
 - [X] 877. Talvin Singh - Ok
@@ -1022,7 +1022,7 @@ Current score: 308/1079
 - [ ] 1015. Klaxons - Myths of the Near Future
 - [ ] 1016. LCD Soundsystem - Sound of Silver
 - [X] 1017. Radiohead - In Rainbows
-- [ ] 1018. Arcade Fire - Neon Bible
+- [X] 1018. Arcade Fire - Neon Bible
 - [ ] 1019. MIA - Kala
 - [ ] 1020. The Good, the Bad & the Queen - The Good, the Bad & the Queen
 - [ ] 1021. Justice - Cross

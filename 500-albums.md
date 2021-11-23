@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 184/500
+Current score: 186/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -207,8 +207,8 @@ Current score: 184/500
 - [X] 200. Sade - Diamond Life
 - [X] 201. A Tribe Called Quest - Midnight Marauders
 - [X] 202. Björk - Homogenic (1997)
-- [ ] 203. Nick Drake - Pink Moon (1972)
-- [ ] 204. Kanye West - Graduation
+- [X] 203. Nick Drake - Pink Moon (1972)
+- [X] 204. Kanye West - Graduation
 - [ ] 205. Cat Stevens - Tea for the Tillerman
 - [X] 206. David Bowie - Low
 - [ ] 207. Eagles - Eagles

@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 53/834
+Current score: 56/834
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -647,7 +647,7 @@ Current score: 53/834
 - [ ] 195. Sunset Rubdown - Random Spirit Lover
 - [ ] 194. Iron & Wine - The Shepherd's Dog
 - [ ] 193. Les Savy Fav - Let's Stay Friends
-- [ ] 192. Kanye West - Graduation
+- [X] 192. Kanye West - Graduation
 - [ ] 191. Animal Collective - Strawberry Jam
 - [ ] 190. Black Lips - Good Bad Not Evil
 - [ ] 189. Jens Lekman - Night Falls Over Kortedala
@@ -673,7 +673,7 @@ Current score: 53/834
 - [ ] 169. Panda Bear - Person Pitch
 - [ ] 168. LCD Soundsystem - Sound of Silver
 - [ ] 167. Patrick Wolf - The Magic Position
-- [ ] 166. Arcade Fire - Neon Bible
+- [X] 166. Arcade Fire - Neon Bible
 - [ ] 165. Deerhunter - Cryptograms
 - [ ] 164. Of Montreal - Hissing Fauna, Are You the Destroyer?
 - [ ] 163. Deerhoof - Friend Opportunity
@@ -714,7 +714,7 @@ Current score: 53/834
 - [ ] 128. Love Is All - Nine Times That Same Song
 - [ ] 127. Jens Lekman - Oh You're So Silent Jens
 - [ ] 126. Vashti Bunyan - Lookaftering
-- [ ] 125. Animal Collective - Feels
+- [X] 125. Animal Collective - Feels
 - [ ] 124. The Clientele - Strange Geometry
 - [ ] 123. Deerhoof - The Runners Four
 - [ ] 122. Broken Social Scene - Broken Social Scene
