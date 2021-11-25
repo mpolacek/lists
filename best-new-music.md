@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 56/834
+Current score: 57/834
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -298,7 +298,7 @@ Current score: 56/834
 - [ ] 544. Jlin - Dark Energy
 - [ ] 543. Sufjan Stevens - Carrie & Lowell (2015)
 - [ ] 542. Courtney Barnett- Sometimes I Sit and Think, and Sometimes I Just Sit
-- [ ] 541. Kendrick Lamar - To Pimp a Butterfly
+- [X] 541. Kendrick Lamar - To Pimp a Butterfly
 - [ ] 540. Tobias Jesso Jr. - Goon
 - [ ] 539. Levon Vincent - Levon Vincent
 - [ ] 538. Drake - If You're Reading This It's Too Late

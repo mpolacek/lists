@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 311/1079
+Current score: 315/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -537,7 +537,7 @@ Current score: 311/1079
 - [ ] 530. Meat Puppets - Meat Puppets II
 - [ ] 531. Culture Club - Colour by Numbers
 - [ ] 532. Frankie Goes to Hollywood - Welcome to the Pleasuredome
-- [ ] 533. Run DMC - Run DMC
+- [X] 533. Run DMC - Run DMC
 - [X] 534. Sade - Diamond Life
 - [X] 535. Cocteau Twins - Treasure
 - [ ] 536. Minor Threat - Out of Step
@@ -660,7 +660,7 @@ Current score: 311/1079
 - [ ] 653. Coldcut What's That Noise?
 - [ ] 654. Barry Adamson - Moss Side Story (1989)
 - [ ] 655. Aerosmith - Pump
-- [ ] 656. Pixies - Doolittle
+- [X] 656. Pixies - Doolittle
 - [ ] 657. Nick of Time - Bonnie Raitt [1989]
 - [X] 658. Fugazi - Repeater
 - [ ] 659. Soul II Soul - Club Classics Vol. One
@@ -848,7 +848,7 @@ Current score: 311/1079
 - [ ] 841. The Chemical Bros. - Dig Your Own Hole (1997)
 - [ ] 842. Primal Scream - Vanishing Point
 - [ ] 843. Robert Wyatt - Shleep
-- [ ] 844. David Holmes - Lets Get Killed
+- [X] 844. David Holmes - Let's Get Killed
 - [ ] 845. Sleater-Kinney - Dig Me Out
 - [X] 846. The Prodigy - The Fat of the Land
 - [ ] 847. Buena Vista Social Club - Buena Vista Social Club
@@ -1070,7 +1070,7 @@ Current score: 311/1079
 - [ ] 1063. The War on Drugs - Lost in the Dream
 - [ ] 1064. Adele - 25
 - [ ] 1065. Björk - Vulnicura (2015)
-- [ ] 1066. Kendrick Lamar - To Pimp a Butterfly
+- [X] 1066. Kendrick Lamar - To Pimp a Butterfly
 - [ ] 1067. Songhoy Blues - Music in Exile (2015)
 - [ ] 1068. Skepta - Konnichiwa
 - [X] 1069. Solange - A Seat at the Table (2016)

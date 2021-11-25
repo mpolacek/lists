@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 186/500
+Current score: 189/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -23,7 +23,7 @@ Current score: 186/500
 - [X] 16. The Clash - London Calling (1979)
 - [ ] 17. Kanye West - My Beautiful Dark Twisted Fantasy
 - [X] 18. Bob Dylan - Highway 61 Revisited (1965)
-- [ ] 19. Kendrick Lamar - To Pimp a Butterfly
+- [X] 19. Kendrick Lamar - To Pimp a Butterfly
 - [X] 20. Radiohead - Kid A (2000)
 - [ ] 21. Bruce Springsteen - Born to Run
 - [X] 22. Notorious B.I.G. - Ready to Die
@@ -145,7 +145,7 @@ Current score: 186/500
 - [ ] 138. Madonna - The Immaculate Collection
 - [X] 139. Black Sabbath - Paranoid
 - [ ] 140. Bob Marley and the Wailers - Catch a Fire
-- [ ] 141. Pixies - Doolittle
+- [X] 141. Pixies - Doolittle
 - [X] 142. Bruce Springsteen - Born in the U.S.A.
 - [X] 143. The Velvet Underground - The Velvet Underground
 - [X] 144. Led Zeppelin - Physical Graffiti
@@ -382,7 +382,7 @@ Current score: 186/500
 - [ ] 375. Green Day - Dookie
 - [X] 376. Neutral Milk Hotel - In the Aeroplane Over the Sea
 - [ ] 377. Yeah Yeah Yeahs - Fever to Tell
-- [ ] 378. Run DMC - Run DMC
+- [X] 378. Run DMC - Run DMC
 - [ ] 379. Rush - Moving Pictures (1981)
 - [ ] 380. Charles Mingus - Mingus Ah Um (1959)
 - [ ] 381. Lynyrd Skynyrd - (Pronounced 'Lĕh-'Nérd 'Skin-'Nérd)
