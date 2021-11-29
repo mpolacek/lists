@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 189/500
+Current score: 190/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -189,7 +189,7 @@ Current score: 189/500
 - [X] 182. James Taylor - Sweet Baby James
 - [ ] 183. D'Angelo - Brown Sugar
 - [ ] 184. Cyndi Lauper - She's So Unusual
-- [ ] 185. The Rolling Stones - Beggar's Banquet
+- [X] 185. The Rolling Stones - Beggar's Banquet
 - [ ] 186. Red Hot Chili Peppers - Blood Sugar Sex Magik
 - [X] 187. Ice Cube - Amerikkka's Most Wanted
 - [ ] 188. T. Rex - Electric Warrior

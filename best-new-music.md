@@ -1,18 +1,19 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 57/834
+Current score: 67/835
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 835. Taylor Swift - Red (Taylor’s Version)
 - [X] 834. Snail Mail - Valentine
 - [ ] 833. aya - im hole
 - [ ] 832. The War on Drugs - I Don’t Live Here Anymore
-- [ ] 831. Grouper - Shade
-- [ ] 830. Xenia Rubinos - Una Rosa
-- [ ] 829. Wiki - Half God
-- [ ] 828. Tirzah - Colourgrade
-- [ ] 827. Nala Sinephro - Space 1.8
+- [X] 831. Grouper - Shade
+- [X] 830. Xenia Rubinos - Una Rosa
+- [X] 829. Wiki - Half God
+- [X] 828. Tirzah - Colourgrade
+- [X] 827. Nala Sinephro - Space 1.8
 - [X] 826. Low - Hey What
 - [X] 825. Indigo De Souza - Any Shape You Take
 - [ ] 824. Turnstile - Glow On
@@ -804,17 +805,17 @@ Current score: 57/834
 - [ ] 38. Cyann & Ben - Spring
 - [ ] 37. The Wrens - The Meadowlands
 - [ ] 36. Need New Body - UFO
-- [ ] 35. The Deadly Snakes - Ode to Joy
-- [ ] 34. My Morning Jacket - It Still Moves...
+- [X] 35. The Deadly Snakes - Ode to Joy
+- [X] 34. My Morning Jacket - It Still Moves...
 - [ ] 33. Viktor Vaughn - Vaudeville Villain
-- [ ] 32. The Rapture - Echoes
-- [ ] 31. The Decemberists - Her Majesty the Decemberists
+- [X] 32. The Rapture - Echoes
+- [X] 31. The Decemberists - Her Majesty the Decemberists
 - [ ] 30. Polysics - Neu
 - [ ] 29. Sufjan Stevens - Greetings From Michigan: The Great Lakes State
 - [ ] 28. TV on the Radio - Young Liars EP
 - [ ] 27. Dizzee Rascal - Boy in Da Corner
 - [ ] 26. Why? - Oaklandazulasylum
-- [ ] 25. Clearlake - Cedars
+- [X] 25. Clearlake - Cedars
 - [ ] 24. Grandaddy - Sumday
 - [ ] 23. Single Frame - Wetheads Come Running
 - [ ] 22. Fog - Ether Teeth

@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 315/1079
+Current score: 316/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -111,7 +111,7 @@ Current score: 315/1079
 - [X] 104. The Velvet Underground - White Light/White Heat (1968)
 - [X] 105. The Jimi Hendrix Experience - Axis: Bold as Love (1967)
 - [X] 106. Aretha Franklin - I Never Loved a Man the Way I Love You (1967)
-- [ ] 107. The Rolling Stones - Beggars Banquet
+- [X] 107. The Rolling Stones - Beggars Banquet
 - [ ] 108. Traffic - Traffic (1968)
 - [ ] 109. The Incredible String Band - The Hangman's Beautiful Daughter (1968)
 - [ ] 110. The Kinks - The Kinks Are the Village Green Preservation Society
