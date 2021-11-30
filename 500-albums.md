@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 190/500
+Current score: 192/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -326,7 +326,7 @@ Current score: 190/500
 - [ ] 319. The Stone Roses - The Stone Roses
 - [ ] 320. X - Los Angeles (1980)
 - [ ] 321. Lana Del Rey - Norman Fucking Rockwell
-- [ ] 322. Elvis Presley - From Elvis in Memphis (1969)
+- [X] 322. Elvis Presley - From Elvis in Memphis (1969)
 - [ ] 323. The Clash - Sandinista!
 - [X] 324. Coldplay - A Rush of Blood to the Head
 - [ ] 325. Jerry Lee Lewis- All Killer, No Filler
@@ -388,7 +388,7 @@ Current score: 190/500
 - [ ] 381. Lynyrd Skynyrd - (Pronounced 'Lĕh-'Nérd 'Skin-'Nérd)
 - [ ] 382. Tame Impala - Currents
 - [X] 383. Massive Attack - Mezzanine (1998)
-- [ ] 384. The Kinks Are the Village Green Preservation Society
+- [X] 384. The Kinks - Are the Village Green Preservation Society
 - [ ] 385. Ramones - Rocket to Russia
 - [ ] 386. J Dilla - Donuts (2006)
 - [X] 387. Radiohead - In Rainbows (2007)

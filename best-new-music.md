@@ -1,14 +1,14 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 67/835
+Current score: 69/835
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
 - [ ] 835. Taylor Swift - Red (Taylor’s Version)
 - [X] 834. Snail Mail - Valentine
-- [ ] 833. aya - im hole
-- [ ] 832. The War on Drugs - I Don’t Live Here Anymore
+- [X] 833. aya - im hole
+- [X] 832. The War on Drugs - I Don’t Live Here Anymore
 - [X] 831. Grouper - Shade
 - [X] 830. Xenia Rubinos - Una Rosa
 - [X] 829. Wiki - Half God

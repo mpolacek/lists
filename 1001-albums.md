@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 316/1079
+Current score: 320/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -114,7 +114,7 @@ Current score: 316/1079
 - [X] 107. The Rolling Stones - Beggars Banquet
 - [ ] 108. Traffic - Traffic (1968)
 - [ ] 109. The Incredible String Band - The Hangman's Beautiful Daughter (1968)
-- [ ] 110. The Kinks - The Kinks Are the Village Green Preservation Society
+- [X] 110. The Kinks - The Kinks Are the Village Green Preservation Society
 - [X] 111. Ravi Shankar - The Sounds of India (1968)
 - [ ] 112. Os Mutantes - Os Mutantes (1968)
 - [ ] 113. The Jimi Hendrix Experience - Electric Ladyland (1968)
@@ -154,9 +154,9 @@ Current score: 316/1079
 - [X] 147. Bee Gees - Odessa (1969)
 - [ ] 148. Pentangle - Basket of Light (1969)
 - [X] 149. The Rolling Stones - Let It Bleed (1969)
-- [ ] 150. Nick Drake, Five Leaves Left (1969)
+- [X] 150. Nick Drake - Five Leaves Left (1969)
 - [X] 151. Dusty Springfield - Dusty in Memphis (1969)
-- [ ] 152. Elvis Presley - From Elvis in Memphis (1969)
+- [X] 152. Elvis Presley - From Elvis in Memphis (1969)
 - [X] 153. The Velvet Underground - The Velvet Underground
 - [X] 154. Quicksilver Messenger Service - Happy Trails
 - [X] 155. Led Zeppelin - Led Zeppelin
@@ -308,7 +308,7 @@ Current score: 316/1079
 - [X] 301. Brian Eno - Here Come the Warm Jets (1973)
 - [ ] 302. Bad Company - Bad Company
 - [ ] 303. The Lamb Lies Down on Broadway (Genesis, 1974)
-- [ ] 304. Inspiration Information (Shuggie Otis, 1974)
+- [X] 304. Shuggie Otis - Inspiration Information (1974)
 - [ ] 305. Stevie Wonder - Fulfillingness First Finale
 - [ ] 306. Eric Clapton 461 Ocean Boulevard
 - [ ] 307. Kraftwerk Autobahn
