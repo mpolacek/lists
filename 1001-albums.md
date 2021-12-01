@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 320/1079
+Current score: 321/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -118,7 +118,7 @@ Current score: 320/1079
 - [X] 111. Ravi Shankar - The Sounds of India (1968)
 - [ ] 112. Os Mutantes - Os Mutantes (1968)
 - [ ] 113. The Jimi Hendrix Experience - Electric Ladyland (1968)
-- [ ] 114. Leonard Cohen - Songs of Leonard Cohen
+- [X] 114. Leonard Cohen - Songs of Leonard Cohen
 - [X] 115. Johnny Cash - At Folsom Prison (1968)
 - [ ] 116. Laura Nyro - Eli and the Thirteenth Confession
 - [ ] 117. Aretha Franklin - Lady Soul (1968)

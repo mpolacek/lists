@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 192/500
+Current score: 194/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -159,7 +159,7 @@ Current score: 192/500
 - [ ] 152. Pretenders - Pretenders
 - [X] 153. PJ Harvey - Rid of Me
 - [ ] 154. Aretha Franklin - Amazing Grace
-- [ ] 155. Jay-Z - The Black Album
+- [X] 155. Jay-Z - The Black Album
 - [ ] 156. The Replacements - Let It Be
 - [ ] 157. Oasis - (What's the Story) Morning Glory
 - [ ] 158. Erykah Badu - Mama's Gun
@@ -199,7 +199,7 @@ Current score: 192/500
 - [ ] 192. Beastie Boys - Licensed to Ill
 - [ ] 193. Creedence Clearwater Revival - Willy and the Poor Boys
 - [X] 194. Michael Jackson - Bad
-- [ ] 195. Leonard Cohen - Songs of Leonard Cohen (1967)
+- [X] 195. Leonard Cohen - Songs of Leonard Cohen (1967)
 - [ ] 196. Robyn - Body Talk
 - [ ] 197. The Beatles - Meet the Beatles!
 - [ ] 198. The B-52's - The B-52's

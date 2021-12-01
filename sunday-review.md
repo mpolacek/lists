@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 76/267
+Current score: 77/267
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -46,7 +46,7 @@ Current score: 76/267
 - [ ] 229. A.R. Kane - 69
 - [ ] 228. Sylvester - Step II
 - [ ] 227. Devin the Dude - Just Tryin’ Ta Live
-- [ ] 226. Iris DeMent - Infamous Angel
+- [X] 226. Iris DeMent - Infamous Angel
 - [X] 225. Thin Lizzy - Jailbreak
 - [ ] 224. Virginia Astley - From Gardens Where We Feel Secure
 - [ ] 223. U2 - Zooropa

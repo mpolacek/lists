@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 69/835
+Current score: 73/835
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -376,9 +376,9 @@ Current score: 69/835
 - [ ] 467. Kanye West - Yeezus
 - [ ] 466. These New Puritans, Field of Reeds
 - [ ] 465. Deafheaven - Sunbather
-- [ ] 464. Boards of Canada - Tomorrow's Harvest
+- [X] 464. Boards of Canada - Tomorrow's Harvest
 - [ ] 463. Jon Hopkins - Immunity
-- [ ] 462. Disclosure - Settle
+- [X] 462. Disclosure - Settle
 - [ ] 461. Various Artists - After Dark 2
 - [ ] 460. Baths - Obsidian
 - [ ] 459. Dirty Beaches - Drifters/Love Is the Devil
@@ -761,7 +761,7 @@ Current score: 69/835
 - [ ] 82. Brian Wilson - Smile
 - [ ] 81. Interpol - Antics
 - [ ] 80. Dungen - Ta Det Lugnt
-- [ ] 79. The Foreign Exchange - Connected
+- [X] 79. The Foreign Exchange - Connected
 - [X] 78. Arcade Fire - Funeral
 - [ ] 77. Castanets - Cathedral (2004)
 - [ ] 76. Bjork - Medulla
@@ -794,7 +794,7 @@ Current score: 69/835
 - [X] 49. Air - Talkie Walkie
 - [ ] 48. Phillip Jeck - 7
 - [ ] 47. Mu - Afro Finger & Gel
-- [ ] 46. Jay-Z - The Black Album
+- [X] 46. Jay-Z - The Black Album
 - [ ] 45. The Unicorns - Who Will Cut Our Hair When We're Gone?
 - [ ] 44. Ellen Allien - Berlinette
 - [X] 43. Menomena - I Am the Fun Blame Monster
