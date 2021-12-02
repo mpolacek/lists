@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 73/835
+Current score: 75/835
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -99,7 +99,7 @@ Current score: 73/835
 - [ ] 744. Florist - Emily Alone (2019)
 - [ ] 743. Maxo Kream - Brandon Banks
 - [ ] 742. Purple Mountains - Purple Mountains
-- [ ] 741. Moodymann - Sinner
+- [X] 741. Moodymann - Sinner
 - [ ] 740. MIKE - Tears of Joy
 - [ ] 739. Thom Yorke - Anima
 - [ ] 738. Black Midi - Schlagenheim
@@ -258,7 +258,7 @@ Current score: 73/835
 - [ ] 585. Kendrick Lamar - Untitled Unmastered
 - [ ] 584. Anna Meredith - Varmints
 - [ ] 583. Esperanza Spalding - Emily'S D+Evolution
-- [ ] 582. Moodymann - DJ-Kicks
+- [X] 582. Moodymann - DJ-Kicks
 - [ ] 581. Kanye West - The Life of Pablo
 - [ ] 580. Porches - Pool
 - [ ] 579. Kevin Gates - Islah

@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 194/500
+Current score: 195/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -270,7 +270,7 @@ Current score: 194/500
 - [X] 263. The Beatles - A Hard Day's Night
 - [X] 264. Pink Floyd - Wish You Were Here
 - [ ] 265. Pavement - Wowee Zowee
-- [ ] 266. The Beatles - Help!
+- [X] 266. The Beatles - Help!
 - [X] 267. Minutemen - Double Nickels on the Dime
 - [X] 268. Randy Newman - Sail Away
 - [ ] 269. Kanye West - Yeezus (2013)

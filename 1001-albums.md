@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 321/1079
+Current score: 324/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -556,7 +556,7 @@ Current score: 321/1079
 - [ ] 549. A-Ha - Hunting High and Low (1985)
 - [ ] 550. Tears for Fears - Songs From the Big Chair
 - [ ] 551. Brothers in Arms (Dire Straits, 1985)
-- [ ] 552. Prefab Sprout - Steve McQueen
+- [X] 552. Prefab Sprout - Steve McQueen
 - [ ] 553. The Mekons - Fear and Whiskey
 - [ ] 554. Big Black - Atomizer
 - [ ] 555. Suzanne Vega - Suzanne Vega (1985)
@@ -837,7 +837,7 @@ Current score: 321/1079
 - [X] 830. Underworld - Second Toughest in the Infants
 - [ ] 831. Jon Spencer Blues Group Now I Got Worry
 - [ ] 832. Cardigans First Band on the Moon
-- [ ] 833. Marilyn Manson - Antichrist Superstar
+- [X] 833. Marilyn Manson - Antichrist Superstar
 - [X] 834. The Fugees - The Score (1996)
 - [ ] 835. Ash - 1977
 - [X] 836. Belle and Sebastian - If You're Feeling Sinister
@@ -1047,7 +1047,7 @@ Current score: 321/1079
 - [ ] 1040. Beach House - Teen Dream
 - [X] 1041. The Black Keys - Brothers
 - [ ] 1042. Kanye West - My Beautiful Dark Twisted Fantasy (2010)
-- [ ] 1043. John Grant - Queen of Denmark
+- [X] 1043. John Grant - Queen of Denmark
 - [ ] 1044. Janelle Monáe - The Archandroid
 - [ ] 1045. The National - High Violet
 - [ ] 1046. Deerhunter - Halcyon Digest
