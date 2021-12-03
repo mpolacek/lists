@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 75/835
+Current score: 79/835
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -509,7 +509,7 @@ Current score: 75/835
 - [ ] 334. Sufjan Stevens - The Age of Adz
 - [ ] 333. Twin Shadow - Forget
 - [ ] 332. No Age - Everything in Between
-- [ ] 331. Deerhunter - Halcyon Digest
+- [X] 331. Deerhunter - Halcyon Digest
 - [ ] 330. How to Dress Well - Love Remains
 - [ ] 329. Das Racist - Sit Down, Man
 - [ ] 328. The Walkmen - Lisbon
@@ -675,7 +675,7 @@ Current score: 75/835
 - [ ] 168. LCD Soundsystem - Sound of Silver
 - [ ] 167. Patrick Wolf - The Magic Position
 - [X] 166. Arcade Fire - Neon Bible
-- [ ] 165. Deerhunter - Cryptograms
+- [X] 165. Deerhunter - Cryptograms
 - [ ] 164. Of Montreal - Hissing Fauna, Are You the Destroyer?
 - [ ] 163. Deerhoof - Friend Opportunity
 - [ ] 162. Menomena - Friend & Foe
@@ -784,9 +784,9 @@ Current score: 75/835
 - [ ] 59. William Basinski - The Disintegration Loops
 - [ ] 58. Iron & Wine - Our Endless Numbered Days
 - [ ] 57. Madvillain - Madvillainy
-- [ ] 56. Devendra Banhart - Rejoicing in the Hands
+- [X] 56. Devendra Banhart - Rejoicing in the Hands
 - [ ] 55. Sufjan Stevens - Seven Swans
-- [ ] 54. Franz Ferdinand - Franz Ferdinand
+- [X] 54. Franz Ferdinand - Franz Ferdinand
 - [ ] 53. Cee-Lo Green... Is the Soul Machine
 - [X] 52. Kanye West - The College Dropout
 - [ ] 51. Xiu Xiu - Fabulous Muscles

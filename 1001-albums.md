@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 324/1079
+Current score: 327/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -980,10 +980,10 @@ Current score: 324/1079
 - [ ] 973. The Thrills - So Much for the City
 - [ ] 974. Yeah Yeah Yeahs - Fever to Tell
 - [ ] 975. Amy Winehouse - Frank
-- [ ] 976. Devendra Banhart - Rejoicing in the Hands
+- [X] 976. Devendra Banhart - Rejoicing in the Hands
 - [ ] 977. Nick Cave and the Bad Seeds - The Lyre of Orpheus/Abattoir Blues
 - [ ] 978. Scissor Sisters - Scissor Sister
-- [ ] 979. Franz Ferdinand - Franz Ferdinand
+- [X] 979. Franz Ferdinand - Franz Ferdinand
 - [ ] 980. Björk - Medúlla
 - [ ] 981. N * E * R * D - Fly or Die
 - [X] 982. Kanye West - The College Dropout
@@ -1050,7 +1050,7 @@ Current score: 324/1079
 - [X] 1043. John Grant - Queen of Denmark
 - [ ] 1044. Janelle Monáe - The Archandroid
 - [ ] 1045. The National - High Violet
-- [ ] 1046. Deerhunter - Halcyon Digest
+- [X] 1046. Deerhunter - Halcyon Digest
 - [ ] 1047. Arcade Fire - The Suburbs
 - [ ] 1048. Adele - 21
 - [ ] 1049. P.J. Harvey - Let England Shake
