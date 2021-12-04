@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 79/835
+Current score: 83/835
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -602,7 +602,7 @@ Current score: 79/835
 - [ ] 241. Antony and the Johnsons - The Crying Light
 - [ ] 240. Animal Collective - Merriweather Post Pavilion (2009)
 - [ ] 239. The Very Best - Esau Mwamwaya & Radioclit Are the Very Best
-- [ ] 238. Deerhunter - Microcastle
+- [X] 238. Deerhunter - Microcastle
 - [ ] 237. DJ /Rupture - Uproot
 - [ ] 236. Fucked Up - The Chemistry of Common Life (2008)
 - [ ] 235. Mount Eerie - Lost Wisdom
@@ -611,7 +611,7 @@ Current score: 79/835
 - [ ] 232. Vivian Girls - Vivian Girls
 - [X] 231. TV on the Radio - Dear Science
 - [ ] 230. Flying Lotus - Los Angeles
-- [ ] 229. Lindstrom - Where You Go I Go Too
+- [X] 229. Lindstrom - Where You Go I Go Too
 - [ ] 228. The Walkmen - You & Me
 - [X] 227. The Bug - London Zoo
 - [ ] 226. Harvey Milk - Life... the Best Game in Town (2008)
@@ -680,9 +680,9 @@ Current score: 79/835
 - [ ] 163. Deerhoof - Friend Opportunity
 - [ ] 162. Menomena - Friend & Foe
 - [ ] 161. Sally Shapiro - Disco Romance
-- [ ] 160. Clipse - Hell Hath No Fury
+- [X] 160. Clipse - Hell Hath No Fury
 - [ ] 159. Joanna Newsom - Ys
-- [ ] 158. Lindstrom - It's a Feedelity Affair
+- [X] 158. Lindstrom - It's a Feedelity Affair
 - [ ] 157. Peter Bjorn and John - Writer's Block
 - [ ] 156. Tim Hecker - Harmony in Ultraviolet
 - [ ] 155. Califone - Roots and Crowns

@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 327/1079
+Current score: 328/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -564,7 +564,7 @@ Current score: 327/1079
 - [X] 557. Kate Bush - Hounds of Love (1985)
 - [ ] 558. The Smiths - Meat Is Murder (1985)
 - [ ] 559. Rain Dogs (Tom Waits, 1985)
-- [ ] 560. The Jesus and Mary Chain - Psychocandy
+- [X] 560. The Jesus and Mary Chain - Psychocandy
 - [X] 561. New Order - Low-Life
 - [ ] 562. Simply Red - Picture Book
 - [ ] 563. Dexy's Midnight Runners - Don't Stand Me Down
