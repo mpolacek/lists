@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 83/835
+Current score: 85/835
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -595,7 +595,7 @@ Current score: 83/835
 - [ ] 248. Bat for Lashes - Two Suns
 - [ ] 247. Fever Ray - Fever Ray
 - [ ] 246. Dan Deacon-Bromst
-- [ ] 245. Cymbals Eat Guitars - Why There Are Mountains
+- [X] 245. Cymbals Eat Guitars - Why There Are Mountains
 - [ ] 244. Wavves - Wavvves (2009)
 - [ ] 243. Dark Was the Night
 - [ ] 242. The Pains of Being Pure at Heart - The Pains of Being Pure at Heart
@@ -834,7 +834,7 @@ Current score: 83/835
 - [ ] 9. Majesticons - Beauty Party
 - [ ] 8. Various Artists - Supersilent 6
 - [X] 7. Giddy Motors - Make It Pop
-- [ ] 6. Ted Leo and the Pharmacists - Hearts of Oak
+- [X] 6. Ted Leo and the Pharmacists - Hearts of Oak
 - [ ] 5. The Soft Pink Truth - Do You Party?
 - [X] 4. Broken Social Scene - You Forgot It in People (2002)
 - [ ] 3. The Angels of Light - Everything Is Good Here/Please Come Home

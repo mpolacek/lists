@@ -1,10 +1,11 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 77/267
+Current score: 77/268
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 268. Richard and Linda Thompson - I Want to See the Bright Lights Tonight
 - [X] 267. Master P - MP Da Last Don
 - [X] 266. Boz Scaggs - Silk Degrees
 - [X] 265. White Town - Women in Technology
