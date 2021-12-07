@@ -1,10 +1,11 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 85/835
+Current score: 89/836
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 836. Arca - KicK iii
 - [ ] 835. Taylor Swift - Red (Taylor’s Version)
 - [X] 834. Snail Mail - Valentine
 - [X] 833. aya - im hole
@@ -24,13 +25,13 @@ Current score: 85/835
 - [ ] 819. Mach-Hommy - Pray for Haiti
 - [X] 818. Mdou Moctar - Afrique Victime
 - [ ] 817. Iceage - Seek Shelter
-- [ ] 816. Arooj Aftab - Vulture Prince
+- [X] 816. Arooj Aftab - Vulture Prince
 - [ ] 815. The Armed - ULTRAPOP
-- [ ] 814. Vijay Iyer / Linda May Han Oh / Tyshawn Sorey - Uneasy
-- [ ] 813. Spirit of the Beehive - ENTERTAINMENT, DEATH
+- [X] 814. Vijay Iyer / Linda May Han Oh / Tyshawn Sorey - Uneasy
+- [X] 813. Spirit of the Beehive - ENTERTAINMENT, DEATH
 - [X] 812. Dry Cleaning - New Long Leg
 - [ ] 811. Lost Girls - Menneskekollektivet
-- [ ] 810. Floating Points / Pharoah Sanders / The London Symphony Orchestra - Promises
+- [X] 810. Floating Points / Pharoah Sanders / The London Symphony Orchestra - Promises
 - [ ] 809. Cassandra Jenkins - An Overview on Phenomenal Nature
 - [ ] 808. The Weather Station - Ignorance
 - [X] 807. Jazmine Sullivan - Heaux Tales

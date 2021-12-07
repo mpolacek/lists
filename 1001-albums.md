@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 328/1079
+Current score: 329/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -116,7 +116,7 @@ Current score: 328/1079
 - [ ] 109. The Incredible String Band - The Hangman's Beautiful Daughter (1968)
 - [X] 110. The Kinks - The Kinks Are the Village Green Preservation Society
 - [X] 111. Ravi Shankar - The Sounds of India (1968)
-- [ ] 112. Os Mutantes - Os Mutantes (1968)
+- [X] 112. Os Mutantes - Os Mutantes (1968)
 - [ ] 113. The Jimi Hendrix Experience - Electric Ladyland (1968)
 - [X] 114. Leonard Cohen - Songs of Leonard Cohen
 - [X] 115. Johnny Cash - At Folsom Prison (1968)
