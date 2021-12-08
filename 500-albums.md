@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 195/500
+Current score: 197/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -435,7 +435,7 @@ Current score: 195/500
 - [ ] 428. Hüsker Dü - New Day Rising
 - [ ] 429. The Four Tops - Reach Out
 - [ ] 430. Elvis Costello - My Aim Is True
-- [ ] 431. Los Lobos - How Will the Wolf Survive?
+- [X] 431. Los Lobos - How Will the Wolf Survive?
 - [ ] 432. Usher - Confessions
 - [ ] 433. LCD Soundsystem - Sound of Silver
 - [X] 434. Pavement - Crooked Rain, Crooked Rain
@@ -449,10 +449,10 @@ Current score: 195/500
 - [ ] 442. The Weeknd - Beauty Behind the Madness
 - [ ] 443. Scary Monsters (And Super Creeps) (David Bowie, 1980)
 - [ ] 444. Fiona Apple - Extraordinary Machine
-- [ ] 445. Yes - Close to the Edge (1972)
+- [X] 445. Yes - Close to the Edge (1972)
 - [ ] 446. Journey in Satchidananda (Alice Coltrane, 1971)
 - [ ] 447. Bad Bunny - X 100PRE
-- [ ] 448. Otis Redding- Dictionary of Soul
+- [ ] 448. Otis Redding - Dictionary of Soul
 - [X] 449. The White Stripes - Elephant
 - [X] 450. Paul McCartney - RAM
 - [ ] 451. Roberta Flack - First Take
@@ -487,7 +487,7 @@ Current score: 195/500
 - [ ] 480. Miranda Lambert the Weight of These Wings
 - [X] 481. Belle and Sebastian - If You're Feeling Sinister
 - [X] 482. The Pharcyde - Bizarre Ride II the Pharcyde
-- [ ] 483. Muddy Waters- The Anthology
+- [ ] 483. Muddy Waters - The Anthology
 - [ ] 484. Lady Gaga - Born This Way
 - [ ] 485. Richard Thompson - I Want to See the Bright Lights Tonight
 - [ ] 486. John Mayer - Continuum

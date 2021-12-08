@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 329/1079
+Current score: 331/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -254,7 +254,7 @@ Current score: 329/1079
 - [X] 247. Curtis Mayfield - Superfly
 - [ ] 248. Slade - Slayed
 - [X] 249. Deep Purple - Made in Japan
-- [ ] 250. Yes - Close to the Edge (1972)
+- [X] 250. Yes - Close to the Edge (1972)
 - [ ] 251. Transformer (Lou Reed, 1972)
 - [ ] 252. Hugh Masekela - Home Is Where the Music Is (1972)
 - [ ] 253. Milton Nascimento E Lô Borges - Clube Da Esquina
@@ -759,7 +759,7 @@ Current score: 329/1079
 - [ ] 752. Doggystyle (Snoop Doggy Dogg, 1993)
 - [ ] 753. Sebadoh - Bubble and Scrape
 - [ ] 754. The Boo Radleys - Giant Steps
-- [ ] 755. William Orbit - Strange Cargo Lll
+- [X] 755. William Orbit - Strange Cargo III
 - [ ] 756. Method Man - Tical
 - [X] 757. Frank Black - Teenager of the Year
 - [ ] 758. Girls Against Boys - Venus Luxure No 1 Baby

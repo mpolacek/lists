@@ -1,12 +1,12 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 89/836
+Current score: 94/836
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
-- [ ] 836. Arca - KicK iii
-- [ ] 835. Taylor Swift - Red (Taylor’s Version)
+- [X] 836. Arca - KicK iii
+- [X] 835. Taylor Swift - Red (Taylor’s Version)
 - [X] 834. Snail Mail - Valentine
 - [X] 833. aya - im hole
 - [X] 832. The War on Drugs - I Don’t Live Here Anymore
@@ -44,7 +44,7 @@ Current score: 89/836
 - [ ] 800. Touché Amoré - Lament
 - [ ] 799. Bartees Strange - Live Forever
 - [X] 798. Fleet Foxes - Shore
-- [ ] 797. Lomelda - Hannah
+- [X] 797. Lomelda - Hannah
 - [X] 796. Jyoti - Mama, You Can Bet!
 - [ ] 795. Fireboy DML - APOLLO
 - [ ] 794. Nubya Garcia - Source
@@ -800,7 +800,7 @@ Current score: 89/836
 - [ ] 44. Ellen Allien - Berlinette
 - [X] 43. Menomena - I Am the Fun Blame Monster
 - [ ] 42. Basement Jaxx - Kish Kash
-- [ ] 41. The Shins - Chutes Too Narrow
+- [X] 41. The Shins - Chutes Too Narrow
 - [ ] 40. Non-Prophets - Hope
 - [ ] 39. The Books - The Lemon of Pink
 - [ ] 38. Cyann & Ben - Spring
@@ -827,7 +827,7 @@ Current score: 89/836
 - [ ] 17. Sunburned Hand of the Man - Headdress
 - [ ] 16. Exploding Hearts - Guitar Romantic
 - [ ] 15. Manitoba - Up in Flames
-- [ ] 14. Deerhoof - Apple O'
+- [X] 14. Deerhoof - Apple O'
 - [ ] 13. The Decemberists - Castaways and Cutouts
 - [ ] 12. Songs: Ohia - Magnolia Electric Co.
 - [ ] 11. Johann Johannsson - Englaborn
