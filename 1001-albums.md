@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 331/1079
+Current score: 333/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -117,7 +117,7 @@ Current score: 331/1079
 - [X] 110. The Kinks - The Kinks Are the Village Green Preservation Society
 - [X] 111. Ravi Shankar - The Sounds of India (1968)
 - [X] 112. Os Mutantes - Os Mutantes (1968)
-- [ ] 113. The Jimi Hendrix Experience - Electric Ladyland (1968)
+- [X] 113. The Jimi Hendrix Experience - Electric Ladyland (1968)
 - [X] 114. Leonard Cohen - Songs of Leonard Cohen
 - [X] 115. Johnny Cash - At Folsom Prison (1968)
 - [ ] 116. Laura Nyro - Eli and the Thirteenth Confession
@@ -266,7 +266,7 @@ Current score: 331/1079
 - [ ] 259. Davd Ackles - American Gothic (1972)
 - [ ] 260. Tim Buckley - Greetings From LA
 - [X] 261. Nick Drake - Pink Moon
-- [ ] 262. Eagles - Eagles
+- [X] 262. Eagles - Eagles
 - [ ] 263. Paul Simon - Paul Simon
 - [ ] 264. Roxy Music - Roxy Music (1972)
 - [ ] 265. Alice Cooper School's Out

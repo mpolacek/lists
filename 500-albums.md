@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 197/500
+Current score: 200/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -57,7 +57,7 @@ Current score: 197/500
 - [X] 50. Jay-Z - The Blueprint
 - [ ] 51. Chuck Berry - The Great Twenty-Eight
 - [X] 52. David Bowie - Station to Station (1976)
-- [ ] 53. Jimi Hendrix - Electric Ladyland (1968)
+- [X] 53. Jimi Hendrix - Electric Ladyland (1968)
 - [ ] 54. James Brown - Star Time
 - [X] 55. Pink Floyd - The Dark Side of the Moon
 - [X] 56. Liz Phair - Exile in Guyville
@@ -211,7 +211,7 @@ Current score: 197/500
 - [X] 204. Kanye West - Graduation
 - [ ] 205. Cat Stevens - Tea for the Tillerman
 - [X] 206. David Bowie - Low
-- [ ] 207. Eagles - Eagles
+- [X] 207. Eagles - Eagles
 - [ ] 208. Lil Wayne - Tha Carter III
 - [ ] 209. Run DMC - Raising Hell
 - [ ] 210. Ray Charles - The Birth of Soul
@@ -488,7 +488,7 @@ Current score: 197/500
 - [X] 481. Belle and Sebastian - If You're Feeling Sinister
 - [X] 482. The Pharcyde - Bizarre Ride II the Pharcyde
 - [ ] 483. Muddy Waters - The Anthology
-- [ ] 484. Lady Gaga - Born This Way
+- [X] 484. Lady Gaga - Born This Way
 - [ ] 485. Richard Thompson - I Want to See the Bright Lights Tonight
 - [ ] 486. John Mayer - Continuum
 - [X] 487. Black Flag - Damaged
