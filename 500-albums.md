@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 200/500
+Current score: 208/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -19,7 +19,7 @@ Current score: 200/500
 - [X] 12. Michael Jackson - Thriller (1982)
 - [X] 13. Aretha Franklin - I Never Loved a Man the Way I Love You
 - [X] 14. The Rolling Stones - Exile on Main St.
-- [ ] 15. Public Enemy - It Takes a Nation of Millions to Hold Us Back
+- [X] 15. Public Enemy - It Takes a Nation of Millions to Hold Us Back
 - [X] 16. The Clash - London Calling (1979)
 - [ ] 17. Kanye West - My Beautiful Dark Twisted Fantasy
 - [X] 18. Bob Dylan - Highway 61 Revisited (1965)
@@ -34,7 +34,7 @@ Current score: 200/500
 - [X] 27. Wu-Tang Clan - Enter the Wu-Tang (36 Chambers) (1993)
 - [X] 28. D'Angelo - Voodoo
 - [X] 29. The Beatles - The Beatles [White Album]
-- [ ] 30. The Jimi Hendrix Experience - Are You Experienced (1967)
+- [X] 30. The Jimi Hendrix Experience - Are You Experienced (1967)
 - [X] 31. Miles Davis - Kind of Blue
 - [X] 32. Beyoncé - Lemonade
 - [X] 33. Amy Winehouse - Back to Black
@@ -76,7 +76,7 @@ Current score: 200/500
 - [ ] 69. Alanis Morrisette - Jagged Little Pill (1995)
 - [ ] 70. N.W.A. - Straight Outta Compton
 - [ ] 71. Bob Marley and the Wailers - Exodus
-- [ ] 72. Neil Young - Harvest (1972)
+- [X] 72. Neil Young - Harvest (1972)
 - [X] 73. My Bloody Valentine - Loveless
 - [X] 74. Kanye West - The College Dropout
 - [ ] 75. Aretha Franklin - Lady Soul (1968)
@@ -162,7 +162,7 @@ Current score: 200/500
 - [X] 155. Jay-Z - The Black Album
 - [ ] 156. The Replacements - Let It Be
 - [ ] 157. Oasis - (What's the Story) Morning Glory
-- [ ] 158. Erykah Badu - Mama's Gun
+- [X] 158. Erykah Badu - Mama's Gun
 - [ ] 159. The Police - Synchronicity
 - [X] 160. Pearl Jam - Ten (1991)
 - [ ] 161. Crosby, Stills & Nash - Crosby, Stills & Nash
@@ -242,7 +242,7 @@ Current score: 200/500
 - [ ] 235. Metallica - Metallica
 - [X] 236. Daft Punk - Discovery (2001)
 - [ ] 237. Willie Nelson- Red Headed Stranger
-- [ ] 238. Kraftwerk - Trans-Europe Express
+- [X] 238. Kraftwerk - Trans-Europe Express
 - [ ] 239. Boogie Down Productions - Criminal Minded
 - [ ] 240. Sam Cooke - Live at the Harlem Square Club, 1963
 - [X] 241. Massive Attack - Blue Lines (1991)
@@ -250,7 +250,7 @@ Current score: 200/500
 - [ ] 243. The Zombies - Odessey and Oracle
 - [ ] 244. Kanye West - 808S and Heartbreak
 - [X] 245. Cocteau Twins - Heaven or Las Vegas
-- [ ] 246. LL Cool J - Mama Said Knock You Out
+- [X] 246. LL Cool J - Mama Said Knock You Out
 - [X] 247. Sade - Love Deluxe
 - [ ] 248. Green Day - American Idiot
 - [X] 249. Whitney Houston - Whitney Houston
@@ -372,7 +372,7 @@ Current score: 200/500
 - [ ] 365. Madvillain - Madvillainy
 - [X] 366. Aerosmith - Rocks (1976)
 - [ ] 367. If You're Reading This It's Too Late
-- [ ] 368. George Harrison - All Things Must Pass
+- [X] 368. George Harrison - All Things Must Pass
 - [ ] 369. Mobb Deep - The Infamous
 - [ ] 370. Lil Wayne - Tha Carter II
 - [ ] 371. The Temptations Anthology
@@ -478,7 +478,7 @@ Current score: 200/500
 - [X] 471. Jefferson Airplane - Surrealistic Pillow
 - [ ] 472. Sza - Ctrl
 - [ ] 473. Daddy Yankee - Barrio Fino
-- [ ] 474. Big Star #1 Record
+- [X] 474. Big Star - #1 Record
 - [ ] 475. Sheryl Crow (Sheryl Crow, 1996)
 - [ ] 476. Sparks - Kimono My House (1974)
 - [ ] 477. Howlin' Wolf- Moanin' in the Moonlight

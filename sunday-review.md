@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 77/268
+Current score: 79/268
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -257,7 +257,7 @@ Current score: 77/268
 - [ ] 19. Randy Newman - Good Old Boys
 - [ ] 18. Janet Jackson - Rhythm Nation 1814
 - [X] 17. Guided by Voices - Alien Lanes
-- [ ] 16. Erykah Badu - Mama's Gun
+- [X] 16. Erykah Badu - Mama's Gun
 - [X] 15. Brian Eno - Another Green World
 - [X] 14. Caetano Veloso - Caetano Veloso
 - [ ] 13. Terry Riley - A Rainbow in Curved Air
@@ -271,5 +271,5 @@ Current score: 77/268
 - [X] 5. Lauryn Hill - The Miseducation of Lauryn Hill
 - [X] 4. Pulp - Different Class
 - [X] 3. Neil Young - Tonight's the Night
-- [ ] 2. George Harrison - All Things Must Pass
+- [X] 2. George Harrison - All Things Must Pass
 - [X] 1. Kate Bush - Hounds of Love

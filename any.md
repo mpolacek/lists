@@ -1,10 +1,11 @@
 Various albums
 ==============
 
-Current score: 13/46
+Current score: 14/47
 
 `$ grep "\[X\]" any.md | wc -l`
 
+- [X] 47. Michael Nyman - A Zed and Two Noughts
 - [X] 46. Mark Seelig - The Disciple's Path
 - [X] 45. Phil Puleo - VIVAHA
 - [X] 44. Crass - The Feeding of the 5000

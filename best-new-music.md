@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 94/836
+Current score: 99/836
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -56,7 +56,7 @@ Current score: 94/836
 - [ ] 788. Jessie Ware - What's Your Pleasure?
 - [ ] 787. Haim - Women in Music Pt. III
 - [ ] 786. Phoebe Bridgers - Punisher
-- [ ] 785. Bob Dylan - Rough and Rowdy Ways
+- [X] 785. Bob Dylan - Rough and Rowdy Ways
 - [ ] 784. Drakeo the Ruler - Thank You For Using GTL
 - [ ] 783. Run the Jewels - RTJ4
 - [ ] 782. Medhane - Cold Water
@@ -626,7 +626,7 @@ Current score: 94/836
 - [ ] 218. Portishead - Third
 - [ ] 217. Titus Andronicus - The Airing of Grievances
 - [ ] 216. M83 - Saturdays = Youth
-- [ ] 215. Cut Copy-In Ghost Colours
+- [X] 215. Cut Copy - In Ghost Colours
 - [ ] 214. The Dodos - Visiter
 - [ ] 213. Fuck Buttons - Street Horrrsing
 - [ ] 212. Hercules and Love Affair - Hercules and Love Affair
@@ -720,7 +720,7 @@ Current score: 94/836
 - [ ] 124. The Clientele - Strange Geometry
 - [ ] 123. Deerhoof - The Runners Four
 - [ ] 122. Broken Social Scene - Broken Social Scene
-- [ ] 121. Wolf Parade - Apologies to the Queen Mary (2005)
+- [X] 121. Wolf Parade - Apologies to the Queen Mary (2005)
 - [ ] 120. Devendra Banhart - Cripple Crow
 - [ ] 119. Serena Maneesh - Serena Maneesh
 - [ ] 118. Kanye West - Late Registration
@@ -804,7 +804,7 @@ Current score: 94/836
 - [ ] 40. Non-Prophets - Hope
 - [ ] 39. The Books - The Lemon of Pink
 - [ ] 38. Cyann & Ben - Spring
-- [ ] 37. The Wrens - The Meadowlands
+- [X] 37. The Wrens - The Meadowlands
 - [ ] 36. Need New Body - UFO
 - [X] 35. The Deadly Snakes - Ode to Joy
 - [X] 34. My Morning Jacket - It Still Moves...
@@ -825,7 +825,7 @@ Current score: 94/836
 - [X] 19. Four Tet - Rounds
 - [ ] 18. Panthers - Let's Get Serious EP
 - [ ] 17. Sunburned Hand of the Man - Headdress
-- [ ] 16. Exploding Hearts - Guitar Romantic
+- [X] 16. Exploding Hearts - Guitar Romantic
 - [ ] 15. Manitoba - Up in Flames
 - [X] 14. Deerhoof - Apple O'
 - [ ] 13. The Decemberists - Castaways and Cutouts

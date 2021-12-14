@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 333/1079
+Current score: 342/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -104,7 +104,7 @@ Current score: 333/1079
 - [ ] 97. The Kinks - Something Else by the Kinks
 - [X] 98. Donovan - Sunshine Superman (1967)
 - [ ] 99. Merle Haggard - I'm a Lonesome Fugitive (1967)
-- [ ] 100. The Jimi Hendrix Experience - Are You Experienced?
+- [X] 100. The Jimi Hendrix Experience - Are You Experienced?
 - [ ] 101. The Electric Prunes (Album)
 - [X] 102. Loretta Lynn - Don't Come Home a Drinkin' (With Lovin' on Your Mind)
 - [ ] 103. Shivkumar Sharma - Call of the Valley (1967)
@@ -200,7 +200,7 @@ Current score: 333/1079
 - [X] 193. The Who - Live at Leeds (1970)
 - [ ] 194. Soft Machine - Third
 - [ ] 195. Rod Stewart - Gasoline Alley (1970)
-- [ ] 196. George Harrison - All Things Must Pass
+- [X] 196. George Harrison - All Things Must Pass
 - [ ] 197. Simon & Garfunkel - Bridge Over Troubled Water
 - [ ] 198. Tea for the Tillerman (Cat Stevens, 1970)
 - [ ] 199. Traffic - John Barleycorn Must Die
@@ -247,10 +247,10 @@ Current score: 333/1079
 - [X] 240. David Bowie - Hunky Dory (1971)
 - [X] 241. Randy Newman - Sail Away
 - [X] 242. Deep Purple - Machine Head (1972)
-- [ ] 243. Big Star - #1 Record
+- [X] 243. Big Star - #1 Record
 - [ ] 244. Black Sabbath - Black Sabbath, Vol. 4
 - [ ] 245. Steely Dan - Can't Buy a Thrill
-- [ ] 246. Neil Young - Harvest (1972)
+- [X] 246. Neil Young - Harvest (1972)
 - [X] 247. Curtis Mayfield - Superfly
 - [ ] 248. Slade - Slayed
 - [X] 249. Deep Purple - Made in Japan
@@ -374,7 +374,7 @@ Current score: 333/1079
 - [X] 367. Stevie Wonder: Songs in the Key of Life
 - [ ] 368. Frampton Comes Alive! (Peter Frampton, 1976)
 - [X] 369. Brian Eno - Before and After Science (1977)
-- [ ] 370. Kraftwerk - Trans-Europe Express (1977)
+- [X] 370. Kraftwerk - Trans-Europe Express (1977)
 - [ ] 371. Billy Joel - The Stranger
 - [ ] 372. Bob Marley and the Wailers - Exodus
 - [X] 373. Electric Light Orchestra - Out of the Blue
@@ -429,7 +429,7 @@ Current score: 333/1079
 - [X] 422. Willie Nelson - Stardust
 - [ ] 423. Chic - C'est Chic
 - [ ] 424. X-Ray Spex - Germ-Free Adolescents (1978)
-- [ ] 425. Brian Eno - Ambient 1: Music for Airports (1978)
+- [X] 425. Brian Eno - Ambient 1: Music for Airports (1978)
 - [ ] 426. Siouxsie & the Banshees - The Scream
 - [ ] 427. AC/DC - Highway to Hell
 - [ ] 428. Sister Sledge - We Are Family
@@ -639,7 +639,7 @@ Current score: 333/1079
 - [ ] 632. The Sugarcubes - Life's Too Good (1988)
 - [ ] 633. Dwight Yoakam - Buenas Noches From a Lonely Room (1988)
 - [ ] 634. Jane's Addiction - Nothing's Shocking
-- [ ] 635. It Takes a Nation of Millions to Hold Us Back (Public Enemy, 1988)
+- [X] 635. Public Enemy - It Takes a Nation of Millions to Hold Us Back (1988)
 - [X] 636. Faith No More - The Real Thing
 - [ ] 637. Lenny Kravitz - Let Love Rule (1989)
 - [ ] 638. John Lee Hooker - The Healer (1989)
@@ -683,7 +683,7 @@ Current score: 333/1079
 - [ ] 676. Neil Young and Crazy Horse - Ragged Glory
 - [X] 677. Ice Cube - Amerikkka's Most Wanted
 - [ ] 678. Jane's Addiction, Ritual De Lo Habitual (1990)
-- [ ] 679. LL Cool J - Mama Said Knock You Out
+- [X] 679. LL Cool J - Mama Said Knock You Out
 - [X] 680. Public Enemy - Fear of a Black Planet
 - [ ] 681. Sinead O'Connor - I Do Not Want What I Haven't Got
 - [ ] 682. A Tribe Called Quest - People's Instinctive Travels
@@ -919,7 +919,7 @@ Current score: 333/1079
 - [ ] 912. U2 - All That You Can't Leave Behind
 - [ ] 913. Coldplay - Parachutes
 - [ ] 914. Elliott Smith - Figure 8
-- [ ] 915. Erykah Badu: Mama's Gun
+- [X] 915. Erykah Badu - Mama's Gun
 - [ ] 916. Madonna - Music
 - [ ] 917. PJ Harvey - Stories From the City, Stories From the Sea
 - [ ] 918. Mike Ladd: Welcome to the Afterfuture
