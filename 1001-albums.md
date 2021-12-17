@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 342/1079
+Current score: 350/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -340,7 +340,7 @@ Current score: 342/1079
 - [X] 333. David Bowie - Young Americans
 - [X] 334. Burning Spear - Marcus Garvey
 - [ ] 335. Bruce Springsteen - Born to Run (1975)
-- [ ] 336. Emmylou Harris - Pieces of the Sky
+- [X] 336. Emmylou Harris - Pieces of the Sky
 - [ ] 337. Dion - Born to Be With You (1975)
 - [ ] 338. Joni Mitchell - The Hissing of Summer Lawns
 - [ ] 339. Tom Waits - Nighthawks at the Diner (1975)
@@ -533,7 +533,7 @@ Current score: 342/1079
 - [ ] 526. ZZ Top : Eliminator.
 - [ ] 527. Eurythmics - Sweet Dreams (Are Made of This)
 - [ ] 528. U2 - War
-- [ ] 529. The Police - Synchronicity (1983)
+- [X] 529. The Police - Synchronicity (1983)
 - [ ] 530. Meat Puppets - Meat Puppets II
 - [ ] 531. Culture Club - Colour by Numbers
 - [ ] 532. Frankie Goes to Hollywood - Welcome to the Pleasuredome
@@ -543,7 +543,7 @@ Current score: 342/1079
 - [ ] 536. Minor Threat - Out of Step
 - [X] 537. Van Halen - 1984
 - [X] 538. Prince - Purple Rain
-- [ ] 539. The Replacements - Let It Be
+- [X] 539. The Replacements - Let It Be
 - [X] 540. The Style Council - Café Bleu (1984)
 - [ ] 541. Tina Turner Private Dancer
 - [ ] 542. Echo and the Bunnymen - Ocean Rain
@@ -579,7 +579,7 @@ Current score: 342/1079
 - [ ] 572. The Colour of Spring (Talk Talk, 1985)
 - [ ] 573. Megadeth - Peace Sells... but Who's Buying?
 - [ ] 574. Bon Jovi - Slippery When Wet
-- [ ] 575. Sonic Youth - EVOL
+- [X] 575. Sonic Youth - EVOL
 - [X] 576. Slayer - Reign in Blood
 - [ ] 577. Throwing Muses - Throwing Muses
 - [X] 578. Paul Simon - Graceland
@@ -691,7 +691,7 @@ Current score: 342/1079
 - [X] 684. Ride - Nowhere
 - [X] 685. My Bloody Valentine - Loveless (1991)
 - [X] 686. Nirvana - Nevermind (1991)
-- [ ] 687. Crowded House - Woodface
+- [X] 687. Crowded House - Woodface
 - [ ] 688. Cypress Hill - Cypress Hill
 - [ ] 689. Julian Cope Peggy Suicide
 - [ ] 690. Gang Starr - Step in the Arena
@@ -809,7 +809,7 @@ Current score: 342/1079
 - [X] 802. Pulp - Different Class
 - [X] 803. Leftfield - Leftism
 - [ ] 804. D'Angelo - Brown Sugar
-- [ ] 805. (What's the Story) Morning Glory? by Oasis
+- [X] 805. Oasis - (What's the Story) Morning Glory?
 - [X] 806. Goldie - Timeless
 - [ ] 807. Jagged Little Pill (Alanis Morissette, 1995)
 - [X] 808. Screaming Trees - Dust
@@ -1046,14 +1046,14 @@ Current score: 342/1079
 - [ ] 1039. Fever Ray - Fever Ray
 - [ ] 1040. Beach House - Teen Dream
 - [X] 1041. The Black Keys - Brothers
-- [ ] 1042. Kanye West - My Beautiful Dark Twisted Fantasy (2010)
+- [X] 1042. Kanye West - My Beautiful Dark Twisted Fantasy (2010)
 - [X] 1043. John Grant - Queen of Denmark
 - [ ] 1044. Janelle Monáe - The Archandroid
 - [ ] 1045. The National - High Violet
 - [X] 1046. Deerhunter - Halcyon Digest
 - [ ] 1047. Arcade Fire - The Suburbs
 - [ ] 1048. Adele - 21
-- [ ] 1049. P.J. Harvey - Let England Shake
+- [X] 1049. P.J. Harvey - Let England Shake
 - [ ] 1050. White Denim - D (2011)
 - [ ] 1051. Kendrick Lamar - Good Kid, M.A.A.D City (2012)
 - [ ] 1052. Hot Chip - In Our Heads

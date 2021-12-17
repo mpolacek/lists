@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 99/836
+Current score: 103/836
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -498,14 +498,14 @@ Current score: 99/836
 - [ ] 346. Julianna Barwick - The Magic Place
 - [ ] 345. Tim Hecker - Ravedeath, 1972
 - [ ] 344. Nicolas Jaar - Space Is Only Noise
-- [ ] 343. PJ Harvey - Let England Shake
+- [X] 343. PJ Harvey - Let England Shake
 - [ ] 342. James Blake - James Blake
 - [ ] 341. Cut Copy - Zonoscope
 - [ ] 340. Destroyer - Kaputt
 - [ ] 339. Smith Westerns - Dye It Blonde
 - [ ] 338. Off! - First Four EPs
 - [ ] 337. Robyn - Body Talk
-- [ ] 336. Kanye West - My Beautiful Dark Twisted Fantasy
+- [X] 336. Kanye West - My Beautiful Dark Twisted Fantasy
 - [ ] 335. Girls - Broken Dreams Club EP
 - [ ] 334. Sufjan Stevens - The Age of Adz
 - [ ] 333. Twin Shadow - Forget
@@ -820,8 +820,8 @@ Current score: 99/836
 - [ ] 24. Grandaddy - Sumday
 - [ ] 23. Single Frame - Wetheads Come Running
 - [ ] 22. Fog - Ether Teeth
-- [ ] 21. M83 - Dead Cities, Red Seas & Lost Ghosts
-- [ ] 20. Prefuse 73 - One Word Extinguisher
+- [X] 21. M83 - Dead Cities, Red Seas & Lost Ghosts
+- [X] 20. Prefuse 73 - One Word Extinguisher
 - [X] 19. Four Tet - Rounds
 - [ ] 18. Panthers - Let's Get Serious EP
 - [ ] 17. Sunburned Hand of the Man - Headdress

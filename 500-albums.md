@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 208/500
+Current score: 213/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -21,7 +21,7 @@ Current score: 208/500
 - [X] 14. The Rolling Stones - Exile on Main St.
 - [X] 15. Public Enemy - It Takes a Nation of Millions to Hold Us Back
 - [X] 16. The Clash - London Calling (1979)
-- [ ] 17. Kanye West - My Beautiful Dark Twisted Fantasy
+- [X] 17. Kanye West - My Beautiful Dark Twisted Fantasy
 - [X] 18. Bob Dylan - Highway 61 Revisited (1965)
 - [X] 19. Kendrick Lamar - To Pimp a Butterfly
 - [X] 20. Radiohead - Kid A (2000)
@@ -160,10 +160,10 @@ Current score: 208/500
 - [X] 153. PJ Harvey - Rid of Me
 - [ ] 154. Aretha Franklin - Amazing Grace
 - [X] 155. Jay-Z - The Black Album
-- [ ] 156. The Replacements - Let It Be
-- [ ] 157. Oasis - (What's the Story) Morning Glory
+- [X] 156. The Replacements - Let It Be
+- [X] 157. Oasis - (What's the Story) Morning Glory
 - [X] 158. Erykah Badu - Mama's Gun
-- [ ] 159. The Police - Synchronicity
+- [X] 159. The Police - Synchronicity
 - [X] 160. Pearl Jam - Ten (1991)
 - [ ] 161. Crosby, Stills & Nash - Crosby, Stills & Nash
 - [X] 162. Pulp - Different Class (1995)
@@ -419,7 +419,7 @@ Current score: 208/500
 - [ ] 412. Going to a Go-Go- Smokey Robinson & the Miracles
 - [X] 413. Creedence Clearwater Revival - Cosmo's Factory
 - [ ] 414. Chic - Risqué (1979)
-- [ ] 415. The Meters - Look-Ka Py Py
+- [X] 415. The Meters - Look-Ka Py Py
 - [ ] 416. The Roots - Things Fall Apart
 - [ ] 417. Ornette Coleman - The Shape of Jazz to Come
 - [ ] 418. Dire Straits- Brothers in Arms

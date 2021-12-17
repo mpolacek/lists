@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 79/268
+Current score: 80/268
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -15,7 +15,7 @@ Current score: 79/268
 - [ ] 261. Dave Matthews Band - Crash
 - [ ] 260. Kesha - Animal
 - [ ] 259. Lewis Taylor - Lewis Taylor
-- [ ] 258. The Meters - Look-Ka Py Py
+- [X] 258. The Meters - Look-Ka Py Py
 - [ ] 257. Bobbie Gentry - The Delta Sweete
 - [X] 256. Erykah Badu - Baduizm
 - [ ] 255. The Cranberries - Everybody Else Is Doing It, So Why Can’t We?
