@@ -1,7 +1,7 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 80/268
+Current score: 82/268
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -120,7 +120,7 @@ Current score: 80/268
 - [ ] 156. Mase - Harlem World
 - [ ] 155. Aaliyah - Aaliyah
 - [ ] 154. Koji Kondo - The Legend of Zelda: Ocarina of Time
-- [ ] 153. Sigur Rós - Ágætis byrjun
+- [X] 153. Sigur Rós - Ágætis byrjun
 - [ ] 152. Neutral Milk Hotel - On Avery Island
 - [X] 151. AC/DC - Back in Black
 - [ ] 150. Roky Erickson - Never Say Goodbye
@@ -224,7 +224,7 @@ Current score: 80/268
 - [X] 52. ZZ Top - Tres Hombres
 - [ ] 51. Destiny’s Child - The Writing’s on the Wall
 - [ ] 50. Salt-N-Pepa - Very Necessary
-- [ ] 49. Ghostface Killah - Supreme Clientele
+- [X] 49. Ghostface Killah - Supreme Clientele
 - [ ] 48. Patti Smith Group - Easter
 - [ ] 47. Violent Femmes - Violent Femmes
 - [X] 46. JAY-Z - Reasonable Doubt

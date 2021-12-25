@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 350/1079
+Current score: 354/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -92,7 +92,7 @@ Current score: 350/1079
 - [ ] 85. The Monkees - Headquarters (1967)
 - [ ] 86. Tim Buckley - Goodbye and Hello (1967)
 - [ ] 87. Love - Forever Changes (1967)
-- [ ] 88. Cream - Disraeli Gears
+- [X] 88. Cream - Disraeli Gears
 - [ ] 89. Pink Floyd - The Piper at the Gates of Dawn (1967)
 - [ ] 90. The Who - The Who Sell Out (1967)
 - [X] 91. The Velvet Underground & Nico - The Velvet Underground & Nico (1967)
@@ -906,7 +906,7 @@ Current score: 350/1079
 - [ ] 899. Basement Jaxx, Remedy (1999)
 - [ ] 900. Britney Spears - ....Baby One More Time
 - [ ] 901. Red Hot Chili Peppers - Californication
-- [ ] 902. Sigur Rós - Ágætis Byrjun
+- [X] 902. Sigur Rós - Ágætis Byrjun
 - [ ] 903. Doves - Lost Souls
 - [ ] 904. The Virgin Suicides (Air, 2000)
 - [ ] 905. Ryan Adams - Heartbreaker
@@ -1020,7 +1020,7 @@ Current score: 350/1079
 - [ ] 1013. Joanna Newsom - Ys
 - [ ] 1014. Arctic Monkeys - Whatever People Say I Am, That's What I'm Now
 - [ ] 1015. Klaxons - Myths of the Near Future
-- [ ] 1016. LCD Soundsystem - Sound of Silver
+- [X] 1016. LCD Soundsystem - Sound of Silver
 - [X] 1017. Radiohead - In Rainbows
 - [X] 1018. Arcade Fire - Neon Bible
 - [ ] 1019. MIA - Kala
@@ -1038,7 +1038,7 @@ Current score: 350/1079
 - [ ] 1031. Slipknot - All Hope Is Gone
 - [X] 1032. Wild Beasts - Two Dancers
 - [ ] 1033. Bill Callahan - Sometimes I Wish We Were an Eagle
-- [ ] 1034. Animal Collective - Merriweather Post Pavilion (2009)
+- [X] 1034. Animal Collective - Merriweather Post Pavilion (2009)
 - [X] 1035. Grizzly Bear - Veckatimest
 - [ ] 1036. Yeah Yeah Yeahs - It's Blitz!
 - [X] 1037. Dirty Projectors - Bitte Orca

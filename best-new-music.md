@@ -1,7 +1,7 @@
 Pitchfork Best New Music
 ========================
 
-Current score: 103/836
+Current score: 106/836
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -601,7 +601,7 @@ Current score: 103/836
 - [ ] 243. Dark Was the Night
 - [ ] 242. The Pains of Being Pure at Heart - The Pains of Being Pure at Heart
 - [ ] 241. Antony and the Johnsons - The Crying Light
-- [ ] 240. Animal Collective - Merriweather Post Pavilion (2009)
+- [X] 240. Animal Collective - Merriweather Post Pavilion (2009)
 - [ ] 239. The Very Best - Esau Mwamwaya & Radioclit Are the Very Best
 - [X] 238. Deerhunter - Microcastle
 - [ ] 237. DJ /Rupture - Uproot
@@ -672,8 +672,8 @@ Current score: 103/836
 - [ ] 172. Deerhunter - Fluorescent Grey EP
 - [ ] 171. The Twilight Sad - Fourteen Autumns & Fifteen Winters
 - [ ] 170. The Field - From Here We Go Sublime
-- [ ] 169. Panda Bear - Person Pitch
-- [ ] 168. LCD Soundsystem - Sound of Silver
+- [X] 169. Panda Bear - Person Pitch
+- [X] 168. LCD Soundsystem - Sound of Silver
 - [ ] 167. Patrick Wolf - The Magic Position
 - [X] 166. Arcade Fire - Neon Bible
 - [X] 165. Deerhunter - Cryptograms

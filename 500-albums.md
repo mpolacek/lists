@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 213/500
+Current score: 216/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -174,7 +174,7 @@ Current score: 213/500
 - [ ] 167. Depeche Mode - Violator (1990)
 - [ ] 168. Steely Dan - Can't Buy a Thrill
 - [ ] 169. Billy Joel - The Stranger (1977)
-- [ ] 170. Cream - Disraeli Gears
+- [X] 170. Cream - Disraeli Gears
 - [X] 171. Sonic Youth - Daydream Nation
 - [ ] 172. Simon and Garfunkel - Bridge Over Troubled Water
 - [X] 173. Nirvana - In Utero (1993)
@@ -407,7 +407,7 @@ Current score: 213/500
 - [X] 400. The Go-Go's - Beauty and the Beat
 - [ ] 401. Blondie
 - [ ] 402. Fela Kuti and Africa 70 - Expensive Shit
-- [ ] 403. Ghostface Killah - Supreme Clientele
+- [X] 403. Ghostface Killah - Supreme Clientele
 - [ ] 404. Anita Baker - Rapture
 - [ ] 405. Nuggets: Original Artyfacts From the First Psychedelic Era, 1965–1968
 - [X] 406. The Magnetic Fields - 69 Love Songs
@@ -437,7 +437,7 @@ Current score: 213/500
 - [ ] 430. Elvis Costello - My Aim Is True
 - [X] 431. Los Lobos - How Will the Wolf Survive?
 - [ ] 432. Usher - Confessions
-- [ ] 433. LCD Soundsystem - Sound of Silver
+- [X] 433. LCD Soundsystem - Sound of Silver
 - [X] 434. Pavement - Crooked Rain, Crooked Rain
 - [ ] 435. Actually - The Pet Shop Boys
 - [ ] 436. All Eyez on Me
