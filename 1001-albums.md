@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 360/1079
+Current score: 361/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -297,7 +297,7 @@ Current score: 360/1079
 - [ ] 290. Steely Dan - Countdown to Ecstasy
 - [ ] 291. Waylon Jennings - Honky Tonk Heroes (1973)
 - [X] 292. Pink Floyd - Dark Side of the Moon
-- [ ] 293. Stevie Wonder: Innervisions
+- [X] 293. Stevie Wonder: Innervisions
 - [X] 294. ZZ Top - Tres Hombres
 - [ ] 295. Band on the Run (Paul McCartney and Wings, 1973)
 - [ ] 296. The Sensational Alex Harvey Band - Next (1973)

@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 218/500
+Current score: 219/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -38,7 +38,7 @@ Current score: 218/500
 - [X] 31. Miles Davis - Kind of Blue
 - [X] 32. Beyoncé - Lemonade
 - [X] 33. Amy Winehouse - Back to Black
-- [ ] 34. Stevie Wonder - Innervisions
+- [X] 34. Stevie Wonder - Innervisions
 - [X] 35. The Beatles - Rubber Soul
 - [X] 36. Michael Jackson - Off the Wall
 - [X] 37. Dr. Dre - The Chronic (1992)

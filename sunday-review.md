@@ -1,12 +1,12 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 83/270
+Current score: 84/270
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
 - [ ] 270. Spacehog - Resident Alien
-- [ ] 269. King Sunny Adé - Juju Music
+- [X] 269. King Sunny Adé - Juju Music
 - [ ] 268. Richard and Linda Thompson - I Want to See the Bright Lights Tonight
 - [X] 267. Master P - MP Da Last Don
 - [X] 266. Boz Scaggs - Silk Degrees
