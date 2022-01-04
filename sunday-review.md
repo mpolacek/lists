@@ -1,10 +1,12 @@
 Pitchfork Sunday Review
 =======================
 
-Current score: 82/268
+Current score: 83/270
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 270. Spacehog - Resident Alien
+- [ ] 269. King Sunny Adé - Juju Music
 - [ ] 268. Richard and Linda Thompson - I Want to See the Bright Lights Tonight
 - [X] 267. Master P - MP Da Last Don
 - [X] 266. Boz Scaggs - Silk Degrees
@@ -185,7 +187,7 @@ Current score: 82/268
 - [ ] 91. Johnny Cash - American Recordings
 - [ ] 90. Neneh Cherry - Raw Like Sushi
 - [ ] 89. The Kinks - Something Else
-- [ ] 88. Bruce Springsteen - Nebraska
+- [X] 88. Bruce Springsteen - Nebraska
 - [X] 87. Miles Davis - Get Up With It
 - [ ] 86. Scarface - The Diary
 - [ ] 85. Sublime - 40oz. to Freedom

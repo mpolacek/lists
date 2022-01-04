@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 354/1079
+Current score: 360/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -474,7 +474,7 @@ Current score: 354/1079
 - [X] 467. Talking Heads - Remain in Light
 - [X] 468. Joy Division - Closer
 - [ ] 469. Iron Maiden - Iron Maiden
-- [ ] 470. The Undertones - Hypnotised (1980)
+- [X] 470. The Undertones - Hypnotised (1980)
 - [ ] 471. The Jam - Sound Affects
 - [ ] 472. Tom Waits - Heartattack and Vine (1980)
 - [X] 473. UB40 - Signing Off
@@ -515,7 +515,7 @@ Current score: 354/1079
 - [X] 508. Michael Jackson - Thriller
 - [ ] 509. The Birthday Party - Junkyard
 - [ ] 510. Venom - Black Metal
-- [ ] 511. Bruce Springsteen - Nebraska
+- [X] 511. Bruce Springsteen - Nebraska
 - [ ] 512. Associates - Sulk (1982)
 - [ ] 513. Iron Maiden - The Number of the Beast
 - [ ] 514. Duran Duran - Rio
@@ -527,7 +527,7 @@ Current score: 354/1079
 - [X] 520. Tom Waits - Swordfishtrombones (1983)
 - [ ] 521. The Blue Nile - A Walk Across the Rooftops (1984)
 - [ ] 522. Hanoi Rocks - Back to Mystery City (1983)
-- [ ] 523. Cyndi Lauper - She's So Unusual
+- [X] 523. Cyndi Lauper - She's So Unusual
 - [ ] 524. Paul Simon - Hearts and Bones
 - [ ] 525. Echo and the Bunnymen - Porcupine
 - [ ] 526. ZZ Top : Eliminator.
@@ -559,7 +559,7 @@ Current score: 354/1079
 - [X] 552. Prefab Sprout - Steve McQueen
 - [ ] 553. The Mekons - Fear and Whiskey
 - [ ] 554. Big Black - Atomizer
-- [ ] 555. Suzanne Vega - Suzanne Vega (1985)
+- [X] 555. Suzanne Vega - Suzanne Vega (1985)
 - [ ] 556. The Pogues - Rum Sodomy and the Lash
 - [X] 557. Kate Bush - Hounds of Love (1985)
 - [ ] 558. The Smiths - Meat Is Murder (1985)
@@ -679,7 +679,7 @@ Current score: 354/1079
 - [ ] 672. Sex Packets (1990) - Digital Underground
 - [X] 673. Pet Shop Boys - Behaviour
 - [X] 674. Happy Mondays - Pills N Thrills and Bellyaches
-- [ ] 675. George Michael Listen Without Prejudice: Vol 1
+- [X] 675. George Michael - Listen Without Prejudice: Vol 1
 - [ ] 676. Neil Young and Crazy Horse - Ragged Glory
 - [X] 677. Ice Cube - Amerikkka's Most Wanted
 - [ ] 678. Jane's Addiction, Ritual De Lo Habitual (1990)
@@ -989,7 +989,7 @@ Current score: 354/1079
 - [X] 982. Kanye West - The College Dropout
 - [ ] 983. Cee-Lo Green... Is the Soul Machine
 - [ ] 984. Kings of Leon - Aha Shake Heartbreak
-- [ ] 985. Mylo Destroy Rock and Roll
+- [X] 985. Mylo - Destroy Rock and Roll
 - [ ] 986. Ozomatli - Street Signs
 - [X] 987. The Streets - A Grand Don't Come for Free
 - [ ] 988. Brian Wilson - Brian Wilson Presents: Smile (2004)

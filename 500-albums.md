@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 216/500
+Current score: 218/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -154,7 +154,7 @@ Current score: 216/500
 - [X] 147. Jeff Buckley - Grace (1994)
 - [ ] 148. Frank Ocean - Channel Orange
 - [X] 149. John Prine - John Prine
-- [ ] 150. Bruce Springsteen - Nebraska (1982)
+- [X] 150. Bruce Springsteen - Nebraska (1982)
 - [ ] 151. George Michael - Faith (1987)
 - [ ] 152. Pretenders - Pretenders
 - [X] 153. PJ Harvey - Rid of Me
@@ -188,7 +188,7 @@ Current score: 216/500
 - [ ] 181. Bob Dylan - Bringing It All Back Home (1965)
 - [X] 182. James Taylor - Sweet Baby James
 - [ ] 183. D'Angelo - Brown Sugar
-- [ ] 184. Cyndi Lauper - She's So Unusual
+- [X] 184. Cyndi Lauper - She's So Unusual
 - [X] 185. The Rolling Stones - Beggar's Banquet
 - [ ] 186. Red Hot Chili Peppers - Blood Sugar Sex Magik
 - [X] 187. Ice Cube - Amerikkka's Most Wanted
