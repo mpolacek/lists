@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 361/1079
+Current score: 366/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -93,10 +93,10 @@ Current score: 361/1079
 - [ ] 86. Tim Buckley - Goodbye and Hello (1967)
 - [ ] 87. Love - Forever Changes (1967)
 - [X] 88. Cream - Disraeli Gears
-- [ ] 89. Pink Floyd - The Piper at the Gates of Dawn (1967)
+- [X] 89. Pink Floyd - The Piper at the Gates of Dawn (1967)
 - [ ] 90. The Who - The Who Sell Out (1967)
 - [X] 91. The Velvet Underground & Nico - The Velvet Underground & Nico (1967)
-- [ ] 92. Francis Albert Sinatra & Antonio Carlos Jobim (1967)
+- [X] 92. Francis Albert Sinatra & Antonio Carlos Jobim (1967)
 - [X] 93. The Doors - The Doors
 - [ ] 94. The Byrds - Younger Than Yesterday
 - [ ] 95. The Young Rascals - Groovin' (1967)
@@ -121,7 +121,7 @@ Current score: 361/1079
 - [X] 114. Leonard Cohen - Songs of Leonard Cohen
 - [X] 115. Johnny Cash - At Folsom Prison (1968)
 - [ ] 116. Laura Nyro - Eli and the Thirteenth Confession
-- [ ] 117. Aretha Franklin - Lady Soul (1968)
+- [X] 117. Aretha Franklin - Lady Soul (1968)
 - [X] 118. Blue Cheer - Vincebus Eruptum (1968)
 - [ ] 119. The Byrds - The Notorious Byrd Brothers
 - [X] 120. Big Brother and the Holding Company - Cheap Thrills (1968)
@@ -164,7 +164,7 @@ Current score: 361/1079
 - [X] 157. Led Zeppelin - Led Zeppelin II (1969)
 - [ ] 158. MC5, Kick Out the Jams (1969)
 - [ ] 159. The Temptations - Cloud Nine (1969)
-- [ ] 160. Sly & the Family Stone, Stand! (1969)
+- [X] 160. Sly & the Family Stone - Stand! (1969)
 - [ ] 161. Tim Buckley - Happy Sad
 - [X] 162. Chicago - Chicago Transit Authority
 - [ ] 163. Fairport Convention - Unhalfbricking
@@ -202,7 +202,7 @@ Current score: 361/1079
 - [ ] 195. Rod Stewart - Gasoline Alley (1970)
 - [X] 196. George Harrison - All Things Must Pass
 - [ ] 197. Simon & Garfunkel - Bridge Over Troubled Water
-- [ ] 198. Tea for the Tillerman (Cat Stevens, 1970)
+- [X] 198. Cat Stevens - Tea for the Tillerman (1970)
 - [ ] 199. Traffic - John Barleycorn Must Die
 - [X] 200. The Stooges - Fun House
 - [X] 201. James Taylor - Sweet Baby James

@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 219/500
+Current score: 223/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -79,7 +79,7 @@ Current score: 219/500
 - [X] 72. Neil Young - Harvest (1972)
 - [X] 73. My Bloody Valentine - Loveless
 - [X] 74. Kanye West - The College Dropout
-- [ ] 75. Aretha Franklin - Lady Soul (1968)
+- [X] 75. Aretha Franklin - Lady Soul (1968)
 - [X] 76. Curtis Mayfield - Superfly (1972)
 - [ ] 77. The Who - Who's Next
 - [ ] 78. Elvis Presley - The Sun Sessions
@@ -123,7 +123,7 @@ Current score: 219/500
 - [ ] 116. The Cure - Disintegration
 - [ ] 117. Kanye West - Late Registration
 - [X] 118. Eagles - Hotel California
-- [ ] 119. Sly & the Family Stone - Stand!
+- [X] 119. Sly & the Family Stone - Stand!
 - [X] 120. Van Morrison - Moondance
 - [ ] 121. Elvis Costello - This Year's Model
 - [ ] 122. Nine Inch Nails - The Downward Spiral
@@ -209,7 +209,7 @@ Current score: 219/500
 - [X] 202. Björk - Homogenic (1997)
 - [X] 203. Nick Drake - Pink Moon (1972)
 - [X] 204. Kanye West - Graduation
-- [ ] 205. Cat Stevens - Tea for the Tillerman
+- [X] 205. Cat Stevens - Tea for the Tillerman
 - [X] 206. David Bowie - Low
 - [X] 207. Eagles - Eagles
 - [ ] 208. Lil Wayne - Tha Carter III
@@ -257,7 +257,7 @@ Current score: 219/500
 - [X] 250. Buzzcocks - Singles Going Steady (1979)
 - [ ] 251. Elton John- Honky Chateau
 - [ ] 252. Devo - Q: Are We Not Men? A: We Are Devo! (1978)
-- [ ] 253. Pink Floyd - The Piper at the Gates of Dawn (1967)
+- [X] 253. Pink Floyd - The Piper at the Gates of Dawn (1967)
 - [ ] 254. Herbie Hancock - Head Hunters
 - [ ] 255. Bob Dylan - The Freewheelin' Bob Dylan
 - [ ] 256. Tracy Chapman - Tracy Chapman
