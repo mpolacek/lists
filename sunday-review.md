@@ -1,9 +1,10 @@
 # Pitchfork Sunday Review
 
-*Current score: 84/270*
+Current score: 84/271
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 271. Caspa/Rusko - FabricLive.37
 - [ ] 270. Spacehog - Resident Alien
 - [X] 269. King Sunny Adé - Juju Music
 - [ ] 268. Richard and Linda Thompson - I Want to See the Bright Lights Tonight
