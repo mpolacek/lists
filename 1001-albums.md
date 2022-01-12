@@ -1,7 +1,7 @@
 1001 Albums You Must Hear
 =========================
 
-Current score: 366/1079
+Current score: 367/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -267,7 +267,7 @@ Current score: 366/1079
 - [ ] 260. Tim Buckley - Greetings From LA
 - [X] 261. Nick Drake - Pink Moon
 - [X] 262. Eagles - Eagles
-- [ ] 263. Paul Simon - Paul Simon
+- [X] 263. Paul Simon - Paul Simon
 - [ ] 264. Roxy Music - Roxy Music (1972)
 - [ ] 265. Alice Cooper School's Out
 - [ ] 266. The Temptations - All Directions (1972)

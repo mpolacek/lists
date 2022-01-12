@@ -1,7 +1,7 @@
 Rolling Stone's The 500 Greatest Albums of All-Time
 ===================================================
 
-Current score: 223/500
+Current score: 224/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -429,7 +429,7 @@ Current score: 223/500
 - [ ] 422. Marvin Gaye - Let's Get It On
 - [X] 423. Yo La Tengo - I Can Hear the Heart Beating as One
 - [X] 424. Beck - Odelay
-- [ ] 425. Paul Simon - Paul Simon
+- [X] 425. Paul Simon - Paul Simon
 - [ ] 426. Lucinda Williams - Lucinda Williams
 - [X] 427. Al Green - Call Me
 - [ ] 428. Hüsker Dü - New Day Rising
