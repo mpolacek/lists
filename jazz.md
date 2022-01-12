@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 0/
+Current score: 2/
 
 Listened: `$ grep "\[X\]" jazz.md | wc -l`
 
@@ -8,115 +8,39 @@ Total: `$ grep "\[.\]" jazz.md | wc -l`
 
 ## The '40s
 
-- [ ] 20.
-- [ ] 19.
-- [ ] 18.
-- [ ] 17.
-- [ ] 16.
-- [ ] 15.
-- [ ] 14.
-- [ ] 13.
-- [ ] 12.
-- [ ] 11.
-- [ ] 10.
-- [ ] 9.
-- [ ] 8.
-- [ ] 7.
-- [ ] 6.
-- [ ] 5.
-- [ ] 4.
-- [ ] 3.
-- [ ] 2. 
-- [ ] 1. 
+- [ ] xxx
 
 ## The '50s
 
-- [ ] 20.
-- [ ] 19.
-- [ ] 18.
-- [ ] 17.
-- [ ] 16.
-- [ ] 15.
-- [ ] 14.
-- [ ] 13.
-- [ ] 12.
-- [ ] 11.
-- [ ] 10.
-- [ ] 9.
-- [ ] 8.
-- [ ] 7.
-- [ ] 6.
-- [ ] 5.
-- [ ] 4.
-- [ ] 3.
-- [ ] 2. 
-- [ ] 1. 
+- [ ] xxx
 
 ## The '60s
 
-- [ ] 20.
-- [ ] 19.
-- [ ] 18.
-- [ ] 17.
-- [ ] 16.
-- [ ] 15.
-- [ ] 14.
-- [ ] 13.
-- [ ] 12.
-- [ ] 11.
-- [ ] 10.
-- [ ] 9.
-- [ ] 8.
-- [ ] 7.
-- [ ] 6.
-- [ ] 5.
-- [ ] 4.
-- [ ] 3.
-- [ ] 2. 
-- [ ] 1. George Russell - Ezz-thetics
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] Oscar Peterson - Night Train
+- [ ] Cecil Taylor - Nefertiti, The Beautiful One Has Come
+- [ ] Grant Green - Born To Be Blue
+- [ ] Stan Getz - Focus
+- [ ] Bill Evans - The Complete Village Vanguard Recordings 1961
+- [ ] Dexter Gordon - Doin' Alright
+- [ ] Eddie Harris - Exodus to Jazz / Mighty Like A Rose
+- [ ] Jim Robinson - Jim Robinson's New Orleans Band
+- [ ] Gene Ammons - The Gene Ammons Story: Gentle Jug
+- [ ] Jimmy Rowles - Our Delight
+- [ ] Thelonious Monk - Underground
+- [ ] McCoy Tyner - The Real McCoy
+- [X] Duke Ellington - The Far East Suite
+- [X] George Russell - Ezz-thetics
 
 ## The '70s
 
-- [ ] 20.
-- [ ] 19.
-- [ ] 18.
-- [ ] 17.
-- [ ] 16.
-- [ ] 15.
-- [ ] 14.
-- [ ] 13.
-- [ ] 12.
-- [ ] 11.
-- [ ] 10.
-- [ ] 9.
-- [ ] 8.
-- [ ] 7.
-- [ ] 6.
-- [ ] 5.
-- [ ] 4.
-- [ ] 3.
-- [ ] 2. 
-- [ ] 1. 
+- [ ]
 
 ## The '80s
 
-- [ ] 20.
-- [ ] 19.
-- [ ] 18.
-- [ ] 17.
-- [ ] 16.
-- [ ] 15.
-- [ ] 14.
-- [ ] 13.
-- [ ] 12.
-- [ ] 11.
-- [ ] 10.
-- [ ] 9.
-- [ ] 8.
-- [ ] 7.
-- [ ] 6.
-- [ ] 5.
-- [ ] 4.
-- [ ] 3.
-- [ ] 2. 
-- [ ] 1. 
+- [ ] 
