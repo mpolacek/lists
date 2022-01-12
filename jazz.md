@@ -16,26 +16,21 @@ Total: `$ grep "\[.\]" jazz.md | wc -l`
 
 ## The '60s
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] Oscar Peterson - Night Train
-- [ ] Cecil Taylor - Nefertiti, The Beautiful One Has Come
-- [ ] Grant Green - Born To Be Blue
-- [ ] Stan Getz - Focus
-- [ ] Bill Evans - The Complete Village Vanguard Recordings 1961
-- [ ] Dexter Gordon - Doin' Alright
-- [ ] Eddie Harris - Exodus to Jazz / Mighty Like A Rose
-- [ ] Jim Robinson - Jim Robinson's New Orleans Band
-- [ ] Gene Ammons - The Gene Ammons Story: Gentle Jug
-- [ ] Jimmy Rowles - Our Delight
-- [ ] Thelonious Monk - Underground
-- [ ] McCoy Tyner - The Real McCoy
-- [X] Duke Ellington - The Far East Suite
-- [X] George Russell - Ezz-thetics
+- [ ] Thelonious Monk - Underground (1968)
+- [ ] Jimmy Rowles - Our Delight (1968)
+- [ ] McCoy Tyner - The Real McCoy (1967)
+- [X] Duke Ellington - The Far East Suite (1966)
+- [ ] Paul Desmond - Glad To Be Unhappy (1963-64)
+- [ ] Oscar Peterson - Night Train (1962)
+- [ ] Cecil Taylor - Nefertiti, The Beautiful One Has Come (1962)
+- [ ] Grant Green - Born To Be Blue (1961-62)
+- [ ] Stan Getz - Focus (1961)
+- [ ] Bill Evans - The Complete Village Vanguard Recordings (1961)
+- [ ] Dexter Gordon - Doin' Alright (1961)
+- [ ] Eddie Harris - Exodus to Jazz / Mighty Like A Rose (1961)
+- [ ] Jim Robinson - Jim Robinson's New Orleans Band (1961)
+- [ ] Gene Ammons - The Gene Ammons Story: Gentle Jug (1961-62)
+- [X] George Russell - Ezz-thetics (1961)
 
 ## The '70s
 
