@@ -1,5 +1,4 @@
-Various albums
-==============
+# Various albums
 
 Current score: 14/47
 

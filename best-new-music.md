@@ -1,5 +1,4 @@
-Pitchfork Best New Music
-========================
+# Pitchfork Best New Music
 
 Current score: 106/836
 

@@ -1,5 +1,4 @@
-1001 Albums You Must Hear
-=========================
+# 1001 Albums You Must Hear
 
 Current score: 367/1079
 

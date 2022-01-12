@@ -3,6 +3,7 @@
 Current score: 0/
 
 Listened: `$ grep "\[X\]" jazz.md | wc -l`
+
 Total: `$ grep "\[.\]" jazz.md | wc -l`
 
 ## The '40s

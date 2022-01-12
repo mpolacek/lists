@@ -1,5 +1,4 @@
-Rolling Stone's The 500 Greatest Albums of All-Time
-===================================================
+# Rolling Stone's The 500 Greatest Albums of All-Time
 
 Current score: 224/500
 

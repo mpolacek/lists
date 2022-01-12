@@ -1,7 +1,6 @@
-Pitchfork Sunday Review
-=======================
+# Pitchfork Sunday Review
 
-Current score: 84/270
+*Current score: 84/270*
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
