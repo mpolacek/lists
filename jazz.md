@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 2/
+Current score: 3/27
 
 Listened: `$ grep "\[X\]" jazz.md | wc -l`
 
@@ -39,7 +39,7 @@ Total: `$ grep "\[.\]" jazz.md | wc -l`
 
 ## The '70s
 
-- [ ] Mahavishnu Orchestra - The Inner Mounting Flame (1971)
+- [X] Mahavishnu Orchestra - The Inner Mounting Flame (1971)
 - [ ] McCoy Tyner - Sahara (1972)
 
 ## The '80s

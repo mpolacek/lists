@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 367/1079
+Current score: 369/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -48,7 +48,7 @@ Current score: 367/1079
 - [X] 42. The Beatles - A Hard Day's Night (1964)
 - [X] 43. Jacques Brel - Olympia '64
 - [ ] 44. Solomon Burke - Rock & Soul
-- [ ] 45. Dusty Springfield - A Girl Called Dusty (1964)
+- [X] 45. Dusty Springfield - A Girl Called Dusty (1964)
 - [ ] 46. The Rolling Stones - The Rolling Stones (1964)
 - [ ] 47. Buck Owens and His Buckaroos - I've Got a Tiger by the Tail (1964)
 - [ ] 48. Jerry Lee Lewis - Live at the Star Club Hamburg
@@ -351,7 +351,7 @@ Current score: 367/1079
 - [ ] 345. Queen - A Night at the Opera
 - [ ] 346. Willie Nelson - Red Headed Stranger
 - [ ] 347. Earth, Wind & Fire - That's the Way of the World
-- [ ] 348. Curtis Mayfield - There's No Place Like America Today
+- [X] 348. Curtis Mayfield - There's No Place Like America Today
 - [ ] 349. Tom Petty and the Heartbreakers - Tom Petty and the Heartbreakers
 - [ ] 350. The Modern Lovers - The Modern Lovers
 - [X] 351. David Bowie - Station to Station (1976)
