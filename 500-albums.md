@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 224/500
+Current score: 225/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -136,7 +136,7 @@ Current score: 224/500
 - [ ] 130. Prince - 1999
 - [X] 131. Portishead - Dummy
 - [ ] 132. Hank Williams - 40 Greatest Hits
-- [ ] 133. Joni Mitchell - Hejira
+- [X] 133. Joni Mitchell - Hejira
 - [X] 134. Fugees - The Score
 - [X] 135. U2 - The Joshua Tree
 - [X] 136. Funkadelic - Maggot Brain

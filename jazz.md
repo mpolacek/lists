@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 3/27
+Current score: 4/27
 
 Listened: `$ grep "\[X\]" jazz.md | wc -l`
 
@@ -34,7 +34,7 @@ Total: `$ grep "\[.\]" jazz.md | wc -l`
 - [ ] Paul Desmond - Glad To Be Unhappy (1963-64)
 - [X] Duke Ellington - The Far East Suite (1966)
 - [ ] McCoy Tyner - The Real McCoy (1967)
-- [ ] Thelonious Monk - Underground (1968)
+- [X] Thelonious Monk - Underground (1968)
 - [ ] Jimmy Rowles - Our Delight (1968)
 
 ## The '70s

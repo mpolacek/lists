@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 369/1079
+Current score: 372/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -20,7 +20,7 @@ Current score: 369/1079
 - [ ] 14. Little Richard - Here's Little Richard (1957)
 - [X] 15. Tito Puente - Dance Mania
 - [ ] 16. Billie Holiday - Lady in Satin
-- [ ] 17. Ramblin' Jack Elliott - Jack Takes the Floor (1958)
+- [X] 17. Ramblin' Jack Elliott - Jack Takes the Floor (1958)
 - [ ] 18. Sarah Vaughan - Sarah Vaughan at Mister Kelly's (1958)
 - [ ] 19. Ella Fitzgerald - Sings the Gershwin Song Book (1959)
 - [ ] 20. Genius of Ray Charles
@@ -206,7 +206,7 @@ Current score: 369/1079
 - [X] 200. The Stooges - Fun House
 - [X] 201. James Taylor - Sweet Baby James
 - [ ] 202. Paul McCartney - McCartney (1970)
-- [ ] 203. Abraxas (Santana, 1970)
+- [ ] 203. Santana - Abraxas (1970)
 - [ ] 204. Syd Barrett - The Madcap Laughs (1970)
 - [ ] 205. Jethro Tull - Aqualung
 - [ ] 206. David Crosby - If I Could Only Remember My Name
@@ -214,12 +214,12 @@ Current score: 369/1079
 - [X] 208. Marvin Gaye - What's Going On
 - [ ] 209. Bee Gees - Trafalgar (1971)
 - [ ] 210. The Yes Album - Yes
-- [ ] 211. Who's Next (The Who, 1971)
+- [ ] 211. The Who - Who's Next (1971)
 - [X] 212. Carole King - Tapestry
-- [ ] 213. Isaac Hayes - Shaft: Music From the Soundtrack
+- [X] 213. Isaac Hayes - Shaft: Music From the Soundtrack
 - [X] 214. The Allman Brothers Band - At Fillmore East (1971)
-- [ ] 215. Sticky Fingers (The Rolling Stones, 1971)
-- [ ] 216. John Lennon: Imagine
+- [ ] 215. The Rolling Stones - Sticky Fingers (1971)
+- [ ] 216. John Lennon - Imagine
 - [ ] 217. The Beach Boys - Surf's Up (1971)
 - [ ] 218. Yes - Fragile (1970)
 - [X] 219. The Doors - L.A. Woman
@@ -355,7 +355,7 @@ Current score: 369/1079
 - [ ] 349. Tom Petty and the Heartbreakers - Tom Petty and the Heartbreakers
 - [ ] 350. The Modern Lovers - The Modern Lovers
 - [X] 351. David Bowie - Station to Station (1976)
-- [ ] 352. Joni Mitchell - Hejira
+- [X] 352. Joni Mitchell - Hejira
 - [ ] 353. Boston - Boston
 - [X] 354. Eagles - Hotel California
 - [X] 355. ABBA - Arrival
