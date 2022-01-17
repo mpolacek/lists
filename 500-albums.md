@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 225/500
+Current score: 226/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -115,7 +115,7 @@ Current score: 225/500
 - [ ] 109. Lou Reed - Transformer
 - [ ] 110. Joni Mitchell - Court and Spark (1974)
 - [ ] 111. Janet Jackson - Control (1986)
-- [ ] 112. Elton John - Goodbye Yellow Brick Road
+- [X] 112. Elton John - Goodbye Yellow Brick Road
 - [X] 113. The Smiths - The Queen Is Dead
 - [X] 114. The Strokes - Is This It
 - [ ] 115. Kendrick Lamar - Good Kid, M.A.A.D City

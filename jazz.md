@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 4/27
+Current score: 7/27
 
 Listened: `$ grep "\[X\]" jazz.md | wc -l`
 
@@ -29,9 +29,9 @@ Total: `$ grep "\[.\]" jazz.md | wc -l`
 - [X] George Russell - Ezz-thetics (1961)
 - [ ] Grant Green - Born To Be Blue (1961-62)
 - [ ] Gene Ammons - The Gene Ammons Story: Gentle Jug (1961-62)
-- [ ] Oscar Peterson - Night Train (1962)
+- [X] Oscar Peterson - Night Train (1962)
 - [ ] Cecil Taylor - Nefertiti, The Beautiful One Has Come (1962)
-- [ ] Paul Desmond - Glad To Be Unhappy (1963-64)
+- [X] Paul Desmond - Glad To Be Unhappy (1963-64)
 - [X] Duke Ellington - The Far East Suite (1966)
 - [ ] McCoy Tyner - The Real McCoy (1967)
 - [X] Thelonious Monk - Underground (1968)
@@ -40,7 +40,7 @@ Total: `$ grep "\[.\]" jazz.md | wc -l`
 ## The '70s
 
 - [X] Mahavishnu Orchestra - The Inner Mounting Flame (1971)
-- [ ] McCoy Tyner - Sahara (1972)
+- [X] McCoy Tyner - Sahara (1972)
 
 ## The '80s
 
