@@ -2,7 +2,7 @@
 
 [web](https://www.rollingstone.com/music/music-lists/50-greatest-grunge-albums-798851/)
 
-Current score: 29/50
+Current score: 31/50
 
 `$ grep "\[X\]" grunge.md | wc -l`
 
@@ -34,9 +34,9 @@ Current score: 29/50
 - [X] 26. Smashing Pumpkins - Mellon Collie and the Infinite Sadness (1995)
 - [ ] 27. Babes in Toyland - Spanking Machine (1990)
 - [ ] 28. Soundgarden - Louder Than Love (1989)
-- [ ] 29. Green River - Come on Down (1985)
+- [X] 29. Green River - Come on Down (1985)
 - [X] 30. Wipers - Youth of America (1981)
-- [ ] 31. Tad - 8-Way Santa (1991)
+- [X] 31. Tad - 8-Way Santa (1991)
 - [X] 32. Smashing Pumpkins - Gish (1991)
 - [X] 33. Babes in Toyland - Fontanelle (1992)
 - [ ] 34. 7 Year Bitch - ¡Viva Zapata! (1994)

@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 373/1079
+Current score: 374/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -712,7 +712,7 @@ Current score: 373/1079
 - [ ] 706. Teenage Fanclub - Bandwagonesque
 - [ ] 707. Metallica - Metallica
 - [X] 708. Pavement - Slanted and Enchanted
-- [ ] 709. Aphex Twin - Selected Ambient Works 85-92
+- [X] 709. Aphex Twin - Selected Ambient Works 85-92
 - [X] 710. Arrested Development - 3 Years, 5 Months and 2 Days in the Life Of...
 - [ ] 711. Haut De Gamme / Koweït Rive Gauche
 - [X] 712. Morrissey - Your Arsenal
