@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 9/27
+Current score: 12/27
 
 Listened: `$ grep "\[X\]" jazz.md | wc -l`
 
@@ -21,9 +21,9 @@ Total: `$ grep "\[.\]" jazz.md | wc -l`
 
 ## The '60s
 
-- [ ] Stan Getz - Focus (1961)
+- [X] Stan Getz - Focus (1961)
 - [ ] Bill Evans - The Complete Village Vanguard Recordings (1961)
-- [ ] Dexter Gordon - Doin' Alright (1961)
+- [X] Dexter Gordon - Doin' Alright (1961)
 - [ ] Eddie Harris - Exodus to Jazz / Mighty Like A Rose (1961)
 - [ ] Jim Robinson - Jim Robinson's New Orleans Band (1961)
 - [X] George Russell - Ezz-thetics (1961)
@@ -51,7 +51,7 @@ Total: `$ grep "\[.\]" jazz.md | wc -l`
 ## The '90s
 
 - [ ] Bobby Previte - Weather Clear, Track Fast (1991)
-- [ ] McCoy Tyner - Soliloquy (1991)
+- [X] McCoy Tyner - Soliloquy (1991)
 
 ## The Recent Scene 2001 - 2010
 

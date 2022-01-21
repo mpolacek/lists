@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 374/1079
+Current score: 375/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -927,8 +927,8 @@ Current score: 374/1079
 - [ ] 921. Goldfrapp: Felt Mountain
 - [ ] 922. Eminem - The Marshall Mathers LP
 - [ ] 923. Red Snapper - Our Aim Is to Satisfy
-- [ ] 924. Ute Lemper • Punishing Kiss
-- [ ] 925. The Avalanches - Since I Left You
+- [ ] 924. Ute Lemper - Punishing Kiss
+- [X] 925. The Avalanches - Since I Left You
 - [ ] 926. Outkast - Stankonia
 - [X] 927. Common - Like Water for Chocolate
 - [ ] 928. Silver Jews - Bright Flight
