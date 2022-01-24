@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 375/1079
+Current score: 376/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -90,7 +90,7 @@ Current score: 375/1079
 - [ ] 84. Beau Brummels (The) Triangle
 - [ ] 85. The Monkees - Headquarters (1967)
 - [ ] 86. Tim Buckley - Goodbye and Hello (1967)
-- [ ] 87. Love - Forever Changes (1967)
+- [X] 87. Love - Forever Changes (1967)
 - [X] 88. Cream - Disraeli Gears
 - [X] 89. Pink Floyd - The Piper at the Gates of Dawn (1967)
 - [ ] 90. The Who - The Who Sell Out (1967)

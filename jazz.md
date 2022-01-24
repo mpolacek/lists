@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 12/27
+Current score: 14/27
 
 Listened: `$ grep "\[X\]" jazz.md | wc -l`
 
@@ -17,7 +17,7 @@ Total: `$ grep "\[.\]" jazz.md | wc -l`
 
 ## The '50s
 
-- [ ] Clifford Brown - Memorial Album (1953)
+- [X] Clifford Brown - Memorial Album (1953)
 
 ## The '60s
 
@@ -35,7 +35,7 @@ Total: `$ grep "\[.\]" jazz.md | wc -l`
 - [X] Duke Ellington - The Far East Suite (1966)
 - [ ] McCoy Tyner - The Real McCoy (1967)
 - [X] Thelonious Monk - Underground (1968)
-- [ ] Jimmy Rowles - Our Delight (1968)
+- [X] Jimmy Rowles - Our Delight (1968)
 
 ## The '70s
 

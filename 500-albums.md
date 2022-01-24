@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 226/500
+Current score: 227/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -183,7 +183,7 @@ Current score: 226/500
 - [ ] 177. Rod Stewart - Every Picture Tells a Story
 - [ ] 178. Otis Redding - Otis Blue: Otis Redding Sings Soul (1965)
 - [ ] 179. The Notorious B.I.G.- Life After Death
-- [ ] 180. Love - Forever Changes (1967)
+- [X] 180. Love - Forever Changes (1967)
 - [ ] 181. Bob Dylan - Bringing It All Back Home (1965)
 - [X] 182. James Taylor - Sweet Baby James
 - [ ] 183. D'Angelo - Brown Sugar

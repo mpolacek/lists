@@ -2,7 +2,7 @@
 
 [web](https://www.rollingstone.com/music/music-lists/50-greatest-grunge-albums-798851/)
 
-Current score: 31/50
+Current score: 33/50
 
 `$ grep "\[X\]" grunge.md | wc -l`
 
@@ -24,7 +24,7 @@ Current score: 31/50
 - [X] 16. Melvins - Houdini (1993)
 - [X] 17. Screaming Trees - Sweet Oblivion (1992)
 - [X] 18. Mad Season - Above (1995)
-- [ ] 19. Singles: Original Motion Picture Soundtrack (1992)
+- [X] 19. Singles: Original Motion Picture Soundtrack (1992)
 - [X] 20. Green River - Dry as a Bone (1987)
 - [ ] 21. Jerry Cantrell - Degradation Trip (2002)
 - [ ] 22. Various Artists - Deep Six (1986)
@@ -33,7 +33,7 @@ Current score: 31/50
 - [X] 25. Melvins - Bullhead (1991)
 - [X] 26. Smashing Pumpkins - Mellon Collie and the Infinite Sadness (1995)
 - [ ] 27. Babes in Toyland - Spanking Machine (1990)
-- [ ] 28. Soundgarden - Louder Than Love (1989)
+- [X] 28. Soundgarden - Louder Than Love (1989)
 - [X] 29. Green River - Come on Down (1985)
 - [X] 30. Wipers - Youth of America (1981)
 - [X] 31. Tad - 8-Way Santa (1991)
