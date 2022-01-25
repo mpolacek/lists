@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 376/1079
+Current score: 377/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -535,7 +535,7 @@ Current score: 376/1079
 - [X] 529. The Police - Synchronicity (1983)
 - [ ] 530. Meat Puppets - Meat Puppets II
 - [ ] 531. Culture Club - Colour by Numbers
-- [ ] 532. Frankie Goes to Hollywood - Welcome to the Pleasuredome
+- [X] 532. Frankie Goes to Hollywood - Welcome to the Pleasuredome
 - [X] 533. Run DMC - Run DMC
 - [X] 534. Sade - Diamond Life
 - [X] 535. Cocteau Twins - Treasure

@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 14/27
+Current score: 17/27
 
 Listened: `$ grep "\[X\]" jazz.md | wc -l`
 
@@ -13,7 +13,7 @@ Total: `$ grep "\[.\]" jazz.md | wc -l`
 
 ## The '40s
 
-- [ ] Miles Davis - The Complete Birth Of The Cool (1948-50)
+- [X] Miles Davis - The Complete Birth Of The Cool (1948-50)
 
 ## The '50s
 
@@ -22,7 +22,7 @@ Total: `$ grep "\[.\]" jazz.md | wc -l`
 ## The '60s
 
 - [X] Stan Getz - Focus (1961)
-- [ ] Bill Evans - The Complete Village Vanguard Recordings (1961)
+- [X] Bill Evans - The Complete Village Vanguard Recordings (1961)
 - [X] Dexter Gordon - Doin' Alright (1961)
 - [ ] Eddie Harris - Exodus to Jazz / Mighty Like A Rose (1961)
 - [ ] Jim Robinson - Jim Robinson's New Orleans Band (1961)
@@ -55,4 +55,4 @@ Total: `$ grep "\[.\]" jazz.md | wc -l`
 
 ## The Recent Scene 2001 - 2010
 
-- [ ] Dick Hyman - Forgotten Dreams (2001)
+- [X] Dick Hyman - Forgotten Dreams (2001)
