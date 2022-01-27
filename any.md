@@ -1,9 +1,11 @@
 # Various albums
 
-Current score: 14/47
+Current score: 16/49
 
 `$ grep "\[X\]" any.md | wc -l`
 
+- [X] 49. Soichi Terada - Asakusa Light
+- [X] 48. Weldon Irvine - Sinbad
 - [X] 47. Michael Nyman - A Zed and Two Noughts
 - [X] 46. Mark Seelig - The Disciple's Path
 - [X] 45. Phil Puleo - VIVAHA

@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 377/1079
+Current score: 380/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -248,7 +248,7 @@ Current score: 377/1079
 - [X] 242. Deep Purple - Machine Head (1972)
 - [X] 243. Big Star - #1 Record
 - [ ] 244. Black Sabbath - Black Sabbath, Vol. 4
-- [ ] 245. Steely Dan - Can't Buy a Thrill
+- [X] 245. Steely Dan - Can't Buy a Thrill
 - [X] 246. Neil Young - Harvest (1972)
 - [X] 247. Curtis Mayfield - Superfly
 - [ ] 248. Slade - Slayed
@@ -410,7 +410,7 @@ Current score: 377/1079
 - [ ] 404. The Adverts : Crossing the Red Sea With the Adverts
 - [ ] 405. Big Star - Third / Sister Lovers
 - [ ] 406. The Residents - Duck Stab/Buster & Glen
-- [ ] 407. Public Image Limited - Public Image Limited
+- [X] 407. Public Image Limited - Public Image Limited
 - [ ] 408. Magazine - Real Life
 - [ ] 409. Bruce Springsteen - Darkness on the Edge of Town
 - [ ] 410. Funkadelic - One Nation Under a Groove
@@ -978,7 +978,7 @@ Current score: 377/1079
 - [ ] 972. Rufus Wainwright - Want One
 - [ ] 973. The Thrills - So Much for the City
 - [ ] 974. Yeah Yeah Yeahs - Fever to Tell
-- [ ] 975. Amy Winehouse - Frank
+- [X] 975. Amy Winehouse - Frank
 - [X] 976. Devendra Banhart - Rejoicing in the Hands
 - [ ] 977. Nick Cave and the Bad Seeds - The Lyre of Orpheus/Abattoir Blues
 - [ ] 978. Scissor Sisters - Scissor Sister

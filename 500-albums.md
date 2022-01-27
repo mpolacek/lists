@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 227/500
+Current score: 228/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -171,7 +171,7 @@ Current score: 227/500
 - [X] 165. R.E.M. - Murmur
 - [ ] 166. Buddy Holly - 20 Golden Greats
 - [ ] 167. Depeche Mode - Violator (1990)
-- [ ] 168. Steely Dan - Can't Buy a Thrill
+- [X] 168. Steely Dan - Can't Buy a Thrill
 - [ ] 169. Billy Joel - The Stranger (1977)
 - [X] 170. Cream - Disraeli Gears
 - [X] 171. Sonic Youth - Daydream Nation
