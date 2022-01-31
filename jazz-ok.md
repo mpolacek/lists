@@ -1,8 +1,6 @@
 # The Penguin Jazz Guide
 
-*(OK)*
-
-Current score: 0/27
+Current score: 0/28
 
 Listened: `$ grep "\[X\]" jazz-ok.md | wc -l`
 
@@ -23,6 +21,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 
 ## The '60s
 
+- [ ] Rahsaan Roland Kirk - We Free Kings (1961)
 - [ ] Stan Getz - Focus (1961)
 - [ ] Bill Evans - The Complete Village Vanguard Recordings (1961)
 - [ ] Dexter Gordon - Doin' Alright (1961)

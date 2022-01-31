@@ -2,7 +2,7 @@
 
 [web](https://www.rollingstone.com/music/music-lists/50-greatest-grunge-albums-798851/)
 
-Current score: 33/50
+Current score: 34/50
 
 `$ grep "\[X\]" grunge.md | wc -l`
 
@@ -55,4 +55,4 @@ Current score: 33/50
 - [ ] 47. The U-Men - Step on a Bug (1988)
 - [ ] 48. Fecal Matter - Illiteracy Will Prevail (1986)
 - [ ] 49. Toadies - Rubberneck (1994)
-- [ ] 50. Mother Love Bone - Apple (1990)
+- [X] 50. Mother Love Bone - Apple (1990)

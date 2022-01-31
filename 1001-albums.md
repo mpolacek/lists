@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 380/1079
+Current score: 383/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -288,12 +288,12 @@ Current score: 380/1079
 - [ ] 282. John Martyn - Solid Air
 - [ ] 283. Roxy Music - For Your Pleasure
 - [X] 284. Faust - Faust IV (1973)
-- [ ] 285. Herbie Hancock - Headhunters
+- [X] 285. Herbie Hancock - Headhunters
 - [ ] 286. Mott Mott the Hoople
 - [ ] 287. Mike Oldfield - Tubular Bells
 - [ ] 288. Todd Rundgren - A Wizard / a True Star
 - [X] 289. Elton John - Goodbye Yellow Brick Road (1973)
-- [ ] 290. Steely Dan - Countdown to Ecstasy
+- [X] 290. Steely Dan - Countdown to Ecstasy
 - [ ] 291. Waylon Jennings - Honky Tonk Heroes (1973)
 - [X] 292. Pink Floyd - Dark Side of the Moon
 - [X] 293. Stevie Wonder: Innervisions
@@ -308,7 +308,7 @@ Current score: 380/1079
 - [ ] 302. Bad Company - Bad Company
 - [ ] 303. The Lamb Lies Down on Broadway (Genesis, 1974)
 - [X] 304. Shuggie Otis - Inspiration Information (1974)
-- [ ] 305. Stevie Wonder - Fulfillingness First Finale
+- [X] 305. Stevie Wonder - Fulfillingness First Finale
 - [ ] 306. Eric Clapton 461 Ocean Boulevard
 - [ ] 307. Kraftwerk Autobahn
 - [ ] 308. Van Morrison - It's Too Late to Stop Now (1974)

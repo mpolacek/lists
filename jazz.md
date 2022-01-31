@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 17/27
+Current score: 20/28
 
 Listened: `$ grep "\[X\]" jazz.md | wc -l`
 
@@ -21,10 +21,11 @@ Total: `$ grep "\[.\]" jazz.md | wc -l`
 
 ## The '60s
 
+- [X] Rahsaan Roland Kirk - We Free Kings (1961)
 - [X] Stan Getz - Focus (1961)
 - [X] Bill Evans - The Complete Village Vanguard Recordings (1961)
 - [X] Dexter Gordon - Doin' Alright (1961)
-- [ ] Eddie Harris - Exodus to Jazz / Mighty Like A Rose (1961)
+- [X] Eddie Harris - Exodus to Jazz / Mighty Like A Rose (1961)
 - [ ] Jim Robinson - Jim Robinson's New Orleans Band (1961)
 - [X] George Russell - Ezz-thetics (1961)
 - [X] Grant Green - Born To Be Blue (1961-62)
@@ -33,7 +34,7 @@ Total: `$ grep "\[.\]" jazz.md | wc -l`
 - [ ] Cecil Taylor - Nefertiti, The Beautiful One Has Come (1962)
 - [X] Paul Desmond - Glad To Be Unhappy (1963-64)
 - [X] Duke Ellington - The Far East Suite (1966)
-- [ ] McCoy Tyner - The Real McCoy (1967)
+- [X] McCoy Tyner - The Real McCoy (1967)
 - [X] Thelonious Monk - Underground (1968)
 - [X] Jimmy Rowles - Our Delight (1968)
 
