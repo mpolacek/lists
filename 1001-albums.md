@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 383/1079
+Current score: 385/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -361,7 +361,7 @@ Current score: 383/1079
 - [X] 355. ABBA - Arrival
 - [ ] 356. Kiss - Destroyer
 - [ ] 357. Rush - 2112 (1976)
-- [ ] 358. Jorge Ben - África Brasil
+- [X] 358. Jorge Ben - África Brasil
 - [ ] 359. Joan Armatrading 1976
 - [X] 360. Aerosmith - Rocks
 - [ ] 361. Parliament - Mothership Connection
@@ -457,7 +457,7 @@ Current score: 383/1079
 - [ ] 451. The Damned - Machine Gun Etiquette
 - [ ] 452. Gary Numan - The Pleasure Principle (1979)
 - [ ] 453. The Specials - The Specials
-- [ ] 454. Adam and the Ants: Kings of the Wild Frontier
+- [X] 454. Adam and the Ants - Kings of the Wild Frontier
 - [ ] 455. Dexy's Midnight Runners - Searching for the Young Soul Rebels
 - [X] 456. AC/DC - Back in Black
 - [ ] 457. The Cramps - The Songs the Lord Taught Us

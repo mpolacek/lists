@@ -1,9 +1,12 @@
 # Pitchfork Sunday Review
 
-Current score: 84/271
+Current score: 84/274
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 274. Little Brother - The Listening
+- [ ] 273. Third Eye Blind - Third Eye Blind
+- [ ] 272. Bonnie Raitt - Nick of Time
 - [ ] 271. Caspa/Rusko - FabricLive.37
 - [ ] 270. Spacehog - Resident Alien
 - [X] 269. King Sunny Adé - Juju Music
