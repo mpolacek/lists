@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 385/1079
+Current score: 386/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -553,7 +553,7 @@ Current score: 385/1079
 - [ ] 547. The Fall - This Nation's Saving Grace
 - [ ] 548. Abdullah Ibrahim - Water From an Ancient Well (1985)
 - [ ] 549. A-Ha - Hunting High and Low (1985)
-- [ ] 550. Tears for Fears - Songs From the Big Chair
+- [X] 550. Tears for Fears - Songs From the Big Chair
 - [ ] 551. Brothers in Arms (Dire Straits, 1985)
 - [X] 552. Prefab Sprout - Steve McQueen
 - [ ] 553. The Mekons - Fear and Whiskey

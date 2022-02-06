@@ -1,6 +1,6 @@
 # Pitchfork Sunday Review
 
-Current score: 84/274
+Current score: 85/274
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -218,7 +218,7 @@ Current score: 84/274
 - [X] 63. King Crimson - Red
 - [ ] 62. Nelly - Country Grammar
 - [ ] 61. Joe Bataan - Gypsy Woman
-- [ ] 60. Tears for Fears - Songs From the Big Chair
+- [X] 60. Tears for Fears - Songs From the Big Chair
 - [ ] 59. Fiona Apple - Tidal
 - [ ] 58. Sparklehorse - Good Morning Spider
 - [X] 57. Silver Jews - American Water

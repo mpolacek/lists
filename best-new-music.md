@@ -1,9 +1,10 @@
 # Pitchfork Best New Music
 
-Current score: 106/836
+Current score: 106/837
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 837. Animal Collective - Time Skiffs
 - [X] 836. Arca - KicK iii
 - [X] 835. Taylor Swift - Red (Taylor’s Version)
 - [X] 834. Snail Mail - Valentine
