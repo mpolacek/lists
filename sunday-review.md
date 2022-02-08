@@ -1,9 +1,10 @@
 # Pitchfork Sunday Review
 
-Current score: 85/274
+Current score: 87/275
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 275. The Birthday Party - Junkyard
 - [ ] 274. Little Brother - The Listening
 - [ ] 273. Third Eye Blind - Third Eye Blind
 - [ ] 272. Bonnie Raitt - Nick of Time
@@ -219,10 +220,10 @@ Current score: 85/274
 - [ ] 62. Nelly - Country Grammar
 - [ ] 61. Joe Bataan - Gypsy Woman
 - [X] 60. Tears for Fears - Songs From the Big Chair
-- [ ] 59. Fiona Apple - Tidal
+- [X] 59. Fiona Apple - Tidal
 - [ ] 58. Sparklehorse - Good Morning Spider
 - [X] 57. Silver Jews - American Water
-- [ ] 56. Stereolab - Dots and Loops
+- [X] 56. Stereolab - Dots and Loops
 - [ ] 55. Guns N’ Roses - Appetite for Destruction
 - [ ] 54. Metallica - Metallica
 - [X] 53. Marvin Gaye - Here, My Dear

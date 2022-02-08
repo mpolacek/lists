@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 386/1079
+Current score: 390/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -658,7 +658,7 @@ Current score: 386/1079
 - [ ] 652. 808 State - 90 (1989)
 - [ ] 653. Coldcut What's That Noise?
 - [ ] 654. Barry Adamson - Moss Side Story (1989)
-- [ ] 655. Aerosmith - Pump
+- [X] 655. Aerosmith - Pump
 - [X] 656. Pixies - Doolittle
 - [ ] 657. Nick of Time - Bonnie Raitt [1989]
 - [X] 658. Fugazi - Repeater
@@ -671,7 +671,7 @@ Current score: 386/1079
 - [ ] 665. The Shamen - En-Tact (1990)
 - [ ] 666. World Clique (Deee-Lite, 1990)
 - [ ] 667. The La's, the La's (1990)
-- [ ] 668. Black Crowes - Shake Your Money Maker
+- [X] 668. Black Crowes - Shake Your Money Maker
 - [ ] 669. Depeche Mode - Violator (1990)
 - [X] 670. Pixies - Bossanova
 - [X] 671. Megadeth - Rust in Peace
@@ -739,7 +739,7 @@ Current score: 386/1079
 - [ ] 733. P.J. Harvey - Dry
 - [ ] 734. Suede - Suede
 - [ ] 735. Paul Weller - Wild Wood
-- [ ] 736. Smashing Pumpkins - Siamese Dream
+- [X] 736. Smashing Pumpkins - Siamese Dream
 - [ ] 737. The Auteurs New Wave
 - [X] 738. Liz Phair - Exile in Guyville
 - [ ] 739. Afghan Whigs - Gentlemen
@@ -822,7 +822,7 @@ Current score: 386/1079
 - [X] 816. DJ Shadow - Endtroducing..... (1996)
 - [ ] 817. Eels - Beautiful Freak
 - [ ] 818. Divine Comedy Casanova
-- [ ] 819. Fiona Apple - Tidal
+- [X] 819. Fiona Apple - Tidal
 - [X] 820. Wilco - Being There (1996)
 - [ ] 821. Sepultura - Roots
 - [ ] 822. Barry Adamson Oedipus Schmoedipus

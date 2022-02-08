@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 228/500
+Current score: 229/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -344,7 +344,7 @@ Current score: 228/500
 - [X] 338. Brian Eno - Another Green World
 - [ ] 339. Janet Jackson - Rhythm Nation 1814 (1989)
 - [ ] 340. Snoop Doggy Dogg - Doggystyle
-- [ ] 341. Siamese Dream - The Smashing Pumpkins
+- [X] 341. The Smashing Pumpkins - Siamese Dream
 - [X] 342. The Beatles - Let It Be
 - [ ] 343. Sly and the Family Stone - Greatest Hits
 - [ ] 344. Toots & the Maytals - Funky Kingston

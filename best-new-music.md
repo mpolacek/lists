@@ -1,9 +1,11 @@
 # Pitchfork Best New Music
 
-Current score: 106/837
+Current score: 106/839
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 839. Black Country, New Road - Ants From Up There
+- [ ] 838. Cate Le Bon - Pompeii
 - [ ] 837. Animal Collective - Time Skiffs
 - [X] 836. Arca - KicK iii
 - [X] 835. Taylor Swift - Red (Taylor’s Version)
