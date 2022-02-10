@@ -1,9 +1,11 @@
 # Pitchfork Best New Music
 
-Current score: 106/839
+Current score: 106/841
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 841. Big Thief - Dragon New Warm Mountain I Believe in You
+- [ ] 840. Yung Kayo - DFTK
 - [ ] 839. Black Country, New Road - Ants From Up There
 - [ ] 838. Cate Le Bon - Pompeii
 - [ ] 837. Animal Collective - Time Skiffs

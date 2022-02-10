@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 390/1079
+Current score: 391/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -749,7 +749,7 @@ Current score: 390/1079
 - [ ] 743. Jamiroquai - Emergency on Planet Earth
 - [ ] 744. Pet Shop Boys - Very
 - [X] 745. PJ Harvey - Rid of Me
-- [ ] 746. Blur - Modern Life Is Rubbish
+- [X] 746. Blur - Modern Life Is Rubbish
 - [ ] 747. Tuesday Night Music Club
 - [X] 748. The Fall - The Infotainment Scan
 - [X] 749. Wu-Tang Clan - Enter the Wu-Tang (36 Chambers) (1993)
