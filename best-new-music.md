@@ -1,9 +1,10 @@
 # Pitchfork Best New Music
 
-Current score: 106/841
+Current score: 106/842
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 842. yeule - Glitch Princess
 - [ ] 841. Big Thief - Dragon New Warm Mountain I Believe in You
 - [ ] 840. Yung Kayo - DFTK
 - [ ] 839. Black Country, New Road - Ants From Up There

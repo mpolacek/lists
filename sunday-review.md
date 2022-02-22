@@ -1,9 +1,10 @@
 # Pitchfork Sunday Review
 
-Current score: 87/275
+Current score: 87/276
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 276. Death - Symbolic
 - [ ] 275. The Birthday Party - Junkyard
 - [ ] 274. Little Brother - The Listening
 - [ ] 273. Third Eye Blind - Third Eye Blind

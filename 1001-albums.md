@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 391/1079
+Current score: 394/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -34,7 +34,7 @@ Current score: 391/1079
 - [ ] 28. Jimmy Smith - Back at the Chicken Shack
 - [X] 29. Muddy Waters - At Newport 1960
 - [X] 30. Bill Evans - Sunday at the Village Vanguard
-- [ ] 31. Ray Charles - Modern Sounds in Country and Western Music (1962)
+- [X] 31. Ray Charles - Modern Sounds in Country and Western Music (1962)
 - [X] 32. Booker T. & the M.G.'S - Green Onions (1962)
 - [X] 33. Stan Getz / Charlie Byrd - Jazz Samba
 - [X] 34. Ray Price - Night Life
@@ -750,7 +750,7 @@ Current score: 391/1079
 - [ ] 744. Pet Shop Boys - Very
 - [X] 745. PJ Harvey - Rid of Me
 - [X] 746. Blur - Modern Life Is Rubbish
-- [ ] 747. Tuesday Night Music Club
+- [X] 747. Sheryl Crow - Tuesday Night Music Club
 - [X] 748. The Fall - The Infotainment Scan
 - [X] 749. Wu-Tang Clan - Enter the Wu-Tang (36 Chambers) (1993)
 - [X] 750. Björk - Debut (1993)
@@ -864,7 +864,7 @@ Current score: 391/1079
 - [ ] 858. The Verve - Urban Hymns
 - [X] 859. Spiritualized - Ladies and Gentlemen We Are Floating in Space
 - [ ] 860. System of a Down - System of a Down
-- [ ] 861. Bob Dylan, Live 1966 (1998)
+- [X] 861. Bob Dylan - Live 1966 (1998)
 - [X] 862. Manu Chao - Clandestino
 - [ ] 863. Billy Bragg and Wilco Mermaid Avenue
 - [X] 864. Turbonegro - Apocalypse Dudes

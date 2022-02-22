@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 229/500
+Current score: 230/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -130,7 +130,7 @@ Current score: 229/500
 - [ ] 124. U2 - Achtung Baby (1991)
 - [ ] 125. Beastie Boys - Paul's Boutique
 - [X] 126. Mary J. Blige - My Life
-- [ ] 127. Ray Charles - Modern Sounds in Country and Western Music (1962)
+- [X] 127. Ray Charles - Modern Sounds in Country and Western Music (1962)
 - [ ] 128. Queen - A Night at the Opera
 - [ ] 129. Pink Floyd - The Wall
 - [ ] 130. Prince - 1999
