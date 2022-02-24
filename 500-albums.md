@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 230/500
+Current score: 232/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -24,7 +24,7 @@ Current score: 230/500
 - [X] 18. Bob Dylan - Highway 61 Revisited (1965)
 - [X] 19. Kendrick Lamar - To Pimp a Butterfly
 - [X] 20. Radiohead - Kid A (2000)
-- [ ] 21. Bruce Springsteen - Born to Run
+- [X] 21. Bruce Springsteen - Born to Run
 - [X] 22. Notorious B.I.G. - Ready to Die
 - [X] 23. The Velvet Underground - The Velvet Underground & Nico
 - [X] 24. The Beatles - Sgt. Pepper's Lonely Hearts Club Band
@@ -417,7 +417,7 @@ Current score: 230/500
 - [ ] 411. Bob Dylan - Love and Theft
 - [ ] 412. Going to a Go-Go- Smokey Robinson & the Miracles
 - [X] 413. Creedence Clearwater Revival - Cosmo's Factory
-- [ ] 414. Chic - Risqué (1979)
+- [X] 414. Chic - Risqué (1979)
 - [X] 415. The Meters - Look-Ka Py Py
 - [ ] 416. The Roots - Things Fall Apart
 - [ ] 417. Ornette Coleman - The Shape of Jazz to Come

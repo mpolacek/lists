@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 394/1079
+Current score: 398/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -338,7 +338,7 @@ Current score: 394/1079
 - [ ] 332. Aerosmith - Toys in the Attic
 - [X] 333. David Bowie - Young Americans
 - [X] 334. Burning Spear - Marcus Garvey
-- [ ] 335. Bruce Springsteen - Born to Run (1975)
+- [X] 335. Bruce Springsteen - Born to Run (1975)
 - [X] 336. Emmylou Harris - Pieces of the Sky
 - [ ] 337. Dion - Born to Be With You (1975)
 - [ ] 338. Joni Mitchell - The Hissing of Summer Lawns
@@ -440,7 +440,7 @@ Current score: 394/1079
 - [ ] 434. Live at the Witch Trials
 - [ ] 435. Fear of Music (Talking Heads, 1979)
 - [X] 436. Joy Division - Unknown Pleasures
-- [ ] 437. Chic - Risque
+- [X] 437. Chic - Risque
 - [X] 438. Undertones - The Undertones
 - [X] 439. The Clash - London Calling
 - [ ] 440. Japan - Quiet Life
@@ -916,7 +916,7 @@ Current score: 394/1079
 - [X] 910. Radiohead - Kid A (2000)
 - [X] 911. Badly Drawn Boy - Hour of Bewilderbeast
 - [ ] 912. U2 - All That You Can't Leave Behind
-- [ ] 913. Coldplay - Parachutes
+- [X] 913. Coldplay - Parachutes
 - [ ] 914. Elliott Smith - Figure 8
 - [X] 915. Erykah Badu - Mama's Gun
 - [ ] 916. Madonna - Music
@@ -1070,7 +1070,7 @@ Current score: 394/1079
 - [ ] 1064. Adele - 25
 - [ ] 1065. Björk - Vulnicura (2015)
 - [X] 1066. Kendrick Lamar - To Pimp a Butterfly
-- [ ] 1067. Songhoy Blues - Music in Exile (2015)
+- [X] 1067. Songhoy Blues - Music in Exile (2015)
 - [ ] 1068. Skepta - Konnichiwa
 - [X] 1069. Solange - A Seat at the Table (2016)
 - [ ] 1070. David Bowie - Blackstar (2016)
