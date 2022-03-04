@@ -1,6 +1,6 @@
 # Pitchfork Sunday Review
 
-Current score: 87/276
+Current score: 89/276
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -225,8 +225,8 @@ Current score: 87/276
 - [ ] 58. Sparklehorse - Good Morning Spider
 - [X] 57. Silver Jews - American Water
 - [X] 56. Stereolab - Dots and Loops
-- [ ] 55. Guns N’ Roses - Appetite for Destruction
-- [ ] 54. Metallica - Metallica
+- [X] 55. Guns N’ Roses - Appetite for Destruction
+- [X] 54. Metallica - Metallica
 - [X] 53. Marvin Gaye - Here, My Dear
 - [X] 52. ZZ Top - Tres Hombres
 - [ ] 51. Destiny’s Child - The Writing’s on the Wall

@@ -1,9 +1,11 @@
 # Pitchfork Best New Music
 
-Current score: 106/842
+Current score: 108/844
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 844. Nilüfer Yanya - PAINLESS
+- [X] 843. Huerco S. - Plonk
 - [ ] 842. yeule - Glitch Princess
 - [ ] 841. Big Thief - Dragon New Warm Mountain I Believe in You
 - [ ] 840. Yung Kayo - DFTK
@@ -249,7 +251,7 @@ Current score: 106/842
 - [ ] 600. Joey Purp - Iiidrops
 - [ ] 599. Car Seat Headrest - Teens of Denial
 - [ ] 598. Chance the Rapper - Coloring Book (2016)
-- [ ] 597. Radiohead - A Moon Shaped Pool
+- [X] 597. Radiohead - A Moon Shaped Pool
 - [ ] 596. James Blake - The Colour in Anything
 - [ ] 595. White Lung - Paradise
 - [ ] 594. ANOHNI - Hopelessness (2016)

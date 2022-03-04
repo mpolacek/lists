@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 20/28
+Current score: 21/28
 
 Listened: `$ grep "\[X\]" jazz.md | wc -l`
 
@@ -31,7 +31,7 @@ Total: `$ grep "\[.\]" jazz.md | wc -l`
 - [X] Grant Green - Born To Be Blue (1961-62)
 - [ ] Gene Ammons - The Gene Ammons Story: Gentle Jug (1961-62)
 - [X] Oscar Peterson - Night Train (1962)
-- [ ] Cecil Taylor - Nefertiti, The Beautiful One Has Come (1962)
+- [X] Cecil Taylor - Nefertiti, The Beautiful One Has Come (1962)
 - [X] Paul Desmond - Glad To Be Unhappy (1963-64)
 - [X] Duke Ellington - The Far East Suite (1966)
 - [X] McCoy Tyner - The Real McCoy (1967)

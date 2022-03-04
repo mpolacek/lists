@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 232/500
+Current score: 235/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -65,7 +65,7 @@ Current score: 232/500
 - [X] 59. Stevie Wonder - Talking Book
 - [X] 60. Van Morrison - Astral Weeks
 - [ ] 61. Eric B. and Rakim - Paid in Full
-- [ ] 62. Guns N' Roses - Appetite for Destruction (1987)
+- [X] 62. Guns N' Roses - Appetite for Destruction (1987)
 - [ ] 63. Steely Dan - Aja
 - [ ] 64. Outkast - Stankonia
 - [X] 65. James Brown - Live at the Apollo
@@ -236,9 +236,9 @@ Current score: 232/500
 - [ ] 230. Rihanna - Anti
 - [ ] 231. Tom Petty & the Heartbreakers - Damn the Torpedoes
 - [X] 232. John Coltrane - Giant Steps
-- [ ] 233. Tori Amos - Little Earthquakes
+- [X] 233. Tori Amos - Little Earthquakes
 - [ ] 234. Black Sabbath - Master of Reality
-- [ ] 235. Metallica - Metallica
+- [X] 235. Metallica - Metallica
 - [X] 236. Daft Punk - Discovery (2001)
 - [ ] 237. Willie Nelson- Red Headed Stranger
 - [X] 238. Kraftwerk - Trans-Europe Express

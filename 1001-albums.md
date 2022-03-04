@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 398/1079
+Current score: 403/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -275,9 +275,9 @@ Current score: 398/1079
 - [ ] 269. Al Green - Let's Stay Together
 - [X] 270. Rolling Stones - Exile on Main Street
 - [ ] 271. Lynyrd Skynyrd - (Pronounced 'Lĕh-'Nérd 'Skin-'Nérd)
-- [ ] 272. The Incredible Bongo Band - Bongo Rock (1973)
+- [X] 272. The Incredible Bongo Band - Bongo Rock (1973)
 - [ ] 273. Aladdin Sane (David Bowie, 1973)
-- [ ] 274. King Crimson - Larks' Tongues in Aspic (1973)
+- [X] 274. King Crimson - Larks' Tongues in Aspic (1973)
 - [ ] 275. Bob Marley and the Wailers - Catch a Fire
 - [ ] 276. Hawkwind - Space Ritual (1973)
 - [X] 277. John Cale - Paris 1919
@@ -603,7 +603,7 @@ Current score: 398/1079
 - [ ] 597. Butthole Surfers - Locust Abortion Technician (1987)
 - [ ] 598. Astor Piazzolla & Gary Burton - The New Tango - Recorded at the Montreux Festival (1987)
 - [ ] 599. The Smiths - Strangeways, Here We Come
-- [ ] 600. Guns N' Roses - Appetite for Destruction
+- [X] 600. Guns N' Roses - Appetite for Destruction
 - [ ] 601. The Jesus and Mary Chains - Darklands
 - [ ] 602. Ladysmith Black Mambazo - Shaka Zulu (1987)
 - [ ] 603. Laibach - Opus Dei (1987)
@@ -710,7 +710,7 @@ Current score: 398/1079
 - [X] 704. Massive Attack - Blue Lines
 - [X] 705. Primal Scream - Screamadelica
 - [ ] 706. Teenage Fanclub - Bandwagonesque
-- [ ] 707. Metallica - Metallica
+- [X] 707. Metallica - Metallica
 - [X] 708. Pavement - Slanted and Enchanted
 - [X] 709. Aphex Twin - Selected Ambient Works 85-92
 - [X] 710. Arrested Development - 3 Years, 5 Months and 2 Days in the Life Of...
@@ -730,7 +730,7 @@ Current score: 398/1079
 - [ ] 724. Sonic Youth - Dirty
 - [ ] 725. Stereo MC's - Connected
 - [ ] 726. Ministry - Psalm 69
-- [ ] 727. Tori Amos - Little Earthquakes
+- [X] 727. Tori Amos - Little Earthquakes
 - [ ] 728. Ice Cube - The Predator
 - [ ] 729. Pantera - Vulgar Display of Power
 - [X] 730. Alice in Chains - Dirt (1992)
