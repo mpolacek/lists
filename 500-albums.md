@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 235/500
+Current score: 237/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -380,7 +380,7 @@ Current score: 235/500
 - [ ] 374. Robert Johnson - King of the Delta Blues Singers
 - [ ] 375. Green Day - Dookie
 - [X] 376. Neutral Milk Hotel - In the Aeroplane Over the Sea
-- [ ] 377. Yeah Yeah Yeahs - Fever to Tell
+- [X] 377. Yeah Yeah Yeahs - Fever to Tell
 - [X] 378. Run DMC - Run DMC
 - [ ] 379. Rush - Moving Pictures (1981)
 - [ ] 380. Charles Mingus - Mingus Ah Um (1959)
@@ -425,7 +425,7 @@ Current score: 235/500
 - [ ] 419. Eric Church - Chief
 - [ ] 420. That's the Way of the World - Earth, Wind & Fire
 - [ ] 421. M.I.A. - Arular
-- [ ] 422. Marvin Gaye - Let's Get It On
+- [X] 422. Marvin Gaye - Let's Get It On
 - [X] 423. Yo La Tengo - I Can Hear the Heart Beating as One
 - [X] 424. Beck - Odelay
 - [X] 425. Paul Simon - Paul Simon

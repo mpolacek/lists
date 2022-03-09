@@ -1,9 +1,10 @@
 # Pitchfork Best New Music
 
-Current score: 108/844
+Current score: 108/845
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 845. Charlotte Adigéry / Bolis Pupul - Topical Dancer
 - [ ] 844. Nilüfer Yanya - PAINLESS
 - [X] 843. Huerco S. - Plonk
 - [ ] 842. yeule - Glitch Princess

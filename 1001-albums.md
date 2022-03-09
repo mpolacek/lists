@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 403/1079
+Current score: 408/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -272,7 +272,7 @@ Current score: 403/1079
 - [ ] 266. The Temptations - All Directions (1972)
 - [X] 267. David Bowie - The Rise and Fall of Ziggy Stardust & the Spiders From Mars
 - [ ] 268. War - The World Is a Ghetto
-- [ ] 269. Al Green - Let's Stay Together
+- [X] 269. Al Green - Let's Stay Together
 - [X] 270. Rolling Stones - Exile on Main Street
 - [ ] 271. Lynyrd Skynyrd - (Pronounced 'Lĕh-'Nérd 'Skin-'Nérd)
 - [X] 272. The Incredible Bongo Band - Bongo Rock (1973)
@@ -284,7 +284,7 @@ Current score: 403/1079
 - [X] 278. CAN - Future Days (1973)
 - [ ] 279. Lou Reed, Berlin (1973)
 - [ ] 280. Selling England by the Pound (Genesis, 1973)
-- [ ] 281. Marvin Gaye - Let's Get It On
+- [X] 281. Marvin Gaye - Let's Get It On
 - [ ] 282. John Martyn - Solid Air
 - [ ] 283. Roxy Music - For Your Pleasure
 - [X] 284. Faust - Faust IV (1973)
@@ -551,7 +551,7 @@ Current score: 403/1079
 - [ ] 545. N'dour Youssou Immigres
 - [X] 546. Bruce Springsteen - Born in the U.S.A.
 - [ ] 547. The Fall - This Nation's Saving Grace
-- [ ] 548. Abdullah Ibrahim - Water From an Ancient Well (1985)
+- [X] 548. Abdullah Ibrahim - Water From an Ancient Well (1985)
 - [ ] 549. A-Ha - Hunting High and Low (1985)
 - [X] 550. Tears for Fears - Songs From the Big Chair
 - [ ] 551. Brothers in Arms (Dire Straits, 1985)
@@ -597,7 +597,7 @@ Current score: 403/1079
 - [ ] 591. Prince - Sign 'O' the Times
 - [ ] 592. The Cult : Electric.
 - [ ] 593. Depeche Mode - Music for the Masses
-- [ ] 594. Sisters of Mercy : Floodland.
+- [X] 594. The Sisters of Mercy - Floodland
 - [ ] 595. George Michael - Faith
 - [ ] 596. Hüsker Dü - Warehouse: Songs and Stories
 - [ ] 597. Butthole Surfers - Locust Abortion Technician (1987)
@@ -977,7 +977,7 @@ Current score: 403/1079
 - [ ] 971. Kings of Leon - Youth and Young Manhood
 - [ ] 972. Rufus Wainwright - Want One
 - [ ] 973. The Thrills - So Much for the City
-- [ ] 974. Yeah Yeah Yeahs - Fever to Tell
+- [X] 974. Yeah Yeah Yeahs - Fever to Tell
 - [X] 975. Amy Winehouse - Frank
 - [X] 976. Devendra Banhart - Rejoicing in the Hands
 - [ ] 977. Nick Cave and the Bad Seeds - The Lyre of Orpheus/Abattoir Blues
