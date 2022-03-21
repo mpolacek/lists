@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 408/1079
+Current score: 412/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -324,7 +324,7 @@ Current score: 408/1079
 - [ ] 318. Sheet Music - 10Cc
 - [ ] 319. On the Beach - Neil Young
 - [ ] 320. George Jones - The Grand Tour (1974)
-- [ ] 321. Gene Clark - No Other
+- [X] 321. Gene Clark - No Other
 - [ ] 322. Steely Dan Pretzel Logic
 - [ ] 323. Randy Newman - Good Old Boys
 - [ ] 324. Bob Marley and the Wailers - Natty Dread
@@ -426,7 +426,7 @@ Current score: 408/1079
 - [ ] 420. The Saints - Eternally Yours (1978)
 - [X] 421. Marvin Gaye - Here, My Dear
 - [X] 422. Willie Nelson - Stardust
-- [ ] 423. Chic - C'est Chic
+- [X] 423. Chic - C'est Chic
 - [ ] 424. X-Ray Spex - Germ-Free Adolescents (1978)
 - [X] 425. Brian Eno - Ambient 1: Music for Airports (1978)
 - [ ] 426. Siouxsie & the Banshees - The Scream
@@ -702,7 +702,7 @@ Current score: 408/1079
 - [ ] 696. Public Enemy - Apocalypse 91 Enemy Strikes Back
 - [X] 697. A Tribe Called Quest - The Low End Theory
 - [X] 698. Pearl Jam - Ten (1991)
-- [ ] 699. Saint Etienne - Fox Base Alpha
+- [X] 699. Saint Etienne - Fox Base Alpha
 - [ ] 700. Sepultura - Arise
 - [X] 701. Slint - Spiderland (1991)
 - [ ] 702. U2 - Achtung Baby
@@ -843,7 +843,7 @@ Current score: 408/1079
 - [X] 837. Blur - Blur
 - [X] 838. Radiohead - OK Computer (1997)
 - [ ] 839. Finely Quaye Maverick a Strike
-- [ ] 840. Missy "Misdemeanor" Elliott - Supa Dupa Fly
+- [X] 840. Missy "Misdemeanor" Elliott - Supa Dupa Fly
 - [ ] 841. The Chemical Bros. - Dig Your Own Hole (1997)
 - [ ] 842. Primal Scream - Vanishing Point
 - [ ] 843. Robert Wyatt - Shleep

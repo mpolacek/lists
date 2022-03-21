@@ -1,9 +1,11 @@
 # Pitchfork Best New Music
 
-Current score: 108/845
+Current score: 108/847
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 847. Oso Oso - Sore Thumb
+- [ ] 846. Rosalía - MOTOMAMI
 - [ ] 845. Charlotte Adigéry / Bolis Pupul - Topical Dancer
 - [ ] 844. Nilüfer Yanya - PAINLESS
 - [X] 843. Huerco S. - Plonk

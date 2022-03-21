@@ -1,6 +1,6 @@
 # Pitchfork Sunday Review
 
-Current score: 89/276
+Current score: 90/276
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -159,7 +159,7 @@ Current score: 89/276
 - [X] 124. Van Morrison - Moondance
 - [ ] 123. Lil Peep - Hellboy
 - [ ] 122. System of a Down - Toxicity
-- [ ] 121. Missy Elliott - Supa Dupa Fly
+- [X] 121. Missy Elliott - Supa Dupa Fly
 - [X] 120. Lucinda Williams - Car Wheels on a Gravel Road
 - [X] 119. Talking Heads - Remain in Light
 - [ ] 118. The B-52’s - The B-52’s

@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 237/500
+Current score: 238/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -96,7 +96,7 @@ Current score: 237/500
 - [X] 90. Neil Young - After the Gold Rush (1970)
 - [ ] 91. Bruce Springsteen - Darkness on the Edge of Town
 - [X] 92. Jimi Hendrix - Axis: Bold as Love
-- [ ] 93. Missy "Misdemeanor" Elliott - Supa Dupa Fly
+- [X] 93. Missy "Misdemeanor" Elliott - Supa Dupa Fly
 - [X] 94. The Stooges - Fun House
 - [ ] 95. Drake - Take Care (2011)
 - [X] 96. R.E.M. - Automatic for the People
