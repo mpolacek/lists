@@ -1,9 +1,13 @@
 # Pitchfork Best New Music
 
-Current score: 108/847
+Current score: 108/851
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 851. Alabaster dePlume - Gold - Go Forward in the Courage of Your Love
+- [ ] 850. Soul Glo - Diaspora Problems
+- [ ] 849. Aldous Harding - Warm Chris
+- [ ] 848. Destroyer - Labyrinthitis
 - [ ] 847. Oso Oso - Sore Thumb
 - [ ] 846. Rosalía - MOTOMAMI
 - [ ] 845. Charlotte Adigéry / Bolis Pupul - Topical Dancer

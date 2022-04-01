@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 412/1079
+Current score: 420/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -520,7 +520,7 @@ Current score: 412/1079
 - [ ] 514. Duran Duran - Rio
 - [ ] 515. Violent Femmes - Violent Femmes
 - [X] 516. Malcolm Mclaren - Duck Rock
-- [ ] 517. Def Leppard - Pyromania
+- [X] 517. Def Leppard - Pyromania
 - [X] 518. R.E.M. - Murmur
 - [ ] 519. The - The Soul Mining
 - [X] 520. Tom Waits - Swordfishtrombones (1983)
@@ -583,7 +583,7 @@ Current score: 412/1079
 - [ ] 577. Throwing Muses - Throwing Muses
 - [X] 578. Paul Simon - Graceland
 - [ ] 579. Run DMC - Raising Hell
-- [ ] 580. XTC - Skylarking
+- [X] 580. XTC - Skylarking
 - [X] 581. Steve Earle - Guitar Town
 - [X] 582. Bad Brains - I Against I
 - [ ] 583. Anita Baker - Rapture
@@ -609,7 +609,7 @@ Current score: 412/1079
 - [ ] 603. Laibach - Opus Dei (1987)
 - [X] 604. Napalm Death - Scum
 - [X] 605. Sonic Youth - Sister
-- [ ] 606. The Triffids - Calenture (1987)
+- [X] 606. The Triffids - Calenture (1987)
 - [X] 607. Michael Jackson - Bad
 - [ ] 608. Pet Shop Boys - Actually
 - [X] 609. U2 - The Joshua Tree
@@ -672,7 +672,7 @@ Current score: 412/1079
 - [ ] 666. World Clique (Deee-Lite, 1990)
 - [ ] 667. The La's, the La's (1990)
 - [X] 668. Black Crowes - Shake Your Money Maker
-- [ ] 669. Depeche Mode - Violator (1990)
+- [X] 669. Depeche Mode - Violator (1990)
 - [X] 670. Pixies - Bossanova
 - [X] 671. Megadeth - Rust in Peace
 - [ ] 672. Sex Packets (1990) - Digital Underground
@@ -744,7 +744,7 @@ Current score: 412/1079
 - [X] 738. Liz Phair - Exile in Guyville
 - [ ] 739. Afghan Whigs - Gentlemen
 - [ ] 740. Aimee Mann - Whatever
-- [ ] 741. Grant Lee Buffalo - Fuzzy
+- [X] 741. Grant Lee Buffalo - Fuzzy
 - [X] 742. Nirvana - In Utero (1993)
 - [ ] 743. Jamiroquai - Emergency on Planet Earth
 - [ ] 744. Pet Shop Boys - Very
@@ -756,7 +756,7 @@ Current score: 412/1079
 - [X] 750. Björk - Debut (1993)
 - [ ] 751. Orbital - Orbital 2
 - [ ] 752. Doggystyle (Snoop Doggy Dogg, 1993)
-- [ ] 753. Sebadoh - Bubble and Scrape
+- [X] 753. Sebadoh - Bubble and Scrape
 - [ ] 754. The Boo Radleys - Giant Steps
 - [X] 755. William Orbit - Strange Cargo III
 - [ ] 756. Method Man - Tical
@@ -796,10 +796,10 @@ Current score: 412/1079
 - [X] 790. Raekwon - Only Built 4 Cuban Linx
 - [X] 791. Smashing Pumpkins - Mellon Collie and the Infinite Sadness
 - [ ] 792. Rocket From the Crypt Scream Dracula Scream
-- [ ] 793. The Chemical Brothers - Exit Planet Dust
+- [X] 793. The Chemical Brothers - Exit Planet Dust
 - [ ] 794. 2Pac - Me Against the World
 - [ ] 795. Elastica - Elastica
-- [ ] 796. Supergrass I Should Coco
+- [X] 796. Supergrass - I Should Coco
 - [X] 797. Radiohead - The Bends
 - [X] 798. Guided by Voices - Alien Lanes
 - [ ] 799. Femi Kutti Femi Kutti

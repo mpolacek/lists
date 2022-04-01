@@ -1,9 +1,14 @@
 # Pitchfork Sunday Review
 
-Current score: 90/276
+Current score: 91/281
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 281. Tricky - Maxinquaye
+- [ ] 280. Happy End - Kazemachi Roman
+- [ ] 279. Blu & Exile - Below the Heavens
+- [ ] 278. John Legend - Get Lifted
+- [ ] 277. Suburban Lawns - Suburban Lawns
 - [ ] 276. Death - Symbolic
 - [ ] 275. The Birthday Party - Junkyard
 - [ ] 274. Little Brother - The Listening
@@ -88,7 +93,7 @@ Current score: 90/276
 - [X] 195. The Human League - Dare
 - [X] 194. Archie Shepp - Attica Blues
 - [ ] 193. Beck - Mellow Gold
-- [ ] 192. XTC - Skylarking
+- [X] 192. XTC - Skylarking
 - [ ] 191. Craig David - Born To Do It
 - [ ] 190. Herbie Hancock - Head Hunters
 - [ ] 189. Ol’ Dirty Bastard - Return to the 36 Chambers: The Dirty Version

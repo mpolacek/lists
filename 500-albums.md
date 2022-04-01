@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 238/500
+Current score: 239/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -170,7 +170,7 @@ Current score: 238/500
 - [X] 164. Johnny Cash - At Folsom Prison
 - [X] 165. R.E.M. - Murmur
 - [ ] 166. Buddy Holly - 20 Golden Greats
-- [ ] 167. Depeche Mode - Violator (1990)
+- [X] 167. Depeche Mode - Violator (1990)
 - [X] 168. Steely Dan - Can't Buy a Thrill
 - [ ] 169. Billy Joel - The Stranger (1977)
 - [X] 170. Cream - Disraeli Gears
