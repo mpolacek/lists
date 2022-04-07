@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 420/1079
+Current score: 424/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -221,7 +221,7 @@ Current score: 420/1079
 - [ ] 215. The Rolling Stones - Sticky Fingers (1971)
 - [ ] 216. John Lennon - Imagine
 - [ ] 217. The Beach Boys - Surf's Up (1971)
-- [ ] 218. Yes - Fragile (1970)
+- [X] 218. Yes - Fragile (1970)
 - [X] 219. The Doors - L.A. Woman
 - [ ] 220. Can - Tago Mago (1971)
 - [ ] 221. Madman Across the Water (Elton John, 1971)
@@ -461,7 +461,7 @@ Current score: 420/1079
 - [ ] 455. Dexy's Midnight Runners - Searching for the Young Soul Rebels
 - [X] 456. AC/DC - Back in Black
 - [ ] 457. The Cramps - The Songs the Lord Taught Us
-- [ ] 458. Fresh Fruit for Rotting Vegetables (The Dead Kennedys, 1980)
+- [X] 458. The Dead Kennedys - Fresh Fruit for Rotting Vegetables (1980)
 - [ ] 459. Peter Gabriel (Peter Gabriel, 1980)
 - [ ] 460. The Soft Boys - Underwater Moonlight
 - [ ] 461. The Cure - Seventeen Seconds
@@ -807,7 +807,7 @@ Current score: 420/1079
 - [X] 801. GZA - Liquid Swords (1995)
 - [X] 802. Pulp - Different Class
 - [X] 803. Leftfield - Leftism
-- [ ] 804. D'Angelo - Brown Sugar
+- [X] 804. D'Angelo - Brown Sugar
 - [X] 805. Oasis - (What's the Story) Morning Glory?
 - [X] 806. Goldie - Timeless
 - [ ] 807. Jagged Little Pill (Alanis Morissette, 1995)
@@ -925,7 +925,7 @@ Current score: 420/1079
 - [ ] 919. Lambchop - Nixion
 - [ ] 920. Hybrid Theory - Linkin Park
 - [ ] 921. Goldfrapp: Felt Mountain
-- [ ] 922. Eminem - The Marshall Mathers LP
+- [X] 922. Eminem - The Marshall Mathers LP
 - [ ] 923. Red Snapper - Our Aim Is to Satisfy
 - [ ] 924. Ute Lemper - Punishing Kiss
 - [X] 925. The Avalanches - Since I Left You

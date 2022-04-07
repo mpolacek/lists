@@ -1,9 +1,10 @@
 # Pitchfork Sunday Review
 
-Current score: 91/281
+Current score: 92/282
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 282. The Specials - The Specials
 - [ ] 281. Tricky - Maxinquaye
 - [ ] 280. Happy End - Kazemachi Roman
 - [ ] 279. Blu & Exile - Below the Heavens
@@ -193,7 +194,7 @@ Current score: 91/281
 - [ ] 95. Public Image Ltd - The Flowers of Romance
 - [X] 94. Built to Spill - Perfect From Now On
 - [ ] 93. Jonathan Richman - I, Jonathan
-- [ ] 92. Eminem - The Marshall Mathers LP
+- [X] 92. Eminem - The Marshall Mathers LP
 - [ ] 91. Johnny Cash - American Recordings
 - [ ] 90. Neneh Cherry - Raw Like Sushi
 - [ ] 89. The Kinks - Something Else

@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 239/500
+Current score: 241/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -148,7 +148,7 @@ Current score: 239/500
 - [X] 142. Bruce Springsteen - Born in the U.S.A.
 - [X] 143. The Velvet Underground - The Velvet Underground
 - [X] 144. Led Zeppelin - Physical Graffiti
-- [ ] 145. Eminem - The Marshall Mathers LP
+- [X] 145. Eminem - The Marshall Mathers LP
 - [X] 146. Blondie - Parallel Lines
 - [X] 147. Jeff Buckley - Grace (1994)
 - [ ] 148. Frank Ocean - Channel Orange
@@ -186,7 +186,7 @@ Current score: 239/500
 - [X] 180. Love - Forever Changes (1967)
 - [ ] 181. Bob Dylan - Bringing It All Back Home (1965)
 - [X] 182. James Taylor - Sweet Baby James
-- [ ] 183. D'Angelo - Brown Sugar
+- [X] 183. D'Angelo - Brown Sugar
 - [X] 184. Cyndi Lauper - She's So Unusual
 - [X] 185. The Rolling Stones - Beggar's Banquet
 - [ ] 186. Red Hot Chili Peppers - Blood Sugar Sex Magik
