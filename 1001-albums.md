@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 424/1079
+Current score: 429/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -350,7 +350,7 @@ Current score: 424/1079
 - [X] 344. Pink Floyd - Wish You Were Here
 - [ ] 345. Queen - A Night at the Opera
 - [ ] 346. Willie Nelson - Red Headed Stranger
-- [ ] 347. Earth, Wind & Fire - That's the Way of the World
+- [X] 347. Earth, Wind & Fire - That's the Way of the World
 - [X] 348. Curtis Mayfield - There's No Place Like America Today
 - [ ] 349. Tom Petty and the Heartbreakers - Tom Petty and the Heartbreakers
 - [ ] 350. The Modern Lovers - The Modern Lovers
@@ -382,7 +382,7 @@ Current score: 424/1079
 - [ ] 376. The Stranglers - Rattus Norvegicus
 - [ ] 377. The Clash - The Clash
 - [X] 378. David Bowie - Low
-- [ ] 379. Steely Dan - Aja
+- [X] 379. Steely Dan - Aja
 - [X] 380. Wire - Pink Flag
 - [ ] 381. John Martyn One World
 - [ ] 382. Talking Heads - Talking Heads: 77
@@ -412,7 +412,7 @@ Current score: 424/1079
 - [ ] 406. The Residents - Duck Stab/Buster & Glen
 - [X] 407. Public Image Limited - Public Image Limited
 - [ ] 408. Magazine - Real Life
-- [ ] 409. Bruce Springsteen - Darkness on the Edge of Town
+- [X] 409. Bruce Springsteen - Darkness on the Edge of Town
 - [ ] 410. Funkadelic - One Nation Under a Groove
 - [ ] 411. Throbbing Gristle - D.O.A. Third and Final Report
 - [ ] 412. Thin Lizzy - Live and Dangerous
@@ -422,7 +422,7 @@ Current score: 424/1079
 - [ ] 416. Willie Colón & Rubén Blades - Siembra (1978)
 - [ ] 417. The Cars (The Cars, 1979)
 - [ ] 418. Q: Are We Not Men? A: We Are Devo! (Devo, 1978)
-- [ ] 419. Dire Straits - Dire Straits (1978)
+- [X] 419. Dire Straits - Dire Straits (1978)
 - [ ] 420. The Saints - Eternally Yours (1978)
 - [X] 421. Marvin Gaye - Here, My Dear
 - [X] 422. Willie Nelson - Stardust
@@ -889,7 +889,7 @@ Current score: 424/1079
 - [ ] 883. Incubus Make Yourself
 - [ ] 884. Skunk Anansie - Post-Orgasmic Chill
 - [X] 885. The Magnetic Fields - 69 Love Songs
-- [ ] 886. Travis Man Who
+- [X] 886. Travis - The Man Who
 - [ ] 887. Slipknot - Slipknot
 - [ ] 888. Beth Orton - Central Reservation
 - [X] 889. Nitin Sawhney - Beyond Skin

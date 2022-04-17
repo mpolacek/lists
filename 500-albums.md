@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 241/500
+Current score: 244/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -66,7 +66,7 @@ Current score: 241/500
 - [X] 60. Van Morrison - Astral Weeks
 - [ ] 61. Eric B. and Rakim - Paid in Full
 - [X] 62. Guns N' Roses - Appetite for Destruction (1987)
-- [ ] 63. Steely Dan - Aja
+- [X] 63. Steely Dan - Aja
 - [ ] 64. Outkast - Stankonia
 - [X] 65. James Brown - Live at the Apollo
 - [X] 66. John Coltrane - A Love Supreme
@@ -94,7 +94,7 @@ Current score: 241/500
 - [X] 88. David Bowie - Hunky Dory (1971)
 - [X] 89. Erykah Badu - Baduizm (1997)
 - [X] 90. Neil Young - After the Gold Rush (1970)
-- [ ] 91. Bruce Springsteen - Darkness on the Edge of Town
+- [X] 91. Bruce Springsteen - Darkness on the Edge of Town
 - [X] 92. Jimi Hendrix - Axis: Bold as Love
 - [X] 93. Missy "Misdemeanor" Elliott - Supa Dupa Fly
 - [X] 94. The Stooges - Fun House
@@ -423,7 +423,7 @@ Current score: 241/500
 - [ ] 417. Ornette Coleman - The Shape of Jazz to Come
 - [ ] 418. Dire Straits- Brothers in Arms
 - [ ] 419. Eric Church - Chief
-- [ ] 420. That's the Way of the World - Earth, Wind & Fire
+- [X] 420. Earth, Wind & Fire - That's the Way of the World
 - [ ] 421. M.I.A. - Arular
 - [X] 422. Marvin Gaye - Let's Get It On
 - [X] 423. Yo La Tengo - I Can Hear the Heart Beating as One
