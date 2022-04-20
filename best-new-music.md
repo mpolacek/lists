@@ -1,9 +1,10 @@
 # Pitchfork Best New Music
 
-Current score: 108/851
+Current score: 108/852
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 852. Axel Boman - Quest for Fire / LUZ
 - [ ] 851. Alabaster dePlume - Gold - Go Forward in the Courage of Your Love
 - [ ] 850. Soul Glo - Diaspora Problems
 - [ ] 849. Aldous Harding - Warm Chris

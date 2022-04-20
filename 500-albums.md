@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 244/500
+Current score: 245/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -246,7 +246,7 @@ Current score: 244/500
 - [ ] 240. Sam Cooke - Live at the Harlem Square Club, 1963
 - [X] 241. Massive Attack - Blue Lines (1991)
 - [X] 242. The Velvet Underground - Loaded
-- [ ] 243. The Zombies - Odessey and Oracle
+- [X] 243. The Zombies - Odessey and Oracle
 - [ ] 244. Kanye West - 808S and Heartbreak
 - [X] 245. Cocteau Twins - Heaven or Las Vegas
 - [X] 246. LL Cool J - Mama Said Knock You Out
