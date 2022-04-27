@@ -1,9 +1,10 @@
 # Pitchfork Best New Music
 
-Current score: 108/852
+Current score: 109/853
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [X] 853. SAULT - Air
 - [ ] 852. Axel Boman - Quest for Fire / LUZ
 - [ ] 851. Alabaster dePlume - Gold - Go Forward in the Courage of Your Love
 - [ ] 850. Soul Glo - Diaspora Problems

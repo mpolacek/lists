@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 430/1079
+Current score: 436/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -133,7 +133,7 @@ Current score: 430/1079
 - [ ] 127. The Band, Music From Big Pink (1968)
 - [ ] 128. Jeff Beck Truth
 - [X] 129. Caetano Veloso - Caetano Veloso
-- [ ] 130. Scott Walker - Scott 2
+- [X] 130. Scott Walker - Scott 2
 - [X] 131. The Zombies - Odessey and Oracle (1968)
 - [X] 132. Van Morrison - Astral Weeks (1968)
 - [ ] 133. The Byrds, Sweetheart of the Rodeo (1968)
@@ -172,7 +172,7 @@ Current score: 430/1079
 - [ ] 166. Grateful Dead - Live Dead
 - [ ] 167. The Kinks - Arthur or the Decline and Fall of the British Empire
 - [ ] 168. King Crimson - In the Court of the Crimson King (1969)
-- [ ] 169. Leonard Cohen - Songs From a Room (1969)
+- [X] 169. Leonard Cohen - Songs From a Room (1969)
 - [ ] 170. Fairport Convention: Liege & Lief
 - [ ] 171. Scott Walker - Scott4
 - [X] 172. The Stooges - The Stooges (1969)
@@ -395,7 +395,7 @@ Current score: 430/1079
 - [X] 389. Television - Marquee Moon (1977)
 - [ ] 390. Meat Loaf - Bat Out of Hell
 - [ ] 391. Elvis Costello - My Aim Is True
-- [ ] 392. Lust for Life (Iggy Pop, 1977)
+- [X] 392. Iggy Pop - Lust for Life (1977)
 - [X] 393. Ian Dury - New Boots and Panties!!
 - [X] 394. Sex Pistols - Never Mind the Bollocks, Here's the Sex Pistols
 - [ ] 395. Pere Ubu: The Modern Dance
@@ -647,7 +647,7 @@ Current score: 430/1079
 - [ ] 641. Queen Latifah - All Hail the Queen (1989)
 - [ ] 642. Spacemen 3 - Playing With Fire
 - [ ] 643. Firehose - Fromohio (1989)
-- [ ] 644. Paul'S Boutique (The Beastie Boys, 1989)
+- [X] 644. The Beastie Boys - Paul's Boutique (1989)
 - [ ] 645. The Young Gods - L'eau Rouge (1989)
 - [ ] 646. John Zorn - Spy vs. Spy (1989)
 - [ ] 647. The Stone Roses - The Stone Roses
@@ -845,7 +845,7 @@ Current score: 430/1079
 - [ ] 839. Finely Quaye Maverick a Strike
 - [X] 840. Missy "Misdemeanor" Elliott - Supa Dupa Fly
 - [ ] 841. The Chemical Bros. - Dig Your Own Hole (1997)
-- [ ] 842. Primal Scream - Vanishing Point
+- [X] 842. Primal Scream - Vanishing Point
 - [ ] 843. Robert Wyatt - Shleep
 - [X] 844. David Holmes - Let's Get Killed
 - [ ] 845. Sleater-Kinney - Dig Me Out
@@ -887,7 +887,7 @@ Current score: 430/1079
 - [ ] 881. Khaled - Kenza
 - [ ] 882. XTC - Apple Venus
 - [ ] 883. Incubus Make Yourself
-- [ ] 884. Skunk Anansie - Post-Orgasmic Chill
+- [X] 884. Skunk Anansie - Post-Orgasmic Chill
 - [X] 885. The Magnetic Fields - 69 Love Songs
 - [X] 886. Travis - The Man Who
 - [ ] 887. Slipknot - Slipknot

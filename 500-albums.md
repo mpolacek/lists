@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 245/500
+Current score: 247/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -128,7 +128,7 @@ Current score: 245/500
 - [ ] 122. Nine Inch Nails - The Downward Spiral
 - [X] 123. Led Zeppelin - Led Zeppelin II
 - [ ] 124. U2 - Achtung Baby (1991)
-- [ ] 125. Beastie Boys - Paul's Boutique
+- [X] 125. Beastie Boys - Paul's Boutique
 - [X] 126. Mary J. Blige - My Life
 - [X] 127. Ray Charles - Modern Sounds in Country and Western Music (1962)
 - [ ] 128. Queen - A Night at the Opera
@@ -181,7 +181,7 @@ Current score: 245/500
 - [ ] 175. Kendrick Lamar - DAMN.
 - [X] 176. Public Enemy - Fear of a Black Planet
 - [ ] 177. Rod Stewart - Every Picture Tells a Story
-- [ ] 178. Otis Redding - Otis Blue: Otis Redding Sings Soul (1965)
+- [X] 178. Otis Redding - Otis Blue: Otis Redding Sings Soul (1965)
 - [ ] 179. The Notorious B.I.G.- Life After Death
 - [X] 180. Love - Forever Changes (1967)
 - [ ] 181. Bob Dylan - Bringing It All Back Home (1965)
