@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 436/1079
+Current score: 437/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -594,7 +594,7 @@ Current score: 436/1079
 - [ ] 588. Dolly Parton - Linda Ronstadt - Emmylou Harrys - Trio (1987)
 - [X] 589. Def Leppard - Hysteria
 - [ ] 590. R.E.M. - Document
-- [ ] 591. Prince - Sign 'O' the Times
+- [X] 591. Prince - Sign O' the Times
 - [ ] 592. The Cult : Electric.
 - [ ] 593. Depeche Mode - Music for the Masses
 - [X] 594. The Sisters of Mercy - Floodland

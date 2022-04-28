@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 247/500
+Current score: 248/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -48,7 +48,7 @@ Current score: 247/500
 - [X] 42. Radiohead - OK Computer (1997)
 - [X] 43. A Tribe Called Quest - The Low End Theory (1991)
 - [X] 44. Nas - Illmatic (1994)
-- [ ] 45. Prince - Sign O' the Times (1987)
+- [X] 45. Prince - Sign O' the Times (1987)
 - [X] 46. Paul Simon - Graceland
 - [ ] 47. Ramones - Ramones (1976)
 - [ ] 48. Bob Marley and the Wailers - Legend: The Best of Bob Marley

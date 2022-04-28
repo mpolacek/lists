@@ -1,6 +1,6 @@
 # Pitchfork Best New Music
 
-Current score: 109/853
+Current score: 110/853
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -794,7 +794,7 @@ Current score: 109/853
 - [X] 66. The Streets - A Grand Don't Come for Free
 - [ ] 65. Mirah - C'mon Miracle
 - [ ] 64. Erlend Øye - DJ Kicks
-- [ ] 63. Animal Collective - Sung Tongs
+- [X] 63. Animal Collective - Sung Tongs
 - [ ] 62. Loretta Lynn - Van Lear Rose (2004)
 - [ ] 61. Les Savy Fav - Inches
 - [ ] 60. Jason Forrest - The Unrelenting Songs of the 1979 Post Disco Crach
