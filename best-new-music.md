@@ -1,9 +1,10 @@
 # Pitchfork Best New Music
 
-Current score: 110/853
+Current score: 110/854
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 854. Undeath - It's Time… To Rise From the Grave
 - [X] 853. SAULT - Air
 - [ ] 852. Axel Boman - Quest for Fire / LUZ
 - [ ] 851. Alabaster dePlume - Gold - Go Forward in the Courage of Your Love

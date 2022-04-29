@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 437/1079
+Current score: 442/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -16,7 +16,7 @@ Current score: 437/1079
 - [X] 10. Thelonious Monk - Brilliant Corners
 - [X] 11. Sabu - Palo Congo (1957)
 - [X] 12. Miles Davis - Birth of the Cool
-- [ ] 13. Kenya - Machito
+- [X] 13. Kenya - Machito
 - [ ] 14. Little Richard - Here's Little Richard (1957)
 - [X] 15. Tito Puente - Dance Mania
 - [ ] 16. Billie Holiday - Lady in Satin
@@ -220,7 +220,7 @@ Current score: 437/1079
 - [X] 214. The Allman Brothers Band - At Fillmore East (1971)
 - [ ] 215. The Rolling Stones - Sticky Fingers (1971)
 - [ ] 216. John Lennon - Imagine
-- [ ] 217. The Beach Boys - Surf's Up (1971)
+- [X] 217. The Beach Boys - Surf's Up (1971)
 - [X] 218. Yes - Fragile (1970)
 - [X] 219. The Doors - L.A. Woman
 - [ ] 220. Can - Tago Mago (1971)
@@ -242,7 +242,7 @@ Current score: 437/1079
 - [ ] 236. Gene Clark - White Light (1971)
 - [X] 237. John Prine - John Prine
 - [X] 238. Harry Nilsson - Nilsson Schmilsson
-- [ ] 239. T. Rex - Electric Warrior
+- [X] 239. T. Rex - Electric Warrior
 - [X] 240. David Bowie - Hunky Dory (1971)
 - [X] 241. Randy Newman - Sail Away
 - [X] 242. Deep Purple - Machine Head (1972)
@@ -366,8 +366,8 @@ Current score: 437/1079
 - [X] 360. Aerosmith - Rocks
 - [ ] 361. Parliament - Mothership Connection
 - [ ] 362. Penguin Cafe Orchestra - Music From the Penguin Café (1976)
-- [ ] 363. Jean-Michelle Jarre - Oxygene (1976)
-- [ ] 364. Ramones - Ramones (1976)
+- [X] 363. Jean-Michelle Jarre - Oxygene (1976)
+- [X] 364. Ramones - Ramones (1976)
 - [ ] 365. Fela Kuti & Afrika 70 - Zombie
 - [ ] 366. Peter Tosh - Legalize It
 - [X] 367. Stevie Wonder: Songs in the Key of Life

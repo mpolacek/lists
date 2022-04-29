@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 248/500
+Current score: 250/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -50,7 +50,7 @@ Current score: 248/500
 - [X] 44. Nas - Illmatic (1994)
 - [X] 45. Prince - Sign O' the Times (1987)
 - [X] 46. Paul Simon - Graceland
-- [ ] 47. Ramones - Ramones (1976)
+- [X] 47. Ramones - Ramones (1976)
 - [ ] 48. Bob Marley and the Wailers - Legend: The Best of Bob Marley
 - [X] 49. Outkast - Aquemini
 - [X] 50. Jay-Z - The Blueprint
@@ -191,7 +191,7 @@ Current score: 248/500
 - [X] 185. The Rolling Stones - Beggar's Banquet
 - [ ] 186. Red Hot Chili Peppers - Blood Sugar Sex Magik
 - [X] 187. Ice Cube - Amerikkka's Most Wanted
-- [ ] 188. T. Rex - Electric Warrior
+- [X] 188. T. Rex - Electric Warrior
 - [ ] 189. Sleater-Kinney - Dig Me Out
 - [ ] 190. The Who - Tommy
 - [ ] 191. Etta James - At Last! (1960)
