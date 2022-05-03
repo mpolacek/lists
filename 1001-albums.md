@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 442/1079
+Current score: 449/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -106,7 +106,7 @@ Current score: 442/1079
 - [X] 100. The Jimi Hendrix Experience - Are You Experienced?
 - [ ] 101. The Electric Prunes (Album)
 - [X] 102. Loretta Lynn - Don't Come Home a Drinkin' (With Lovin' on Your Mind)
-- [ ] 103. Shivkumar Sharma - Call of the Valley (1967)
+- [X] 103. Shivkumar Sharma - Call of the Valley (1967)
 - [X] 104. The Velvet Underground - White Light/White Heat (1968)
 - [X] 105. The Jimi Hendrix Experience - Axis: Bold as Love (1967)
 - [X] 106. Aretha Franklin - I Never Loved a Man the Way I Love You (1967)
@@ -167,7 +167,7 @@ Current score: 442/1079
 - [ ] 161. Tim Buckley - Happy Sad
 - [X] 162. Chicago - Chicago Transit Authority
 - [ ] 163. Fairport Convention - Unhalfbricking
-- [ ] 164. Youngbloods - Elephant Mountain
+- [X] 164. Youngbloods - Elephant Mountain
 - [X] 165. Isaac Hayes - Hot Buttered Soul (1969)
 - [ ] 166. Grateful Dead - Live Dead
 - [ ] 167. The Kinks - Arthur or the Decline and Fall of the British Empire
@@ -360,7 +360,7 @@ Current score: 442/1079
 - [X] 354. Eagles - Hotel California
 - [X] 355. ABBA - Arrival
 - [ ] 356. Kiss - Destroyer
-- [ ] 357. Rush - 2112 (1976)
+- [X] 357. Rush - 2112 (1976)
 - [X] 358. Jorge Ben - África Brasil
 - [ ] 359. Joan Armatrading 1976
 - [X] 360. Aerosmith - Rocks
@@ -448,7 +448,7 @@ Current score: 442/1079
 - [X] 442. The Slits - Cut
 - [ ] 443. Elvis Costello and the Attractions - Armed Forces
 - [ ] 444. Neil Young and Crazy Horse - Rust Never Sleeps
-- [ ] 445. Gang of Four - Entertainment!
+- [X] 445. Gang of Four - Entertainment!
 - [ ] 446. Cheap Trick at Budokan
 - [X] 447. Fleetwood Mac - Tusk
 - [ ] 448. Pink Floyd - The Wall (1979)
@@ -666,7 +666,7 @@ Current score: 442/1079
 - [ ] 660. De La Soul - 3 Feet High and Rising
 - [ ] 661. Janet Jackson's Rhythm Nation 1814
 - [ ] 662. Jungle Brothers - Done by the Forces of Nature (1989)
-- [ ] 663. Straight Outta Compton (N.W.A, 1988)
+- [X] 663. N.W.A - Straight Outta Compton (1988)
 - [X] 664. Cocteau Twins - Heaven or Las Vegas (1990)
 - [ ] 665. The Shamen - En-Tact (1990)
 - [ ] 666. World Clique (Deee-Lite, 1990)
@@ -737,7 +737,7 @@ Current score: 442/1079
 - [ ] 731. Nick Cave and the Bad Seeds - By Henry's Dream
 - [ ] 732. Ali Fateh Nusart Khan - Devotional Songs
 - [ ] 733. P.J. Harvey - Dry
-- [ ] 734. Suede - Suede
+- [X] 734. Suede - Suede
 - [ ] 735. Paul Weller - Wild Wood
 - [X] 736. Smashing Pumpkins - Siamese Dream
 - [ ] 737. The Auteurs New Wave
@@ -967,7 +967,7 @@ Current score: 442/1079
 - [ ] 961. Under Construction -Missy Elliott
 - [ ] 962. Outkast - Speakerboxxx/The Love Below
 - [ ] 963. Calexico - Feast of Wire
-- [ ] 964. Radiohead - Hail to the Thief
+- [X] 964. Radiohead - Hail to the Thief
 - [ ] 965. The Darkness - Permission to Land
 - [ ] 966. 50 Cent - Get Rich or Die Tryin'
 - [ ] 967. Dizzee Rascal - Boy in Da Corner

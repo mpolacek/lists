@@ -1,9 +1,11 @@
 # Pitchfork Sunday Review
 
-Current score: 92/284
+Current score: 92/286
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 286. Throwing Muses - Throwing Muses
+- [ ] 285. Busta Rhymes - When Disaster Strikes...
 - [ ] 284. Emmylou Harris - Wrecking Ball
 - [ ] 283. The Allman Brothers Band - At Fillmore East
 - [ ] 282. The Specials - The Specials

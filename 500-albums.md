@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 250/500
+Current score: 253/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -54,7 +54,7 @@ Current score: 250/500
 - [ ] 48. Bob Marley and the Wailers - Legend: The Best of Bob Marley
 - [X] 49. Outkast - Aquemini
 - [X] 50. Jay-Z - The Blueprint
-- [ ] 51. Chuck Berry - The Great Twenty-Eight
+- [X] 51. Chuck Berry - The Great Twenty-Eight
 - [X] 52. David Bowie - Station to Station (1976)
 - [X] 53. Jimi Hendrix - Electric Ladyland (1968)
 - [ ] 54. James Brown - Star Time
@@ -73,7 +73,7 @@ Current score: 250/500
 - [X] 67. Jay-Z - Reasonable Doubt
 - [X] 68. Kate Bush - Hounds of Love (1985)
 - [ ] 69. Alanis Morrisette - Jagged Little Pill (1995)
-- [ ] 70. N.W.A. - Straight Outta Compton
+- [X] 70. N.W.A. - Straight Outta Compton
 - [ ] 71. Bob Marley and the Wailers - Exodus
 - [X] 72. Neil Young - Harvest (1972)
 - [X] 73. My Bloody Valentine - Loveless
@@ -276,7 +276,7 @@ Current score: 250/500
 - [ ] 270. Kacey Musgraves - Golden Hour
 - [ ] 271. Mary J. Blige Whats the 411?
 - [X] 272. The Velvet Underground - White Light/White Heat
-- [ ] 273. Gang of Four - Entertainment!
+- [X] 273. Gang of Four - Entertainment!
 - [ ] 274. The Byrds - Sweetheart of the Rodeo
 - [ ] 275. Curtis Mayfield - Curtis
 - [X] 276. Radiohead - The Bends (1995)
