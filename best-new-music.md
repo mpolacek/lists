@@ -1,9 +1,10 @@
 # Pitchfork Best New Music
 
-Current score: 110/854
+Current score: 110/855
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 855. MJ Lenderman - Boat Songs
 - [ ] 854. Undeath - It's Time… To Rise From the Grave
 - [X] 853. SAULT - Air
 - [ ] 852. Axel Boman - Quest for Fire / LUZ

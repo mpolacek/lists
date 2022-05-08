@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 253/500
+Current score: 255/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -113,7 +113,7 @@ Current score: 253/500
 - [X] 107. Television - Marquee Moon
 - [ ] 108. Fiona Apple - When the Pawn
 - [ ] 109. Lou Reed - Transformer
-- [ ] 110. Joni Mitchell - Court and Spark (1974)
+- [X] 110. Joni Mitchell - Court and Spark (1974)
 - [ ] 111. Janet Jackson - Control (1986)
 - [X] 112. Elton John - Goodbye Yellow Brick Road
 - [X] 113. The Smiths - The Queen Is Dead
@@ -481,7 +481,7 @@ Current score: 253/500
 - [ ] 475. Sheryl Crow (Sheryl Crow, 1996)
 - [ ] 476. Sparks - Kimono My House (1974)
 - [ ] 477. Howlin' Wolf- Moanin' in the Moonlight
-- [ ] 478. The Kinks - Something Else by the Kinks
+- [X] 478. The Kinks - Something Else by the Kinks
 - [ ] 479. Selena - Amor Prohibido
 - [ ] 480. Miranda Lambert the Weight of These Wings
 - [X] 481. Belle and Sebastian - If You're Feeling Sinister

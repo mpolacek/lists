@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 449/1079
+Current score: 454/1079
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -69,7 +69,7 @@ Current score: 449/1079
 - [ ] 63. The Byrds: Fifth Dimension
 - [X] 64. Bob Dylan - Blonde on Blonde (1966)
 - [ ] 65. The Monks - Black Monk Time (1966)
-- [ ] 66. The Kinks - Face to Face
+- [X] 66. The Kinks - Face to Face
 - [X] 67. The Mamas & The Papas - If You Can Believe Your Eyes and Ears
 - [ ] 68. Paul Revere and the Raiders - Midnight Ride (1966)
 - [ ] 69. The Mothers of Invention - Freak Out!
@@ -100,7 +100,7 @@ Current score: 449/1079
 - [ ] 94. The Byrds - Younger Than Yesterday
 - [ ] 95. The Young Rascals - Groovin' (1967)
 - [X] 96. Jefferson Airplane - Surrealistic Pillow (1967)
-- [ ] 97. The Kinks - Something Else by the Kinks
+- [X] 97. The Kinks - Something Else by the Kinks
 - [X] 98. Donovan - Sunshine Superman (1967)
 - [ ] 99. Merle Haggard - I'm a Lonesome Fugitive (1967)
 - [X] 100. The Jimi Hendrix Experience - Are You Experienced?
@@ -312,7 +312,7 @@ Current score: 449/1079
 - [ ] 306. Eric Clapton 461 Ocean Boulevard
 - [ ] 307. Kraftwerk Autobahn
 - [ ] 308. Van Morrison - It's Too Late to Stop Now (1974)
-- [ ] 309. Court and Spark (Joni Mitchell, 1974)
+- [X] 309. Joni Mitchell - Court and Spark (1974)
 - [ ] 310. Queen - Queen II (1974)
 - [ ] 311. Roxy Music - Country Life
 - [ ] 312. Tangerine Dream Phaedra
@@ -460,7 +460,7 @@ Current score: 449/1079
 - [X] 454. Adam and the Ants - Kings of the Wild Frontier
 - [ ] 455. Dexy's Midnight Runners - Searching for the Young Soul Rebels
 - [X] 456. AC/DC - Back in Black
-- [ ] 457. The Cramps - The Songs the Lord Taught Us
+- [X] 457. The Cramps - The Songs the Lord Taught Us
 - [X] 458. The Dead Kennedys - Fresh Fruit for Rotting Vegetables (1980)
 - [ ] 459. Peter Gabriel (Peter Gabriel, 1980)
 - [ ] 460. The Soft Boys - Underwater Moonlight
@@ -1025,7 +1025,7 @@ Current score: 449/1079
 - [ ] 1019. MIA - Kala
 - [ ] 1020. The Good, the Bad & the Queen - The Good, the Bad & the Queen
 - [ ] 1021. Justice - Cross
-- [ ] 1022. Q-Tip - The Renaissance
+- [X] 1022. Q-Tip - The Renaissance
 - [ ] 1023. Kings of Leon - Only by the Night
 - [X] 1024. Fleet Foxes - Fleet Foxes
 - [ ] 1025. The Last Shadow Puppets - The Age of Understatement

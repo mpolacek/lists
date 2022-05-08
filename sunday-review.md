@@ -1,9 +1,10 @@
 # Pitchfork Sunday Review
 
-Current score: 92/286
+Current score: 95/287
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [X] 287. Moodymann - Forevernevermore
 - [ ] 286. Throwing Muses - Throwing Muses
 - [ ] 285. Busta Rhymes - When Disaster Strikes...
 - [ ] 284. Emmylou Harris - Wrecking Ball
@@ -75,7 +76,7 @@ Current score: 92/286
 - [ ] 218. John Lee Hooker - It Serve You Right to Suffer
 - [ ] 217. Various Artists - O Brother, Where Art Thou? (Original Soundtrack)
 - [ ] 216. Belle and Sebastian - Tigermilk
-- [ ] 215. The Cramps - Songs the Lord Taught Us
+- [X] 215. The Cramps - Songs the Lord Taught Us
 - [ ] 214. INXS - Listen Like Thieves
 - [ ] 213. Teena Marie - Irons in the Fire
 - [ ] 212. Adele - 21
@@ -201,7 +202,7 @@ Current score: 92/286
 - [X] 92. Eminem - The Marshall Mathers LP
 - [ ] 91. Johnny Cash - American Recordings
 - [ ] 90. Neneh Cherry - Raw Like Sushi
-- [ ] 89. The Kinks - Something Else
+- [X] 89. The Kinks - Something Else
 - [X] 88. Bruce Springsteen - Nebraska
 - [X] 87. Miles Davis - Get Up With It
 - [ ] 86. Scarface - The Diary

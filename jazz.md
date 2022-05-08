@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 21/28
+Current score: 22/28
 
 Listened: `$ grep "\[X\]" jazz.md | wc -l`
 
@@ -46,7 +46,7 @@ Total: `$ grep "\[.\]" jazz.md | wc -l`
 ## The '80s
 
 - [ ] Mark Murphy - Bop For Kerouac (1981)
-- [ ] Sarah Vaughan - Crazy And Mixed Up (1982)
+- [X] Sarah Vaughan - Crazy And Mixed Up (1982)
 - [X] Miroslav Vitous - Journey's End (1982)
 
 ## The '90s
