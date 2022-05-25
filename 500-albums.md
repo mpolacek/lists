@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 255/500
+Current score: 256/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -501,6 +501,6 @@ Current score: 255/500
 - [ ] 495. Boyz II Men - II
 - [X] 496. Shakira - ¿Dónde Están Los Ladrones?
 - [ ] 497. Various Artists - The Indestructible Beat of Soweto
-- [ ] 498. Suicide - Suicide
+- [X] 498. Suicide - Suicide
 - [ ] 499. Rufus Featuring Chaka Khan - Ask Rufus
 - [X] 500. Arcade Fire - Funeral (2004)

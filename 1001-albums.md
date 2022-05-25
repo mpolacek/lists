@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 454/1079
+Current score: 464/1080
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -10,7 +10,7 @@ Current score: 454/1079
 - [X] 4. Louis Prima - The Wildest! (1956)
 - [X] 5. Fats Domino - This Is Fats (1956)
 - [X] 6. Duke Ellington - Ellington at Newport '56
-- [ ] 7. Frank Sinatra - Songs for Swinging Lovers! (1956)
+- [X] 7. Frank Sinatra - Songs for Swinging Lovers! (1956)
 - [X] 8. Buddy Holly & The Crickets - The "Chirping" Crickets (1957)
 - [X] 9. The Atomic Mr Basie - Count Basie
 - [X] 10. Thelonious Monk - Brilliant Corners
@@ -126,7 +126,7 @@ Current score: 454/1079
 - [X] 120. Big Brother and the Holding Company - Cheap Thrills (1968)
 - [ ] 121. United States of America - S/T
 - [ ] 122. Dr. John the Nighttripper - Gris-Gris
-- [ ] 123. Iron Butterfly - In-A-Gadda-Da-Vida
+- [X] 123. Iron Butterfly - In-A-Gadda-Da-Vida
 - [ ] 124. The Pretty Things S.F. Sorrow
 - [ ] 125. Bookends - Simon & Garfunkel
 - [ ] 126. Small Faces - Ogden's Nut Gone Flake
@@ -276,7 +276,7 @@ Current score: 454/1079
 - [X] 270. Rolling Stones - Exile on Main Street
 - [ ] 271. Lynyrd Skynyrd - (Pronounced 'Lĕh-'Nérd 'Skin-'Nérd)
 - [X] 272. The Incredible Bongo Band - Bongo Rock (1973)
-- [ ] 273. Aladdin Sane (David Bowie, 1973)
+- [X] 273. David Bowie - Aladdin Sane (1973)
 - [X] 274. King Crimson - Larks' Tongues in Aspic (1973)
 - [ ] 275. Bob Marley and the Wailers - Catch a Fire
 - [ ] 276. Hawkwind - Space Ritual (1973)
@@ -389,7 +389,7 @@ Current score: 454/1079
 - [X] 383. Fleetwood Mac - Rumours
 - [ ] 384. David Bowie - "Heroes"
 - [X] 385. Dennis Wilson - Pacific Ocean Blue (1977)
-- [ ] 386. Suicide - Suicide
+- [X] 386. Suicide - Suicide
 - [ ] 387. The Idiot (Iggy Pop, 1977)
 - [ ] 388. Peter Gabriel - Peter Gabriel
 - [X] 389. Television - Marquee Moon (1977)
@@ -539,7 +539,7 @@ Current score: 454/1079
 - [X] 533. Run DMC - Run DMC
 - [X] 534. Sade - Diamond Life
 - [X] 535. Cocteau Twins - Treasure
-- [ ] 536. Minor Threat - Out of Step
+- [X] 536. Minor Threat - Out of Step
 - [X] 537. Van Halen - 1984
 - [X] 538. Prince - Purple Rain
 - [X] 539. The Replacements - Let It Be
@@ -727,9 +727,9 @@ Current score: 454/1079
 - [ ] 721. Spiritualized - Laser Guided Melodies
 - [ ] 722. Sugar - Copper Blue
 - [X] 723. Tom Waits - Bone Machine (1992)
-- [ ] 724. Sonic Youth - Dirty
+- [X] 724. Sonic Youth - Dirty
 - [ ] 725. Stereo MC's - Connected
-- [ ] 726. Ministry - Psalm 69
+- [X] 726. Ministry - Psalm 69
 - [X] 727. Tori Amos - Little Earthquakes
 - [ ] 728. Ice Cube - The Predator
 - [ ] 729. Pantera - Vulgar Display of Power
@@ -884,9 +884,9 @@ Current score: 454/1079
 - [ ] 878. Kid Rock - Devil Without a Cause
 - [X] 879. Boards of Canada - Music Has the Right to Children (1998)
 - [X] 880. Suba - Sao Paulo Confessions
-- [ ] 881. Khaled - Kenza
+- [X] 881. Khaled - Kenza
 - [ ] 882. XTC - Apple Venus
-- [ ] 883. Incubus Make Yourself
+- [X] 883. Incubus - Make Yourself
 - [X] 884. Skunk Anansie - Post-Orgasmic Chill
 - [X] 885. The Magnetic Fields - 69 Love Songs
 - [X] 886. Travis - The Man Who
@@ -1083,3 +1083,4 @@ Current score: 454/1079
 - [ ] 1077. Take Me Apart - Kelela (2017)
 - [ ] 1078. Sza - Ctrl
 - [ ] 1079. Hookworms - Microshift
+- [X] 1080. Michael Kiwanuka - KIWANUKA *(new)*

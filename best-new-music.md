@@ -1,9 +1,12 @@
 # Pitchfork Best New Music
 
-Current score: 110/855
+Current score: 111/858
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 858. Ravyn Lenae - HYPNOS
+- [ ] 857. Bad Bunny - Un Verano Sin Ti
+- [ ] 856. The Smile - A Light for Attracting Attention
 - [ ] 855. MJ Lenderman - Boat Songs
 - [ ] 854. Undeath - It's Time… To Rise From the Grave
 - [X] 853. SAULT - Air
@@ -438,7 +441,7 @@ Current score: 110/855
 - [ ] 424. How to Dress Well - Total Loss
 - [ ] 423. Grizzly Bear - Shields
 - [ ] 422. Wild Nothing - Nocturne
-- [ ] 421. Swans - The Seer
+- [X] 421. Swans - The Seer
 - [ ] 420. Ariel Pink's Haunted Graffiti - Mature Themes
 - [ ] 419. Jessie Ware - Devotion
 - [ ] 418. TNGHT - TNGHT
