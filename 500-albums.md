@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 256/500
+Current score: 261/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -74,7 +74,7 @@ Current score: 256/500
 - [X] 68. Kate Bush - Hounds of Love (1985)
 - [ ] 69. Alanis Morrisette - Jagged Little Pill (1995)
 - [X] 70. N.W.A. - Straight Outta Compton
-- [ ] 71. Bob Marley and the Wailers - Exodus
+- [X] 71. Bob Marley and the Wailers - Exodus
 - [X] 72. Neil Young - Harvest (1972)
 - [X] 73. My Bloody Valentine - Loveless
 - [X] 74. Kanye West - The College Dropout
@@ -118,7 +118,7 @@ Current score: 256/500
 - [X] 112. Elton John - Goodbye Yellow Brick Road
 - [X] 113. The Smiths - The Queen Is Dead
 - [X] 114. The Strokes - Is This It
-- [ ] 115. Kendrick Lamar - Good Kid, M.A.A.D City
+- [X] 115. Kendrick Lamar - Good Kid, M.A.A.D City
 - [ ] 116. The Cure - Disintegration
 - [ ] 117. Kanye West - Late Registration
 - [X] 118. Eagles - Hotel California
@@ -133,7 +133,7 @@ Current score: 256/500
 - [X] 127. Ray Charles - Modern Sounds in Country and Western Music (1962)
 - [ ] 128. Queen - A Night at the Opera
 - [ ] 129. Pink Floyd - The Wall
-- [ ] 130. Prince - 1999
+- [X] 130. Prince - 1999
 - [X] 131. Portishead - Dummy
 - [ ] 132. Hank Williams - 40 Greatest Hits
 - [X] 133. Joni Mitchell - Hejira
@@ -363,7 +363,7 @@ Current score: 256/500
 - [ ] 357. Tom Waits - Rain Dogs
 - [X] 358. Sonic Youth - Goo
 - [ ] 359. Big Star - Radio City
-- [ ] 360. Funkadelic- One Nation Under a Groove
+- [X] 360. Funkadelic - One Nation Under a Groove
 - [ ] 361. My Chemical Romance - The Black Parade
 - [ ] 362. Luther Vandross - Never Too Much
 - [ ] 363. Parliament - Mothership Connection
@@ -378,7 +378,7 @@ Current score: 256/500
 - [X] 372. Big Brother & the Holding Company - Cheap Thrills
 - [X] 373. Isaac Hayes - Hot Buttered Soul
 - [ ] 374. Robert Johnson - King of the Delta Blues Singers
-- [ ] 375. Green Day - Dookie
+- [X] 375. Green Day - Dookie
 - [X] 376. Neutral Milk Hotel - In the Aeroplane Over the Sea
 - [X] 377. Yeah Yeah Yeahs - Fever to Tell
 - [X] 378. Run DMC - Run DMC

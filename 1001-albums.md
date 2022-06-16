@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 464/1080
+Current score: 477/1081
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -151,7 +151,7 @@ Current score: 464/1080
 - [ ] 145. The Who - Tommy (1969)
 - [X] 146. Miles Davis - In a Silent Way (1969)
 - [X] 147. Bee Gees - Odessa (1969)
-- [ ] 148. Pentangle - Basket of Light (1969)
+- [X] 148. Pentangle - Basket of Light (1969)
 - [X] 149. The Rolling Stones - Let It Bleed (1969)
 - [X] 150. Nick Drake - Five Leaves Left (1969)
 - [X] 151. Dusty Springfield - Dusty in Memphis (1969)
@@ -202,7 +202,7 @@ Current score: 464/1080
 - [X] 196. George Harrison - All Things Must Pass
 - [ ] 197. Simon & Garfunkel - Bridge Over Troubled Water
 - [X] 198. Cat Stevens - Tea for the Tillerman (1970)
-- [ ] 199. Traffic - John Barleycorn Must Die
+- [X] 199. Traffic - John Barleycorn Must Die
 - [X] 200. The Stooges - Fun House
 - [X] 201. James Taylor - Sweet Baby James
 - [ ] 202. Paul McCartney - McCartney (1970)
@@ -368,14 +368,14 @@ Current score: 464/1080
 - [ ] 362. Penguin Cafe Orchestra - Music From the Penguin Café (1976)
 - [X] 363. Jean-Michelle Jarre - Oxygene (1976)
 - [X] 364. Ramones - Ramones (1976)
-- [ ] 365. Fela Kuti & Afrika 70 - Zombie
+- [X] 365. Fela Kuti & Afrika 70 - Zombie
 - [ ] 366. Peter Tosh - Legalize It
 - [X] 367. Stevie Wonder: Songs in the Key of Life
 - [ ] 368. Frampton Comes Alive! (Peter Frampton, 1976)
 - [X] 369. Brian Eno - Before and After Science (1977)
 - [X] 370. Kraftwerk - Trans-Europe Express (1977)
 - [ ] 371. Billy Joel - The Stranger
-- [ ] 372. Bob Marley and the Wailers - Exodus
+- [X] 372. Bob Marley and the Wailers - Exodus
 - [X] 373. Electric Light Orchestra - Out of the Blue
 - [ ] 374. Weather Report - Heavy Weather (1977)
 - [ ] 375. Muddy Waters - Hard Again (1977)
@@ -413,7 +413,7 @@ Current score: 464/1080
 - [X] 407. Public Image Limited - Public Image Limited
 - [ ] 408. Magazine - Real Life
 - [X] 409. Bruce Springsteen - Darkness on the Edge of Town
-- [ ] 410. Funkadelic - One Nation Under a Groove
+- [X] 410. Funkadelic - One Nation Under a Groove
 - [ ] 411. Throbbing Gristle - D.O.A. Third and Final Report
 - [ ] 412. Thin Lizzy - Live and Dangerous
 - [ ] 413. Talking Heads - More Songs About Buildings and Food
@@ -472,7 +472,7 @@ Current score: 464/1080
 - [ ] 466. Circle Jerks - Group Sex
 - [X] 467. Talking Heads - Remain in Light
 - [X] 468. Joy Division - Closer
-- [ ] 469. Iron Maiden - Iron Maiden
+- [X] 469. Iron Maiden - Iron Maiden
 - [X] 470. The Undertones - Hypnotised (1980)
 - [ ] 471. The Jam - Sound Affects
 - [ ] 472. Tom Waits - Heartattack and Vine (1980)
@@ -500,7 +500,7 @@ Current score: 464/1080
 - [ ] 494. Rush - Moving Pictures (1981)
 - [X] 495. ABBA - The Visitors (1981)
 - [ ] 496. ABC - The Lexicon of Love
-- [ ] 497. Prince - 1999
+- [X] 497. Prince - 1999
 - [ ] 498. Grandmaster Flash - The Message
 - [ ] 499. Elvis Costello & the Attractions - Imperial Bedroom
 - [ ] 500. The Cure - Pornography
@@ -616,7 +616,7 @@ Current score: 464/1080
 - [ ] 610. Introducing the Hardline According to Terence Trent D'Arby
 - [X] 611. The Pogues - If I Should Fall From Grace With God (1988)
 - [ ] 612. Leonard Cohen - I'M Your Man (1988)
-- [ ] 613. Fisherman's Blues - The Waterboys
+- [X] 613. The Waterboys - Fisherman's Blues
 - [ ] 614. Fishbone - Truth and Soul (1988)
 - [ ] 615. Everything but the Girl - Idlewild (1988)
 - [ ] 616. Living Colour - Vivid
@@ -679,7 +679,7 @@ Current score: 464/1080
 - [X] 673. Pet Shop Boys - Behaviour
 - [X] 674. Happy Mondays - Pills N Thrills and Bellyaches
 - [X] 675. George Michael - Listen Without Prejudice: Vol 1
-- [ ] 676. Neil Young and Crazy Horse - Ragged Glory
+- [X] 676. Neil Young and Crazy Horse - Ragged Glory
 - [X] 677. Ice Cube - Amerikkka's Most Wanted
 - [ ] 678. Jane's Addiction, Ritual De Lo Habitual (1990)
 - [X] 679. LL Cool J - Mama Said Knock You Out
@@ -788,7 +788,7 @@ Current score: 464/1080
 - [X] 782. Nirvana - MTV Unplugged in New York (1994)
 - [ ] 783. Nine Inch Nails - The Downward Spiral
 - [ ] 784. The Prodigy - Music for the Jilted Generation
-- [ ] 785. Green Day : Dookie
+- [X] 785. Green Day - Dookie
 - [ ] 786. Foo Fighters - Foo Fighters
 - [ ] 787. Garbage - Garbage (1995)
 - [X] 788. Nightmares on Wax - Smokers Delight
@@ -1031,7 +1031,7 @@ Current score: 464/1080
 - [ ] 1025. The Last Shadow Puppets - The Age of Understatement
 - [X] 1026. Elbow - The Seldom Seen Kid
 - [ ] 1027. Portishead - Third
-- [ ] 1028. MGMT - Oracular Spectacular
+- [X] 1028. MGMT - Oracular Spectacular
 - [ ] 1029. Goldfrapp - Seventh Tree
 - [X] 1030. TV on the Radio - Dear Science
 - [ ] 1031. Slipknot - All Hope Is Gone
@@ -1054,7 +1054,7 @@ Current score: 464/1080
 - [ ] 1048. Adele - 21
 - [X] 1049. P.J. Harvey - Let England Shake
 - [ ] 1050. White Denim - D (2011)
-- [ ] 1051. Kendrick Lamar - Good Kid, M.A.A.D City (2012)
+- [X] 1051. Kendrick Lamar - Good Kid, M.A.A.D City (2012)
 - [ ] 1052. Hot Chip - In Our Heads
 - [ ] 1053. Frank Ocean - Channel Orange
 - [ ] 1054. Jack White - Blunderbuss
@@ -1084,3 +1084,4 @@ Current score: 464/1080
 - [ ] 1078. Sza - Ctrl
 - [ ] 1079. Hookworms - Microshift
 - [X] 1080. Michael Kiwanuka - KIWANUKA *(new)*
+- [X] 1081. Fiona Apple - Fetch the Bolt Cutters *(new)*

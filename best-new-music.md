@@ -1,9 +1,12 @@
 # Pitchfork Best New Music
 
-Current score: 111/858
+Current score: 114/861
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 861. Perfume Genius - Ugly Season
+- [ ] 860. Grace Ives - Janky Star
+- [ ] 859. 700 Bliss - Nothing to Declare
 - [ ] 858. Ravyn Lenae - HYPNOS
 - [ ] 857. Bad Bunny - Un Verano Sin Ti
 - [ ] 856. The Smile - A Light for Attracting Attention
@@ -86,7 +89,7 @@ Current score: 111/858
 - [ ] 779. Blake Mills - Mutable Set
 - [ ] 778. The Soft Pink Truth - Shall We Go On Sinning So That Grace May Increase?
 - [X] 777. KeiyaA - Forever, Ya Girl
-- [ ] 776. Fiona Apple - Fetch the Bolt Cutters
+- [X] 776. Fiona Apple - Fetch the Bolt Cutters
 - [ ] 775. Yves Tumor - Heaven to a Tortured Mind
 - [ ] 774. Waxahatchee - Saint Cloud
 - [ ] 773. Lyra Pramuk - Fountain
@@ -358,7 +361,7 @@ Current score: 111/858
 - [ ] 507. Ben Frost - Aurora
 - [ ] 506. Hundred Waters - The Moon Rang Like a Bell
 - [ ] 505. Various Artists - Hyperdub 10.1
-- [ ] 504. Swans - To Be Kind
+- [X] 504. Swans - To Be Kind
 - [ ] 503. Lykke Li - I Never Learn
 - [ ] 502. Ought - More Than Any Other Day
 - [ ] 501. Todd Terje - It's Album Time
@@ -430,7 +433,7 @@ Current score: 111/858
 - [ ] 435. A$AP Rocky - Long.Live.A$AP
 - [ ] 434. Mac Demarco - 2
 - [ ] 433. Andy Stott - Luxury Problems
-- [ ] 432. Kendrick Lamar - Good Kid, M.A.A.D City
+- [X] 432. Kendrick Lamar - Good Kid, M.A.A.D City
 - [ ] 431. Bat for Lashes - The Haunted Man
 - [ ] 430. Godspeed You! Black Emperor - 'Allelujah! Don't Bend! Ascend!
 - [ ] 429. METZ - METZ

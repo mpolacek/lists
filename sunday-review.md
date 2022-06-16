@@ -1,9 +1,14 @@
 # Pitchfork Sunday Review
 
-Current score: 95/287
+Current score: 96/292
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 292. Terry Callier - Occasional Rain
+- [ ] 291. They Might Be Giants - Flood
+- [ ] 290. The Cure - Wish
+- [ ] 289. Eddie Gale - Ghetto Music
+- [ ] 288. Kelly Clarkson - Breakaway
 - [X] 287. Moodymann - Forevernevermore
 - [ ] 286. Throwing Muses - Throwing Muses
 - [ ] 285. Busta Rhymes - When Disaster Strikes...
@@ -246,7 +251,7 @@ Current score: 95/287
 - [ ] 48. Patti Smith Group - Easter
 - [ ] 47. Violent Femmes - Violent Femmes
 - [X] 46. JAY-Z - Reasonable Doubt
-- [ ] 45. Green Day - Dookie
+- [X] 45. Green Day - Dookie
 - [ ] 44. Fugazi - In on the Kill Taker
 - [X] 43. Portishead - Dummy
 - [X] 42. Black Flag - Damaged
