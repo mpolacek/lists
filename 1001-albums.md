@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 477/1081
+Current score: 485/1081
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -66,7 +66,7 @@ Current score: 477/1081
 - [X] 60. The Beatles - Revolver (1966)
 - [X] 61. The Beach Boys - Pet Sounds (1966)
 - [ ] 62. Fred Neil
-- [ ] 63. The Byrds: Fifth Dimension
+- [X] 63. The Byrds - Fifth Dimension
 - [X] 64. Bob Dylan - Blonde on Blonde (1966)
 - [ ] 65. The Monks - Black Monk Time (1966)
 - [X] 66. The Kinks - Face to Face
@@ -146,7 +146,7 @@ Current score: 477/1081
 - [ ] 140. Blood, Sweat & Tears - Blood, Sweat & Tears (1969)
 - [ ] 141. The Flying Burrito Bros - The Gilded Palace of Sin
 - [ ] 142. Johnny Cash - At San Quentin (1969)
-- [ ] 143. Creedence Clearwater Revival - Green River
+- [X] 143. Creedence Clearwater Revival - Green River
 - [X] 144. The Beatles - Abbey Road (1969)
 - [ ] 145. The Who - Tommy (1969)
 - [X] 146. Miles Davis - In a Silent Way (1969)
@@ -322,7 +322,7 @@ Current score: 477/1081
 - [ ] 316. Winter in America - Gil Scott-Heron
 - [ ] 317. Queen : Sheer Heart Attack.
 - [ ] 318. Sheet Music - 10Cc
-- [ ] 319. On the Beach - Neil Young
+- [X] 319. Neil Young - On the Beach
 - [ ] 320. George Jones - The Grand Tour (1974)
 - [X] 321. Gene Clark - No Other
 - [ ] 322. Steely Dan Pretzel Logic
@@ -418,7 +418,7 @@ Current score: 477/1081
 - [ ] 412. Thin Lizzy - Live and Dangerous
 - [ ] 413. Talking Heads - More Songs About Buildings and Food
 - [ ] 414. Buzzcocks : Another Music in a Different Kitchen
-- [ ] 415. Van Halen - Van Halen
+- [X] 415. Van Halen - Van Halen
 - [ ] 416. Willie Colón & Rubén Blades - Siembra (1978)
 - [ ] 417. The Cars (The Cars, 1979)
 - [ ] 418. Q: Are We Not Men? A: We Are Devo! (Devo, 1978)
@@ -582,7 +582,7 @@ Current score: 477/1081
 - [X] 576. Slayer - Reign in Blood
 - [ ] 577. Throwing Muses - Throwing Muses
 - [X] 578. Paul Simon - Graceland
-- [ ] 579. Run DMC - Raising Hell
+- [X] 579. Run DMC - Raising Hell
 - [X] 580. XTC - Skylarking
 - [X] 581. Steve Earle - Guitar Town
 - [X] 582. Bad Brains - I Against I
@@ -644,7 +644,7 @@ Current score: 477/1081
 - [ ] 638. John Lee Hooker - The Healer (1989)
 - [ ] 639. New Order - Technique
 - [ ] 640. Madonna - Like a Prayer
-- [ ] 641. Queen Latifah - All Hail the Queen (1989)
+- [X] 641. Queen Latifah - All Hail the Queen (1989)
 - [ ] 642. Spacemen 3 - Playing With Fire
 - [ ] 643. Firehose - Fromohio (1989)
 - [X] 644. The Beastie Boys - Paul's Boutique (1989)
@@ -754,7 +754,7 @@ Current score: 477/1081
 - [X] 748. The Fall - The Infotainment Scan
 - [X] 749. Wu-Tang Clan - Enter the Wu-Tang (36 Chambers) (1993)
 - [X] 750. Björk - Debut (1993)
-- [ ] 751. Orbital - Orbital 2
+- [X] 751. Orbital - Orbital 2
 - [ ] 752. Doggystyle (Snoop Doggy Dogg, 1993)
 - [X] 753. Sebadoh - Bubble and Scrape
 - [ ] 754. The Boo Radleys - Giant Steps
@@ -909,7 +909,7 @@ Current score: 477/1081
 - [ ] 903. Doves - Lost Souls
 - [ ] 904. The Virgin Suicides (Air, 2000)
 - [ ] 905. Ryan Adams - Heartbreaker
-- [ ] 906. Tanto Tempo
+- [X] 906. Bebel Gilberto - Tanto Tempo
 - [ ] 907. Mj Cole Sincere
 - [ ] 908. Limp Bizkit - Chocolate Starfish and the Hot Dog Flavored Water
 - [ ] 909. Emmylou Harris - Red Dirt Girl

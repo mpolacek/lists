@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 261/500
+Current score: 264/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -212,7 +212,7 @@ Current score: 261/500
 - [X] 206. David Bowie - Low
 - [X] 207. Eagles - Eagles
 - [ ] 208. Lil Wayne - Tha Carter III
-- [ ] 209. Run DMC - Raising Hell
+- [X] 209. Run DMC - Raising Hell
 - [ ] 210. Ray Charles - The Birth of Soul
 - [X] 211. Joy Division - Unknown Pleasures
 - [X] 212. Nina Simone - Wild Is the Wind
@@ -295,7 +295,7 @@ Current score: 261/500
 - [X] 289. Björk - Post (1995)
 - [ ] 290. Speakerboxxx/The Love Below (Outkast, 2003)
 - [ ] 291. Destiny's Child - The Writing's on the Wall (1999)
-- [ ] 292. Van Halen - Van Halen
+- [X] 292. Van Halen - Van Halen
 - [X] 293. The Breeders - Last Splash
 - [X] 294. Weezer - Weezer (Blue Album)
 - [ ] 295. Daft Punk - Random Access Memories
@@ -314,7 +314,7 @@ Current score: 261/500
 - [X] 308. Brian Eno - Here Come the Warm Jets
 - [X] 309. Joy Division - Closer
 - [X] 310. Wire - Pink Flag
-- [ ] 311. Neil Young - On the Beach (1974)
+- [X] 311. Neil Young - On the Beach (1974)
 - [X] 312. Solange - A Seat at the Table (2016)
 - [ ] 313. PJ Harvey - Stories From the City, Stories From the Sea
 - [ ] 314. Aaliyah - One in a Million
