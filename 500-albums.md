@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 264/500
+Current score: 265/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -463,7 +463,7 @@ Current score: 264/500
 - [ ] 457. Sinead O'Connor - I Do Not Want What I Haven't Got
 - [ ] 458. Jason Isbell- Southeastern
 - [ ] 459. Kid Cudi - Man on the Moon: The End of Days
-- [ ] 460. Lorde - Melodrama (2017)
+- [X] 460. Lorde - Melodrama (2017)
 - [ ] 461. Bon Iver - For Emma, Forever Ago
 - [ ] 462. The Flying Burrito Bros - The Gilded Palace of Sin
 - [ ] 463. Eli & the Thirteenth Confession

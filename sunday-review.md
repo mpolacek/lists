@@ -1,6 +1,6 @@
 # Pitchfork Sunday Review
 
-Current score: 96/292
+Current score: 97/292
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -15,7 +15,7 @@ Current score: 96/292
 - [ ] 284. Emmylou Harris - Wrecking Ball
 - [ ] 283. The Allman Brothers Band - At Fillmore East
 - [ ] 282. The Specials - The Specials
-- [ ] 281. Tricky - Maxinquaye
+- [X] 281. Tricky - Maxinquaye
 - [ ] 280. Happy End - Kazemachi Roman
 - [ ] 279. Blu & Exile - Below the Heavens
 - [ ] 278. John Legend - Get Lifted

@@ -1,6 +1,6 @@
 # Pitchfork Best New Music
 
-Current score: 114/861
+Current score: 115/861
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -215,7 +215,7 @@ Current score: 114/861
 - [ ] 653. Jay-Z – 4:44
 - [ ] 652. MIKE - May God Bless Your Hustle
 - [ ] 651. Vince Staples - Big Fish Theory
-- [ ] 650. Lorde - Melodrama
+- [X] 650. Lorde - Melodrama
 - [ ] 649. Fleet Foxes - Crack-Up
 - [ ] 648. Sza - Ctrl
 - [ ] 647. Big Thief - Capacity

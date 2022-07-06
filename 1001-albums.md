@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 485/1081
+Current score: 490/1081
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -29,7 +29,7 @@ Current score: 485/1081
 - [X] 23. The Dave Brubeck Quartet - Time Out (1959)
 - [X] 24. Joan Baez - Joan Baez (1960)
 - [ ] 25. Elvis Presley - Elvis Is Back!
-- [ ] 26. Miriam Makeba - Miriam Makeba (1960)
+- [X] 26. Miriam Makeba - Miriam Makeba (1960)
 - [X] 27. The Everly Brothers - A Date With the Everly Brothers
 - [ ] 28. Jimmy Smith - Back at the Chicken Shack
 - [X] 29. Muddy Waters - At Newport 1960
@@ -195,7 +195,7 @@ Current score: 485/1081
 - [X] 189. Van Morrison - Moondance
 - [X] 190. Grateful Dead - American Beauty
 - [ ] 191. Nick Drake - Bryter Layter (1970)
-- [ ] 192. Ananda Shankar - Ananda Shankar (1970)
+- [X] 192. Ananda Shankar - Ananda Shankar (1970)
 - [X] 193. The Who - Live at Leeds (1970)
 - [ ] 194. Soft Machine - Third
 - [ ] 195. Rod Stewart - Gasoline Alley (1970)
@@ -508,7 +508,7 @@ Current score: 485/1081
 - [ ] 502. Simple Minds - New Gold Dream
 - [ ] 503. Madness - The Rise & Fall (1982)
 - [ ] 504. Donald Fagen - The Nightfly
-- [ ] 505. Haircut One Hundred - Pelican West (1982)
+- [X] 505. Haircut One Hundred - Pelican West (1982)
 - [ ] 506. Kate Bush: The Dreaming
 - [ ] 507. Orange Juice - Rip It Up (1982)
 - [X] 508. Michael Jackson - Thriller
@@ -596,7 +596,7 @@ Current score: 485/1081
 - [ ] 590. R.E.M. - Document
 - [X] 591. Prince - Sign O' the Times
 - [ ] 592. The Cult : Electric.
-- [ ] 593. Depeche Mode - Music for the Masses
+- [X] 593. Depeche Mode - Music for the Masses
 - [X] 594. The Sisters of Mercy - Floodland
 - [ ] 595. George Michael - Faith
 - [ ] 596. Hüsker Dü - Warehouse: Songs and Stories
@@ -1078,7 +1078,7 @@ Current score: 485/1081
 - [ ] 1072. The xx - I See You
 - [X] 1073. Jane Weaver - Modern Kosmology
 - [ ] 1074. LCD Soundsystem - American Dream
-- [ ] 1075. Lorde - Melodrama (2017)
+- [X] 1075. Lorde - Melodrama (2017)
 - [ ] 1076. Thundercat - Drunk
 - [ ] 1077. Take Me Apart - Kelela (2017)
 - [ ] 1078. Sza - Ctrl
