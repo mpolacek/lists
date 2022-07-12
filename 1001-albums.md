@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 490/1081
+Current score: 492/1081
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -231,7 +231,7 @@ Current score: 490/1081
 - [X] 225. Led Zeppelin - Led Zeppelin IV (1971)
 - [X] 226. Serge Gainsbourg - Histoire De Melody Nelson
 - [ ] 227. Rod Stewart - Every Picture Tells a Story
-- [ ] 228. Emerson, Lake & Palmer - Pictures at an Exhibition (1972)
+- [X] 228. Emerson, Lake & Palmer - Pictures at an Exhibition (1972)
 - [ ] 229. Leonard Cohen - Songs of Love and Hate
 - [X] 230. Joni Mitchell - Blue (1971)
 - [ ] 231. Janis Joplin - Pearl
@@ -550,7 +550,7 @@ Current score: 490/1081
 - [ ] 544. Llyod Cole and the Commotions - Rattlesnakes (1984)
 - [ ] 545. N'dour Youssou Immigres
 - [X] 546. Bruce Springsteen - Born in the U.S.A.
-- [ ] 547. The Fall - This Nation's Saving Grace
+- [X] 547. The Fall - This Nation's Saving Grace
 - [X] 548. Abdullah Ibrahim - Water From an Ancient Well (1985)
 - [ ] 549. A-Ha - Hunting High and Low (1985)
 - [X] 550. Tears for Fears - Songs From the Big Chair
