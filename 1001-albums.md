@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 492/1081
+Current score: 497/1082
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -310,7 +310,7 @@ Current score: 492/1081
 - [X] 304. Shuggie Otis - Inspiration Information (1974)
 - [X] 305. Stevie Wonder - Fulfillingness First Finale
 - [ ] 306. Eric Clapton 461 Ocean Boulevard
-- [ ] 307. Kraftwerk Autobahn
+- [X] 307. Kraftwerk - Autobahn
 - [ ] 308. Van Morrison - It's Too Late to Stop Now (1974)
 - [X] 309. Joni Mitchell - Court and Spark (1974)
 - [ ] 310. Queen - Queen II (1974)
@@ -378,7 +378,7 @@ Current score: 492/1081
 - [X] 372. Bob Marley and the Wailers - Exodus
 - [X] 373. Electric Light Orchestra - Out of the Blue
 - [ ] 374. Weather Report - Heavy Weather (1977)
-- [ ] 375. Muddy Waters - Hard Again (1977)
+- [X] 375. Muddy Waters - Hard Again (1977)
 - [ ] 376. The Stranglers - Rattus Norvegicus
 - [ ] 377. The Clash - The Clash
 - [X] 378. David Bowie - Low
@@ -681,7 +681,7 @@ Current score: 492/1081
 - [X] 675. George Michael - Listen Without Prejudice: Vol 1
 - [X] 676. Neil Young and Crazy Horse - Ragged Glory
 - [X] 677. Ice Cube - Amerikkka's Most Wanted
-- [ ] 678. Jane's Addiction, Ritual De Lo Habitual (1990)
+- [X] 678. Jane's Addiction - Ritual De Lo Habitual (1990)
 - [X] 679. LL Cool J - Mama Said Knock You Out
 - [X] 680. Public Enemy - Fear of a Black Planet
 - [ ] 681. Sinead O'Connor - I Do Not Want What I Haven't Got
@@ -861,7 +861,7 @@ Current score: 492/1081
 - [X] 855. Bob Dylan - Time Out of Mind
 - [ ] 856. Reprazent and Roni Size - New Forms
 - [X] 857. Elliott Smith - Either/Or
-- [ ] 858. The Verve - Urban Hymns
+- [X] 858. The Verve - Urban Hymns
 - [X] 859. Spiritualized - Ladies and Gentlemen We Are Floating in Space
 - [ ] 860. System of a Down - System of a Down
 - [X] 861. Bob Dylan - Live 1966 (1998)
@@ -1085,3 +1085,4 @@ Current score: 492/1081
 - [ ] 1079. Hookworms - Microshift
 - [X] 1080. Michael Kiwanuka - KIWANUKA *(new)*
 - [X] 1081. Fiona Apple - Fetch the Bolt Cutters *(new)*
+- [X] 1082. Taylor Swift - evermore *(new)*

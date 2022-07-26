@@ -1,9 +1,14 @@
 # Pitchfork Sunday Review
 
-Current score: 97/292
+Current score: 98/297
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 297. Trent Reznor / Atticus Ross - The Social Network
+- [ ] 296. Ja Rule - Pain Is Love
+- [X] 295. Alice in Chains - Dirt
+- [ ] 294. Groove Theory - Groove Theory
+- [ ] 293. Scott Walker - Tilt
 - [ ] 292. Terry Callier - Occasional Rain
 - [ ] 291. They Might Be Giants - Flood
 - [ ] 290. The Cure - Wish

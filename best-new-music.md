@@ -1,9 +1,12 @@
 # Pitchfork Best New Music
 
-Current score: 115/861
+Current score: 116/864
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 864. Sam Prekop / John McEntire - Sons Of
+- [X] 863. Two Shell - Icons EP
+- [ ] 862. Yaya Bey - Remember Your North Star
 - [ ] 861. Perfume Genius - Ugly Season
 - [ ] 860. Grace Ives - Janky Star
 - [ ] 859. 700 Bliss - Nothing to Declare
