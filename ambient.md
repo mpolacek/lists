@@ -1,10 +1,10 @@
 # P4K 50 Best Ambient Albums
 
-Current score: 0/50
+Current score: 3/50
 
 `$ grep "\[X\]" grunge.md | wc -l`
 
-- [ ] 1. Brian Eno - Ambient 1: Music for Airports
+- [X] 1. Brian Eno - Ambient 1: Music for Airports
 - [ ] 2. Aphex Twin - Selected Ambient Works Volume II
 - [ ] 3. William Basinski - The Disintegration Loops I-IV
 - [ ] 4. Terry Riley - A Rainbow in Curved Air
@@ -19,7 +19,7 @@ Current score: 0/50
 - [ ] 13. Brian Eno - Apollo
 - [ ] 14. The Caretaker - An Empty Bliss Beyond This World
 - [ ] 15. Robert Ashley - Automatic Writing
-- [ ] 16. Terry Riley - Persian Surgery Dervishes
+- [X] 16. Terry Riley - Persian Surgery Dervishes
 - [ ] 17. Alice Coltrane - Turiya Sings
 - [ ] 18. Stars of the Lid - And Their Refinement of the Decline
 - [ ] 19. The Orb - Orbus Terrarum
@@ -27,7 +27,7 @@ Current score: 0/50
 - [ ] 21. Grouper - A I A : Alien Observer
 - [ ] 22. Fennesz - Endless Summer
 - [ ] 23. Keith Fullerton Whitman - Playthroughs
-- [ ] 24. Brian Eno - Ambient 4: On Land
+- [X] 24. Brian Eno - Ambient 4: On Land
 - [ ] 25. Folke Rabe - What??
 - [ ] 26. Iasos - Inter-Dimensional Music
 - [ ] 27. Oneohtrix Point Never - Rifts

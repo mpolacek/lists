@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 497/1082
+Current score: 505/1082
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -76,7 +76,7 @@ Current score: 497/1082
 - [ ] 70. The Rolling Stones - Aftermath (1966)
 - [ ] 71. Simon & Garfunkel - Parsley, Sage, Rosemary, & Thyme
 - [ ] 72. 13th Floor Elevators - The Psychedelic Sounds of the 13th Floor Elevators (1966)
-- [ ] 73. John Mayall With Eric Clapton - Blues Breakers
+- [X] 73. John Mayall with Eric Clapton - Blues Breakers
 - [ ] 74. The Yardbirds - Roger the Engineer
 - [X] 75. Nina Simone - Wild Is the Wind
 - [X] 76. Astrud Gilberto - Beach Samba
@@ -305,7 +305,7 @@ Current score: 497/1082
 - [X] 299. Isley Brothers - 3+3
 - [ ] 300. New York Dolls - New York Dolls
 - [X] 301. Brian Eno - Here Come the Warm Jets (1973)
-- [ ] 302. Bad Company - Bad Company
+- [X] 302. Bad Company - Bad Company
 - [ ] 303. The Lamb Lies Down on Broadway (Genesis, 1974)
 - [X] 304. Shuggie Otis - Inspiration Information (1974)
 - [X] 305. Stevie Wonder - Fulfillingness First Finale
@@ -468,7 +468,7 @@ Current score: 497/1082
 - [ ] 462. Echo & the Bunnymen - Crocodiles
 - [ ] 463. Motörhead - Ace of Spades
 - [X] 464. Killing Joke - Killing Joke
-- [ ] 465. Judas Priest - British Steel
+- [X] 465. Judas Priest - British Steel
 - [ ] 466. Circle Jerks - Group Sex
 - [X] 467. Talking Heads - Remain in Light
 - [X] 468. Joy Division - Closer
@@ -482,7 +482,7 @@ Current score: 497/1082
 - [ ] 476. Steve Winwood - Arc of a Driver (1980)
 - [ ] 477. Pretenders - Pretenders
 - [ ] 478. Einstürzende Neubauten - Kollaps
-- [ ] 479. Siouxsie and the Banshees - Juju
+- [X] 479. Siouxsie and the Banshees - Juju
 - [ ] 480. Heaven 17 - Penthouse and Pavement (1981)
 - [X] 481. The Go Go's - Beauty and the Beat
 - [ ] 482. Motorhead - No Sleep 'Til Hammersmith
@@ -657,7 +657,7 @@ Current score: 497/1082
 - [ ] 651. Disintegration (The Cure, 1989)
 - [ ] 652. 808 State - 90 (1989)
 - [ ] 653. Coldcut What's That Noise?
-- [ ] 654. Barry Adamson - Moss Side Story (1989)
+- [X] 654. Barry Adamson - Moss Side Story (1989)
 - [X] 655. Aerosmith - Pump
 - [X] 656. Pixies - Doolittle
 - [ ] 657. Nick of Time - Bonnie Raitt [1989]
@@ -675,7 +675,7 @@ Current score: 497/1082
 - [X] 669. Depeche Mode - Violator (1990)
 - [X] 670. Pixies - Bossanova
 - [X] 671. Megadeth - Rust in Peace
-- [ ] 672. Sex Packets (1990) - Digital Underground
+- [X] 672. Digital Underground - Sex Packets (1990)
 - [X] 673. Pet Shop Boys - Behaviour
 - [X] 674. Happy Mondays - Pills N Thrills and Bellyaches
 - [X] 675. George Michael - Listen Without Prejudice: Vol 1
@@ -890,7 +890,7 @@ Current score: 497/1082
 - [X] 884. Skunk Anansie - Post-Orgasmic Chill
 - [X] 885. The Magnetic Fields - 69 Love Songs
 - [X] 886. Travis - The Man Who
-- [ ] 887. Slipknot - Slipknot
+- [X] 887. Slipknot - Slipknot
 - [ ] 888. Beth Orton - Central Reservation
 - [X] 889. Nitin Sawhney - Beyond Skin
 - [ ] 890. Death in Vegas Contino Sessions
@@ -962,7 +962,7 @@ Current score: 497/1082
 - [ ] 956. Bruce Springsteen the Rising
 - [ ] 957. The Bees - Sunshine Hit Me
 - [ ] 958. Beck - Sea Change
-- [ ] 959. Roots Phrenology
+- [X] 959. The Roots - Phrenology
 - [ ] 960. The Coral - The Coral
 - [ ] 961. Under Construction -Missy Elliott
 - [ ] 962. Outkast - Speakerboxxx/The Love Below

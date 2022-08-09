@@ -1,9 +1,11 @@
 # Pitchfork Sunday Review
 
-Current score: 98/297
+Current score: 99/299
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 299. Booker Little - Out Front
+- [X] 298. Depeche Mode - Ultra
 - [ ] 297. Trent Reznor / Atticus Ross - The Social Network
 - [ ] 296. Ja Rule - Pain Is Love
 - [X] 295. Alice in Chains - Dirt

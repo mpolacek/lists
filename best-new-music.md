@@ -1,9 +1,12 @@
 # Pitchfork Best New Music
 
-Current score: 116/864
+Current score: 117/867
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 867. Beyoncé - Renaissance
+- [ ] 866. Chat Pile - God’s Country
+- [ ] 865. Florist - Florist
 - [ ] 864. Sam Prekop / John McEntire - Sons Of
 - [X] 863. Two Shell - Icons EP
 - [ ] 862. Yaya Bey - Remember Your North Star
@@ -497,7 +500,7 @@ Current score: 116/864
 - [ ] 374. St. Vincent - Strange Mercy
 - [ ] 373. Girls - Father, Son, Holy Ghost
 - [ ] 372. The Field - Looping State of Mind
-- [ ] 371. The War on Drugs - Slave Ambient
+- [X] 371. The War on Drugs - Slave Ambient
 - [ ] 370. Jay-Z/Kanye West - Watch the Throne
 - [ ] 369. Washed Out-Within and Without
 - [ ] 368. John Maus - We Must Become the Pitiless Censors of Ourselves
