@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 505/1082
+Current score: 512/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -207,7 +207,7 @@ Current score: 505/1082
 - [X] 201. James Taylor - Sweet Baby James
 - [ ] 202. Paul McCartney - McCartney (1970)
 - [ ] 203. Santana - Abraxas (1970)
-- [ ] 204. Syd Barrett - The Madcap Laughs (1970)
+- [X] 204. Syd Barrett - The Madcap Laughs (1970)
 - [ ] 205. Jethro Tull - Aqualung
 - [ ] 206. David Crosby - If I Could Only Remember My Name
 - [X] 207. Sly & the Family Stone - There's a Riot Goin' on (1971)
@@ -218,7 +218,7 @@ Current score: 505/1082
 - [X] 212. Carole King - Tapestry
 - [X] 213. Isaac Hayes - Shaft: Music From the Soundtrack
 - [X] 214. The Allman Brothers Band - At Fillmore East (1971)
-- [ ] 215. The Rolling Stones - Sticky Fingers (1971)
+- [X] 215. The Rolling Stones - Sticky Fingers (1971)
 - [ ] 216. John Lennon - Imagine
 - [X] 217. The Beach Boys - Surf's Up (1971)
 - [X] 218. Yes - Fragile (1970)
@@ -254,7 +254,7 @@ Current score: 505/1082
 - [ ] 248. Slade - Slayed
 - [X] 249. Deep Purple - Made in Japan
 - [X] 250. Yes - Close to the Edge (1972)
-- [ ] 251. Transformer (Lou Reed, 1972)
+- [X] 251. Lou Reed - Transformer (1972)
 - [ ] 252. Hugh Masekela - Home Is Where the Music Is (1972)
 - [ ] 253. Milton Nascimento E Lô Borges - Clube Da Esquina
 - [ ] 254. Todd Rundgren - Something/Anything?
@@ -380,7 +380,7 @@ Current score: 505/1082
 - [ ] 374. Weather Report - Heavy Weather (1977)
 - [X] 375. Muddy Waters - Hard Again (1977)
 - [ ] 376. The Stranglers - Rattus Norvegicus
-- [ ] 377. The Clash - The Clash
+- [X] 377. The Clash - The Clash
 - [X] 378. David Bowie - Low
 - [X] 379. Steely Dan - Aja
 - [X] 380. Wire - Pink Flag
@@ -552,7 +552,7 @@ Current score: 505/1082
 - [X] 546. Bruce Springsteen - Born in the U.S.A.
 - [X] 547. The Fall - This Nation's Saving Grace
 - [X] 548. Abdullah Ibrahim - Water From an Ancient Well (1985)
-- [ ] 549. A-Ha - Hunting High and Low (1985)
+- [X] 549. A-Ha - Hunting High and Low (1985)
 - [X] 550. Tears for Fears - Songs From the Big Chair
 - [ ] 551. Brothers in Arms (Dire Straits, 1985)
 - [X] 552. Prefab Sprout - Steve McQueen
@@ -812,7 +812,7 @@ Current score: 505/1082
 - [X] 806. Goldie - Timeless
 - [ ] 807. Jagged Little Pill (Alanis Morissette, 1995)
 - [X] 808. Screaming Trees - Dust
-- [ ] 809. Super Furry Animals - Fuzzy Logic
+- [X] 809. Super Furry Animals - Fuzzy Logic
 - [ ] 810. Better Living Through Chemistry
 - [ ] 811. Dr. Octagon - Dr. Octagonecologyst (1996)
 - [X] 812. Stereolab - Emperor Tomato Ketchup
@@ -1086,3 +1086,4 @@ Current score: 505/1082
 - [X] 1080. Michael Kiwanuka - KIWANUKA *(new)*
 - [X] 1081. Fiona Apple - Fetch the Bolt Cutters *(new)*
 - [X] 1082. Taylor Swift - evermore *(new)*
+- [X] 1083. Little Simz - GREY Area *(new)*

@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 265/500
+Current score: 268/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -105,14 +105,14 @@ Current score: 265/500
 - [ ] 99. Taylor Swift - Red
 - [ ] 100. The Band - Music From Big Pink (1968)
 - [X] 101. Led Zeppelin - Led Zeppelin
-- [ ] 102. The Clash - The Clash
+- [X] 102. The Clash - The Clash
 - [ ] 103. De La Soul - 3 Feet High and Rising
-- [ ] 104. The Rolling Stones - Sticky Fingers
+- [X] 104. The Rolling Stones - Sticky Fingers
 - [X] 105. The Allman Brothers Band - At Fillmore East (1971)
 - [X] 106. Hole - Live Through This
 - [X] 107. Television - Marquee Moon
 - [ ] 108. Fiona Apple - When the Pawn
-- [ ] 109. Lou Reed - Transformer
+- [X] 109. Lou Reed - Transformer
 - [X] 110. Joni Mitchell - Court and Spark (1974)
 - [ ] 111. Janet Jackson - Control (1986)
 - [X] 112. Elton John - Goodbye Yellow Brick Road
