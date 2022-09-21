@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 512/1083
+Current score: 518/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -89,7 +89,7 @@ Current score: 512/1083
 - [ ] 83. Love - Da Capo
 - [ ] 84. Beau Brummels (The) Triangle
 - [ ] 85. The Monkees - Headquarters (1967)
-- [ ] 86. Tim Buckley - Goodbye and Hello (1967)
+- [X] 86. Tim Buckley - Goodbye and Hello (1967)
 - [X] 87. Love - Forever Changes (1967)
 - [X] 88. Cream - Disraeli Gears
 - [X] 89. Pink Floyd - The Piper at the Gates of Dawn (1967)
@@ -227,7 +227,7 @@ Current score: 512/1083
 - [ ] 221. Madman Across the Water (Elton John, 1971)
 - [ ] 222. Coat of Many Colors - Dolly Parton [1971]
 - [ ] 223. Don Mclean - American Pie (1971)
-- [ ] 224. Emerson, Lake & Palmer - Tarkus
+- [X] 224. Emerson, Lake & Palmer - Tarkus
 - [X] 225. Led Zeppelin - Led Zeppelin IV (1971)
 - [X] 226. Serge Gainsbourg - Histoire De Melody Nelson
 - [ ] 227. Rod Stewart - Every Picture Tells a Story
@@ -256,7 +256,7 @@ Current score: 512/1083
 - [X] 250. Yes - Close to the Edge (1972)
 - [X] 251. Lou Reed - Transformer (1972)
 - [ ] 252. Hugh Masekela - Home Is Where the Music Is (1972)
-- [ ] 253. Milton Nascimento E Lô Borges - Clube Da Esquina
+- [X] 253. Milton Nascimento E Lô Borges - Clube Da Esquina
 - [ ] 254. Todd Rundgren - Something/Anything?
 - [ ] 255. Nitty Gritty Dirt Band - Will the Circle Be Unbroken (1972)
 - [X] 256. Stevie Wonder - Talking Book
@@ -313,7 +313,7 @@ Current score: 512/1083
 - [X] 307. Kraftwerk - Autobahn
 - [ ] 308. Van Morrison - It's Too Late to Stop Now (1974)
 - [X] 309. Joni Mitchell - Court and Spark (1974)
-- [ ] 310. Queen - Queen II (1974)
+- [X] 310. Queen - Queen II (1974)
 - [ ] 311. Roxy Music - Country Life
 - [ ] 312. Tangerine Dream Phaedra
 - [ ] 313. Sparks - Kimono My House (1974)
@@ -416,7 +416,7 @@ Current score: 512/1083
 - [X] 410. Funkadelic - One Nation Under a Groove
 - [ ] 411. Throbbing Gristle - D.O.A. Third and Final Report
 - [ ] 412. Thin Lizzy - Live and Dangerous
-- [ ] 413. Talking Heads - More Songs About Buildings and Food
+- [X] 413. Talking Heads - More Songs About Buildings and Food
 - [ ] 414. Buzzcocks : Another Music in a Different Kitchen
 - [X] 415. Van Halen - Van Halen
 - [ ] 416. Willie Colón & Rubén Blades - Siembra (1978)
@@ -911,7 +911,7 @@ Current score: 512/1083
 - [ ] 905. Ryan Adams - Heartbreaker
 - [X] 906. Bebel Gilberto - Tanto Tempo
 - [ ] 907. Mj Cole Sincere
-- [ ] 908. Limp Bizkit - Chocolate Starfish and the Hot Dog Flavored Water
+- [X] 908. Limp Bizkit - Chocolate Starfish and the Hot Dog Flavored Water
 - [ ] 909. Emmylou Harris - Red Dirt Girl
 - [X] 910. Radiohead - Kid A (2000)
 - [X] 911. Badly Drawn Boy - Hour of Bewilderbeast

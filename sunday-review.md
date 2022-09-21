@@ -1,9 +1,12 @@
 # Pitchfork Sunday Review
 
-Current score: 99/299
+Current score: 100/302
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 302. Devo - Duty Now for the Future
+- [ ] 301. Graham Parker - Squeezing Out Sparks
+- [ ] 300. Lady Gaga - ARTPOP
 - [ ] 299. Booker Little - Out Front
 - [X] 298. Depeche Mode - Ultra
 - [ ] 297. Trent Reznor / Atticus Ross - The Social Network
@@ -191,7 +194,7 @@ Current score: 99/299
 - [ ] 115. De La Soul - 3 Feet High and Rising
 - [X] 114. PJ Harvey - Rid of Me
 - [ ] 113. T.I. - Trap Muzik
-- [ ] 112. Milton Nascimento / Lô Borges - Clube Da Esquina
+- [X] 112. Milton Nascimento / Lô Borges - Clube Da Esquina
 - [ ] 111. Cap’n Jazz - Burritos, Inspiration Point, Fork Balloon Sports, Cards in the Spokes, Automatic Biographies, Kites, Kung Fu, Trophies, Banana Peels We’ve Slipped on, and Egg Shells We’ve Tippy Toed Over
 - [X] 110. The Prodigy - The Fat Of the Land
 - [ ] 109. Earl Sweatshirt - Earl

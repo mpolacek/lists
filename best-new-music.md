@@ -1,9 +1,10 @@
 # Pitchfork Best New Music
 
-Current score: 117/867
+Current score: 117/868
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 868. Roc Marciano / The Alchemist - The Elephant Man’s Bones
 - [ ] 867. Beyoncé - Renaissance
 - [ ] 866. Chat Pile - God’s Country
 - [ ] 865. Florist - Florist
