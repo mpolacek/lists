@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 518/1083
+Current score: 519/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -821,7 +821,7 @@ Current score: 518/1083
 - [ ] 815. Belle & Sebastian - Tigermilk
 - [X] 816. DJ Shadow - Endtroducing..... (1996)
 - [ ] 817. Eels - Beautiful Freak
-- [ ] 818. Divine Comedy Casanova
+- [X] 818. Casanova - The Divine Comedy
 - [X] 819. Fiona Apple - Tidal
 - [X] 820. Wilco - Being There (1996)
 - [ ] 821. Sepultura - Roots

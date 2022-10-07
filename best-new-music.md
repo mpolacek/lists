@@ -1,9 +1,16 @@
 # Pitchfork Best New Music
 
-Current score: 117/868
+Current score: 117/875
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 875. Alvvays - Blue Rev
+- [ ] 874. Björk - Fossora
+- [ ] 873. Beth Orton - Weather Alive
+- [ ] 872. Alex G - God Save the Animals
+- [ ] 871. Sudan Archives - Natural Brown Prom Queen
+- [ ] 870. Jockstrap - I Love You Jennifer B
+- [ ] 869. Rachika Nayar - Heaven Come Crashing
 - [ ] 868. Roc Marciano / The Alchemist - The Elephant Man’s Bones
 - [ ] 867. Beyoncé - Renaissance
 - [ ] 866. Chat Pile - God’s Country

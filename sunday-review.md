@@ -1,9 +1,14 @@
 # Pitchfork Sunday Review
 
-Current score: 100/302
+Current score: 100/307
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 307. The Magnetic Fields - The Charm of the Highway Strip
+- [ ] 306. Nona Hendryx - SkinDiver
+- [ ] 305. Melvins - Houdini
+- [ ] 304. Jane’s Addiction - Nothing’s Shocking
+- [ ] 303. Guy - Guy
 - [ ] 302. Devo - Duty Now for the Future
 - [ ] 301. Graham Parker - Squeezing Out Sparks
 - [ ] 300. Lady Gaga - ARTPOP
