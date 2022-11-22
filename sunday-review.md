@@ -1,9 +1,12 @@
 # Pitchfork Sunday Review
 
-Current score: 100/307
+Current score: 101/310
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 310. Cake - Fashion Nugget
+- [ ] 309. Soft Cell - Non-Stop Erotic Cabaret
+- [ ] 308. Against Me! - Reinventing Axl Rose
 - [ ] 307. The Magnetic Fields - The Charm of the Highway Strip
 - [ ] 306. Nona Hendryx - SkinDiver
 - [ ] 305. Melvins - Houdini
@@ -93,7 +96,7 @@ Current score: 100/307
 - [X] 221. The Pharcyde - Bizarre Ride II the Pharcyde
 - [ ] 220. George Harrison / Ravi Shankar - The Concert for Bangladesh
 - [ ] 219. Usher - Confessions
-- [ ] 218. John Lee Hooker - It Serve You Right to Suffer
+- [X] 218. John Lee Hooker - It Serve You Right to Suffer
 - [ ] 217. Various Artists - O Brother, Where Art Thou? (Original Soundtrack)
 - [ ] 216. Belle and Sebastian - Tigermilk
 - [X] 215. The Cramps - Songs the Lord Taught Us

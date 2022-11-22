@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 519/1083
+Current score: 527/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -22,7 +22,7 @@ Current score: 519/1083
 - [ ] 16. Billie Holiday - Lady in Satin
 - [X] 17. Ramblin' Jack Elliott - Jack Takes the Floor (1958)
 - [ ] 18. Sarah Vaughan - Sarah Vaughan at Mister Kelly's (1958)
-- [ ] 19. Ella Fitzgerald - Sings the Gershwin Song Book (1959)
+- [X] 19. Ella Fitzgerald - Sings the Gershwin Song Book (1959)
 - [ ] 20. Genius of Ray Charles
 - [X] 21. Miles Davis - Kind of Blue (1959)
 - [ ] 22. Marty Robbins - Gunfighter Ballads and Trail Songs (1959)
@@ -316,7 +316,7 @@ Current score: 519/1083
 - [X] 310. Queen - Queen II (1974)
 - [ ] 311. Roxy Music - Country Life
 - [ ] 312. Tangerine Dream Phaedra
-- [ ] 313. Sparks - Kimono My House (1974)
+- [X] 313. Sparks - Kimono My House (1974)
 - [ ] 314. Supertramp - Crime of the Century
 - [ ] 315. Richard and Linda Thompson : I Want to See the Bright Lights Tonight
 - [ ] 316. Winter in America - Gil Scott-Heron
@@ -405,7 +405,7 @@ Current score: 519/1083
 - [ ] 399. Pere Ubu - Dub Housing (1978)
 - [ ] 400. The Only Ones - The Only Ones (1978)
 - [ ] 401. This Year's Model (Elvis Costello, 1978)
-- [ ] 402. The Jam - All Mod Cons
+- [X] 402. The Jam - All Mod Cons
 - [ ] 403. Joe Ely - Honky Tonk Masquerade (1978)
 - [ ] 404. The Adverts : Crossing the Red Sea With the Adverts
 - [ ] 405. Big Star - Third / Sister Lovers
@@ -479,7 +479,7 @@ Current score: 519/1083
 - [X] 473. UB40 - Signing Off
 - [ ] 474. The Teardrop Explodes - Kilimanjaro
 - [ ] 475. The Specials - More Specials (1980)
-- [ ] 476. Steve Winwood - Arc of a Driver (1980)
+- [X] 476. Steve Winwood - Arc of a Driver (1980)
 - [ ] 477. Pretenders - Pretenders
 - [ ] 478. Einstürzende Neubauten - Kollaps
 - [X] 479. Siouxsie and the Banshees - Juju
@@ -684,7 +684,7 @@ Current score: 519/1083
 - [X] 678. Jane's Addiction - Ritual De Lo Habitual (1990)
 - [X] 679. LL Cool J - Mama Said Knock You Out
 - [X] 680. Public Enemy - Fear of a Black Planet
-- [ ] 681. Sinead O'Connor - I Do Not Want What I Haven't Got
+- [X] 681. Sinead O'Connor - I Do Not Want What I Haven't Got
 - [ ] 682. A Tribe Called Quest - People's Instinctive Travels
 - [X] 683. Sonic Youth - Goo
 - [X] 684. Ride - Nowhere
@@ -855,7 +855,7 @@ Current score: 519/1083
 - [ ] 849. Divine Comedy - A Short Album About Love
 - [ ] 850. Cornershop - When I Was Born for the 7th Time
 - [X] 851. Daft Punk - Homework
-- [ ] 852. Robbie Williams - Life Thru a Lens
+- [X] 852. Robbie Williams - Life Thru a Lens
 - [ ] 853. Mariah Carey - Butterfly
 - [ ] 854. Supergrass - In It for the Money
 - [X] 855. Bob Dylan - Time Out of Mind
@@ -907,7 +907,7 @@ Current score: 519/1083
 - [ ] 901. Red Hot Chili Peppers - Californication
 - [X] 902. Sigur Rós - Ágætis Byrjun
 - [ ] 903. Doves - Lost Souls
-- [ ] 904. The Virgin Suicides (Air, 2000)
+- [X] 904. Air - The Virgin Suicides (2000)
 - [ ] 905. Ryan Adams - Heartbreaker
 - [X] 906. Bebel Gilberto - Tanto Tempo
 - [ ] 907. Mj Cole Sincere
@@ -1048,7 +1048,7 @@ Current score: 519/1083
 - [X] 1042. Kanye West - My Beautiful Dark Twisted Fantasy (2010)
 - [X] 1043. John Grant - Queen of Denmark
 - [ ] 1044. Janelle Monáe - The Archandroid
-- [ ] 1045. The National - High Violet
+- [X] 1045. The National - High Violet
 - [X] 1046. Deerhunter - Halcyon Digest
 - [ ] 1047. Arcade Fire - The Suburbs
 - [ ] 1048. Adele - 21

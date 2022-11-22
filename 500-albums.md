@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 269/500
+Current score: 271/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -460,7 +460,7 @@ Current score: 269/500
 - [X] 454. Can - Ege Bamyasi
 - [ ] 455. Bo Diddley/Go Bo Diddley
 - [ ] 456. Al Green - Greatest Hits
-- [ ] 457. Sinead O'Connor - I Do Not Want What I Haven't Got
+- [X] 457. Sinead O'Connor - I Do Not Want What I Haven't Got
 - [ ] 458. Jason Isbell- Southeastern
 - [ ] 459. Kid Cudi - Man on the Moon: The End of Days
 - [X] 460. Lorde - Melodrama (2017)
@@ -479,7 +479,7 @@ Current score: 269/500
 - [ ] 473. Daddy Yankee - Barrio Fino
 - [X] 474. Big Star - #1 Record
 - [ ] 475. Sheryl Crow (Sheryl Crow, 1996)
-- [ ] 476. Sparks - Kimono My House (1974)
+- [X] 476. Sparks - Kimono My House (1974)
 - [ ] 477. Howlin' Wolf- Moanin' in the Moonlight
 - [X] 478. The Kinks - Something Else by the Kinks
 - [ ] 479. Selena - Amor Prohibido

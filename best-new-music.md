@@ -1,14 +1,25 @@
 # Pitchfork Best New Music
 
-Current score: 117/875
+Current score: 120/886
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [X] 886. Weyes Blood - And in the Darkness, Hearts Aglow
+- [ ] 885. Dream Unending - Song of Salvation
+- [ ] 884. CEO Trayle - HH5
+- [ ] 883. Jeff Parker - Mondays at the Enfield Tennis Academy
+- [ ] 882. Dawn Richard / Spencer Zahn - Pigments
+- [ ] 881. Special Interest - Endure
+- [ ] 880. Mabe Fratti - Se Ve Desde Aquí
+- [ ] 879. Mavi - Laughing so Hard, it Hurts
+- [ ] 878. Lucrecia Dalt - ¡Ay!
+- [ ] 877. Gilla Band - Most Normal
+- [ ] 876. Daphni - Cherry
 - [ ] 875. Alvvays - Blue Rev
 - [ ] 874. Björk - Fossora
 - [ ] 873. Beth Orton - Weather Alive
 - [ ] 872. Alex G - God Save the Animals
-- [ ] 871. Sudan Archives - Natural Brown Prom Queen
+- [X] 871. Sudan Archives - Natural Brown Prom Queen
 - [ ] 870. Jockstrap - I Love You Jennifer B
 - [ ] 869. Rachika Nayar - Heaven Come Crashing
 - [ ] 868. Roc Marciano / The Alchemist - The Elephant Man’s Bones
@@ -571,7 +582,7 @@ Current score: 117/875
 - [ ] 311. LCD Soundsystem - This Is Happening
 - [ ] 310. Sleigh Bells - Treats
 - [ ] 309. Male Bonding - Nothing Hurts
-- [ ] 308. The National - High Violet
+- [X] 308. The National - High Violet
 - [ ] 307. Flying Lotus - Cosmogramma
 - [ ] 306. Broken Social Scene-Forgiveness Rock Record
 - [ ] 305. Crystal Castles - Crystal Castles II

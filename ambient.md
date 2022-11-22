@@ -1,11 +1,11 @@
 # P4K 50 Best Ambient Albums
 
-Current score: 3/50
+Current score: 5/50
 
 `$ grep "\[X\]" grunge.md | wc -l`
 
 - [X] 1. Brian Eno - Ambient 1: Music for Airports
-- [ ] 2. Aphex Twin - Selected Ambient Works Volume II
+- [X] 2. Aphex Twin - Selected Ambient Works Volume II
 - [ ] 3. William Basinski - The Disintegration Loops I-IV
 - [ ] 4. Terry Riley - A Rainbow in Curved Air
 - [ ] 5. The KLF - Chill Out
@@ -41,7 +41,7 @@ Current score: 3/50
 - [ ] 35. Laraaji - Ambient 3: Day of Radiance
 - [ ] 36. Windy & Carl - Depths
 - [ ] 37. Tim Hecker - Virgins
-- [ ] 38. Biosphere - Substrata
+- [X] 38. Biosphere - Substrata
 - [ ] 39. Suzanne Ciani - Buchla Concerts 1975
 - [ ] 40. Max Richter - Sleep
 - [ ] 41. Brian Eno / Harold Budd - The Pearl
