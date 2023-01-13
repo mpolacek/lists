@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 527/1083
+Current score: 532/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -104,7 +104,7 @@ Current score: 527/1083
 - [X] 98. Donovan - Sunshine Superman (1967)
 - [ ] 99. Merle Haggard - I'm a Lonesome Fugitive (1967)
 - [X] 100. The Jimi Hendrix Experience - Are You Experienced?
-- [ ] 101. The Electric Prunes (Album)
+- [X] 101. The Electric Prunes - Electric Prunes (1967)
 - [X] 102. Loretta Lynn - Don't Come Home a Drinkin' (With Lovin' on Your Mind)
 - [X] 103. Shivkumar Sharma - Call of the Valley (1967)
 - [X] 104. The Velvet Underground - White Light/White Heat (1968)
@@ -387,7 +387,7 @@ Current score: 527/1083
 - [ ] 381. John Martyn One World
 - [ ] 382. Talking Heads - Talking Heads: 77
 - [X] 383. Fleetwood Mac - Rumours
-- [ ] 384. David Bowie - "Heroes"
+- [X] 384. David Bowie - Heroes
 - [X] 385. Dennis Wilson - Pacific Ocean Blue (1977)
 - [X] 386. Suicide - Suicide
 - [ ] 387. The Idiot (Iggy Pop, 1977)
@@ -449,7 +449,7 @@ Current score: 527/1083
 - [ ] 443. Elvis Costello and the Attractions - Armed Forces
 - [ ] 444. Neil Young and Crazy Horse - Rust Never Sleeps
 - [X] 445. Gang of Four - Entertainment!
-- [ ] 446. Cheap Trick at Budokan
+- [X] 446. Cheap Trick - At Budokan
 - [X] 447. Fleetwood Mac - Tusk
 - [ ] 448. Pink Floyd - The Wall (1979)
 - [ ] 449. Public Image, Ltd. - Metal Box
@@ -725,7 +725,7 @@ Current score: 527/1083
 - [X] 719. R.E.M. - Automatic for the People
 - [X] 720. The Pharcyde - Bizarre Ride II the Pharcyde (1992)
 - [ ] 721. Spiritualized - Laser Guided Melodies
-- [ ] 722. Sugar - Copper Blue
+- [X] 722. Sugar - Copper Blue
 - [X] 723. Tom Waits - Bone Machine (1992)
 - [X] 724. Sonic Youth - Dirty
 - [ ] 725. Stereo MC's - Connected
@@ -838,7 +838,7 @@ Current score: 527/1083
 - [ ] 832. Cardigans First Band on the Moon
 - [X] 833. Marilyn Manson - Antichrist Superstar
 - [X] 834. The Fugees - The Score (1996)
-- [ ] 835. Ash - 1977
+- [X] 835. Ash - 1977
 - [X] 836. Belle and Sebastian - If You're Feeling Sinister
 - [X] 837. Blur - Blur
 - [X] 838. Radiohead - OK Computer (1997)
