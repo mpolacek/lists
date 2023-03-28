@@ -56,3 +56,10 @@ Current score: 35/50
 - [ ] 48. Fecal Matter - Illiteracy Will Prevail (1986)
 - [ ] 49. Toadies - Rubberneck (1994)
 - [X] 50. Mother Love Bone - Apple (1990)
+
+
+Some more:
+- [ ] Mark Lanegan: The Winding Sheet (1990)
+- [ ] Afghan Whigs: Congregation (1992)
+- [ ] PJ Harvey: Rid of Me (1993)
+- [ ] Redd Kross: Phaseshifter (1993)
