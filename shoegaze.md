@@ -2,7 +2,7 @@
 
 Current score: 1/50
 
-`$ grep "\[X\]" grunge.md | wc -l`
+`$ grep "\[X\]" shoegaze.md | wc -l`
 
 - [X] 1. My Bloody Valentine - Loveless
 - [ ] 2. Slowdive - Souvlaki
