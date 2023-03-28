@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 532/1083
+Current score: 535/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -247,7 +247,7 @@ Current score: 532/1083
 - [X] 241. Randy Newman - Sail Away
 - [X] 242. Deep Purple - Machine Head (1972)
 - [X] 243. Big Star - #1 Record
-- [ ] 244. Black Sabbath - Black Sabbath, Vol. 4
+- [X] 244. Black Sabbath - Black Sabbath, Vol. 4
 - [X] 245. Steely Dan - Can't Buy a Thrill
 - [X] 246. Neil Young - Harvest (1972)
 - [X] 247. Curtis Mayfield - Superfly
@@ -348,7 +348,7 @@ Current score: 532/1083
 - [X] 342. Bob Dylan - Blood on the Tracks
 - [X] 343. Patti Smith - Horses (1975)
 - [X] 344. Pink Floyd - Wish You Were Here
-- [ ] 345. Queen - A Night at the Opera
+- [X] 345. Queen - A Night at the Opera
 - [ ] 346. Willie Nelson - Red Headed Stranger
 - [X] 347. Earth, Wind & Fire - That's the Way of the World
 - [X] 348. Curtis Mayfield - There's No Place Like America Today
@@ -971,7 +971,7 @@ Current score: 532/1083
 - [ ] 965. The Darkness - Permission to Land
 - [ ] 966. 50 Cent - Get Rich or Die Tryin'
 - [ ] 967. Dizzee Rascal - Boy in Da Corner
-- [ ] 968. The Mars Volta - De-Loused in the Comatorium
+- [X] 968. The Mars Volta - De-Loused in the Comatorium
 - [ ] 969. Lightning Bolt - Wonderful Rainbow
 - [X] 970. The White Stripes - Elephant
 - [ ] 971. Kings of Leon - Youth and Young Manhood

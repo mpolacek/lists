@@ -1,9 +1,24 @@
 # Pitchfork Best New Music
 
-Current score: 120/886
+Current score: 120/901
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 901. Arooj Aftab / Vijay Iyer / Shahzad Ismaily - Love in Exile
+- [ ] 900. Lana Del Rey - Did You Know That There’s a Tunnel Under Ocean Blvd
+- [ ] 899. Yves Tumor - Praise a Lord Who Chews but Which Does Not Consume; (Or Simply, Hot Between Worlds)
+- [ ] 898. 100 gecs - 10,000 gecs
+- [ ] 897. Lonnie Holley - Oh Me Oh My
+- [ ] 896. Fever Ray - Radical Romantics
+- [ ] 895. Kali Uchis - Red Moon in Venus
+- [ ] 894. Model/Actriz - Dogsbody
+- [ ] 893. Liv.e - Girl in the Half Pearl
+- [ ] 892. Caroline Polachek - Desire, I Want to Turn Into You
+- [ ] 891. Kelela - Raven
+- [ ] 890. Yo La Tengo - This Stupid World
+- [ ] 889. Parannoul - After the Magic
+- [ ] 888. SZA - SOS
+- [ ] 887. $ilkMoney - I Don’t Give a Fuck About This Rap Shit, Imma Just Drop Until I Don’t Feel Like It Anymore
 - [X] 886. Weyes Blood - And in the Darkness, Hearts Aglow
 - [ ] 885. Dream Unending - Song of Salvation
 - [ ] 884. CEO Trayle - HH5

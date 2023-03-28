@@ -1,9 +1,27 @@
 # Pitchfork Sunday Review
 
-Current score: 101/310
+Current score: 103/328
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 328. Selena - Amor Prohibido
+- [ ] 327. Television Personalities - ...And Don’t the Kids Just Love It
+- [ ] 326. Madonna - Music
+- [ ] 325. Prince - The Gold Experience
+- [ ] 324. Leonard Cohen - The Future
+- [ ] 323. Yoko Ono - Season of Glass
+- [ ] 322. Teedra Moses - Complex Simplicity
+- [ ] 321. Various Artists - Anthology of American Folk Music, Vol. 1-3
+- [ ] 320. Nas - Stillmatic
+- [ ] 319. Kylie Minogue - Impossible Princess
+- [ ] 318. Various Artists - Monsters of Rap
+- [ ] 317. The Tony Williams Lifetime - Emergency!
+- [ ] 316. Keyshia Cole - The Way It Is
+- [ ] 315. Frank Sinatra - Watertown
+- [ ] 314. Joni Mitchell - Hejira
+- [ ] 313. The Roches - The Roches
+- [ ] 312. Living Colour - Vivid
+- [ ] 311. Adam Sandler - They’re All Gonna Laugh at You!
 - [ ] 310. Cake - Fashion Nugget
 - [ ] 309. Soft Cell - Non-Stop Erotic Cabaret
 - [ ] 308. Against Me! - Reinventing Axl Rose
@@ -26,7 +44,7 @@ Current score: 101/310
 - [ ] 291. They Might Be Giants - Flood
 - [ ] 290. The Cure - Wish
 - [ ] 289. Eddie Gale - Ghetto Music
-- [ ] 288. Kelly Clarkson - Breakaway
+- [X] 288. Kelly Clarkson - Breakaway
 - [X] 287. Moodymann - Forevernevermore
 - [ ] 286. Throwing Muses - Throwing Muses
 - [ ] 285. Busta Rhymes - When Disaster Strikes...
@@ -116,7 +134,7 @@ Current score: 101/310
 - [ ] 201. Seo Taiji and Boys - Seo Taiji and Boys
 - [ ] 200. Various Artists - Pure Moods, Vol. 1
 - [X] 199. Funkadelic - Maggot Brain
-- [ ] 198. Mazzy Star - So Tonight That I Might See
+- [X] 198. Mazzy Star - So Tonight That I Might See
 - [ ] 197. Fabolous - Ghetto Fabolous
 - [ ] 196. Elliott Smith - Elliott Smith
 - [X] 195. The Human League - Dare

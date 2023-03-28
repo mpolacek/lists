@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 271/500
+Current score: 272/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -131,7 +131,7 @@ Current score: 271/500
 - [X] 125. Beastie Boys - Paul's Boutique
 - [X] 126. Mary J. Blige - My Life
 - [X] 127. Ray Charles - Modern Sounds in Country and Western Music (1962)
-- [ ] 128. Queen - A Night at the Opera
+- [X] 128. Queen - A Night at the Opera
 - [ ] 129. Pink Floyd - The Wall
 - [X] 130. Prince - 1999
 - [X] 131. Portishead - Dummy
