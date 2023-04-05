@@ -8,7 +8,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 
 ## The '30s
 
-- [ ] Art Tatum - Art Tatum 1932-1934 (1934)
+- [x] Art Tatum - Art Tatum 1932-1934 (1934)
 - [ ] Django Reinhardt - Django Reinhardt 1935-1936 (1936)
 
 ## The '40s
