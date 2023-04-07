@@ -1,6 +1,6 @@
 # Pitchfork Best New Music
 
-Current score: 120/901
+Current score: 121/901
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -492,7 +492,7 @@ Current score: 120/901
 - [ ] 416. Passion Pit - Gossamer
 - [ ] 415. Nas - Life Is Good
 - [ ] 414. Baroness - Yellow & Green
-- [ ] 413. Frank Ocean - Channel Orange
+- [X] 413. Frank Ocean - Channel Orange
 - [ ] 412. Dirty Projectors - Swing Lo Magellan
 - [ ] 411. Twin Shadow - Confess
 - [ ] 410. DIIV - Oshin

@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 535/1083
+Current score: 538/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -660,7 +660,7 @@ Current score: 535/1083
 - [X] 654. Barry Adamson - Moss Side Story (1989)
 - [X] 655. Aerosmith - Pump
 - [X] 656. Pixies - Doolittle
-- [ ] 657. Nick of Time - Bonnie Raitt [1989]
+- [X] 657. Bonnie Raitt - Nick of Time (1989)
 - [X] 658. Fugazi - Repeater
 - [ ] 659. Soul II Soul - Club Classics Vol. One
 - [ ] 660. De La Soul - 3 Feet High and Rising
@@ -831,7 +831,7 @@ Current score: 535/1083
 - [ ] 825. The Charlatans - Tellin' Stories
 - [X] 826. Manic Street Preachers - Everything Must Go
 - [ ] 827. Everything but the Girl Walking Wounded
-- [ ] 828. Nick Cave & the Bad Seeds - Murder Ballads (1996)
+- [X] 828. Nick Cave & the Bad Seeds - Murder Ballads (1996)
 - [ ] 829. Ltj Bukem Locial Progression
 - [X] 830. Underworld - Second Toughest in the Infants
 - [ ] 831. Jon Spencer Blues Group Now I Got Worry
@@ -1056,7 +1056,7 @@ Current score: 535/1083
 - [ ] 1050. White Denim - D (2011)
 - [X] 1051. Kendrick Lamar - Good Kid, M.A.A.D City (2012)
 - [ ] 1052. Hot Chip - In Our Heads
-- [ ] 1053. Frank Ocean - Channel Orange
+- [X] 1053. Frank Ocean - Channel Orange
 - [ ] 1054. Jack White - Blunderbuss
 - [ ] 1055. Django Django - Django Django
 - [X] 1056. My Bloody Valentine - M B V (2013)

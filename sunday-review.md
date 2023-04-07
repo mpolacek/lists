@@ -1,10 +1,11 @@
 # Pitchfork Sunday Review
 
-Current score: 103/328
+Current score: 106/329
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
-- [ ] 328. Selena - Amor Prohibido
+- [ ] 329. Warren Zevon - Warren Zevon
+- [X] 328. Selena - Amor Prohibido
 - [ ] 327. Television Personalities - ...And Don’t the Kids Just Love It
 - [ ] 326. Madonna - Music
 - [ ] 325. Prince - The Gold Experience
@@ -60,7 +61,7 @@ Current score: 103/328
 - [ ] 275. The Birthday Party - Junkyard
 - [ ] 274. Little Brother - The Listening
 - [ ] 273. Third Eye Blind - Third Eye Blind
-- [ ] 272. Bonnie Raitt - Nick of Time
+- [X] 272. Bonnie Raitt - Nick of Time
 - [ ] 271. Caspa/Rusko - FabricLive.37
 - [ ] 270. Spacehog - Resident Alien
 - [X] 269. King Sunny Adé - Juju Music
@@ -227,7 +228,7 @@ Current score: 103/328
 - [ ] 108. George Michael - Faith
 - [ ] 107. Bell Biv Devoe - Poison
 - [X] 106. Creedence Clearwater Revival - Cosmo's Factory
-- [ ] 105. Juvenile - 400 Degreez
+- [X] 105. Juvenile - 400 Degreez
 - [ ] 104. Mary Margaret O’Hara - Miss America
 - [X] 103. Nirvana - Incesticide
 - [ ] 102. John Frusciante - To Record Only Water for Ten Days

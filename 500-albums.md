@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 272/500
+Current score: 276/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -151,7 +151,7 @@ Current score: 272/500
 - [X] 145. Eminem - The Marshall Mathers LP
 - [X] 146. Blondie - Parallel Lines
 - [X] 147. Jeff Buckley - Grace (1994)
-- [ ] 148. Frank Ocean - Channel Orange
+- [X] 148. Frank Ocean - Channel Orange
 - [X] 149. John Prine - John Prine
 - [X] 150. Bruce Springsteen - Nebraska (1982)
 - [ ] 151. George Michael - Faith (1987)
@@ -473,7 +473,7 @@ Current score: 272/500
 - [ ] 467. Maxwell-Blacksummers' Night
 - [ ] 468. The Rolling Stones - Some Girls
 - [X] 469. Manu Chao - Clandestino
-- [ ] 470. Juvenile - 400 Degreez
+- [X] 470. Juvenile - 400 Degreez
 - [X] 471. Jefferson Airplane - Surrealistic Pillow
 - [ ] 472. Sza - Ctrl
 - [ ] 473. Daddy Yankee - Barrio Fino
@@ -482,7 +482,7 @@ Current score: 272/500
 - [X] 476. Sparks - Kimono My House (1974)
 - [ ] 477. Howlin' Wolf- Moanin' in the Moonlight
 - [X] 478. The Kinks - Something Else by the Kinks
-- [ ] 479. Selena - Amor Prohibido
+- [X] 479. Selena - Amor Prohibido
 - [ ] 480. Miranda Lambert the Weight of These Wings
 - [X] 481. Belle and Sebastian - If You're Feeling Sinister
 - [X] 482. The Pharcyde - Bizarre Ride II the Pharcyde
@@ -495,7 +495,7 @@ Current score: 272/500
 - [ ] 489. Phil Spector (Various Artists) - Back to Mono
 - [ ] 490. Linda Ronstadt - Heart Like a Wheel
 - [ ] 491. Harry Styles - Fine Line
-- [ ] 492. Nick of Time- Bonnie Raitt [1989]
+- [X] 492. Bonnie Raitt - Nick of Time (1989)
 - [X] 493. Marvin Gaye - Here, My Dear
 - [ ] 494. Presenting the Fabulous Ronettes
 - [ ] 495. Boyz II Men - II
