@@ -1,8 +1,8 @@
 # The Penguin Jazz Guide
 
-Current score: 2/129
+Current score: 3/129
 
-Listened: `$ grep "\[X\]" jazz-ok.md | wc -l`
+Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
 Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 

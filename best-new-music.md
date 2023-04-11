@@ -1,6 +1,6 @@
 # Pitchfork Best New Music
 
-Current score: 121/901
+Current score: 122/901
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -47,7 +47,7 @@ Current score: 121/901
 - [ ] 861. Perfume Genius - Ugly Season
 - [ ] 860. Grace Ives - Janky Star
 - [ ] 859. 700 Bliss - Nothing to Declare
-- [ ] 858. Ravyn Lenae - HYPNOS
+- [X] 858. Ravyn Lenae - HYPNOS
 - [ ] 857. Bad Bunny - Un Verano Sin Ti
 - [ ] 856. The Smile - A Light for Attracting Attention
 - [ ] 855. MJ Lenderman - Boat Songs

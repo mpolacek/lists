@@ -2,7 +2,7 @@
 
 Current score: 23/129
 
-Listened: `$ grep "\[X\]" jazz.md | wc -l`
+Listened: `$ grep "\[[xX]\]" jazz.md | wc -l`
 
 Total: `$ grep "\[.\]" jazz.md | wc -l`
 
