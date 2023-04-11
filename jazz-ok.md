@@ -8,7 +8,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 
 ## Beginnings
 
-- [ ] Eubie Blake - Memories of You
+- [x] Eubie Blake - Memories of You
 - [ ] Original Dixieland Jazz Band - THe Original Dixieland Jazz Band 1917-1921
 - [ ] James P. Johnson - Carolina Shout
 - [ ] Eureka Brass Band - New Orleans Funeral and Parade
