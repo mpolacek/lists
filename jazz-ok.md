@@ -11,7 +11,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Eubie Blake - Memories of You
 - [x] Original Dixieland Jazz Band - The Original Dixieland Jazz Band 1917-1921
 - [x] James P. Johnson - Carolina Shout
-- [ ] Eureka Brass Band - New Orleans Funeral and Parade
+- [x] Eureka Brass Band - New Orleans Funeral and Parade
 - [ ] Jelly Roll Morton - The Complete Library of Congress Recordings
 - [ ] Baby Dodds - Baby Dodds
 - [ ] George 'Pops' Foster - George 'Pops' Foster
