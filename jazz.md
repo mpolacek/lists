@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 23/129
+Current score: 24/129
 
 Listened: `$ grep "\[[xX]\]" jazz.md | wc -l`
 
@@ -9,7 +9,7 @@ Total: `$ grep "\[.\]" jazz.md | wc -l`
 ## Beginnings
 
 - [X] Eubie Blake - Memories of You
-- [ ] Original Dixieland Jazz Band - The Original Dixieland Jazz Band 1917-1921
+- [X] Original Dixieland Jazz Band - The Original Dixieland Jazz Band 1917-1921
 - [ ] James P. Johnson - Carolina Shout
 - [ ] Eureka Brass Band - New Orleans Funeral and Parade
 - [ ] Jelly Roll Morton - The Complete Library of Congress Recordings

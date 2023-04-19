@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 276/500
+Current score: 278/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -132,7 +132,7 @@ Current score: 276/500
 - [X] 126. Mary J. Blige - My Life
 - [X] 127. Ray Charles - Modern Sounds in Country and Western Music (1962)
 - [X] 128. Queen - A Night at the Opera
-- [ ] 129. Pink Floyd - The Wall
+- [X] 129. Pink Floyd - The Wall
 - [X] 130. Prince - 1999
 - [X] 131. Portishead - Dummy
 - [ ] 132. Hank Williams - 40 Greatest Hits
@@ -184,7 +184,7 @@ Current score: 276/500
 - [X] 178. Otis Redding - Otis Blue: Otis Redding Sings Soul (1965)
 - [ ] 179. The Notorious B.I.G.- Life After Death
 - [X] 180. Love - Forever Changes (1967)
-- [ ] 181. Bob Dylan - Bringing It All Back Home (1965)
+- [X] 181. Bob Dylan - Bringing It All Back Home (1965)
 - [X] 182. James Taylor - Sweet Baby James
 - [X] 183. D'Angelo - Brown Sugar
 - [X] 184. Cyndi Lauper - She's So Unusual

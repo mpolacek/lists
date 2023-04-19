@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 538/1083
+Current score: 541/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -50,10 +50,10 @@ Current score: 538/1083
 - [ ] 44. Solomon Burke - Rock & Soul
 - [X] 45. Dusty Springfield - A Girl Called Dusty (1964)
 - [ ] 46. The Rolling Stones - The Rolling Stones (1964)
-- [ ] 47. Buck Owens and His Buckaroos - I've Got a Tiger by the Tail (1964)
+- [X] 47. Buck Owens and His Buckaroos - I've Got a Tiger by the Tail (1964)
 - [ ] 48. Jerry Lee Lewis - Live at the Star Club Hamburg
 - [X] 49. The Sonics - Here Are the Sonics
-- [ ] 50. Bob Dylan - Bringing It All Back Home
+- [X] 50. Bob Dylan - Bringing It All Back Home
 - [X] 51. Otis Redding - Otis Blue: Otis Redding Sings Soul
 - [ ] 52. The Beach Boys - The Beach Boys Today! (1965)
 - [X] 53. John Coltrane - A Love Supreme (1965)
@@ -451,7 +451,7 @@ Current score: 538/1083
 - [X] 445. Gang of Four - Entertainment!
 - [X] 446. Cheap Trick - At Budokan
 - [X] 447. Fleetwood Mac - Tusk
-- [ ] 448. Pink Floyd - The Wall (1979)
+- [X] 448. Pink Floyd - The Wall (1979)
 - [ ] 449. Public Image, Ltd. - Metal Box
 - [X] 450. Michael Jackson - Off the Wall
 - [ ] 451. The Damned - Machine Gun Etiquette
