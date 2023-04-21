@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 541/1083
+Current score: 542/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -128,7 +128,7 @@ Current score: 541/1083
 - [ ] 122. Dr. John the Nighttripper - Gris-Gris
 - [X] 123. Iron Butterfly - In-A-Gadda-Da-Vida
 - [ ] 124. The Pretty Things S.F. Sorrow
-- [ ] 125. Bookends - Simon & Garfunkel
+- [X] 125. Simon & Garfunkel - Bookends
 - [ ] 126. Small Faces - Ogden's Nut Gone Flake
 - [ ] 127. The Band, Music From Big Pink (1968)
 - [ ] 128. Jeff Beck Truth

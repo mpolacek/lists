@@ -306,11 +306,11 @@ Current score: 278/500
 - [ ] 300. Shania Twain - Come on Over (1997)
 - [ ] 301. New York Dolls - New York Dolls
 - [X] 302. Neil Young - Tonight's the Night
-- [ ] 303. The Definitive Collection -ABBA [2001]
+- [ ] 303. ABBA - The Definitive Collection (2001)
 - [ ] 304. Bill Withers - Just as I Am
 - [ ] 305. Kiss - Alive! (1975)
-- [ ] 306. Al Green- I'm Still in Love With You
-- [ ] 307. Sam Cooke- Portait of a Legend
+- [ ] 306. Al Green - I'm Still in Love With You
+- [ ] 307. Sam Cooke - Portait of a Legend
 - [X] 308. Brian Eno - Here Come the Warm Jets
 - [X] 309. Joy Division - Closer
 - [X] 310. Wire - Pink Flag
