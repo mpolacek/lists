@@ -13,8 +13,8 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] James P. Johnson - Carolina Shout
 - [x] Eureka Brass Band - New Orleans Funeral and Parade
 - [x] Jelly Roll Morton - The Complete Library of Congress Recordings
-- [ ] Baby Dodds - Baby Dodds
-- [ ] George 'Pops' Foster - George 'Pops' Foster
+- [x] Baby Dodds - Baby Dodds
+- [x] George 'Pops' Foster - George 'Pops' Foster
 
 ## The '20s
 
