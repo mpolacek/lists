@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 4/129
+Current score: 8/129
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -18,7 +18,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 
 ## The '20s
 
-- [ ] Jelly Roll Morton - The Piano Rolls
+- [x] Jelly Roll Morton - The Piano Rolls
 - [ ] Ladd's Black Aces / Original Memphis Five - The Complete Ladd's Black Aces 1921-1924
 - [ ] Ladd's Black Aces / Original Memphis Five - Original Memphis Five: Columbias 1923-1931
 - [ ] New Orleans Rhythm Kings - New Orleans Rhythm Kings 1922-1925: The Complete Set
