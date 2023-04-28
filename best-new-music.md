@@ -1,6 +1,6 @@
 # Pitchfork Best New Music
 
-Current score: 122/901
+Current score: 123/901
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -855,7 +855,7 @@ Current score: 122/901
 - [ ] 53. Cee-Lo Green... Is the Soul Machine
 - [X] 52. Kanye West - The College Dropout
 - [ ] 51. Xiu Xiu - Fabulous Muscles
-- [ ] 50. The Walkmen - Bows and Arrows
+- [X] 50. The Walkmen - Bows and Arrows
 - [X] 49. Air - Talkie Walkie
 - [ ] 48. Phillip Jeck - 7
 - [ ] 47. Mu - Afro Finger & Gel

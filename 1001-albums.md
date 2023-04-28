@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 542/1083
+Current score: 544/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -187,7 +187,7 @@ Current score: 542/1083
 - [ ] 181. Carpenters - Close to You (1970)
 - [ ] 182. Stephen Stills
 - [X] 183. John Lennon - John Lennon & Plastic Ono Band
-- [ ] 184. Deja Vu (Crosby, Stills, Nash & Young, 1970)
+- [X] 184. Crosby, Stills, Nash & Young - Deja Vu (1970)
 - [X] 185. Black Sabbath - Paranoid
 - [X] 186. Neil Young - After the Gold Rush (1970)
 - [X] 187. Led Zeppelin - Led Zeppelin III
@@ -1082,7 +1082,7 @@ Current score: 542/1083
 - [ ] 1076. Thundercat - Drunk
 - [ ] 1077. Take Me Apart - Kelela (2017)
 - [ ] 1078. Sza - Ctrl
-- [ ] 1079. Hookworms - Microshift
+- [X] 1079. Hookworms - Microshift
 - [X] 1080. Michael Kiwanuka - KIWANUKA *(new)*
 - [X] 1081. Fiona Apple - Fetch the Bolt Cutters *(new)*
 - [X] 1082. Taylor Swift - evermore *(new)*
