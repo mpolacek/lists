@@ -19,7 +19,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 ## The '20s
 
 - [x] Jelly Roll Morton - The Piano Rolls
-- [ ] Ladd's Black Aces / Original Memphis Five - The Complete Ladd's Black Aces 1921-1924
+- [x] Ladd's Black Aces / Original Memphis Five - The Complete Ladd's Black Aces 1921-1924
 - [ ] Ladd's Black Aces / Original Memphis Five - Original Memphis Five: Columbias 1923-1931
 - [ ] New Orleans Rhythm Kings - New Orleans Rhythm Kings 1922-1925: The Complete Set
 - [ ] Kid Ory - Ory's Creole Trombone
