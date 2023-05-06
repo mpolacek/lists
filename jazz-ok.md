@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 8/129
+Current score: 16/129
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -20,14 +20,14 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 
 - [x] Jelly Roll Morton - The Piano Rolls
 - [x] Ladd's Black Aces / Original Memphis Five - The Complete Ladd's Black Aces 1921-1924
-- [ ] Ladd's Black Aces / Original Memphis Five - Original Memphis Five: Columbias 1923-1931
-- [ ] New Orleans Rhythm Kings - New Orleans Rhythm Kings 1922-1925: The Complete Set
-- [ ] Kid Ory - Ory's Creole Trombone
-- [ ] The Georgians - The Georgians 1922-23 / 1923-24
-- [ ] Perry Bradford - And The Blues Singers In Chronological Order
-- [ ] Armand Piron - Piron's New Orleans Orchestra
-- [ ] Original Indiana Five - The Original Indiana Five: Volume 1
-- [ ] Joe 'King' Oliver - King Oliver's Creole Jazz Band: The Complete Set
+- [x] Ladd's Black Aces / Original Memphis Five - Original Memphis Five: Columbias 1923-1931
+- [x] New Orleans Rhythm Kings - New Orleans Rhythm Kings 1922-1925: The Complete Set
+- [x] Kid Ory - Ory's Creole Trombone
+- [x] The Georgians - The Georgians 1922-23 / 1923-24
+- [x] Perry Bradford - And The Blues Singers In Chronological Order
+- [x] Armand Piron - Piron's New Orleans Orchestra
+- [x] Original Indiana Five - The Original Indiana Five: Volume 1
+- [x] Joe 'King' Oliver - King Oliver's Creole Jazz Band: The Complete Set
 - [ ] Freddie Keppard - The Complete Set 1923-26
 - [ ] Jimmy Blythe - Messin' Around Blues
 - [ ] Georgia Melodians - Georgia Melodians 1924-1926
