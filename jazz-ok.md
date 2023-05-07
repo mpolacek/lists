@@ -28,7 +28,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Armand Piron - Piron's New Orleans Orchestra
 - [x] Original Indiana Five - The Original Indiana Five: Volume 1
 - [x] Joe 'King' Oliver - King Oliver's Creole Jazz Band: The Complete Set
-- [ ] Freddie Keppard - The Complete Set 1923-26
+- [x] Freddie Keppard - The Complete Set 1923-26
 - [ ] Jimmy Blythe - Messin' Around Blues
 - [ ] Georgia Melodians - Georgia Melodians 1924-1926
 - [ ] Five Birmingham Babies - Heart Breakin' Baby
