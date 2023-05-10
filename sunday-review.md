@@ -1,9 +1,12 @@
 # Pitchfork Sunday Review
 
-Current score: 106/329
+Current score: 107/332
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 332. The Byrds - The Notorious Byrd Brothers
+- [ ] 331. Material Issue - International Pop Overthrow
+- [ ] 330. Raphael Saadiq - Instant Vintage
 - [ ] 329. Warren Zevon - Warren Zevon
 - [X] 328. Selena - Amor Prohibido
 - [ ] 327. Television Personalities - ...And Don’t the Kids Just Love It
@@ -232,7 +235,7 @@ Current score: 106/329
 - [ ] 104. Mary Margaret O’Hara - Miss America
 - [X] 103. Nirvana - Incesticide
 - [ ] 102. John Frusciante - To Record Only Water for Ten Days
-- [ ] 101. Curtis Mayfield - Super Fly
+- [X] 101. Curtis Mayfield - Super Fly
 - [X] 100. The Band - The Band
 - [X] 99. Hole - Live Through This
 - [X] 98. Raekwon - Only Built 4 Cuban Linx

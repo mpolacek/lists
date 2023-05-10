@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 544/1083
+Current score: 548/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -31,7 +31,7 @@ Current score: 544/1083
 - [ ] 25. Elvis Presley - Elvis Is Back!
 - [X] 26. Miriam Makeba - Miriam Makeba (1960)
 - [X] 27. The Everly Brothers - A Date With the Everly Brothers
-- [ ] 28. Jimmy Smith - Back at the Chicken Shack
+- [X] 28. Jimmy Smith - Back at the Chicken Shack
 - [X] 29. Muddy Waters - At Newport 1960
 - [X] 30. Bill Evans - Sunday at the Village Vanguard
 - [X] 31. Ray Charles - Modern Sounds in Country and Western Music (1962)
@@ -327,7 +327,7 @@ Current score: 544/1083
 - [X] 321. Gene Clark - No Other
 - [ ] 322. Steely Dan Pretzel Logic
 - [ ] 323. Randy Newman - Good Old Boys
-- [ ] 324. Bob Marley and the Wailers - Natty Dread
+- [X] 324. Bob Marley and the Wailers - Natty Dread
 - [ ] 325. Robert Wyatt - Rock Bottom
 - [ ] 326. Gram Parsons: Grievous Angel
 - [X] 327. Brian Eno - Another Green World (1975)
@@ -477,7 +477,7 @@ Current score: 544/1083
 - [ ] 471. The Jam - Sound Affects
 - [ ] 472. Tom Waits - Heartattack and Vine (1980)
 - [X] 473. UB40 - Signing Off
-- [ ] 474. The Teardrop Explodes - Kilimanjaro
+- [X] 474. The Teardrop Explodes - Kilimanjaro (1980)
 - [ ] 475. The Specials - More Specials (1980)
 - [X] 476. Steve Winwood - Arc of a Driver (1980)
 - [ ] 477. Pretenders - Pretenders
@@ -936,7 +936,7 @@ Current score: 544/1083
 - [ ] 930. Björk - Vespertine (2001)
 - [X] 931. Radiohead - Amnesiac
 - [ ] 932. Ryan Adams - Gold
-- [ ] 933. Gorillaz - Gorillaz
+- [X] 933. Gorillaz - Gorillaz
 - [X] 934. The Strokes - Is This It (2001)
 - [ ] 935. Destiny's Child - Survivor
 - [ ] 936. Gillian Welch - The Revelator

@@ -1,9 +1,15 @@
 # Pitchfork Best New Music
 
-Current score: 123/901
+Current score: 127/907
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 907. Nourished by Time - Erotic Probiotic 2
+- [ ] 906. Jessie Ware - That! Feels Good!
+- [ ] 905. Kara Jackson - Why Does the Earth Give Us People to Love?
+- [ ] 904. Yaeji - With a Hammer
+- [ ] 903. Wednesday - Rat Saw God
+- [ ] 902. Boygenius - The Record
 - [ ] 901. Arooj Aftab / Vijay Iyer / Shahzad Ismaily - Love in Exile
 - [ ] 900. Lana Del Rey - Did You Know That There’s a Tunnel Under Ocean Blvd
 - [ ] 899. Yves Tumor - Praise a Lord Who Chews but Which Does Not Consume; (Or Simply, Hot Between Worlds)
@@ -608,9 +614,9 @@ Current score: 123/901
 - [ ] 300. The Morning Benders - Big Echo
 - [ ] 299. Fang Island - Fang Island
 - [ ] 298. Titus Andronicus - The Monitor
-- [ ] 297. Gorillaz - Plastic Beach
+- [X] 297. Gorillaz - Plastic Beach
 - [ ] 296. Liars - Sisterworld
-- [ ] 295. Gonjasufi - A Sufi and a Killer
+- [X] 295. Gonjasufi - A Sufi and a Killer
 - [ ] 294. Joanna Newsom - Have One on Me
 - [ ] 293. Pantha Du Prince - Black Noise
 - [ ] 292. Local Natives - Gorilla Manor
@@ -653,9 +659,9 @@ Current score: 123/901
 - [X] 255. Grizzly Bear - Veckatimest
 - [ ] 254. Isis - Wavering Radiant
 - [ ] 253. St. Vincent - Actor
-- [ ] 252. Japandroids - Post-Nothing
+- [X] 252. Japandroids - Post-Nothing
 - [ ] 251. Woods - Songs of Shame
-- [ ] 250. Camera Obscura - My Maudlin Career
+- [X] 250. Camera Obscura - My Maudlin Career
 - [ ] 249. Bill Callahan - Sometimes I Wish We Were an Eagle
 - [ ] 248. Bat for Lashes - Two Suns
 - [ ] 247. Fever Ray - Fever Ray
