@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 16/129
+Current score: 20/129
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -29,10 +29,10 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Original Indiana Five - The Original Indiana Five: Volume 1
 - [x] Joe 'King' Oliver - King Oliver's Creole Jazz Band: The Complete Set
 - [x] Freddie Keppard - The Complete Set 1923-26
-- [ ] Jimmy Blythe - Messin' Around Blues
-- [ ] Georgia Melodians - Georgia Melodians 1924-1926
-- [ ] Five Birmingham Babies - Heart Breakin' Baby
-- [ ] Lovie Austin - Lovie Austin 1924-1926
+- [x] Jimmy Blythe - Messin' Around Blues
+- [x] Georgia Melodians - Georgia Melodians 1924-1926
+- [x] Five Birmingham Babies - Heart Breakin' Baby
+- [x] Lovie Austin - Lovie Austin 1924-1926
 - [ ] Red Nichols - The Red Heads Complete 1925-1927
 - [ ] Willie 'The Lion' Smith - Willie 'The Lion' Smith 1925-1937
 - [ ] Fletcher Henderson - The Harmony & Vocalion Sessions: Volumes 1 & 2
