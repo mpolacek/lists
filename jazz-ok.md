@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 24/129
+Current score: 28/129
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -33,12 +33,12 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Georgia Melodians - Georgia Melodians 1924-1926
 - [x] Five Birmingham Babies - Heart Breakin' Baby
 - [x] Lovie Austin - Lovie Austin 1924-1926
-- [ ] Red Nichols - The Red Heads Complete 1925-1927
+- [x] Red Nichols - The Red Heads Complete 1925-1927
 - [x] Willie 'The Lion' Smith - Willie 'The Lion' Smith 1925-1937
 - [x] Fletcher Henderson - The Harmony & Vocalion Sessions: Volumes 1 & 2
 - [x] Louis Armstrong - Complete Hot Five and Hot Seven Recordins: Volumes 1-3
 - [x] Oscar 'Papa' Celestin / Sam Morgan - Papa Celestin & Sam Morgan
-- [ ] Eddie Lang - The Quintessential Eddie Lang 1925-1932
+- [x] Eddie Lang - The Quintessential Eddie Lang 1925-1932
 - [ ] Johnny Dodds - Johnny Dodds 1926
 - [ ] Jelly Roll Morton - Jelly Roll Morton 1926-1928
 - [ ] Tiny Parham - Tiny Parham 1926-1929
