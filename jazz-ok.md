@@ -34,10 +34,10 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Five Birmingham Babies - Heart Breakin' Baby
 - [x] Lovie Austin - Lovie Austin 1924-1926
 - [ ] Red Nichols - The Red Heads Complete 1925-1927
-- [ ] Willie 'The Lion' Smith - Willie 'The Lion' Smith 1925-1937
-- [ ] Fletcher Henderson - The Harmony & Vocalion Sessions: Volumes 1 & 2
-- [ ] Louis Armstrong - Complete Hot Five and Hot Seven Recordins: Volumes 1-3
-- [ ] Oscar 'Papa' Celestin / Sam Morgan - Papa Celestin & Sam Morgan
+- [x] Willie 'The Lion' Smith - Willie 'The Lion' Smith 1925-1937
+- [x] Fletcher Henderson - The Harmony & Vocalion Sessions: Volumes 1 & 2
+- [x] Louis Armstrong - Complete Hot Five and Hot Seven Recordins: Volumes 1-3
+- [x] Oscar 'Papa' Celestin / Sam Morgan - Papa Celestin & Sam Morgan
 - [ ] Eddie Lang - The Quintessential Eddie Lang 1925-1932
 - [ ] Johnny Dodds - Johnny Dodds 1926
 - [ ] Jelly Roll Morton - Jelly Roll Morton 1926-1928
