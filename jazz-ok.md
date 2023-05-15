@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 28/129
+Current score: 32/129
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -39,9 +39,9 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Louis Armstrong - Complete Hot Five and Hot Seven Recordins: Volumes 1-3
 - [x] Oscar 'Papa' Celestin / Sam Morgan - Papa Celestin & Sam Morgan
 - [x] Eddie Lang - The Quintessential Eddie Lang 1925-1932
-- [ ] Johnny Dodds - Johnny Dodds 1926
-- [ ] Jelly Roll Morton - Jelly Roll Morton 1926-1928
-- [ ] Tiny Parham - Tiny Parham 1926-1929
+- [x] Johnny Dodds - Johnny Dodds 1926
+- [x] Jelly Roll Morton - Jelly Roll Morton 1926-1928
+- [x] Tiny Parham - Tiny Parham 1926-1929
 - [ ] Bix Beiderbecke - At The Jazz Band Ball
 - [ ] Frankie Trumbauer - Frankie Trumbauer 1927-1928
 - [ ] Duke Ellington - Duke Ellington 1927-1929
