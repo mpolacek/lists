@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 35/129
+Current score: 37/129
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -46,8 +46,8 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Frankie Trumbauer - Frankie Trumbauer 1927-1928
 - [x] Duke Ellington - Duke Ellington 1927-1929
 - [x] Miff Mole - Slippin' Around
-- [ ] Eddie Condon - Eddie Condon 1927-1938
-- [ ] Meade 'Lux' Lewis - Meade 'Lux' Lewis 1927-1939
+- [x] Eddie Condon - Eddie Condon 1927-1938
+- [x] Meade 'Lux' Lewis - Meade 'Lux' Lewis 1927-1939
 - [ ] Dicky Wells - Dicky Wells 1927-1943
 - [ ] Johnny Hodges - Classic Solos 1928-1942
 - [ ] McKinney's Cotton Pickers - Put It There / Cotton Picker's Scat
