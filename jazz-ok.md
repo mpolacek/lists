@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 37/129
+Current score: 40/129
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -48,9 +48,9 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Miff Mole - Slippin' Around
 - [x] Eddie Condon - Eddie Condon 1927-1938
 - [x] Meade 'Lux' Lewis - Meade 'Lux' Lewis 1927-1939
-- [ ] Dicky Wells - Dicky Wells 1927-1943
-- [ ] Johnny Hodges - Classic Solos 1928-1942
-- [ ] McKinney's Cotton Pickers - Put It There / Cotton Picker's Scat
+- [x] Dicky Wells - Dicky Wells 1927-1943
+- [x] Johnny Hodges - Classic Solos 1928-1942
+- [x] McKinney's Cotton Pickers - Put It There / Cotton Picker's Scat
 - [ ] Earl Hines - Earl Hines Collection: Piano Solos 1928-1940
 - [ ] Jimmie Noone - Jimmie Noone 1928-1929
 - [ ] Jabbo Smith - Jabbo Smith 1929-1938
