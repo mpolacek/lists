@@ -51,10 +51,10 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Dicky Wells - Dicky Wells 1927-1943
 - [x] Johnny Hodges - Classic Solos 1928-1942
 - [x] McKinney's Cotton Pickers - Put It There / Cotton Picker's Scat
-- [ ] Earl Hines - Earl Hines Collection: Piano Solos 1928-1940
-- [ ] Jimmie Noone - Jimmie Noone 1928-1929
-- [ ] Jabbo Smith - Jabbo Smith 1929-1938
-- [ ] Bennie Moten - Band Box Shuffle 1929-1932
+- [x] Earl Hines - Earl Hines Collection: Piano Solos 1928-1940
+- [x] Jimmie Noone - Jimmie Noone 1928-1929
+- [x] Jabbo Smith - Jabbo Smith 1929-1938
+- [x] Bennie Moten - Band Box Shuffle 1929-1932
 - [ ] Luis Russell - The Luis Russell Story
 - [ ] Henry 'Red' Allen - Henry 'Red' Allen & His Orchestra 1929-1933
 - [ ] Coleman Hawkins - Coleman Hawkins 1929-1934
