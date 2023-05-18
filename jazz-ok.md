@@ -55,9 +55,9 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Jimmie Noone - Jimmie Noone 1928-1929
 - [x] Jabbo Smith - Jabbo Smith 1929-1938
 - [x] Bennie Moten - Band Box Shuffle 1929-1932
-- [ ] Luis Russell - The Luis Russell Story
-- [ ] Henry 'Red' Allen - Henry 'Red' Allen & His Orchestra 1929-1933
-- [ ] Coleman Hawkins - Coleman Hawkins 1929-1934
+- [x] Luis Russell - The Luis Russell Story
+- [x] Henry 'Red' Allen - Henry 'Red' Allen & His Orchestra 1929-1933
+- [x] Coleman Hawkins - Coleman Hawkins 1929-1934
 
 ## The '30s
 
