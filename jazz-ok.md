@@ -61,7 +61,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 
 ## The '30s
 
-- [ ] Jimmie Lunceford - Jimmie Lunceford 1930-1934
+- [x] Jimmie Lunceford - Jimmie Lunceford 1930-1934
 - [ ] Cab Calloway - The Early Years 1930-1934
 - [ ] Joe Venuti - Joe Venuti 1930-1933
 - [ ] Cas Loma Orchestra - Casa Loma Stomp / Maniac's Ball
