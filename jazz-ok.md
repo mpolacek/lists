@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 47/129
+Current score: 52/129
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -62,10 +62,10 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 ## The '30s
 
 - [x] Jimmie Lunceford - Jimmie Lunceford 1930-1934
-- [ ] Cab Calloway - The Early Years 1930-1934
-- [ ] Joe Venuti - Joe Venuti 1930-1933
-- [ ] Cas Loma Orchestra - Casa Loma Stomp / Maniac's Ball
-- [ ] Don Redman - Shakin' The African
+- [x] Cab Calloway - The Early Years 1930-1934
+- [x] Joe Venuti - Joe Venuti 1930-1933
+- [x] Cas Loma Orchestra - Casa Loma Stomp / Maniac's Ball
+- [x] Don Redman - Shakin' The African
 - [X] Art Tatum - Art Tatum 1932-1934 (1934)
 - [ ] Nat Gonella - Nat Gonella And His Georgians
 - [ ] Chick Webb - Rhythm Man / Strictly Jive
