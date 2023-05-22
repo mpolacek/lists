@@ -67,10 +67,10 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Cas Loma Orchestra - Casa Loma Stomp / Maniac's Ball
 - [x] Don Redman - Shakin' The African
 - [X] Art Tatum - Art Tatum 1932-1934 (1934)
-- [ ] Nat Gonella - Nat Gonella And His Georgians
-- [ ] Chick Webb - Rhythm Man / Strictly Jive
-- [ ] Jack Teagarden - I Gotta Right To Sing The Blues
-- [ ] Mills Blue Rhythm Band - Blue Rhythm
+- [x] Nat Gonella - Nat Gonella And His Georgians
+- [x] Chick Webb - Rhythm Man / Strictly Jive
+- [x] Jack Teagarden - I Gotta Right To Sing The Blues
+- [x] Mills Blue Rhythm Band - Blue Rhythm
 - [ ] Benny Carter - Benny Carter 1933-1936
 - [ ] The Spirits of Rhythm - The Spirits of Rhythm 1933-1945
 - [ ] Wingy Manone - Wingy Manone 1934-1935
