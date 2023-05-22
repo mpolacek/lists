@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 548/1083
+Current score: 553/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -214,7 +214,7 @@ Current score: 548/1083
 - [X] 208. Marvin Gaye - What's Going On
 - [ ] 209. Bee Gees - Trafalgar (1971)
 - [ ] 210. The Yes Album - Yes
-- [ ] 211. The Who - Who's Next (1971)
+- [X] 211. The Who - Who's Next (1971)
 - [X] 212. Carole King - Tapestry
 - [X] 213. Isaac Hayes - Shaft: Music From the Soundtrack
 - [X] 214. The Allman Brothers Band - At Fillmore East (1971)
@@ -423,7 +423,7 @@ Current score: 548/1083
 - [ ] 417. The Cars (The Cars, 1979)
 - [ ] 418. Q: Are We Not Men? A: We Are Devo! (Devo, 1978)
 - [X] 419. Dire Straits - Dire Straits (1978)
-- [ ] 420. The Saints - Eternally Yours (1978)
+- [X] 420. The Saints - Eternally Yours (1978)
 - [X] 421. Marvin Gaye - Here, My Dear
 - [X] 422. Willie Nelson - Stardust
 - [X] 423. Chic - C'est Chic
@@ -516,7 +516,7 @@ Current score: 548/1083
 - [ ] 510. Venom - Black Metal
 - [X] 511. Bruce Springsteen - Nebraska
 - [ ] 512. Associates - Sulk (1982)
-- [ ] 513. Iron Maiden - The Number of the Beast
+- [X] 513. Iron Maiden - The Number of the Beast
 - [ ] 514. Duran Duran - Rio
 - [ ] 515. Violent Femmes - Violent Femmes
 - [X] 516. Malcolm Mclaren - Duck Rock
@@ -697,7 +697,7 @@ Current score: 548/1083
 - [ ] 691. MC Solar - Qui Seme Le Vent Recolte Le Tempo
 - [ ] 692. Jah Wobble - Rising Above Bedlam
 - [ ] 693. Red Hot Chili Peppers - Blood Sugar Sex Magik
-- [ ] 694. O.G. Original Gangster (1991) - Ice T
+- [X] 694. ICE T - O.G. Original Gangster (1991)
 - [X] 695. Mudhoney - Every Good Boy Deserves Fudge
 - [ ] 696. Public Enemy - Apocalypse 91 Enemy Strikes Back
 - [X] 697. A Tribe Called Quest - The Low End Theory
@@ -954,7 +954,7 @@ Current score: 548/1083
 - [ ] 948. Christina Aguilera - Stripped
 - [X] 949. Coldplay - A Rush of Blood to the Head
 - [ ] 950. Ms Dynamite a Little Deeper
-- [ ] 951. Norah Jones - Come Away With Me
+- [X] 951. Norah Jones - Come Away With Me
 - [ ] 952. The Flaming Lips - Yoshimi Battles the Pink Robots (2002)
 - [ ] 953. Johnny Cash - American IV: The Man Comes Around
 - [ ] 954. Doves - The Last Broadcast

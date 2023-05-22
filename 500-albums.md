@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 278/500
+Current score: 279/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -80,7 +80,7 @@ Current score: 278/500
 - [X] 74. Kanye West - The College Dropout
 - [X] 75. Aretha Franklin - Lady Soul (1968)
 - [X] 76. Curtis Mayfield - Superfly (1972)
-- [ ] 77. The Who - Who's Next
+- [X] 77. The Who - Who's Next
 - [ ] 78. Elvis Presley - The Sun Sessions
 - [X] 79. Frank Ocean - Blonde
 - [X] 80. Sex Pistols - Never Mind the Bollocks (1977)

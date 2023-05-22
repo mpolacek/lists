@@ -1,9 +1,11 @@
 # Pitchfork Best New Music
 
-Current score: 127/907
+Current score: 127/909
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 909. Mandy, Indiana - i’ve seen a way
+- [ ] 908. billy woods / Kenny Segal - Maps
 - [ ] 907. Nourished by Time - Erotic Probiotic 2
 - [ ] 906. Jessie Ware - That! Feels Good!
 - [ ] 905. Kara Jackson - Why Does the Earth Give Us People to Love?
