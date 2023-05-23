@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 58/129
+Current score: 60/129
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -73,8 +73,8 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Mills Blue Rhythm Band - Blue Rhythm
 - [x] Benny Carter - Benny Carter 1933-1936
 - [x] The Spirits of Rhythm - The Spirits of Rhythm 1933-1945
-- [ ] Wingy Manone - Wingy Manone 1934-1935
-- [ ] Tiny Bradshaw - Breakin' Up The House
+- [x] Wingy Manone - Wingy Manone 1934-1935
+- [x] Tiny Bradshaw - Breakin' Up The House
 - [X] Django Reinhardt - Django Reinhardt 1935-1936 (1936)
 - [ ] Benny Goodman - The Complete Small Group Sessions
 - [ ] Fats Waller - Fats Waller 1934-1935
