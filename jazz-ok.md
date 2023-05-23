@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 56/129
+Current score: 58/129
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -71,8 +71,8 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Chick Webb - Rhythm Man / Strictly Jive
 - [x] Jack Teagarden - I Gotta Right To Sing The Blues
 - [x] Mills Blue Rhythm Band - Blue Rhythm
-- [ ] Benny Carter - Benny Carter 1933-1936
-- [ ] The Spirits of Rhythm - The Spirits of Rhythm 1933-1945
+- [x] Benny Carter - Benny Carter 1933-1936
+- [x] The Spirits of Rhythm - The Spirits of Rhythm 1933-1945
 - [ ] Wingy Manone - Wingy Manone 1934-1935
 - [ ] Tiny Bradshaw - Breakin' Up The House
 - [X] Django Reinhardt - Django Reinhardt 1935-1936 (1936)
