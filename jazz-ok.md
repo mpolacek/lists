@@ -76,8 +76,8 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Wingy Manone - Wingy Manone 1934-1935
 - [x] Tiny Bradshaw - Breakin' Up The House
 - [X] Django Reinhardt - Django Reinhardt 1935-1936 (1936)
-- [ ] Benny Goodman - The Complete Small Group Sessions
-- [ ] Fats Waller - Fats Waller 1934-1935
+- [x] Benny Goodman - The Complete Small Group Sessions
+- [x] Fats Waller - Fats Waller 1934-1935
 - [ ] Jess Stacy - Ec-Stacy
 - [ ] Tommy Dorsey - The Best of Tommy Dorsey and his Clambake Seven 1936-1938
 - [ ] Joe Marsala - Joe Marsala 1936-1942
