@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 65/129
+Current score: 70/129
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -81,11 +81,11 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Jess Stacy - Ec-Stacy
 - [x] Tommy Dorsey - The Best of Tommy Dorsey and his Clambake Seven 1936-1938
 - [x] Joe Marsala - Joe Marsala 1936-1942
-- [ ] Andy Kirk - Andy Kirk 1936-1937
-- [ ] Roy Eldridge - The Big Sound of Little Jazz
-- [ ] Billie Holiday - The Billie Holiday Collection: Volume 2
-- [ ] Jimmy Dorsey - Amapola
-- [ ] Teddy Wilson - Teddy Wilson: Volume 1 - Too Hot For Words
+- [x] Andy Kirk - Andy Kirk 1936-1937
+- [x] Roy Eldridge - The Big Sound of Little Jazz
+- [x] Billie Holiday - The Billie Holiday Collection: Volume 2
+- [x] Jimmy Dorsey - Amapola
+- [x] Teddy Wilson - Teddy Wilson: Volume 1 - Too Hot For Words
 - [ ] Edmond Hall - Edmond Hall 1936-1944
 - [ ] Count Basie - The Original Decca Recordings
 - [ ] Eddie South - Eddie South 1937-1941
