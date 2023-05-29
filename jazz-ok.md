@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 62/129
+Current score: 65/129
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -78,9 +78,9 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [X] Django Reinhardt - Django Reinhardt 1935-1936 (1936)
 - [x] Benny Goodman - The Complete Small Group Sessions
 - [x] Fats Waller - Fats Waller 1934-1935
-- [ ] Jess Stacy - Ec-Stacy
-- [ ] Tommy Dorsey - The Best of Tommy Dorsey and his Clambake Seven 1936-1938
-- [ ] Joe Marsala - Joe Marsala 1936-1942
+- [x] Jess Stacy - Ec-Stacy
+- [x] Tommy Dorsey - The Best of Tommy Dorsey and his Clambake Seven 1936-1938
+- [x] Joe Marsala - Joe Marsala 1936-1942
 - [ ] Andy Kirk - Andy Kirk 1936-1937
 - [ ] Roy Eldridge - The Big Sound of Little Jazz
 - [ ] Billie Holiday - The Billie Holiday Collection: Volume 2
