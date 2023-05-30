@@ -86,8 +86,8 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Billie Holiday - The Billie Holiday Collection: Volume 2
 - [x] Jimmy Dorsey - Amapola
 - [x] Teddy Wilson - Teddy Wilson: Volume 1 - Too Hot For Words
-- [ ] Edmond Hall - Edmond Hall 1936-1944
-- [ ] Count Basie - The Original Decca Recordings
+- [x] Edmond Hall - Edmond Hall 1936-1944
+- [x] Count Basie - The Original Decca Recordings
 - [ ] Eddie South - Eddie South 1937-1941
 - [ ] Lionel Hampton - Lionel Hampton 1937-1938
 - [ ] Claude Hopkins - Claude Hopkins 1932-1934
