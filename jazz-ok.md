@@ -88,11 +88,11 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Teddy Wilson - Teddy Wilson: Volume 1 - Too Hot For Words
 - [x] Edmond Hall - Edmond Hall 1936-1944
 - [x] Count Basie - The Original Decca Recordings
-- [ ] Eddie South - Eddie South 1937-1941
-- [ ] Lionel Hampton - Lionel Hampton 1937-1938
-- [ ] Claude Hopkins - Claude Hopkins 1932-1934
-- [ ] Duke Ellington - Duke Ellington 1937-1938
-- [ ] Benny Goodman - At Carnegie Hall 1938
+- [x] Eddie South - Eddie South 1937-1941
+- [x] Lionel Hampton - Lionel Hampton 1937-1938
+- [x] Claude Hopkins - Claude Hopkins 1932-1934
+- [x] Duke Ellington - Duke Ellington 1937-1938
+- [x] Benny Goodman - At Carnegie Hall 1938
 - [ ] Chu Berry - Chu Berry 1937-1941
 - [ ] Avery 'Kid' Howard - Prelude to the Revival: Volume 1
 - [ ] Edgar Hayes - Edgar Hayes 1937-1938
