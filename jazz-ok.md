@@ -93,9 +93,9 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Claude Hopkins - Claude Hopkins 1932-1934
 - [x] Duke Ellington - Duke Ellington 1937-1938
 - [x] Benny Goodman - At Carnegie Hall 1938
-- [ ] Chu Berry - Chu Berry 1937-1941
-- [ ] Avery 'Kid' Howard - Prelude to the Revival: Volume 1
-- [ ] Edgar Hayes - Edgar Hayes 1937-1938
+- [x] Chu Berry - Chu Berry 1937-1941
+- [x] Avery 'Kid' Howard - Prelude to the Revival: Volume 1
+- [x] Edgar Hayes - Edgar Hayes 1937-1938
 - [ ] Bunny Berigan - Bunny Berigan 1937
 - [ ] Harry James - Harry James 1937-1939
 - [ ] Dizzy Gillespie - The Complete RCA Victor Recordings
