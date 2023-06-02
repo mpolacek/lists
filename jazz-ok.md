@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 80/129
+Current score: 85/129
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -96,11 +96,11 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Chu Berry - Chu Berry 1937-1941
 - [x] Avery 'Kid' Howard - Prelude to the Revival: Volume 1
 - [x] Edgar Hayes - Edgar Hayes 1937-1938
-- [ ] Bunny Berigan - Bunny Berigan 1937
-- [ ] Harry James - Harry James 1937-1939
-- [ ] Dizzy Gillespie - The Complete RCA Victor Recordings
-- [ ] George Chrisholm - Early Days 1935-1944
-- [ ] Bobby Hackett - Bobby Hackett 1938-1940
+- [x] Bunny Berigan - Bunny Berigan 1937
+- [x] Harry James - Harry James 1937-1939
+- [x] Dizzy Gillespie - The Complete RCA Victor Recordings
+- [x] George Chrisholm - Early Days 1935-1944
+- [x] Bobby Hackett - Bobby Hackett 1938-1940
 - [ ] Savoy Sultans - Al Cooper's Savoy Sultans 1938-1941
 - [ ] Ziggy Elman - Ziggy Elman 1938-1939
 - [ ] Pete Johnson - Pete Johnson 1938-1939
