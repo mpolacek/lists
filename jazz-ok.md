@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 88/129
+Current score: 91/129
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -104,9 +104,9 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Savoy Sultans - Al Cooper's Savoy Sultans 1938-1941
 - [x] Ziggy Elman - Ziggy Elman 1938-1939
 - [x] Pete Johnson - Pete Johnson 1938-1939
-- [ ] Gene Krupa - Gene Krupa 1939-1940
-- [ ] Muggsy Spanier - Muggsy Spanier 1939-1942
-- [ ] Coleman Hawkins - Coleman Hawkins 1939-1940
+- [x] Gene Krupa - Gene Krupa 1939-1940
+- [x] Muggsy Spanier - Muggsy Spanier 1939-1942
+- [x] Coleman Hawkins - Coleman Hawkins 1939-1940
 - [ ] Bud Freeman - Bud Freeman 1939-1940
 - [ ] Artie Shaw - Artie Shaw 1939
 - [ ] Charlie Christian - The Genius of the Electric Guitar
