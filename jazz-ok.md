@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 85/129
+Current score: 88/129
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -101,9 +101,9 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Dizzy Gillespie - The Complete RCA Victor Recordings
 - [x] George Chrisholm - Early Days 1935-1944
 - [x] Bobby Hackett - Bobby Hackett 1938-1940
-- [ ] Savoy Sultans - Al Cooper's Savoy Sultans 1938-1941
-- [ ] Ziggy Elman - Ziggy Elman 1938-1939
-- [ ] Pete Johnson - Pete Johnson 1938-1939
+- [x] Savoy Sultans - Al Cooper's Savoy Sultans 1938-1941
+- [x] Ziggy Elman - Ziggy Elman 1938-1939
+- [x] Pete Johnson - Pete Johnson 1938-1939
 - [ ] Gene Krupa - Gene Krupa 1939-1940
 - [ ] Muggsy Spanier - Muggsy Spanier 1939-1942
 - [ ] Coleman Hawkins - Coleman Hawkins 1939-1940
