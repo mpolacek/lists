@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 94/129
+Current score: 99/129
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -110,11 +110,11 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Bud Freeman - Bud Freeman 1939-1940
 - [x] Artie Shaw - Artie Shaw 1939
 - [x] Charlie Christian - The Genius of the Electric Guitar
-- [ ] Woody Herman - Woody Herman 1939
-- [ ] John Kirby - John Kirby 1939-1941
-- [ ] Harlan Leonard - Harlan Leonard and his Rockets 1940
-- [ ] Sidney Bechet - Sidney Bechet 1940-1941
-- [ ] Claude Thornhill - Snowfall
+- [x] Woody Herman - Woody Herman 1939
+- [x] John Kirby - John Kirby 1939-1941
+- [x] Harlan Leonard - Harlan Leonard and his Rockets 1940
+- [x] Sidney Bechet - Sidney Bechet 1940-1941
+- [x] Claude Thornhill - Snowfall
 - [ ] Duke Ellington - Never No Lament
 - [ ] Duke Ellington - The Duke at Fargo
 
