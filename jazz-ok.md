@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 91/129
+Current score: 94/129
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -107,9 +107,9 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Gene Krupa - Gene Krupa 1939-1940
 - [x] Muggsy Spanier - Muggsy Spanier 1939-1942
 - [x] Coleman Hawkins - Coleman Hawkins 1939-1940
-- [ ] Bud Freeman - Bud Freeman 1939-1940
-- [ ] Artie Shaw - Artie Shaw 1939
-- [ ] Charlie Christian - The Genius of the Electric Guitar
+- [x] Bud Freeman - Bud Freeman 1939-1940
+- [x] Artie Shaw - Artie Shaw 1939
+- [x] Charlie Christian - The Genius of the Electric Guitar
 - [ ] Woody Herman - Woody Herman 1939
 - [ ] John Kirby - John Kirby 1939-1941
 - [ ] Harlan Leonard - Harlan Leonard and his Rockets 1940
