@@ -1,6 +1,6 @@
 # Pitchfork Best New Music
 
-Current score: 127/909
+Current score: 128/909
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -280,7 +280,7 @@ Current score: 127/909
 - [ ] 636. Jay Som - Everybody Works
 - [ ] 635. Vagabon - Infinite Worlds
 - [ ] 634. Power Trip - Nightmare Logic
-- [ ] 633. Thundercat - Drunk
+- [X] 633. Thundercat - Drunk
 - [ ] 632. Visible Cloaks - Reassemblage
 - [ ] 631. Julie Byrne - Not Even Happiness
 - [ ] 630. Sampha - Process

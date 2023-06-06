@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 553/1083
+Current score: 554/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -1079,7 +1079,7 @@ Current score: 553/1083
 - [X] 1073. Jane Weaver - Modern Kosmology
 - [ ] 1074. LCD Soundsystem - American Dream
 - [X] 1075. Lorde - Melodrama (2017)
-- [ ] 1076. Thundercat - Drunk
+- [X] 1076. Thundercat - Drunk
 - [ ] 1077. Take Me Apart - Kelela (2017)
 - [ ] 1078. Sza - Ctrl
 - [X] 1079. Hookworms - Microshift

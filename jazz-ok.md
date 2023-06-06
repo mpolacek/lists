@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 99/129
+Current score: 101/149
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -120,6 +120,26 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 
 ## The '40s
 
+- [ ] Hot Lips Page - Hot Lips Page 1940-1944
+- [ ] Rex Stewart - Rex Stewart and the Ellingtonians
+- [ ] Lester Young - The Complete Aladdin Sessions
+- [ ] Lucky Millinder - Lucky Millinder 1943-47
+- [ ] George Lewis - George Lewis & His New Orleans Stompers: Vol 1 & 2
+- [ ] Stuff Smith - The Stuff Smith Trio 1943
+- [ ] Mildred Bailey - Mildred Bailey 1943-45
+- [ ] Count Basie - The Jubilee Alternatives
+- [ ] Art Hodes - The Jazz Record Story
+- [ ] Duke Ellington - Black, Brown and Beige
+- [ ] Nat Cole - Nat King Cole 1943-44
+- [ ] Jazz at the Philharmonic - Best of the 1940s Concerts
+- [ ] Tiny Grimes - Tiny Grimes 1944-49
+- [ ] Erroll Garner - Erroll Garner 1944-45
+- [ ] Don Byas - Don Byas 1944-45
+- [ ] Sid Catlett - Sid Catlett 1944-46
+- [ ] Charlie Parker - The Complete Savoy and Dial Studio Recordings
+- [ ] Trummy Young - Trummy Young 1944-46
+- [ ] Sidney Bechet - King Jazz: Volume 1
+- [ ] Bunk Johnson - Bunk's Brass Band And Dance Band 1945
 - [ ] Miles Davis - The Complete Birth Of The Cool (1948-50)
 
 ## The '50s
