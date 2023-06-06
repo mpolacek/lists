@@ -1,9 +1,15 @@
 # Pitchfork Sunday Review
 
-Current score: 107/332
+Current score: 107/338
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 338. Coil - Horse Rotorvator
+- [ ] 337. Sheryl Crow - Sheryl Crow
+- [ ] 336. Nine Inch Nails - Broken EP
+- [ ] 335. the Dead C - Harsh 70s Reality
+- [ ] 334. Beanie Sigel - The Truth
+- [ ] 333. Ryan Leslie - Ryan Leslie
 - [ ] 332. The Byrds - The Notorious Byrd Brothers
 - [ ] 331. Material Issue - International Pop Overthrow
 - [ ] 330. Raphael Saadiq - Instant Vintage

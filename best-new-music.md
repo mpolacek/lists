@@ -1,9 +1,10 @@
 # Pitchfork Best New Music
 
-Current score: 128/909
+Current score: 129/910
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [X] 910. Water From Your Eyes - Everyone’s Crushed
 - [ ] 909. Mandy, Indiana - i’ve seen a way
 - [ ] 908. billy woods / Kenny Segal - Maps
 - [ ] 907. Nourished by Time - Erotic Probiotic 2
