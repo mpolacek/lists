@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 104/149
+Current score: 10ř/149
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -121,7 +121,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 ## The '40s
 
 - [x] Hot Lips Page - Hot Lips Page 1940-1944
-- [ ] Rex Stewart - Rex Stewart and the Ellingtonians
+- [x] Rex Stewart - Rex Stewart and the Ellingtonians
 - [ ] Lester Young - The Complete Aladdin Sessions
 - [ ] Lucky Millinder - Lucky Millinder 1943-47
 - [ ] George Lewis - George Lewis & His New Orleans Stompers: Vol 1 & 2
