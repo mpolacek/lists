@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 101/149
+Current score: 104/149
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -115,12 +115,12 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Harlan Leonard - Harlan Leonard and his Rockets 1940
 - [x] Sidney Bechet - Sidney Bechet 1940-1941
 - [x] Claude Thornhill - Snowfall
-- [ ] Duke Ellington - Never No Lament
-- [ ] Duke Ellington - The Duke at Fargo
+- [x] Duke Ellington - Never No Lament
+- [x] Duke Ellington - The Duke at Fargo
 
 ## The '40s
 
-- [ ] Hot Lips Page - Hot Lips Page 1940-1944
+- [x] Hot Lips Page - Hot Lips Page 1940-1944
 - [ ] Rex Stewart - Rex Stewart and the Ellingtonians
 - [ ] Lester Young - The Complete Aladdin Sessions
 - [ ] Lucky Millinder - Lucky Millinder 1943-47
