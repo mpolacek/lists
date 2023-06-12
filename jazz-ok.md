@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 108/149
+Current score: 110/149
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -125,8 +125,8 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Lester Young - The Complete Aladdin Sessions
 - [x] Lucky Millinder - Lucky Millinder 1943-47
 - [x] George Lewis - George Lewis & His New Orleans Stompers: Vol 1 & 2
-- [ ] Stuff Smith - The Stuff Smith Trio 1943
-- [ ] Mildred Bailey - Mildred Bailey 1943-45
+- [x] Stuff Smith - The Stuff Smith Trio 1943
+- [x] Mildred Bailey - Mildred Bailey 1943-45
 - [ ] Count Basie - The Jubilee Alternatives
 - [ ] Art Hodes - The Jazz Record Story
 - [ ] Duke Ellington - Black, Brown and Beige
