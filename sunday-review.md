@@ -1,9 +1,10 @@
 # Pitchfork Sunday Review
 
-Current score: 107/338
+Current score: 107/339
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 339. Labi Siffre - Crying Laughing Loving Lying
 - [ ] 338. Coil - Horse Rotorvator
 - [ ] 337. Sheryl Crow - Sheryl Crow
 - [ ] 336. Nine Inch Nails - Broken EP

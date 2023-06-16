@@ -1,9 +1,11 @@
 # Pitchfork Best New Music
 
-Current score: 129/910
+Current score: 129/912
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 912. Youth Lagoon - Heaven Is a Junkyard
+- [ ] 911. Amaarae - Fountain Baby
 - [X] 910. Water From Your Eyes - Everyone’s Crushed
 - [ ] 909. Mandy, Indiana - i’ve seen a way
 - [ ] 908. billy woods / Kenny Segal - Maps

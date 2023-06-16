@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 279/500
+Current score: 282/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -72,7 +72,7 @@ Current score: 279/500
 - [X] 66. John Coltrane - A Love Supreme
 - [X] 67. Jay-Z - Reasonable Doubt
 - [X] 68. Kate Bush - Hounds of Love (1985)
-- [ ] 69. Alanis Morrisette - Jagged Little Pill (1995)
+- [X] 69. Alanis Morrisette - Jagged Little Pill (1995)
 - [X] 70. N.W.A. - Straight Outta Compton
 - [X] 71. Bob Marley and the Wailers - Exodus
 - [X] 72. Neil Young - Harvest (1972)
@@ -243,7 +243,7 @@ Current score: 279/500
 - [ ] 237. Willie Nelson- Red Headed Stranger
 - [X] 238. Kraftwerk - Trans-Europe Express
 - [ ] 239. Boogie Down Productions - Criminal Minded
-- [ ] 240. Sam Cooke - Live at the Harlem Square Club, 1963
+- [X] 240. Sam Cooke - Live at the Harlem Square Club, 1963
 - [X] 241. Massive Attack - Blue Lines (1991)
 - [X] 242. The Velvet Underground - Loaded
 - [X] 243. The Zombies - Odessey and Oracle
@@ -393,7 +393,7 @@ Current score: 279/500
 - [X] 387. Radiohead - In Rainbows (2007)
 - [ ] 388. Aretha Franklin - Young, Gifted & Black
 - [ ] 389. Mariah Carey - The Emancipation of Mimi
-- [ ] 390. Pixies - Surfer Rosa
+- [X] 390. Pixies - Surfer Rosa
 - [ ] 391. Kelis-Kaleidoscope
 - [ ] 392. Ike Turner & Tina Turner - Proud Mary: The Best Of..
 - [ ] 393. 1989 - Taylor Swift

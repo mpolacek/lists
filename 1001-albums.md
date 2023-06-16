@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 554/1083
+Current score: 565/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -28,7 +28,7 @@ Current score: 554/1083
 - [ ] 22. Marty Robbins - Gunfighter Ballads and Trail Songs (1959)
 - [X] 23. The Dave Brubeck Quartet - Time Out (1959)
 - [X] 24. Joan Baez - Joan Baez (1960)
-- [ ] 25. Elvis Presley - Elvis Is Back!
+- [X] 25. Elvis Presley - Elvis Is Back!
 - [X] 26. Miriam Makeba - Miriam Makeba (1960)
 - [X] 27. The Everly Brothers - A Date With the Everly Brothers
 - [X] 28. Jimmy Smith - Back at the Chicken Shack
@@ -41,7 +41,7 @@ Current score: 554/1083
 - [X] 35. The Beatles - With the Beatles
 - [ ] 36. Bob Dylan - The Freewheelin' Bob Dylan (1963)
 - [ ] 37. Phil Spector - A Christmas Gift for You
-- [ ] 38. Sam Cooke - Live at the Harlem Square Club
+- [X] 38. Sam Cooke - Live at the Harlem Square Club
 - [X] 39. Charles Mingus - The Black Saint and the Sinner Lady
 - [X] 40. James Brown - Live at the Apollo (1963)
 - [X] 41. Stan Getz & Joao Gilberto - Getz/Gilberto
@@ -393,7 +393,7 @@ Current score: 554/1083
 - [ ] 387. The Idiot (Iggy Pop, 1977)
 - [ ] 388. Peter Gabriel - Peter Gabriel
 - [X] 389. Television - Marquee Moon (1977)
-- [ ] 390. Meat Loaf - Bat Out of Hell
+- [X] 390. Meat Loaf - Bat Out of Hell
 - [ ] 391. Elvis Costello - My Aim Is True
 - [X] 392. Iggy Pop - Lust for Life (1977)
 - [X] 393. Ian Dury - New Boots and Panties!!
@@ -621,13 +621,13 @@ Current score: 554/1083
 - [ ] 615. Everything but the Girl - Idlewild (1988)
 - [ ] 616. Living Colour - Vivid
 - [X] 617. Mudhoney - Superfuzz Bigmuff
-- [ ] 618. R.E.M. - Green
+- [X] 618. R.E.M. - Green
 - [ ] 619. Happy Mondays - Bummed
 - [ ] 620. The Go-Betweens - 16 Lovers Lane
-- [ ] 621. Cowboy Junkies - The Trinity Session (1988)
+- [X] 621. Cowboy Junkies - The Trinity Session (1988)
 - [ ] 622. Tracy Chapman - Tracy Chapman [1988]
 - [X] 623. My Bloody Valentine - Isn't Anything
-- [ ] 624. Pixies - Surfer Rosa (1988)
+- [X] 624. Pixies - Surfer Rosa (1988)
 - [X] 625. Metallica - ...And Justice for All (1988)
 - [ ] 626. Dinosaur Jr. - Bug (1988)
 - [ ] 627. Dagmar Krause - Tank Battles
@@ -810,11 +810,11 @@ Current score: 554/1083
 - [X] 804. D'Angelo - Brown Sugar
 - [X] 805. Oasis - (What's the Story) Morning Glory?
 - [X] 806. Goldie - Timeless
-- [ ] 807. Jagged Little Pill (Alanis Morissette, 1995)
+- [X] 807. Alanis Morissette - Jagged Little Pill (1995)
 - [X] 808. Screaming Trees - Dust
 - [X] 809. Super Furry Animals - Fuzzy Logic
-- [ ] 810. Better Living Through Chemistry
-- [ ] 811. Dr. Octagon - Dr. Octagonecologyst (1996)
+- [X] 810. Fatboy Slim - Better Living Through Chemistry (1996)
+- [X] 811. Dr. Octagon - Dr. Octagonecologyst (1996)
 - [X] 812. Stereolab - Emperor Tomato Ketchup
 - [ ] 813. Tortoise - Millions Now Living Will Never Die
 - [X] 814. Beck - Odelay
@@ -961,10 +961,10 @@ Current score: 554/1083
 - [ ] 955. Justin Timberlake - Justified
 - [ ] 956. Bruce Springsteen the Rising
 - [ ] 957. The Bees - Sunshine Hit Me
-- [ ] 958. Beck - Sea Change
+- [X] 958. Beck - Sea Change
 - [X] 959. The Roots - Phrenology
 - [ ] 960. The Coral - The Coral
-- [ ] 961. Under Construction -Missy Elliott
+- [X] 961. Missy Elliott - Under Construction
 - [ ] 962. Outkast - Speakerboxxx/The Love Below
 - [ ] 963. Calexico - Feast of Wire
 - [X] 964. Radiohead - Hail to the Thief
