@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 114/149
+Current score: 115/149
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -131,7 +131,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Art Hodes - The Jazz Record Story
 - [x] Duke Ellington - Black, Brown and Beige
 - [x] Nat Cole - Nat King Cole 1943-44
-- [ ] Jazz at the Philharmonic - Best of the 1940s Concerts
+- [x] Jazz at the Philharmonic - Best of the 1940s Concerts
 - [ ] Tiny Grimes - Tiny Grimes 1944-49
 - [ ] Erroll Garner - Erroll Garner 1944-45
 - [ ] Don Byas - Don Byas 1944-45
