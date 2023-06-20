@@ -133,7 +133,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Nat Cole - Nat King Cole 1943-44
 - [x] Jazz at the Philharmonic - Best of the 1940s Concerts
 - [x] Tiny Grimes - Tiny Grimes 1944-49
-- [ ] Erroll Garner - Erroll Garner 1944-45
+- [x] Erroll Garner - Erroll Garner 1944-45
 - [ ] Don Byas - Don Byas 1944-45
 - [ ] Sid Catlett - Sid Catlett 1944-46
 - [ ] Charlie Parker - The Complete Savoy and Dial Studio Recordings
