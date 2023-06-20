@@ -132,7 +132,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Duke Ellington - Black, Brown and Beige
 - [x] Nat Cole - Nat King Cole 1943-44
 - [x] Jazz at the Philharmonic - Best of the 1940s Concerts
-- [ ] Tiny Grimes - Tiny Grimes 1944-49
+- [x] Tiny Grimes - Tiny Grimes 1944-49
 - [ ] Erroll Garner - Erroll Garner 1944-45
 - [ ] Don Byas - Don Byas 1944-45
 - [ ] Sid Catlett - Sid Catlett 1944-46
