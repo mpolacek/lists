@@ -134,8 +134,8 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Jazz at the Philharmonic - Best of the 1940s Concerts
 - [x] Tiny Grimes - Tiny Grimes 1944-49
 - [x] Erroll Garner - Erroll Garner 1944-45
-- [ ] Don Byas - Don Byas 1944-45
-- [ ] Sid Catlett - Sid Catlett 1944-46
+- [x] Don Byas - Don Byas 1944-45
+- [x] Sid Catlett - Sid Catlett 1944-46
 - [ ] Charlie Parker - The Complete Savoy and Dial Studio Recordings
 - [ ] Trummy Young - Trummy Young 1944-46
 - [ ] Sidney Bechet - King Jazz: Volume 1
