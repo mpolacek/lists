@@ -136,7 +136,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Erroll Garner - Erroll Garner 1944-45
 - [x] Don Byas - Don Byas 1944-45
 - [x] Sid Catlett - Sid Catlett 1944-46
-- [ ] Charlie Parker - The Complete Savoy and Dial Studio Recordings
+- [x] Charlie Parker - The Complete Savoy and Dial Studio Recordings
 - [ ] Trummy Young - Trummy Young 1944-46
 - [ ] Sidney Bechet - King Jazz: Volume 1
 - [ ] Bunk Johnson - Bunk's Brass Band And Dance Band 1945
