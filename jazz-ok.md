@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 118/149
+Current score: 120/149
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -137,8 +137,8 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Don Byas - Don Byas 1944-45
 - [x] Sid Catlett - Sid Catlett 1944-46
 - [x] Charlie Parker - The Complete Savoy and Dial Studio Recordings
-- [ ] Trummy Young - Trummy Young 1944-46
-- [ ] Sidney Bechet - King Jazz: Volume 1
+- [x] Trummy Young - Trummy Young 1944-46
+- [x] Sidney Bechet - King Jazz: Volume 1
 - [ ] Bunk Johnson - Bunk's Brass Band And Dance Band 1945
 - [ ] Miles Davis - The Complete Birth Of The Cool (1948-50)
 
