@@ -139,8 +139,8 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Charlie Parker - The Complete Savoy and Dial Studio Recordings
 - [x] Trummy Young - Trummy Young 1944-46
 - [x] Sidney Bechet - King Jazz: Volume 1
-- [ ] Bunk Johnson - Bunk's Brass Band And Dance Band 1945
-- [ ] Miles Davis - The Complete Birth Of The Cool (1948-50)
+- [x] Bunk Johnson - Bunk's Brass Band And Dance Band 1945
+- [x] Miles Davis - The Complete Birth Of The Cool (1948-50)
 
 ## The '50s
 
