@@ -144,7 +144,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 
 ## The '50s
 
-- [ ] Clifford Brown - Memorial Album (1953)
+- [x] Clifford Brown - Memorial Album (1953)
 
 ## The '60s
 
