@@ -149,7 +149,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 ## The '60s
 
 - [x] Rahsaan Roland Kirk - We Free Kings (1961)
-- [ ] Stan Getz - Focus (1961)
+- [x] Stan Getz - Focus (1961)
 - [ ] Bill Evans - The Complete Village Vanguard Recordings (1961)
 - [ ] Dexter Gordon - Doin' Alright (1961)
 - [ ] Eddie Harris - Exodus to Jazz / Mighty Like A Rose (1961)
