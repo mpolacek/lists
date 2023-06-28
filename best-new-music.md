@@ -1,6 +1,6 @@
 # Pitchfork Best New Music
 
-Current score: 129/912
+Current score: 130/912
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -268,7 +268,7 @@ Current score: 129/912
 - [ ] 651. Vince Staples - Big Fish Theory
 - [X] 650. Lorde - Melodrama
 - [ ] 649. Fleet Foxes - Crack-Up
-- [ ] 648. Sza - Ctrl
+- [X] 648. Sza - Ctrl
 - [ ] 647. Big Thief - Capacity
 - [ ] 646. (Sandy) Alex G - Rocket
 - [ ] 645. Jlin - Black Origami

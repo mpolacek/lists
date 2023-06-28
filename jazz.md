@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 25/149
+Current score: 25/169
 
 Listened: `$ grep "\[[xX]\]" jazz.md | wc -l`
 
@@ -140,6 +140,26 @@ Total: `$ grep "\[.\]" jazz.md | wc -l`
 - [ ] Trummy Young - Trummy Young 1944-46
 - [ ] Sidney Bechet - King Jazz: Volume 1
 - [ ] Bunk Johnson - Bunk's Brass Band And Dance Band 1945
+- [ ] Mary Lou Williams - The Zodiac Suite
+- [ ] Boyd Raeburn - Jubilee Performance 1946
+- [ ] Woody Herman - Blowin' Up a Storm!
+- [ ] Mutt Carey - Mutt Carey and Lee Collins
+- [ ] Wooden Joe Nicholas - Wooden Joe Nicholas
+- [ ] Kenny Clarke - Klook's The Man
+- [ ] Billy Eckstine - Billy Eckstine 1944-46
+- [ ] Charlie Parker - Charlie Parker with Strings: The Master Takes
+- [ ] Dave Brubeck - The Dave Brubeck Octet
+- [ ] Illinois Jacquet - Illinois Jacquet 1945-46
+- [ ] Dodo Marmarosa - On Dial: The Complete Sessions
+- [ ] Lennie Tristano - The Complete Lennie Tristano
+- [ ] Louis Jordan - Louis Jordan 1946-47
+- [ ] John Hardee - John Hardee 1946-48
+- [ ] Tyree Glenn - Tyree Glenn 1947-52
+- [ ] Django Reinhardt - Peche A La Mouche
+- [ ] Louis Armstrong - Louis Armstrong 1947
+- [ ] Louis Armstrong - Complete New York Town Hall And Boston Symphony Hall Concerts
+- [ ] Dexter Gordon - Dexter Gordon On Dial: The Complete Sessions
+- [ ] Fats Navarro - The Complete Fats Navarro On Blue Note and Capitol
 - [X] Miles Davis - The Complete Birth Of The Cool (1948-50)
 
 ## The '50s

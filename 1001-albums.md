@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 565/1083
+Current score: 567/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -436,7 +436,7 @@ Current score: 565/1083
 - [ ] 430. Germs - GI
 - [ ] 431. The B-52's - The B-52's [1979]
 - [ ] 432. Holger Czukay - Movies (1979)
-- [ ] 433. Reggatta De Blanc (The Police)
+- [X] 433. The Police - Reggatta De Blanc
 - [ ] 434. Live at the Witch Trials
 - [ ] 435. Fear of Music (Talking Heads, 1979)
 - [X] 436. Joy Division - Unknown Pleasures
@@ -1081,7 +1081,7 @@ Current score: 565/1083
 - [X] 1075. Lorde - Melodrama (2017)
 - [X] 1076. Thundercat - Drunk
 - [ ] 1077. Take Me Apart - Kelela (2017)
-- [ ] 1078. Sza - Ctrl
+- [X] 1078. Sza - Ctrl
 - [X] 1079. Hookworms - Microshift
 - [X] 1080. Michael Kiwanuka - KIWANUKA *(new)*
 - [X] 1081. Fiona Apple - Fetch the Bolt Cutters *(new)*

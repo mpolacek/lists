@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 282/500
+Current score: 283/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -475,7 +475,7 @@ Current score: 282/500
 - [X] 469. Manu Chao - Clandestino
 - [X] 470. Juvenile - 400 Degreez
 - [X] 471. Jefferson Airplane - Surrealistic Pillow
-- [ ] 472. Sza - Ctrl
+- [X] 472. Sza - Ctrl
 - [ ] 473. Daddy Yankee - Barrio Fino
 - [X] 474. Big Star - #1 Record
 - [ ] 475. Sheryl Crow (Sheryl Crow, 1996)
