@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 128/169
+Current score: 129/169
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -140,7 +140,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Trummy Young - Trummy Young 1944-46
 - [x] Sidney Bechet - King Jazz: Volume 1
 - [x] Bunk Johnson - Bunk's Brass Band And Dance Band 1945
-- [ ] Mary Lou Williams - The Zodiac Suite
+- [x] Mary Lou Williams - The Zodiac Suite
 - [ ] Boyd Raeburn - Jubilee Performance 1946
 - [ ] Woody Herman - Blowin' Up a Storm!
 - [ ] Mutt Carey - Mutt Carey and Lee Collins
