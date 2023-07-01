@@ -1,6 +1,6 @@
 # Pitchfork Best New Music
 
-Current score: 130/912
+Current score: 131/912
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -892,7 +892,7 @@ Current score: 130/912
 - [ ] 27. Dizzee Rascal - Boy in Da Corner
 - [ ] 26. Why? - Oaklandazulasylum
 - [X] 25. Clearlake - Cedars
-- [ ] 24. Grandaddy - Sumday
+- [X] 24. Grandaddy - Sumday
 - [ ] 23. Single Frame - Wetheads Come Running
 - [ ] 22. Fog - Ether Teeth
 - [X] 21. M83 - Dead Cities, Red Seas & Lost Ghosts
