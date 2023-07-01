@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 283/500
+Current score: 285/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -258,7 +258,7 @@ Current score: 283/500
 - [ ] 252. Devo - Q: Are We Not Men? A: We Are Devo! (1978)
 - [X] 253. Pink Floyd - The Piper at the Gates of Dawn (1967)
 - [ ] 254. Herbie Hancock - Head Hunters
-- [ ] 255. Bob Dylan - The Freewheelin' Bob Dylan
+- [X] 255. Bob Dylan - The Freewheelin' Bob Dylan
 - [ ] 256. Tracy Chapman - Tracy Chapman
 - [ ] 257. Dolly Parton - Coat of Many Colors (1971)
 - [ ] 258. Joni Mitchell - The Hissing of Summer Lawns
@@ -352,7 +352,7 @@ Current score: 283/500
 - [ ] 346. Arctic Monkeys - AM
 - [X] 347. GZA - Liquid Swords
 - [ ] 348. Gillian Welch - Time (The Revelator)
-- [ ] 349. MC5 - Kick Out the Jams
+- [X] 349. MC5 - Kick Out the Jams
 - [ ] 350. Stevie Wonder - Music of My Mind
 - [ ] 351. Roxy Music - For Your Pleasure
 - [ ] 352. Eminem - The Slim Shady LP

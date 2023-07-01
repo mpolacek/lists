@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 567/1083
+Current score: 570/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -39,7 +39,7 @@ Current score: 567/1083
 - [X] 33. Stan Getz / Charlie Byrd - Jazz Samba
 - [X] 34. Ray Price - Night Life
 - [X] 35. The Beatles - With the Beatles
-- [ ] 36. Bob Dylan - The Freewheelin' Bob Dylan (1963)
+- [X] 36. Bob Dylan - The Freewheelin' Bob Dylan (1963)
 - [ ] 37. Phil Spector - A Christmas Gift for You
 - [X] 38. Sam Cooke - Live at the Harlem Square Club
 - [X] 39. Charles Mingus - The Black Saint and the Sinner Lady
@@ -161,7 +161,7 @@ Current score: 567/1083
 - [X] 155. Led Zeppelin - Led Zeppelin
 - [X] 156. The Band - The Band (1969)
 - [X] 157. Led Zeppelin - Led Zeppelin II (1969)
-- [ ] 158. MC5, Kick Out the Jams (1969)
+- [X] 158. MC5 - Kick Out the Jams (1969)
 - [ ] 159. The Temptations - Cloud Nine (1969)
 - [X] 160. Sly & the Family Stone - Stand! (1969)
 - [ ] 161. Tim Buckley - Happy Sad
@@ -171,7 +171,7 @@ Current score: 567/1083
 - [X] 165. Isaac Hayes - Hot Buttered Soul (1969)
 - [ ] 166. Grateful Dead - Live Dead
 - [ ] 167. The Kinks - Arthur or the Decline and Fall of the British Empire
-- [ ] 168. King Crimson - In the Court of the Crimson King (1969)
+- [X] 168. King Crimson - In the Court of the Crimson King (1969)
 - [X] 169. Leonard Cohen - Songs From a Room (1969)
 - [ ] 170. Fairport Convention: Liege & Lief
 - [ ] 171. Scott Walker - Scott4
