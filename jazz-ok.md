@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 129/169
+Current score: 130/169
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -141,7 +141,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Sidney Bechet - King Jazz: Volume 1
 - [x] Bunk Johnson - Bunk's Brass Band And Dance Band 1945
 - [x] Mary Lou Williams - The Zodiac Suite
-- [ ] Boyd Raeburn - Jubilee Performance 1946
+- [x] Boyd Raeburn - Jubilee Performance 1946
 - [ ] Woody Herman - Blowin' Up a Storm!
 - [ ] Mutt Carey - Mutt Carey and Lee Collins
 - [ ] Wooden Joe Nicholas - Wooden Joe Nicholas
