@@ -1,9 +1,12 @@
 # Pitchfork Sunday Review
 
-Current score: 107/339
+Current score: 107/342
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 342. Lush - Spooky
+- [ ] 341. Savage - Tonight
+- [ ] 340. Meshell Ndegeocello - Bitter
 - [ ] 339. Labi Siffre - Crying Laughing Loving Lying
 - [ ] 338. Coil - Horse Rotorvator
 - [ ] 337. Sheryl Crow - Sheryl Crow

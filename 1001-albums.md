@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 570/1083
+Current score: 571/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -1066,7 +1066,7 @@ Current score: 570/1083
 - [X] 1060. Beyonce - Beyonce
 - [ ] 1061. Taylor Swift - 1989 (2014)
 - [ ] 1062. FKA Twigs - LP1
-- [ ] 1063. The War on Drugs - Lost in the Dream
+- [X] 1063. The War on Drugs - Lost in the Dream
 - [ ] 1064. Adele - 25
 - [ ] 1065. Björk - Vulnicura (2015)
 - [X] 1066. Kendrick Lamar - To Pimp a Butterfly

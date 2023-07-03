@@ -1,9 +1,12 @@
 # Pitchfork Best New Music
 
-Current score: 131/912
+Current score: 135/915
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 915. Joanna Sternberg - I've Got Me
+- [ ] 914. Blue Lake - Sun Arcs
+- [ ] 913. Feeble Little Horse - Girl With Fish
 - [ ] 912. Youth Lagoon - Heaven Is a Junkyard
 - [ ] 911. Amaarae - Fountain Baby
 - [X] 910. Water From Your Eyes - Everyone’s Crushed
@@ -189,7 +192,7 @@ Current score: 131/912
 - [ ] 730. Jamila Woods - LEGACY! LEGACY!
 - [ ] 729. Big Thief - U.F.O.F. (2019)
 - [ ] 728. Sunn O))) - Life Metal
-- [ ] 727. Beyonce- Homecoming
+- [ ] 727. Beyonce - Homecoming
 - [ ] 726. Weyes Blood - Titanic Rising
 - [ ] 725. Fennesz - Agora
 - [ ] 724. Miss Universe by Nilüfer Yanya
@@ -203,7 +206,7 @@ Current score: 131/912
 - [X] 716. Jeff Tweedy - WARM
 - [ ] 715. Earl Sweatshirt - Some Rap Songs
 - [ ] 714. The 1975 - A Brief Inquiry Into Online Relationships (2018)
-- [ ] 713. Rosalia- El Mal Querer
+- [ ] 713. Rosalia - El Mal Querer
 - [ ] 712. Boygenius - Boygenius EP
 - [ ] 711. Robyn - Honey
 - [ ] 710. Sheck Wes - Mudboy (2018)
@@ -221,7 +224,7 @@ Current score: 131/912
 - [ ] 698. Beyonce / Jay Z - Everything Is Love
 - [ ] 697. Sophie - Oil of Every Pearl's Un-Insides
 - [ ] 696. Tierra Whack - Whack World
-- [ ] 695. Snail Mail- Lush
+- [ ] 695. Snail Mail - Lush
 - [ ] 694. Father John Misty - God's Favorite Customer
 - [ ] 693. Pusha T - Daytona
 - [ ] 692. Skee Mask - Compro (2018)
@@ -374,7 +377,7 @@ Current score: 131/912
 - [ ] 545. Lower Dens - Escape From Evil
 - [ ] 544. Jlin - Dark Energy
 - [ ] 543. Sufjan Stevens - Carrie & Lowell (2015)
-- [ ] 542. Courtney Barnett- Sometimes I Sit and Think, and Sometimes I Just Sit
+- [ ] 542. Courtney Barnett - Sometimes I Sit and Think, and Sometimes I Just Sit
 - [X] 541. Kendrick Lamar - To Pimp a Butterfly
 - [ ] 540. Tobias Jesso Jr. - Goon
 - [ ] 539. Levon Vincent - Levon Vincent
@@ -418,7 +421,7 @@ Current score: 131/912
 - [ ] 501. Todd Terje - It's Album Time
 - [ ] 500. Mac Demarco - Salad Days
 - [ ] 499. Cloud Nothings - Here and Nowhere Else
-- [ ] 498. The War on Drugs - Lost in the Dream
+- [X] 498. The War on Drugs - Lost in the Dream
 - [ ] 497. Perfect Pussy - Say Yes to Love
 - [X] 496. Real Estate - Atlas
 - [ ] 495. St. Vincent - St. Vincent
@@ -470,7 +473,7 @@ Current score: 131/912
 - [ ] 449. Kurt Vile - Wakin on a Pretty Daze
 - [ ] 448. The Knife - Shaking the Habitual
 - [X] 447. DJ Koze - Amygdala
-- [ ] 446. Justin Timberlake- The 20/20 Experience
+- [ ] 446. Justin Timberlake - The 20/20 Experience
 - [ ] 445. Phosphorescent - Muchacho
 - [ ] 444. Waxahatchee - Cerulean Salt
 - [ ] 443. Rhye - Woman
@@ -679,7 +682,7 @@ Current score: 131/912
 - [X] 240. Animal Collective - Merriweather Post Pavilion (2009)
 - [ ] 239. The Very Best - Esau Mwamwaya & Radioclit Are the Very Best
 - [X] 238. Deerhunter - Microcastle
-- [ ] 237. DJ /Rupture - Uproot
+- [X] 237. DJ /Rupture - Uproot
 - [ ] 236. Fucked Up - The Chemistry of Common Life (2008)
 - [ ] 235. Mount Eerie - Lost Wisdom
 - [ ] 234. Marnie Stern - This Is It and I Am It and You Are It And...
@@ -823,7 +826,7 @@ Current score: 131/912
 - [ ] 96. Six Organs of Admittance - School of the Flower
 - [ ] 95. LCD Soundsystem - LCD Soundsystem
 - [ ] 94. Bonnie "Prince" Billy & Matt Sweeney - Superwolf
-- [ ] 93. M83- Before the Dawn Heals Us
+- [ ] 93. M83 - Before the Dawn Heals Us
 - [ ] 92. Black Mountain - Black Mountain
 - [ ] 91. The Fiery Furnaces - EP
 - [ ] 90. Excepter - KA
@@ -843,8 +846,8 @@ Current score: 131/912
 - [ ] 76. Bjork - Medulla
 - [ ] 75. The Futureheads - The Futureheads
 - [ ] 74. Comets on Fire - Blue Cathedral
-- [ ] 73. Fiery Furnaces - Blueberry Boat
-- [ ] 72. Max Richter - The Blue Notebooks
+- [X] 73. Fiery Furnaces - Blueberry Boat
+- [X] 72. Max Richter - The Blue Notebooks
 - [ ] 71. The Plastic Constellations - Mazatlan
 - [ ] 70. Junior Boys - Last Exit
 - [ ] 69. A.C. Newman - The Slow Wonder
