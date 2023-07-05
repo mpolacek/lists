@@ -143,7 +143,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Mary Lou Williams - The Zodiac Suite
 - [x] Boyd Raeburn - Jubilee Performance 1946
 - [x] Woody Herman - Blowin' Up a Storm!
-- [ ] Mutt Carey - Mutt Carey and Lee Collins
+- [x] Mutt Carey - Mutt Carey and Lee Collins
 - [ ] Wooden Joe Nicholas - Wooden Joe Nicholas
 - [ ] Kenny Clarke - Klook's The Man
 - [ ] Billy Eckstine - Billy Eckstine 1944-46
