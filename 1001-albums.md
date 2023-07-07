@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 571/1083
+Current score: 572/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -420,7 +420,7 @@ Current score: 571/1083
 - [ ] 414. Buzzcocks : Another Music in a Different Kitchen
 - [X] 415. Van Halen - Van Halen
 - [ ] 416. Willie Colón & Rubén Blades - Siembra (1978)
-- [ ] 417. The Cars (The Cars, 1979)
+- [X] 417. The Cars - The Cars (1979)
 - [ ] 418. Q: Are We Not Men? A: We Are Devo! (Devo, 1978)
 - [X] 419. Dire Straits - Dire Straits (1978)
 - [X] 420. The Saints - Eternally Yours (1978)

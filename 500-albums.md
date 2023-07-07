@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 285/500
+Current score: 286/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -356,7 +356,7 @@ Current score: 285/500
 - [ ] 350. Stevie Wonder - Music of My Mind
 - [ ] 351. Roxy Music - For Your Pleasure
 - [ ] 352. Eminem - The Slim Shady LP
-- [ ] 353. The Cars - The Cars
+- [X] 353. The Cars - The Cars
 - [ ] 354. X-Ray Spex - Germfree Adolescents
 - [X] 355. Black Sabbath - Black Sabbath
 - [ ] 356. Dr. John - Gris-Gris (1968)

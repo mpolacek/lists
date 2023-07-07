@@ -1,10 +1,10 @@
 # Pitchfork Best New Music
 
-Current score: 135/915
+Current score: 141/915
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
-- [ ] 915. Joanna Sternberg - I've Got Me
+- [X] 915. Joanna Sternberg - I've Got Me
 - [ ] 914. Blue Lake - Sun Arcs
 - [ ] 913. Feeble Little Horse - Girl With Fish
 - [ ] 912. Youth Lagoon - Heaven Is a Junkyard
@@ -44,7 +44,7 @@ Current score: 135/915
 - [ ] 878. Lucrecia Dalt - ¡Ay!
 - [ ] 877. Gilla Band - Most Normal
 - [ ] 876. Daphni - Cherry
-- [ ] 875. Alvvays - Blue Rev
+- [X] 875. Alvvays - Blue Rev
 - [ ] 874. Björk - Fossora
 - [ ] 873. Beth Orton - Weather Alive
 - [ ] 872. Alex G - God Save the Animals
@@ -578,7 +578,7 @@ Current score: 135/915
 - [ ] 344. Nicolas Jaar - Space Is Only Noise
 - [X] 343. PJ Harvey - Let England Shake
 - [ ] 342. James Blake - James Blake
-- [ ] 341. Cut Copy - Zonoscope
+- [X] 341. Cut Copy - Zonoscope
 - [ ] 340. Destroyer - Kaputt
 - [ ] 339. Smith Westerns - Dye It Blonde
 - [ ] 338. Off! - First Four EPs
@@ -860,7 +860,7 @@ Current score: 135/915
 - [ ] 62. Loretta Lynn - Van Lear Rose (2004)
 - [ ] 61. Les Savy Fav - Inches
 - [ ] 60. Jason Forrest - The Unrelenting Songs of the 1979 Post Disco Crach
-- [ ] 59. William Basinski - The Disintegration Loops
+- [X] 59. William Basinski - The Disintegration Loops
 - [ ] 58. Iron & Wine - Our Endless Numbered Days
 - [ ] 57. Madvillain - Madvillainy
 - [X] 56. Devendra Banhart - Rejoicing in the Hands
@@ -906,8 +906,8 @@ Current score: 135/915
 - [X] 16. Exploding Hearts - Guitar Romantic
 - [ ] 15. Manitoba - Up in Flames
 - [X] 14. Deerhoof - Apple O'
-- [ ] 13. The Decemberists - Castaways and Cutouts
-- [ ] 12. Songs: Ohia - Magnolia Electric Co.
+- [X] 13. The Decemberists - Castaways and Cutouts
+- [X] 12. Songs: Ohia - Magnolia Electric Co.
 - [ ] 11. Johann Johannsson - Englaborn
 - [ ] 10. Lightning Bolt - Wonderful Rainbow
 - [ ] 9. Majesticons - Beauty Party

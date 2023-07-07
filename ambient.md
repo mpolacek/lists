@@ -1,14 +1,14 @@
 # P4K 50 Best Ambient Albums
 
-Current score: 5/50
+Current score: 7/50
 
 `$ grep "\[X\]" grunge.md | wc -l`
 
 - [X] 1. Brian Eno - Ambient 1: Music for Airports
 - [X] 2. Aphex Twin - Selected Ambient Works Volume II
-- [ ] 3. William Basinski - The Disintegration Loops I-IV
+- [X] 3. William Basinski - The Disintegration Loops I-IV
 - [ ] 4. Terry Riley - A Rainbow in Curved Air
-- [ ] 5. The KLF - Chill Out
+- [X] 5. The KLF - Chill Out
 - [ ] 6. Stars of the Lid - The Tired Sounds of Stars of the Lid
 - [ ] 7. Oval - 94diskont
 - [ ] 8. Pauline Oliveros / Stuart Dempster / Panaiotis - Deep Listening
