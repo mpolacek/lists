@@ -1,6 +1,6 @@
 # Pitchfork Best New Music
 
-Current score: 141/915
+Current score: 142/915
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -909,7 +909,7 @@ Current score: 141/915
 - [X] 13. The Decemberists - Castaways and Cutouts
 - [X] 12. Songs: Ohia - Magnolia Electric Co.
 - [ ] 11. Johann Johannsson - Englaborn
-- [ ] 10. Lightning Bolt - Wonderful Rainbow
+- [X] 10. Lightning Bolt - Wonderful Rainbow
 - [ ] 9. Majesticons - Beauty Party
 - [ ] 8. Various Artists - Supersilent 6
 - [X] 7. Giddy Motors - Make It Pop

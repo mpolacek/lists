@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 572/1083
+Current score: 573/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -972,7 +972,7 @@ Current score: 572/1083
 - [ ] 966. 50 Cent - Get Rich or Die Tryin'
 - [ ] 967. Dizzee Rascal - Boy in Da Corner
 - [X] 968. The Mars Volta - De-Loused in the Comatorium
-- [ ] 969. Lightning Bolt - Wonderful Rainbow
+- [X] 969. Lightning Bolt - Wonderful Rainbow
 - [X] 970. The White Stripes - Elephant
 - [ ] 971. Kings of Leon - Youth and Young Manhood
 - [ ] 972. Rufus Wainwright - Want One
