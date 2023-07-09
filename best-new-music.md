@@ -1,6 +1,6 @@
 # Pitchfork Best New Music
 
-Current score: 143/915
+Current score: 144/915
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -739,7 +739,7 @@ Current score: 143/915
 - [ ] 183. Spoon - Ga Ga Ga Ga Ga
 - [ ] 182. Various Artists - After Dark
 - [ ] 181. Blitzen Trapper - Wild Mountain Nation (2007)
-- [ ] 180. Justice - Cross
+- [X] 180. Justice - Cross
 - [ ] 179. The National - Boxer
 - [ ] 178. Battles - Mirrored
 - [ ] 177. Dan Deacon - Spiderman of the Rings

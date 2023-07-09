@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 576/1083
+Current score: 577/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -1024,7 +1024,7 @@ Current score: 576/1083
 - [X] 1018. Arcade Fire - Neon Bible
 - [ ] 1019. MIA - Kala
 - [ ] 1020. The Good, the Bad & the Queen - The Good, the Bad & the Queen
-- [ ] 1021. Justice - Cross
+- [X] 1021. Justice - Cross
 - [X] 1022. Q-Tip - The Renaissance
 - [ ] 1023. Kings of Leon - Only by the Night
 - [X] 1024. Fleet Foxes - Fleet Foxes
