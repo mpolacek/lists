@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 286/500
+Current score: 289/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -67,7 +67,7 @@ Current score: 286/500
 - [ ] 61. Eric B. and Rakim - Paid in Full
 - [X] 62. Guns N' Roses - Appetite for Destruction (1987)
 - [X] 63. Steely Dan - Aja
-- [ ] 64. Outkast - Stankonia
+- [X] 64. Outkast - Stankonia
 - [X] 65. James Brown - Live at the Apollo
 - [X] 66. John Coltrane - A Love Supreme
 - [X] 67. Jay-Z - Reasonable Doubt
@@ -222,7 +222,7 @@ Current score: 286/500
 - [X] 216. Elliott Smith - Either/Or
 - [ ] 217. Oasis - Definitely Maybe
 - [ ] 218. TLC - Crazysexycool (1994)
-- [X] 219. Raekwon- Only Built 4 Cuban Linx
+- [X] 219. Raekwon - Only Built 4 Cuban Linx
 - [ ] 220. Crosby, Stills, Nash and Young - Déjà Vu
 - [X] 221. Rage Against the Machine - Rage Against the Machine
 - [ ] 222. Madonna - Ray of Light
@@ -240,7 +240,7 @@ Current score: 286/500
 - [ ] 234. Black Sabbath - Master of Reality
 - [X] 235. Metallica - Metallica
 - [X] 236. Daft Punk - Discovery (2001)
-- [ ] 237. Willie Nelson- Red Headed Stranger
+- [ ] 237. Willie Nelson - Red Headed Stranger
 - [X] 238. Kraftwerk - Trans-Europe Express
 - [ ] 239. Boogie Down Productions - Criminal Minded
 - [X] 240. Sam Cooke - Live at the Harlem Square Club, 1963
@@ -254,7 +254,7 @@ Current score: 286/500
 - [ ] 248. Green Day - American Idiot
 - [X] 249. Whitney Houston - Whitney Houston
 - [X] 250. Buzzcocks - Singles Going Steady (1979)
-- [ ] 251. Elton John- Honky Chateau
+- [ ] 251. Elton John - Honky Chateau
 - [ ] 252. Devo - Q: Are We Not Men? A: We Are Devo! (1978)
 - [X] 253. Pink Floyd - The Piper at the Gates of Dawn (1967)
 - [ ] 254. Herbie Hancock - Head Hunters
@@ -262,7 +262,7 @@ Current score: 286/500
 - [ ] 256. Tracy Chapman - Tracy Chapman
 - [ ] 257. Dolly Parton - Coat of Many Colors (1971)
 - [ ] 258. Joni Mitchell - The Hissing of Summer Lawns
-- [ ] 259. Janis Joplin - Pearl
+- [X] 259. Janis Joplin - Pearl
 - [X] 260. The Slits - Cut (1979)
 - [X] 261. Beastie Boys - Check Your Head
 - [ ] 262. New Order - Power, Corruption & Lies
@@ -287,7 +287,7 @@ Current score: 286/500
 - [X] 281. Harry Nilsson - Nilsson Schmilsson
 - [X] 282. Frank Sinatra - In the Wee Small Hours (1955)
 - [ ] 283. Donna Summer - Bad Girls
-- [ ] 284. Merle Haggard- Down Every Road
+- [ ] 284. Merle Haggard - Down Every Road
 - [ ] 285. Big Star - Third / Sister Lovers
 - [ ] 286. Red Hot Chili Peppers - Californication (1999)
 - [X] 287. The Byrds - Mr. Tambourine Man
@@ -321,24 +321,24 @@ Current score: 286/500
 - [ ] 315. Rosalia - El Mal Querer
 - [ ] 316. The Who - The Who Sell Out (1967)
 - [ ] 317. Billie Holiday - Lady in Satin
-- [ ] 318. Janet Jackson- The Velvet Rope
-- [ ] 319. The Stone Roses - The Stone Roses
+- [ ] 318. Janet Jackson - The Velvet Rope
+- [X] 319. The Stone Roses - The Stone Roses
 - [ ] 320. X - Los Angeles (1980)
 - [ ] 321. Lana Del Rey - Norman Fucking Rockwell
 - [X] 322. Elvis Presley - From Elvis in Memphis (1969)
 - [ ] 323. The Clash - Sandinista!
 - [X] 324. Coldplay - A Rush of Blood to the Head
-- [ ] 325. Jerry Lee Lewis- All Killer, No Filler
+- [ ] 325. Jerry Lee Lewis - All Killer, No Filler
 - [ ] 326. Prince - Dirty Mind (1980)
 - [X] 327. The Who - Live at Leeds
 - [ ] 328. Vampire Weekend - Modern Vampires of the City
 - [X] 329. DJ Shadow - Endtroducing.....
-- [ ] 330. The Rolling Stones- Aftermath
+- [ ] 330. The Rolling Stones - Aftermath
 - [ ] 331. Madonna - Like a Prayer
 - [ ] 332. Elvis Presley - Elvis Presley
 - [ ] 333. Bill Withers - Still Bill
 - [ ] 334. Santana - Abraxas
-- [ ] 335. Bob Dylan and the Band- Basement Tapes
+- [ ] 335. Bob Dylan and the Band - Basement Tapes
 - [ ] 336. Roxy Music - Avalon
 - [ ] 337. Bob Dylan - John Wesley Harding
 - [X] 338. Brian Eno - Another Green World
@@ -399,7 +399,7 @@ Current score: 286/500
 - [ ] 393. 1989 - Taylor Swift
 - [ ] 394. Diana Ross - Diana
 - [ ] 395. D'Angelo and the Vanguard - Black Messiah
-- [ ] 396. Todd Rundgren- Something/Anything?
+- [ ] 396. Todd Rundgren - Something/Anything?
 - [ ] 397. Billie Eilish - When We All Fall Asleep, Where Do We Go?
 - [ ] 398. The Raincoats - The Raincoats
 - [ ] 399. Brian Wilson - Smile
@@ -415,13 +415,13 @@ Current score: 286/500
 - [ ] 409. The Grateful Dead: Workingman's Dead
 - [ ] 410. The Beach Boys - Wild Honey
 - [ ] 411. Bob Dylan - Love and Theft
-- [ ] 412. Going to a Go-Go- Smokey Robinson & the Miracles
+- [ ] 412. Going to a Go-Go - Smokey Robinson & the Miracles
 - [X] 413. Creedence Clearwater Revival - Cosmo's Factory
 - [X] 414. Chic - Risqué (1979)
 - [X] 415. The Meters - Look-Ka Py Py
 - [ ] 416. The Roots - Things Fall Apart
 - [ ] 417. Ornette Coleman - The Shape of Jazz to Come
-- [ ] 418. Dire Straits- Brothers in Arms
+- [ ] 418. Dire Straits - Brothers in Arms
 - [ ] 419. Eric Church - Chief
 - [X] 420. Earth, Wind & Fire - That's the Way of the World
 - [ ] 421. M.I.A. - Arular
@@ -442,7 +442,7 @@ Current score: 286/500
 - [ ] 436. All Eyez on Me
 - [X] 437. Primal Scream - Screamadelica
 - [X] 438. Blur - Parklife (1994)
-- [ ] 439. James Brown- Sex Machine
+- [ ] 439. James Brown - Sex Machine
 - [ ] 440. Coal Miner's Daughter - Loretta Lynn
 - [ ] 441. Britney Spears - Blackout
 - [ ] 442. The Weeknd - Beauty Behind the Madness
@@ -461,7 +461,7 @@ Current score: 286/500
 - [ ] 455. Bo Diddley/Go Bo Diddley
 - [ ] 456. Al Green - Greatest Hits
 - [X] 457. Sinead O'Connor - I Do Not Want What I Haven't Got
-- [ ] 458. Jason Isbell- Southeastern
+- [ ] 458. Jason Isbell - Southeastern
 - [ ] 459. Kid Cudi - Man on the Moon: The End of Days
 - [X] 460. Lorde - Melodrama (2017)
 - [ ] 461. Bon Iver - For Emma, Forever Ago
@@ -480,7 +480,7 @@ Current score: 286/500
 - [X] 474. Big Star - #1 Record
 - [ ] 475. Sheryl Crow (Sheryl Crow, 1996)
 - [X] 476. Sparks - Kimono My House (1974)
-- [ ] 477. Howlin' Wolf- Moanin' in the Moonlight
+- [ ] 477. Howlin' Wolf - Moanin' in the Moonlight
 - [X] 478. The Kinks - Something Else by the Kinks
 - [X] 479. Selena - Amor Prohibido
 - [ ] 480. Miranda Lambert the Weight of These Wings

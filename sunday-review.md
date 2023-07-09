@@ -1,9 +1,10 @@
 # Pitchfork Sunday Review
 
-Current score: 107/342
+Current score: 108/343
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 343. Dolly Parton / Linda Ronstadt / Emmylou Harris - Trio
 - [ ] 342. Lush - Spooky
 - [ ] 341. Savage - Tonight
 - [ ] 340. Meshell Ndegeocello - Bitter
@@ -263,7 +264,7 @@ Current score: 107/342
 - [ ] 86. Scarface - The Diary
 - [ ] 85. Sublime - 40oz. to Freedom
 - [ ] 84. Belle and Sebastian - The Boy With the Arab Strap
-- [ ] 83. OutKast - Stankonia
+- [X] 83. OutKast - Stankonia
 - [ ] 82. La Monte Young - The Well-Tuned Piano 81 X 25 6:17:50 - 11:18:59 PM NYC
 - [ ] 81. 2Pac - All Eyez on Me
 - [ ] 80. The-Dream - Love/Hate

@@ -1,6 +1,6 @@
 # P4K 50 Best Ambient Albums
 
-Current score: 7/50
+Current score: 8/50
 
 `$ grep "\[X\]" grunge.md | wc -l`
 
@@ -44,7 +44,7 @@ Current score: 7/50
 - [X] 38. Biosphere - Substrata
 - [ ] 39. Suzanne Ciani - Buchla Concerts 1975
 - [ ] 40. Max Richter - Sleep
-- [ ] 41. Brian Eno / Harold Budd - The Pearl
+- [X] 41. Brian Eno / Harold Budd - The Pearl
 - [ ] 42. Ekkehard Ehlers - Plays
 - [ ] 43. Eluvium - Talk Amongst the Trees
 - [ ] 44. Microstoria - snd

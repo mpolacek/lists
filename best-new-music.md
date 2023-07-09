@@ -1,6 +1,6 @@
 # Pitchfork Best New Music
 
-Current score: 142/915
+Current score: 143/915
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -916,6 +916,6 @@ Current score: 142/915
 - [X] 6. Ted Leo and the Pharmacists - Hearts of Oak
 - [ ] 5. The Soft Pink Truth - Do You Party?
 - [X] 4. Broken Social Scene - You Forgot It in People (2002)
-- [ ] 3. The Angels of Light - Everything Is Good Here/Please Come Home
+- [X] 3. The Angels of Light - Everything Is Good Here/Please Come Home
 - [ ] 2. The Microphones - Mount Eerie
 - [X] 1. Out Hud - S.T.R.E.E.T. D.A.D.

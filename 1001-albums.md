@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 573/1083
+Current score: 576/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -234,7 +234,7 @@ Current score: 573/1083
 - [X] 228. Emerson, Lake & Palmer - Pictures at an Exhibition (1972)
 - [ ] 229. Leonard Cohen - Songs of Love and Hate
 - [X] 230. Joni Mitchell - Blue (1971)
-- [ ] 231. Janis Joplin - Pearl
+- [X] 231. Janis Joplin - Pearl
 - [X] 232. Funkadelic - Maggot Brain
 - [ ] 233. Fela Ransome - Kuti & the Afrika 70 With Ginger Baker - Live!
 - [X] 234. The Faces - A Nod Is as Good as a Wink... to a Blind Horse
@@ -650,7 +650,7 @@ Current score: 573/1083
 - [X] 644. The Beastie Boys - Paul's Boutique (1989)
 - [ ] 645. The Young Gods - L'eau Rouge (1989)
 - [ ] 646. John Zorn - Spy vs. Spy (1989)
-- [ ] 647. The Stone Roses - The Stone Roses
+- [X] 647. The Stone Roses - The Stone Roses
 - [ ] 648. Raw Like Sushi - Neneh Cherry
 - [ ] 649. Baaba Maal & Mansour Seck - Djam Leelii (1989)
 - [ ] 650. The Sensual World
@@ -929,7 +929,7 @@ Current score: 573/1083
 - [ ] 923. Red Snapper - Our Aim Is to Satisfy
 - [ ] 924. Ute Lemper - Punishing Kiss
 - [X] 925. The Avalanches - Since I Left You
-- [ ] 926. Outkast - Stankonia
+- [X] 926. Outkast - Stankonia
 - [X] 927. Common - Like Water for Chocolate
 - [ ] 928. Silver Jews - Bright Flight
 - [ ] 929. Giant Sand Chore of Enchantment
