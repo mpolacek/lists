@@ -1,6 +1,6 @@
 # Various albums
 
-Current score: 16/58
+Current score: 17/58
 
 Listened: `$ grep "\[X\]" any.md | wc -l`
 Total: `$ grep "\[.\]" any.md | wc -l`
@@ -10,7 +10,7 @@ Total: `$ grep "\[.\]" any.md | wc -l`
 - [ ] Bob Dylan - The Bootleg Series, Vol. 4: Live 1966: The Royal Albert Hall Concert
 - [ ] Bikini Kill - The Singles
 - [ ] The Beach Boys - The Smile Sessions
-- [ ] Amon Tobin - Bricolage
+- [X] Amon Tobin - Bricolage
 - [ ] Walt Mink - El Producto
 - [ ] Various Artists - The Complete Motown Singles, Vol. 7: 1967
 - [ ] 12 Rods - If We Stayed Alive

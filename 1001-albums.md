@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 577/1083
+Current score: 578/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -1073,7 +1073,7 @@ Current score: 577/1083
 - [X] 1067. Songhoy Blues - Music in Exile (2015)
 - [ ] 1068. Skepta - Konnichiwa
 - [X] 1069. Solange - A Seat at the Table (2016)
-- [ ] 1070. David Bowie - Blackstar (2016)
+- [X] 1070. David Bowie - Blackstar (2016)
 - [ ] 1071. Leonard Cohen - You Want It Darker (2016)
 - [ ] 1072. The xx - I See You
 - [X] 1073. Jane Weaver - Modern Kosmology

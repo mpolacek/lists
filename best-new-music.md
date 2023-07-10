@@ -1,9 +1,10 @@
 # Pitchfork Best New Music
 
-Current score: 144/915
+Current score: 145/916
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 916. ANOHNI and the Johnsons - My Back Was A Bridge For You To Cross
 - [X] 915. Joanna Sternberg - I've Got Me
 - [ ] 914. Blue Lake - Sun Arcs
 - [ ] 913. Feeble Little Horse - Girl With Fish
@@ -342,7 +343,7 @@ Current score: 144/915
 - [ ] 580. Porches - Pool
 - [ ] 579. Kevin Gates - Islah
 - [ ] 578. Anderson .Paak - Malibu
-- [ ] 577. David Bowie - Blackstar (2016)
+- [X] 577. David Bowie - Blackstar (2016)
 - [ ] 576. Archy Marshall - A New Place 2 Drown
 - [ ] 575. Baroness - Purple
 - [ ] 574. Jeremih - Late Nights: The Album
