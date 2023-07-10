@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 132/169
+Current score: 133/169
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -171,7 +171,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Rahsaan Roland Kirk - We Free Kings (1961)
 - [x] Stan Getz - Focus (1961)
 - [x] Bill Evans - The Complete Village Vanguard Recordings (1961)
-- [ ] Dexter Gordon - Doin' Alright (1961)
+- [x] Dexter Gordon - Doin' Alright (1961)
 - [ ] Eddie Harris - Exodus to Jazz / Mighty Like A Rose (1961)
 - [ ] Jim Robinson - Jim Robinson's New Orleans Band (1961)
 - [ ] George Russell - Ezz-thetics (1961)
