@@ -145,7 +145,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Woody Herman - Blowin' Up a Storm!
 - [ ] Mutt Carey - Mutt Carey and Lee Collins
 - [x] Wooden Joe Nicholas - Wooden Joe Nicholas
-- [ ] Kenny Clarke - Klook's The Man
+- [x] Kenny Clarke - Klook's The Man
 - [ ] Billy Eckstine - Billy Eckstine 1944-46
 - [ ] Charlie Parker - Charlie Parker with Strings: The Master Takes
 - [ ] Dave Brubeck - The Dave Brubeck Octet
