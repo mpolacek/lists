@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 289/500
+Current score: 290/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -51,7 +51,7 @@ Current score: 289/500
 - [X] 45. Prince - Sign O' the Times (1987)
 - [X] 46. Paul Simon - Graceland
 - [X] 47. Ramones - Ramones (1976)
-- [ ] 48. Bob Marley and the Wailers - Legend: The Best of Bob Marley
+- [X] 48. Bob Marley and the Wailers - Legend: The Best of Bob Marley
 - [X] 49. Outkast - Aquemini
 - [X] 50. Jay-Z - The Blueprint
 - [X] 51. Chuck Berry - The Great Twenty-Eight
