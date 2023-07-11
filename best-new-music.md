@@ -1,9 +1,10 @@
 # Pitchfork Best New Music
 
-Current score: 145/916
+Current score: 146/917
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 917. Julie Byrne - The Greater Wings
 - [ ] 916. ANOHNI and the Johnsons - My Back Was A Bridge For You To Cross
 - [X] 915. Joanna Sternberg - I've Got Me
 - [ ] 914. Blue Lake - Sun Arcs
@@ -537,7 +538,7 @@ Current score: 145/916
 - [ ] 386. Cloud Nothings - Attack on Memory
 - [ ] 385. Sepalcure - Sepalcure
 - [ ] 384. Kate Bush - 50 Words for Snow
-- [ ] 383. Drake - Take Care (2011)
+- [X] 383. Drake - Take Care (2011)
 - [ ] 382. Oneohtrix Point Never - Replica (2011)
 - [ ] 381. A$AP Rocky - Livelovea$AP
 - [ ] 380. Atlas Sound - Parallax

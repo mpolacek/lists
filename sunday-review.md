@@ -1,6 +1,6 @@
 # Pitchfork Sunday Review
 
-Current score: 108/343
+Current score: 109/343
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -232,7 +232,7 @@ Current score: 108/343
 - [ ] 118. The B-52’s - The B-52’s
 - [ ] 117. J Dilla - Welcome 2 Detroit
 - [ ] 116. Maxwell - Maxwell’s Urban Hang Suite
-- [ ] 115. De La Soul - 3 Feet High and Rising
+- [X] 115. De La Soul - 3 Feet High and Rising
 - [X] 114. PJ Harvey - Rid of Me
 - [ ] 113. T.I. - Trap Muzik
 - [X] 112. Milton Nascimento / Lô Borges - Clube Da Esquina

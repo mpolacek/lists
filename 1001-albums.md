@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 578/1083
+Current score: 580/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -130,7 +130,7 @@ Current score: 578/1083
 - [ ] 124. The Pretty Things S.F. Sorrow
 - [X] 125. Simon & Garfunkel - Bookends
 - [ ] 126. Small Faces - Ogden's Nut Gone Flake
-- [ ] 127. The Band, Music From Big Pink (1968)
+- [X] 127. The Band - Music From Big Pink (1968)
 - [ ] 128. Jeff Beck Truth
 - [X] 129. Caetano Veloso - Caetano Veloso
 - [X] 130. Scott Walker - Scott 2
@@ -663,7 +663,7 @@ Current score: 578/1083
 - [X] 657. Bonnie Raitt - Nick of Time (1989)
 - [X] 658. Fugazi - Repeater
 - [ ] 659. Soul II Soul - Club Classics Vol. One
-- [ ] 660. De La Soul - 3 Feet High and Rising
+- [X] 660. De La Soul - 3 Feet High and Rising
 - [ ] 661. Janet Jackson's Rhythm Nation 1814
 - [ ] 662. Jungle Brothers - Done by the Forces of Nature (1989)
 - [X] 663. N.W.A - Straight Outta Compton (1988)

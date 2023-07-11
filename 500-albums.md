@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 290/500
+Current score: 293/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -98,15 +98,15 @@ Current score: 290/500
 - [X] 92. Jimi Hendrix - Axis: Bold as Love
 - [X] 93. Missy "Misdemeanor" Elliott - Supa Dupa Fly
 - [X] 94. The Stooges - Fun House
-- [ ] 95. Drake - Take Care (2011)
+- [X] 95. Drake - Take Care (2011)
 - [X] 96. R.E.M. - Automatic for the People
 - [X] 97. Metallica - Master of Puppets (1986)
 - [X] 98. Lucinda Williams - Car Wheels on a Gravel Road
 - [ ] 99. Taylor Swift - Red
-- [ ] 100. The Band - Music From Big Pink (1968)
+- [X] 100. The Band - Music From Big Pink (1968)
 - [X] 101. Led Zeppelin - Led Zeppelin
 - [X] 102. The Clash - The Clash
-- [ ] 103. De La Soul - 3 Feet High and Rising
+- [X] 103. De La Soul - 3 Feet High and Rising
 - [X] 104. The Rolling Stones - Sticky Fingers
 - [X] 105. The Allman Brothers Band - At Fillmore East (1971)
 - [X] 106. Hole - Live Through This
