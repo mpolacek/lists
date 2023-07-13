@@ -147,7 +147,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Wooden Joe Nicholas - Wooden Joe Nicholas
 - [x] Kenny Clarke - Klook's The Man
 - [ ] Billy Eckstine - Billy Eckstine 1944-46
-- [ ] Charlie Parker - Charlie Parker with Strings: The Master Takes
+- [x] Charlie Parker - Charlie Parker with Strings: The Master Takes
 - [ ] Dave Brubeck - The Dave Brubeck Octet
 - [ ] Illinois Jacquet - Illinois Jacquet 1945-46
 - [ ] Dodo Marmarosa - On Dial: The Complete Sessions
