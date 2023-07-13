@@ -1,6 +1,6 @@
 # Pitchfork Sunday Review
 
-Current score: 109/343
+Current score: 110/343
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -334,7 +334,7 @@ Current score: 109/343
 - [X] 16. Erykah Badu - Mama's Gun
 - [X] 15. Brian Eno - Another Green World
 - [X] 14. Caetano Veloso - Caetano Veloso
-- [ ] 13. Terry Riley - A Rainbow in Curved Air
+- [X] 13. Terry Riley - A Rainbow in Curved Air
 - [ ] 12. The Roots - Things Fall Apart
 - [X] 11. Stevie Wonder - Songs in the Key of Life
 - [ ] 10. PJ Harvey - Dry
