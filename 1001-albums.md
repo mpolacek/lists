@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 581/1083
+Current score: 582/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -258,7 +258,7 @@ Current score: 581/1083
 - [ ] 252. Hugh Masekela - Home Is Where the Music Is (1972)
 - [X] 253. Milton Nascimento E Lô Borges - Clube Da Esquina
 - [ ] 254. Todd Rundgren - Something/Anything?
-- [ ] 255. Nitty Gritty Dirt Band - Will the Circle Be Unbroken (1972)
+- [X] 255. Nitty Gritty Dirt Band - Will the Circle Be Unbroken (1972)
 - [X] 256. Stevie Wonder - Talking Book
 - [ ] 257. Manassas - Manassas (1972)
 - [ ] 258. The Slider ( T. Rex, 1972)
