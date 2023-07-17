@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 137/169
+Current score: 138/169
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -150,7 +150,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Charlie Parker - Charlie Parker with Strings: The Master Takes
 - [x] Dave Brubeck - The Dave Brubeck Octet
 - [x] Illinois Jacquet - Illinois Jacquet 1945-46
-- [ ] Dodo Marmarosa - On Dial: The Complete Sessions
+- [x] Dodo Marmarosa - On Dial: The Complete Sessions
 - [ ] Lennie Tristano - The Complete Lennie Tristano
 - [ ] Louis Jordan - Louis Jordan 1946-47
 - [ ] John Hardee - John Hardee 1946-48
