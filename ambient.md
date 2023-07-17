@@ -1,6 +1,6 @@
 # P4K 50 Best Ambient Albums
 
-Current score: 11/50
+Current score: 12/50
 
 `$ grep "\[X\]" grunge.md | wc -l`
 
@@ -34,7 +34,7 @@ Current score: 11/50
 - [ ] 28. Pauline Oliveros - Accordion and Voice
 - [ ] 29. David Behrman - On the Other Ocean
 - [ ] 30. Julianna Barwick - The Magic Place
-- [ ] 31. Ashra - New Age Of Earth
+- [X] 31. Ashra - New Age Of Earth
 - [ ] 32. La Monte Young / Marian Zazeela - The Tamburas Of Pandit Pran Nath (An Homage)
 - [ ] 33. Steve Roach - Structures from Silence
 - [ ] 34. Charlemagne Palestine - Four Manifestations On Six Elements

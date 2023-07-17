@@ -1,10 +1,13 @@
 # Various albums
 
-Current score: 17/58
+Current score: 19/61
 
 Listened: `$ grep "\[X\]" any.md | wc -l`
 Total: `$ grep "\[.\]" any.md | wc -l`
 
+- [X] Explosions in the Sky - All of a Sudden I Miss Everyone
+- [ ] Explosions in the Sky - The Earth Is Not a Cold Dead Place
+- [ ] Explosions in the Sky - Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever
 - [ ] The Who - Odds & Sods
 - [ ] Various Artists - No Thanks!: The 70s Punk Rebellion
 - [ ] Bob Dylan - The Bootleg Series, Vol. 4: Live 1966: The Royal Albert Hall Concert
@@ -33,7 +36,7 @@ Total: `$ grep "\[.\]" any.md | wc -l`
 - [ ] Bangles - Greatest Hits
 - [ ] Ministry - In Case You Didn't Feel Like Showing Up (Live)
 - [ ] Living Colour - Time's Up
-- [ ] Nick Lowe - Party of One
+- [X] Nick Lowe - Party of One
 - [ ] The Deighton Family - Mama Was Right
 - [ ] Rosanne Cash - Interiors
 - [ ] Bob Dylan - Under the Red Sky
