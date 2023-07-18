@@ -1,10 +1,24 @@
 # Various albums
 
-Current score: 19/61
+Current score: 23/75
 
 Listened: `$ grep "\[X\]" any.md | wc -l`
 Total: `$ grep "\[.\]" any.md | wc -l`
 
+- [X] Toshiko Akiyoshi - Toshiko at Top of the Gate
+- [ ] John Coltrane - A Love Supreme: Live in Seattle
+- [X] John Coltrane and Eric Dolphy - Evenings at the Village Gate
+- [ ] Portico Quartet - Monument
+- [ ] Portico Quartet - Terrain
+- [X] Portico Quartet - Isla
+- [ ] Portico Quartet - Knee-Deep in the North Sea
+- [ ] Portico Quartet - Portico Quartet
+- [ ] The Dream Syndicate - The Days of Wine and Roses (Expanded Edition)
+- [ ] Sonny Rollins - Go West!: The Contemporary Records Albums
+- [ ] Palehound - Eye on the Bat
+- [ ] Palehound - Black Friday
+- [ ] Palehound - A Place I’ll Always Go
+- [X] Palehound - Dry Food
 - [X] Explosions in the Sky - All of a Sudden I Miss Everyone
 - [ ] Explosions in the Sky - The Earth Is Not a Cold Dead Place
 - [ ] Explosions in the Sky - Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever
