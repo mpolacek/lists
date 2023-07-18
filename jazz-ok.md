@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 138/169
+Current score: 139/169
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -146,7 +146,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Mutt Carey - Mutt Carey and Lee Collins
 - [x] Wooden Joe Nicholas - Wooden Joe Nicholas
 - [x] Kenny Clarke - Klook's The Man
-- [ ] Billy Eckstine - Billy Eckstine 1944-46
+- [x] Billy Eckstine - Billy Eckstine 1944-46
 - [x] Charlie Parker - Charlie Parker with Strings: The Master Takes
 - [x] Dave Brubeck - The Dave Brubeck Octet
 - [x] Illinois Jacquet - Illinois Jacquet 1945-46
