@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 139/169
+Current score: 140/169
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -153,7 +153,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Dodo Marmarosa - On Dial: The Complete Sessions
 - [ ] Lennie Tristano - The Complete Lennie Tristano
 - [ ] Louis Jordan - Louis Jordan 1946-47
-- [ ] John Hardee - John Hardee 1946-48
+- [x] John Hardee - John Hardee 1946-48
 - [ ] Tyree Glenn - Tyree Glenn 1947-52
 - [ ] Django Reinhardt - Peche A La Mouche
 - [ ] Louis Armstrong - Louis Armstrong 1947
