@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 140/169
+Current score: 141/169
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -154,7 +154,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Lennie Tristano - The Complete Lennie Tristano
 - [ ] Louis Jordan - Louis Jordan 1946-47
 - [x] John Hardee - John Hardee 1946-48
-- [ ] Tyree Glenn - Tyree Glenn 1947-52
+- [x] Tyree Glenn - Tyree Glenn 1947-52
 - [ ] Django Reinhardt - Peche A La Mouche
 - [ ] Louis Armstrong - Louis Armstrong 1947
 - [ ] Louis Armstrong - Complete New York Town Hall And Boston Symphony Hall Concerts
