@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 582/1083
+Current score: 584/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -975,7 +975,7 @@ Current score: 582/1083
 - [X] 969. Lightning Bolt - Wonderful Rainbow
 - [X] 970. The White Stripes - Elephant
 - [ ] 971. Kings of Leon - Youth and Young Manhood
-- [ ] 972. Rufus Wainwright - Want One
+- [X] 972. Rufus Wainwright - Want One
 - [ ] 973. The Thrills - So Much for the City
 - [X] 974. Yeah Yeah Yeahs - Fever to Tell
 - [X] 975. Amy Winehouse - Frank
@@ -993,7 +993,7 @@ Current score: 582/1083
 - [X] 987. The Streets - A Grand Don't Come for Free
 - [ ] 988. Brian Wilson - Brian Wilson Presents: Smile (2004)
 - [ ] 989. The Beta Band - Heroes to Zeros
-- [ ] 990. Rufus Wainwright Want Two
+- [ ] 990. Rufus Wainwright - Want Two
 - [ ] 991. The Libertines - The Libertines
 - [ ] 992. TV on the Radio - Desperate Youth, Blood Thirsty Babes
 - [ ] 993. Liars - They Were Wrong So We Drowned
@@ -1062,7 +1062,7 @@ Current score: 582/1083
 - [X] 1056. My Bloody Valentine - M B V (2013)
 - [ ] 1057. Kanye West - Yeezus
 - [ ] 1058. David Bowie - The Next Day (2013)
-- [ ] 1059. CHVRCHES - The Bones of What You Believe
+- [X] 1059. CHVRCHES - The Bones of What You Believe
 - [X] 1060. Beyonce - Beyonce
 - [ ] 1061. Taylor Swift - 1989 (2014)
 - [ ] 1062. FKA Twigs - LP1

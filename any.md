@@ -1,6 +1,6 @@
 # Various albums
 
-Current score: 23/75
+Current score: 24/75
 
 Listened: `$ grep "\[X\]" any.md | wc -l`
 Total: `$ grep "\[.\]" any.md | wc -l`
@@ -8,7 +8,7 @@ Total: `$ grep "\[.\]" any.md | wc -l`
 - [X] Toshiko Akiyoshi - Toshiko at Top of the Gate
 - [ ] John Coltrane - A Love Supreme: Live in Seattle
 - [X] John Coltrane and Eric Dolphy - Evenings at the Village Gate
-- [ ] Portico Quartet - Monument
+- [X] Portico Quartet - Monument
 - [ ] Portico Quartet - Terrain
 - [X] Portico Quartet - Isla
 - [ ] Portico Quartet - Knee-Deep in the North Sea

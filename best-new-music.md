@@ -1,6 +1,6 @@
 # Pitchfork Best New Music
 
-Current score: 146/917
+Current score: 147/917
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -444,7 +444,7 @@ Current score: 146/917
 - [ ] 480. Danny Brown - Old
 - [ ] 479. The Field - Cupid's Head
 - [ ] 478. Haim - Days Are Gone
-- [ ] 477. CHVRCHES - The Bones of What You Believe
+- [X] 477. CHVRCHES - The Bones of What You Believe
 - [ ] 476. Drake - Nothing Was the Same
 - [ ] 475. Janelle Monáe - The Electric Lady
 - [ ] 474. Forest Swords - Engravings
