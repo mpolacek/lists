@@ -1,11 +1,11 @@
 # Pitchfork Sunday Review
 
-Current score: 110/343
+Current score: 112/343
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
 - [ ] 343. Dolly Parton / Linda Ronstadt / Emmylou Harris - Trio
-- [ ] 342. Lush - Spooky
+- [X] 342. Lush - Spooky
 - [ ] 341. Savage - Tonight
 - [ ] 340. Meshell Ndegeocello - Bitter
 - [ ] 339. Labi Siffre - Crying Laughing Loving Lying
@@ -303,7 +303,7 @@ Current score: 110/343
 - [ ] 47. Violent Femmes - Violent Femmes
 - [X] 46. JAY-Z - Reasonable Doubt
 - [X] 45. Green Day - Dookie
-- [ ] 44. Fugazi - In on the Kill Taker
+- [X] 44. Fugazi - In on the Kill Taker
 - [X] 43. Portishead - Dummy
 - [X] 42. Black Flag - Damaged
 - [X] 41. Sade - Love Deluxe

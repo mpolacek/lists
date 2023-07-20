@@ -1,6 +1,6 @@
 # P4K 50 Best Shoegaze Albums
 
-Current score: 1/50
+Current score: 2/50
 
 `$ grep "\[X\]" shoegaze.md | wc -l`
 
@@ -30,7 +30,7 @@ Current score: 1/50
 - [ ] 24. Lilys - In the Presence of Nothing
 - [ ] 25. The Boo Radleys - Giant Steps
 - [ ] 26. Flying Saucer Attack - Further
-- [ ] 27. Lush - Spooky
+- [X] 27. Lush - Spooky
 - [ ] 28. Bardo Pond - Amanita
 - [ ] 29. Medicine - Shot Forth Self Living
 - [ ] 30. Blonde Redhead - 23
