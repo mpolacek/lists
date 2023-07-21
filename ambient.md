@@ -1,6 +1,6 @@
 # P4K 50 Best Ambient Albums
 
-Current score: 12/50
+Current score: 14/50
 
 `$ grep "\[X\]" grunge.md | wc -l`
 
@@ -10,11 +10,11 @@ Current score: 12/50
 - [X] 4. Terry Riley - A Rainbow in Curved Air
 - [X] 5. The KLF - Chill Out
 - [X] 6. Stars of the Lid - The Tired Sounds of Stars of the Lid
-- [ ] 7. Oval - 94diskont
+- [X] 7. Oval - 94diskont
 - [ ] 8. Pauline Oliveros / Stuart Dempster / Panaiotis - Deep Listening
 - [ ] 9. Tim Hecker - Harmony in Ultraviolet
 - [ ] 10. Fripp & Eno - Evening Star
-- [ ] 11. GAS - Pop
+- [X] 11. GAS - Pop
 - [ ] 12. Laurie Spiegel - The Expanding Universe
 - [ ] 13. Brian Eno - Apollo
 - [ ] 14. The Caretaker - An Empty Bliss Beyond This World
