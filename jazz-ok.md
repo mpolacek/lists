@@ -155,7 +155,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Louis Jordan - Louis Jordan 1946-47
 - [x] John Hardee - John Hardee 1946-48
 - [x] Tyree Glenn - Tyree Glenn 1947-52
-- [x] Django Reinhardt - Peche A La Mouche
+- [ ] Django Reinhardt - Peche A La Mouche
 - [ ] Louis Armstrong - Louis Armstrong 1947
 - [ ] Louis Armstrong - Complete New York Town Hall And Boston Symphony Hall Concerts
 - [ ] Dexter Gordon - Dexter Gordon On Dial: The Complete Sessions
