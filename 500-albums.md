@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 293/500
+Current score: 294/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -342,7 +342,7 @@ Current score: 293/500
 - [ ] 336. Roxy Music - Avalon
 - [ ] 337. Bob Dylan - John Wesley Harding
 - [X] 338. Brian Eno - Another Green World
-- [ ] 339. Janet Jackson - Rhythm Nation 1814 (1989)
+- [X] 339. Janet Jackson - Rhythm Nation 1814 (1989)
 - [ ] 340. Snoop Doggy Dogg - Doggystyle
 - [X] 341. The Smashing Pumpkins - Siamese Dream
 - [X] 342. The Beatles - Let It Be

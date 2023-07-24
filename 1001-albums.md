@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 584/1083
+Current score: 585/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -664,7 +664,7 @@ Current score: 584/1083
 - [X] 658. Fugazi - Repeater
 - [ ] 659. Soul II Soul - Club Classics Vol. One
 - [X] 660. De La Soul - 3 Feet High and Rising
-- [ ] 661. Janet Jackson's Rhythm Nation 1814
+- [X] 661. Janet Jackson's Rhythm Nation 1814
 - [ ] 662. Jungle Brothers - Done by the Forces of Nature (1989)
 - [X] 663. N.W.A - Straight Outta Compton (1988)
 - [X] 664. Cocteau Twins - Heaven or Las Vegas (1990)

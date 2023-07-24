@@ -1,6 +1,6 @@
 # Pitchfork Sunday Review
 
-Current score: 112/343
+Current score: 113/343
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -329,7 +329,7 @@ Current score: 112/343
 - [X] 21. Bob Dylan - Blood on the Tracks
 - [ ] 20. Ramones - End of the Century
 - [ ] 19. Randy Newman - Good Old Boys
-- [ ] 18. Janet Jackson - Rhythm Nation 1814
+- [X] 18. Janet Jackson - Rhythm Nation 1814
 - [X] 17. Guided by Voices - Alien Lanes
 - [X] 16. Erykah Badu - Mama's Gun
 - [X] 15. Brian Eno - Another Green World
