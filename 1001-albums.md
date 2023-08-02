@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 585/1083
+Current score: 587/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -617,9 +617,9 @@ Current score: 585/1083
 - [X] 611. The Pogues - If I Should Fall From Grace With God (1988)
 - [ ] 612. Leonard Cohen - I'M Your Man (1988)
 - [X] 613. The Waterboys - Fisherman's Blues
-- [ ] 614. Fishbone - Truth and Soul (1988)
+- [X] 614. Fishbone - Truth and Soul (1988)
 - [ ] 615. Everything but the Girl - Idlewild (1988)
-- [ ] 616. Living Colour - Vivid
+- [X] 616. Living Colour - Vivid
 - [X] 617. Mudhoney - Superfuzz Bigmuff
 - [X] 618. R.E.M. - Green
 - [ ] 619. Happy Mondays - Bummed

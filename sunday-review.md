@@ -1,6 +1,6 @@
 # Pitchfork Sunday Review
 
-Current score: 113/343
+Current score: 115/343
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -35,7 +35,7 @@ Current score: 113/343
 - [ ] 315. Frank Sinatra - Watertown
 - [ ] 314. Joni Mitchell - Hejira
 - [ ] 313. The Roches - The Roches
-- [ ] 312. Living Colour - Vivid
+- [X] 312. Living Colour - Vivid
 - [ ] 311. Adam Sandler - They’re All Gonna Laugh at You!
 - [ ] 310. Cake - Fashion Nugget
 - [ ] 309. Soft Cell - Non-Stop Erotic Cabaret
@@ -266,7 +266,7 @@ Current score: 113/343
 - [ ] 84. Belle and Sebastian - The Boy With the Arab Strap
 - [X] 83. OutKast - Stankonia
 - [ ] 82. La Monte Young - The Well-Tuned Piano 81 X 25 6:17:50 - 11:18:59 PM NYC
-- [ ] 81. 2Pac - All Eyez on Me
+- [X] 81. 2Pac - All Eyez on Me
 - [ ] 80. The-Dream - Love/Hate
 - [ ] 79. Gil Scott-Heron / Brian Jackson - Winter in America
 - [X] 78. The Blue Nile - Hats

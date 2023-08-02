@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 294/500
+Current score: 295/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -394,9 +394,9 @@ Current score: 294/500
 - [ ] 388. Aretha Franklin - Young, Gifted & Black
 - [ ] 389. Mariah Carey - The Emancipation of Mimi
 - [X] 390. Pixies - Surfer Rosa
-- [ ] 391. Kelis-Kaleidoscope
+- [ ] 391. Kelis - Kaleidoscope
 - [ ] 392. Ike Turner & Tina Turner - Proud Mary: The Best Of..
-- [ ] 393. 1989 - Taylor Swift
+- [ ] 393. Taylor Swift - 1989
 - [ ] 394. Diana Ross - Diana
 - [ ] 395. D'Angelo and the Vanguard - Black Messiah
 - [ ] 396. Todd Rundgren - Something/Anything?
@@ -438,8 +438,8 @@ Current score: 294/500
 - [ ] 432. Usher - Confessions
 - [X] 433. LCD Soundsystem - Sound of Silver
 - [X] 434. Pavement - Crooked Rain, Crooked Rain
-- [ ] 435. Actually - The Pet Shop Boys
-- [ ] 436. All Eyez on Me
+- [ ] 435. The Pet Shop Boys - Actually
+- [X] 436. 2Pac - All Eyez on Me
 - [X] 437. Primal Scream - Screamadelica
 - [X] 438. Blur - Parklife (1994)
 - [ ] 439. James Brown - Sex Machine
