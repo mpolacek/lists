@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 142/169
+Current score: 144/169
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -151,8 +151,8 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Dave Brubeck - The Dave Brubeck Octet
 - [x] Illinois Jacquet - Illinois Jacquet 1945-46
 - [x] Dodo Marmarosa - On Dial: The Complete Sessions
-- [ ] Lennie Tristano - The Complete Lennie Tristano
-- [ ] Louis Jordan - Louis Jordan 1946-47
+- [x] Lennie Tristano - The Complete Lennie Tristano
+- [x] Louis Jordan - Louis Jordan 1946-47
 - [x] John Hardee - John Hardee 1946-48
 - [x] Tyree Glenn - Tyree Glenn 1947-52
 - [x] Django Reinhardt - Peche A La Mouche
