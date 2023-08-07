@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 145/169
+Current score: 146/169
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -156,7 +156,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] John Hardee - John Hardee 1946-48
 - [x] Tyree Glenn - Tyree Glenn 1947-52
 - [x] Django Reinhardt - Peche A La Mouche
-- [ ] Louis Armstrong - Louis Armstrong 1947
+- [x] Louis Armstrong - Louis Armstrong 1947
 - [ ] Louis Armstrong - Complete New York Town Hall And Boston Symphony Hall Concerts
 - [ ] Dexter Gordon - Dexter Gordon On Dial: The Complete Sessions
 - [ ] Fats Navarro - The Complete Fats Navarro On Blue Note and Capitol
