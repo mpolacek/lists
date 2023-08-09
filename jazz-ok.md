@@ -158,7 +158,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Django Reinhardt - Peche A La Mouche
 - [x] Louis Armstrong - Louis Armstrong 1947
 - [x] Louis Armstrong - Complete New York Town Hall And Boston Symphony Hall Concerts
-- [ ] Dexter Gordon - Dexter Gordon On Dial: The Complete Sessions
+- [x] Dexter Gordon - Dexter Gordon On Dial: The Complete Sessions
 - [ ] Fats Navarro - The Complete Fats Navarro On Blue Note and Capitol
 - [x] Miles Davis - The Complete Birth Of The Cool (1948-50)
 
