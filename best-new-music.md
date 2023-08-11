@@ -1,9 +1,10 @@
 # Pitchfork Best New Music
 
-Current score: 147/917
+Current score: 149/918
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 918. Noname - Sundial
 - [ ] 917. Julie Byrne - The Greater Wings
 - [ ] 916. ANOHNI and the Johnsons - My Back Was A Bridge For You To Cross
 - [X] 915. Joanna Sternberg - I've Got Me
@@ -574,8 +575,8 @@ Current score: 147/917
 - [ ] 350. The Weeknd - House of Balloons (2011)
 - [ ] 349. Kurt Vile - Smoke Ring for My Halo
 - [ ] 348. Lykke Li - Wounded Rhymes
-- [ ] 347. Toro Y Moi - Underneath the Pine
-- [ ] 346. Julianna Barwick - The Magic Place
+- [X] 347. Toro Y Moi - Underneath the Pine
+- [X] 346. Julianna Barwick - The Magic Place
 - [ ] 345. Tim Hecker - Ravedeath, 1972
 - [ ] 344. Nicolas Jaar - Space Is Only Noise
 - [X] 343. PJ Harvey - Let England Shake

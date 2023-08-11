@@ -1,9 +1,13 @@
 # Pitchfork Sunday Review
 
-Current score: 115/343
+Current score: 115/347
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 347. Pink Floyd - The Dark Side of the Moon
+- [ ] 346. Elliott Smith - XO
+- [ ] 345. Dionne Warwick - Presenting Dionne Warwick
+- [ ] 344. The Wallflowers - Bringing Down the Horse
 - [ ] 343. Dolly Parton / Linda Ronstadt / Emmylou Harris - Trio
 - [X] 342. Lush - Spooky
 - [ ] 341. Savage - Tonight

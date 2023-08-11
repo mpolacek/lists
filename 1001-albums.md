@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 587/1083
+Current score: 589/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -208,7 +208,7 @@ Current score: 587/1083
 - [ ] 202. Paul McCartney - McCartney (1970)
 - [ ] 203. Santana - Abraxas (1970)
 - [X] 204. Syd Barrett - The Madcap Laughs (1970)
-- [ ] 205. Jethro Tull - Aqualung
+- [X] 205. Jethro Tull - Aqualung
 - [ ] 206. David Crosby - If I Could Only Remember My Name
 - [X] 207. Sly & the Family Stone - There's a Riot Goin' on (1971)
 - [X] 208. Marvin Gaye - What's Going On
@@ -738,7 +738,7 @@ Current score: 587/1083
 - [ ] 732. Ali Fateh Nusart Khan - Devotional Songs
 - [ ] 733. P.J. Harvey - Dry
 - [X] 734. Suede - Suede
-- [ ] 735. Paul Weller - Wild Wood
+- [X] 735. Paul Weller - Wild Wood
 - [X] 736. Smashing Pumpkins - Siamese Dream
 - [ ] 737. The Auteurs New Wave
 - [X] 738. Liz Phair - Exile in Guyville

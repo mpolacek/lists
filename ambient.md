@@ -1,6 +1,6 @@
 # P4K 50 Best Ambient Albums
 
-Current score: 14/50
+Current score: 15/50
 
 `$ grep "\[X\]" grunge.md | wc -l`
 
@@ -33,7 +33,7 @@ Current score: 14/50
 - [ ] 27. Oneohtrix Point Never - Rifts
 - [ ] 28. Pauline Oliveros - Accordion and Voice
 - [ ] 29. David Behrman - On the Other Ocean
-- [ ] 30. Julianna Barwick - The Magic Place
+- [X] 30. Julianna Barwick - The Magic Place
 - [X] 31. Ashra - New Age Of Earth
 - [ ] 32. La Monte Young / Marian Zazeela - The Tamburas Of Pandit Pran Nath (An Homage)
 - [ ] 33. Steve Roach - Structures from Silence

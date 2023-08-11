@@ -1,10 +1,12 @@
 # Various albums
 
-Current score: 24/75
+Current score: 24/77
 
 Listened: `$ grep "\[X\]" any.md | wc -l`
 Total: `$ grep "\[.\]" any.md | wc -l`
 
+- [ ] Bush Tetras - They Live in My Head
+- [ ] The Clientele - I Am Not There Anymore
 - [X] Toshiko Akiyoshi - Toshiko at Top of the Gate
 - [ ] John Coltrane - A Love Supreme: Live in Seattle
 - [X] John Coltrane and Eric Dolphy - Evenings at the Village Gate
