@@ -1,6 +1,6 @@
 # Pitchfork Best New Music
 
-Current score: 149/918
+Current score: 151/918
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -841,7 +841,7 @@ Current score: 149/918
 - [ ] 84. The Go Team - Thunder Lightning Strike
 - [ ] 83. Panda Bear - Young Prayer
 - [ ] 82. Brian Wilson - Smile
-- [ ] 81. Interpol - Antics
+- [X] 81. Interpol - Antics
 - [ ] 80. Dungen - Ta Det Lugnt
 - [X] 79. The Foreign Exchange - Connected
 - [X] 78. Arcade Fire - Funeral
@@ -883,7 +883,7 @@ Current score: 149/918
 - [ ] 42. Basement Jaxx - Kish Kash
 - [X] 41. The Shins - Chutes Too Narrow
 - [ ] 40. Non-Prophets - Hope
-- [ ] 39. The Books - The Lemon of Pink
+- [X] 39. The Books - The Lemon of Pink
 - [ ] 38. Cyann & Ben - Spring
 - [X] 37. The Wrens - The Meadowlands
 - [ ] 36. Need New Body - UFO

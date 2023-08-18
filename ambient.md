@@ -1,6 +1,6 @@
 # P4K 50 Best Ambient Albums
 
-Current score: 15/50
+Current score: 16/50
 
 `$ grep "\[X\]" grunge.md | wc -l`
 
@@ -39,7 +39,7 @@ Current score: 15/50
 - [ ] 33. Steve Roach - Structures from Silence
 - [ ] 34. Charlemagne Palestine - Four Manifestations On Six Elements
 - [ ] 35. Laraaji - Ambient 3: Day of Radiance
-- [ ] 36. Windy & Carl - Depths
+- [X] 36. Windy & Carl - Depths
 - [ ] 37. Tim Hecker - Virgins
 - [X] 38. Biosphere - Substrata
 - [ ] 39. Suzanne Ciani - Buchla Concerts 1975

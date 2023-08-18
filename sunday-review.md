@@ -1,9 +1,10 @@
 # Pitchfork Sunday Review
 
-Current score: 115/347
+Current score: 115/348
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 348. Keith Jarrett - Solo Concerts: Bremen/Lausanne
 - [ ] 347. Pink Floyd - The Dark Side of the Moon
 - [ ] 346. Elliott Smith - XO
 - [ ] 345. Dionne Warwick - Presenting Dionne Warwick
