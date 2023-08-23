@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 150/169
+Current score: 151/169
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -173,7 +173,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Bill Evans - The Complete Village Vanguard Recordings (1961)
 - [x] Dexter Gordon - Doin' Alright (1961)
 - [x] Eddie Harris - Exodus to Jazz / Mighty Like A Rose (1961)
-- [ ] Jim Robinson - Jim Robinson's New Orleans Band (1961)
+- [x] Jim Robinson - Jim Robinson's New Orleans Band (1961)
 - [ ] George Russell - Ezz-thetics (1961)
 - [ ] Grant Green - Born To Be Blue (1961-62)
 - [ ] Gene Ammons - The Gene Ammons Story: Gentle Jug (1961-62)
