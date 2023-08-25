@@ -1,10 +1,14 @@
 # Various albums
 
-Current score: 24/77
+Current score: 26/81
 
 Listened: `$ grep "\[X\]" any.md | wc -l`
 Total: `$ grep "\[.\]" any.md | wc -l`
 
+- [X] Bebel Gilberto - João
+- [ ] Thelonious Monk - Misterioso
+- [ ] Laurie Anderson - Heart of a Dog
+- [X] Sun Ra - Lanquidity
 - [ ] Bush Tetras - They Live in My Head
 - [ ] The Clientele - I Am Not There Anymore
 - [X] Toshiko Akiyoshi - Toshiko at Top of the Gate

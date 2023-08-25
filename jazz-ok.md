@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 152/169
+Current score: 152/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -160,11 +160,97 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Louis Armstrong - Complete New York Town Hall And Boston Symphony Hall Concerts
 - [x] Dexter Gordon - Dexter Gordon On Dial: The Complete Sessions
 - [x] Fats Navarro - The Complete Fats Navarro On Blue Note and Capitol
+- [ ] Thelonious Monk - Genius of Modern Music: Volumes 1 & 2
+- [ ] Tony Parenti - Tony Parenti & His New Orleanians
+- [ ] Charlie Barnet - The Capitol Big Band Sessions
+- [ ] Charlie Ventura - Complete 1949 Pasadena Concert
+- [ ] Lee Konitz - Subconscious-Lee
+- [ ] Milt Jackson - Wizard of the Vibes
+- [ ] Turk Murphy - Turk Murphy's Jazz Band Favourites
+- [ ] Flip Phillips - Flippin' The Blues
+- [ ] Bud Powell - The Amazing Bud Powell: Volumes 1 & 2
 - [x] Miles Davis - The Complete Birth Of The Cool (1948-50)
+- [ ] Lu Watters - Doing the Hambone at Kelly's: Volumes 1 & 2
 
 ## The '50s
 
+- [ ] George Shearing - Verve Jazz Masters: George Shearing
+- [ ] Humphrey Lyttelton - The Parlophones: Volumes One-Four
+- [ ] Ella Fitzgerald - The Enchanting Ella Fitzgerald: Live at Birdland 1950-1952
+- [ ] Joe Bushkin - Piano Moods / After Hours
+- [ ] Stan Getz - The Complete Roost Recordings
+- [ ] Wardley Gray - Memorial: Volumes 1 & 2
+- [ ] Stan Kenton - City of Glass | The Innovations Orchestra
+- [ ] Chico O'Farrill - Cuban Blues: The Chico O'Farrill Sessions
+- [ ] Louis Armstrong - California Concerts
+- [ ] Charles Mingus - The Complete Debut Recordings
+- [ ] Kid Thomas (Valentine) - Kid Thomas and his Algiers Stompers
+- [ ] Sidney Bechet - The Fabulous Sidney Bechet
+- [ ] Jimmy Forrest - Night Train
+- [ ] Billie Holiday - Lady in Autumn
+- [ ] Sharkey Bonano - At Lenfant's Lounge
+- [ ] George Wallington - George Wallington Trios
+- [ ] Howard Rumsey - Sunday Jazz A La Lighthouse: Volumes 1-3
+- [ ] Gerry Mulligan - The Original Quartet
+- [ ] Wilbur De Paris - Uproarious Twenties in Dixieland / Rampart Street Ramblers / New New Orleans Jazz
+- [ ] Lester Young - The President Plays
+- [ ] Red Rodney - Red Rodney Quintets
+- [ ] Shorty Rogers - The Sweetheart of Sigmund Freud
+- [ ] Freddy Randall - Freddy Randall And His Band
+- [ ] Charlie Parker - The Quintet: Jazz at Massey Hall
+- [ ] Ben Webster - King of the Tenors
 - [x] Clifford Brown - Memorial Album (1953)
+- [ ] George Lewis - Jazz Funeral in New Orleans
+- [ ] Elmo Hope - Trio and Quintet
+- [ ] J.J. Johnson - The Eminent Jay Jay Johnson: Volumes 1 & 2
+- [ ] Vic Dickenson - The Essential Vic Dickenson
+- [ ] Bengt Hallberg - All-Star Sessions 1953-1954
+- [ ] Lars Gullin - Danny's Dream
+- [ ] Art Tatum - The Complete Pablo Solo Masterpieces | The Tatum Group Masterpieces: Volume 1
+- [ ] Mel Powell - Borderline-Thigamagig
+- [ ] James Moody - Moody's Mood For Blues
+- [ ] Art Blakey - A Night at Birdland: Volumes 1 & 2
+- [ ] Blue Mitchell - The Thing To Do
+- [ ] Lennie Tristano - Lennie Tristano / The New Tristano
+- [ ] June Christy - Something Cool: The Complete Mono and Stereo Versions
+- [ ] Al Haig - Esoteric
+- [ ] Percy Humphrey - Percy Humphrey's Sympathy Five
+- [ ] Jimmy Raney - A
+- [ ] Bud Shank - Jazz In Hollywood
+- [ ] Chris Barber - The Complete Decca Sessions 1954/55
+- [ ] John Dankworth - The Vintage Years
+- [ ] Johnny St Cyr - Johnny St Cyr
+- [ ] Benny Goodman - B.G. In Hi-Fi
+- [ ] Oscar Pettiford - Nonet & Octet 1954-55
+- [ ] Charles Thompson - For The Ears
+- [ ] Richard Twardzik - Complete Recordings
+- [ ] Dinah Washington - Dinah Jams
+- [ ] Lennie Niehaus - The Quintets & Strings
+- [ ] Sarah Vaughan - Sarah Vaughan (1954)
+- [ ] Barney Kessel - To Swing Or Not To Swing
+- [ ] Hampton Hawes - The Trios: Volumes 1 & 2
+- [ ] Chico Hamilton - Live at the Strollers
+- [ ] Erroll Garner - Concert By The Sea
+- [ ] Joe Newman - The Count's Men
+- [ ] Ruby Braff - 2x2: Ruby Braff And Ellis Larkins Play Rodgers And Hart
+- [ ] Red Callender - Swingin' Suite
+- [ ] Lambert, Hendricks & Ross - Sing A Song Of Basie
+- [ ] Frank Morgan - Gene Norman Presents Frank Morgan
+- [ ] Carl Perkins - Introducing
+- [ ] Clifford Brown - Alone Together
+- [ ] Helen Merrill - Helen Merrill With Clifford Brown And Gil Evans
+- [ ] Pee Wee Erwin - Complete Fifties Recordings
+- [ ] Jo Jones - The Essential Jo Jones
+- [ ] Coleman Hawkins - The Stanley Dance Sessions
+- [ ] Curtis Counce - The Complete Studio Recordings: The Master Takes
+- [ ] J.R. Monterose - J.R. Monterose
+- [ ] Mel Torme - Sings Fred Astaire
+- [ ] Teddy Charles - The Teddy Charles Tentet
+- [ ] Charles Mingus - Pithecanthropus Erectus
+- [ ] Tal Farlow - The Swinging Guitar of Tal Farlow
+- [ ] Chet Baker - Chet Baker And Crew
+- [ ] Bob Brookmeyer - Brookmeyer
+- [ ] Cecil Taylor - Jazz Advance
 
 ## The '60s
 
@@ -180,10 +266,12 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Oscar Peterson - Night Train (1962)
 - [ ] Cecil Taylor - Nefertiti, The Beautiful One Has Come (1962)
 - [ ] Paul Desmond - Glad To Be Unhappy (1963-64)
-- [ ] Duke Ellington - The Far East Suite (1966)
 - [ ] McCoy Tyner - The Real McCoy (1967)
 - [ ] Thelonious Monk - Underground (1968)
 - [ ] Jimmy Rowles - Our Delight (1968)
+- [ ] Miles Davis - The Complete Live At The Plugged Nickel
+- [ ] Duke Ellington - The Far East Suite (1966)
+- [ ] Cecil Taylor - Conquistador!
 
 ## The '70s
 
@@ -195,6 +283,8 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Mark Murphy - Bop For Kerouac (1981)
 - [ ] Sarah Vaughan - Crazy And Mixed Up (1982)
 - [ ] Miroslav Vitous - Journey's End (1982)
+- [ ] Cecil Taylor - Celebrated Blazons
+- [ ] Sun Ra - Mayan Temples
 
 ## The '90s
 

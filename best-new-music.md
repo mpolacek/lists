@@ -1,6 +1,6 @@
 # Pitchfork Best New Music
 
-Current score: 151/918
+Current score: 152/918
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -519,7 +519,7 @@ Current score: 151/918
 - [ ] 406. Mount Eerie - Clear Moon
 - [ ] 405. El-P - Cancer for Cure
 - [ ] 404. Killer Mike - R.A.P Music
-- [ ] 403. Beach House - Bloom
+- [X] 403. Beach House - Bloom
 - [ ] 402. Actress - R.I.P.
 - [ ] 401. Death Grips - The Money Store
 - [ ] 400. Spiritualized - Sweet Heart Sweet Light
