@@ -1,14 +1,15 @@
 # Various albums
 
-Current score: 26/86
+Current score: 28/87
 
 Listened: `$ grep "\[X\]" any.md | wc -l`
 Total: `$ grep "\[.\]" any.md | wc -l`
 
+- [X] Morton Feldman - Rothko Chapel
 - [ ] Tyler Childers - Purgatory
 - [ ] Tyler Childers - Live on Red Barn Radio I & II
 - [ ] Tyler Childers - Country Squire
-- [ ] The Olivia Tremor Control - Music From the Unrealized Film Script: Dusk at Cubist Castle
+- [X] The Olivia Tremor Control - Music From the Unrealized Film Script: Dusk at Cubist Castle
 - [ ] The Olivia Tremor Control - Black Foliage: Animation Music Vol. 1
 - [X] Bebel Gilberto - João
 - [ ] Thelonious Monk - Misterioso

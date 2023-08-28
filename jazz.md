@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 25/259
+Current score: 26/259
 
 Listened: `$ grep "\[[xX]\]" jazz.md | wc -l`
 
@@ -250,7 +250,7 @@ Total: `$ grep "\[.\]" jazz.md | wc -l`
 - [ ] Tal Farlow - The Swinging Guitar of Tal Farlow
 - [ ] Chet Baker - Chet Baker And Crew
 - [ ] Bob Brookmeyer - Brookmeyer
-- [ ] Cecil Taylor - Jazz Advance
+- [X] Cecil Taylor - Jazz Advance
 
 ## The '60s
 
