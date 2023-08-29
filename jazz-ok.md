@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 152/259
+Current score: 153/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -261,7 +261,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Eddie Harris - Exodus to Jazz / Mighty Like A Rose (1961)
 - [x] Jim Robinson - Jim Robinson's New Orleans Band (1961)
 - [x] George Russell - Ezz-thetics (1961)
-- [ ] Grant Green - Born To Be Blue (1961-62)
+- [x] Grant Green - Born To Be Blue (1961-62)
 - [ ] Gene Ammons - The Gene Ammons Story: Gentle Jug (1961-62)
 - [ ] Oscar Peterson - Night Train (1962)
 - [ ] Cecil Taylor - Nefertiti, The Beautiful One Has Come (1962)
