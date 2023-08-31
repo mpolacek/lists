@@ -1,10 +1,25 @@
 # Various albums
 
-Current score: 28/87
+Current score: 31/102
 
 Listened: `$ grep "\[X\]" any.md | wc -l`
 Total: `$ grep "\[.\]" any.md | wc -l`
 
+- [ ] Wussy - What Heaven is Like (2018)
+- [ ] Wussy - Forever Sounds (2016)
+- [ ] Wussy - Attica! (2014)
+- [ ] Wussy - Strawberry (2011)
+- [ ] Wussy - Wussy (2009)
+- [ ] Wussy - Left for Dead (2007)
+- [X] Wussy - Funeral Dress (2005)
+- [ ] Stars of the Lid - And Their Refinement of the Decline
+- [ ] Stars of the Lid - The Tired Sounds of Stars of the Lid
+- [ ] Stars of the Lid - Avec Laudenum
+- [ ] Stars of the Lid - The Ballasted Orchestra
+- [ ] Stars of the Lid - Gravitational Pull vs. the Desire for an Aquatic Life
+- [ ] Brian McBride - When the Detail Lost Its Freedom
+- [X] Brian McBride - The Effective Disconnect
+- [X] Cecil Taylor - Looking Ahead!
 - [X] Morton Feldman - Rothko Chapel
 - [ ] Tyler Childers - Purgatory
 - [ ] Tyler Childers - Live on Red Barn Radio I & II

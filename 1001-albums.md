@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 589/1083
+Current score: 590/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -830,7 +830,7 @@ Current score: 589/1083
 - [ ] 824. Maxwell - Urban Hang Suite
 - [ ] 825. The Charlatans - Tellin' Stories
 - [X] 826. Manic Street Preachers - Everything Must Go
-- [ ] 827. Everything but the Girl Walking Wounded
+- [X] 827. Everything But The Girl - Walking Wounded
 - [X] 828. Nick Cave & the Bad Seeds - Murder Ballads (1996)
 - [ ] 829. Ltj Bukem Locial Progression
 - [X] 830. Underworld - Second Toughest in the Infants

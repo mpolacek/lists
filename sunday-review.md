@@ -1,6 +1,6 @@
 # Pitchfork Sunday Review
 
-Current score: 115/348
+Current score: 117/348
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -69,7 +69,7 @@ Current score: 115/348
 - [ ] 286. Throwing Muses - Throwing Muses
 - [ ] 285. Busta Rhymes - When Disaster Strikes...
 - [ ] 284. Emmylou Harris - Wrecking Ball
-- [ ] 283. The Allman Brothers Band - At Fillmore East
+- [X] 283. The Allman Brothers Band - At Fillmore East
 - [ ] 282. The Specials - The Specials
 - [X] 281. Tricky - Maxinquaye
 - [ ] 280. Happy End - Kazemachi Roman
@@ -216,7 +216,7 @@ Current score: 115/348
 - [ ] 139. Fiona Apple - When the Pawn...
 - [ ] 138. Eve - Let There Be Eve...Ruff Ryders’ First Lady
 - [ ] 137. David Crosby - If I Could Only Remember My Name
-- [ ] 136. Everything But the Girl - Walking Wounded
+- [X] 136. Everything But the Girl - Walking Wounded
 - [X] 135. Nirvana - MTV Unplugged in New York
 - [X] 134. Tortoise - TNT
 - [ ] 133. Prince Paul - A Prince Among Thieves

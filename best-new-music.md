@@ -1,9 +1,10 @@
 # Pitchfork Best New Music
 
-Current score: 152/918
+Current score: 152/919
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 919. jaimie branch - Fly or Die Fly or Die Fly or Die ((world war))
 - [ ] 918. Noname - Sundial
 - [ ] 917. Julie Byrne - The Greater Wings
 - [ ] 916. ANOHNI and the Johnsons - My Back Was A Bridge For You To Cross
