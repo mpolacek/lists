@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 295/500
+Current score: 297/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -303,8 +303,8 @@ Current score: 295/500
 - [ ] 297. Peter Gabriel - So
 - [ ] 298. Tom Petty - Full Moon Fever
 - [X] 299. B.B. King - Live at the Regal
-- [ ] 300. Shania Twain - Come on Over (1997)
-- [ ] 301. New York Dolls - New York Dolls
+- [X] 300. Shania Twain - Come on Over (1997)
+- [X] 301. New York Dolls - New York Dolls
 - [X] 302. Neil Young - Tonight's the Night
 - [ ] 303. ABBA - The Definitive Collection (2001)
 - [ ] 304. Bill Withers - Just as I Am

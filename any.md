@@ -1,10 +1,11 @@
 # Various albums
 
-Current score: 31/102
+Current score: 31/103
 
 Listened: `$ grep "\[X\]" any.md | wc -l`
 Total: `$ grep "\[.\]" any.md | wc -l`
 
+- [ ] Ratboys - The Window
 - [ ] Wussy - What Heaven is Like (2018)
 - [ ] Wussy - Forever Sounds (2016)
 - [ ] Wussy - Attica! (2014)

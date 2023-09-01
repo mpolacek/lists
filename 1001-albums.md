@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 590/1083
+Current score: 591/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -303,7 +303,7 @@ Current score: 590/1083
 - [ ] 297. Alice Cooper - Billion Dollar Babies
 - [X] 298. Iggy and the Stooges - Raw Power (1973)
 - [X] 299. Isley Brothers - 3+3
-- [ ] 300. New York Dolls - New York Dolls
+- [X] 300. New York Dolls - New York Dolls
 - [X] 301. Brian Eno - Here Come the Warm Jets (1973)
 - [X] 302. Bad Company - Bad Company
 - [ ] 303. The Lamb Lies Down on Broadway (Genesis, 1974)
