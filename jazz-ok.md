@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 154/259
+Current score: 155/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -187,7 +187,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Kid Thomas (Valentine) - Kid Thomas and his Algiers Stompers
 - [ ] Sidney Bechet - The Fabulous Sidney Bechet
 - [ ] Jimmy Forrest - Night Train
-- [ ] Billie Holiday - Lady in Autumn
+- [x] Billie Holiday - Lady in Autumn
 - [ ] Sharkey Bonano - At Lenfant's Lounge
 - [ ] George Wallington - George Wallington Trios
 - [ ] Howard Rumsey - Sunday Jazz A La Lighthouse: Volumes 1-3
