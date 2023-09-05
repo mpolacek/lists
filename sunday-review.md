@@ -1,11 +1,13 @@
 # Pitchfork Sunday Review
 
-Current score: 118/348
+Current score: 120/350
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [X] 350. The Smashing Pumpkins - Siamese Dream
+- [ ] 349. Lyle Lovett - Pontiac
 - [ ] 348. Keith Jarrett - Solo Concerts: Bremen/Lausanne
-- [ ] 347. Pink Floyd - The Dark Side of the Moon
+- [X] 347. Pink Floyd - The Dark Side of the Moon
 - [ ] 346. Elliott Smith - XO
 - [ ] 345. Dionne Warwick - Presenting Dionne Warwick
 - [ ] 344. The Wallflowers - Bringing Down the Horse

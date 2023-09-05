@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 591/1083
+Current score: 592/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -142,7 +142,7 @@ Current score: 591/1083
 - [X] 136. Neil Young - Everybody Knows This Is Nowhere (1969)
 - [ ] 137. Captain Beefheart & His Magic Band - Trout Mask Replica (1969)
 - [ ] 138. Bayou Country (Creedence Clearwater Revival, 1969)
-- [ ] 139. Crosby, Stills & Nash, Crosby Stills & Nash (1969)
+- [X] 139. Crosby, Stills & Nash - Crosby Stills & Nash (1969)
 - [ ] 140. Blood, Sweat & Tears - Blood, Sweat & Tears (1969)
 - [ ] 141. The Flying Burrito Bros - The Gilded Palace of Sin
 - [ ] 142. Johnny Cash - At San Quentin (1969)

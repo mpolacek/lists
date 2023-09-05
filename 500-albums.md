@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 297/500
+Current score: 300/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -81,7 +81,7 @@ Current score: 297/500
 - [X] 75. Aretha Franklin - Lady Soul (1968)
 - [X] 76. Curtis Mayfield - Superfly (1972)
 - [X] 77. The Who - Who's Next
-- [ ] 78. Elvis Presley - The Sun Sessions
+- [X] 78. Elvis Presley - The Sun Sessions
 - [X] 79. Frank Ocean - Blonde
 - [X] 80. Sex Pistols - Never Mind the Bollocks (1977)
 - [X] 81. Beyoncé - Beyoncé (2013)
@@ -164,7 +164,7 @@ Current score: 297/500
 - [X] 158. Erykah Badu - Mama's Gun
 - [X] 159. The Police - Synchronicity
 - [X] 160. Pearl Jam - Ten (1991)
-- [ ] 161. Crosby, Stills & Nash - Crosby, Stills & Nash
+- [X] 161. Crosby, Stills & Nash - Crosby, Stills & Nash
 - [X] 162. Pulp - Different Class (1995)
 - [ ] 163. Various Artists - Saturday Night Fever
 - [X] 164. Johnny Cash - At Folsom Prison
@@ -372,7 +372,7 @@ Current score: 297/500
 - [X] 366. Aerosmith - Rocks (1976)
 - [ ] 367. If You're Reading This It's Too Late
 - [X] 368. George Harrison - All Things Must Pass
-- [ ] 369. Mobb Deep - The Infamous
+- [X] 369. Mobb Deep - The Infamous
 - [ ] 370. Lil Wayne - Tha Carter II
 - [ ] 371. The Temptations Anthology
 - [X] 372. Big Brother & the Holding Company - Cheap Thrills
