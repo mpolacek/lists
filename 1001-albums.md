@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 592/1083
+Current score: 595/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -19,7 +19,7 @@ Current score: 592/1083
 - [X] 13. Kenya - Machito
 - [ ] 14. Little Richard - Here's Little Richard (1957)
 - [X] 15. Tito Puente - Dance Mania
-- [ ] 16. Billie Holiday - Lady in Satin
+- [X] 16. Billie Holiday - Lady in Satin
 - [X] 17. Ramblin' Jack Elliott - Jack Takes the Floor (1958)
 - [ ] 18. Sarah Vaughan - Sarah Vaughan at Mister Kelly's (1958)
 - [X] 19. Ella Fitzgerald - Sings the Gershwin Song Book (1959)
@@ -136,12 +136,12 @@ Current score: 592/1083
 - [X] 130. Scott Walker - Scott 2
 - [X] 131. The Zombies - Odessey and Oracle (1968)
 - [X] 132. Van Morrison - Astral Weeks (1968)
-- [ ] 133. The Byrds, Sweetheart of the Rodeo (1968)
+- [ ] 133. The Byrds - Sweetheart of the Rodeo (1968)
 - [X] 134. The Beatles - The Beatles (White Album)
 - [ ] 135. Mothers of Invention: We're Only in It for the Money
 - [X] 136. Neil Young - Everybody Knows This Is Nowhere (1969)
 - [ ] 137. Captain Beefheart & His Magic Band - Trout Mask Replica (1969)
-- [ ] 138. Bayou Country (Creedence Clearwater Revival, 1969)
+- [ ] 138. Creedence Clearwater Revival - Bayou Country (1969)
 - [X] 139. Crosby, Stills & Nash - Crosby Stills & Nash (1969)
 - [ ] 140. Blood, Sweat & Tears - Blood, Sweat & Tears (1969)
 - [ ] 141. The Flying Burrito Bros - The Gilded Palace of Sin
@@ -224,7 +224,7 @@ Current score: 592/1083
 - [X] 218. Yes - Fragile (1970)
 - [X] 219. The Doors - L.A. Woman
 - [ ] 220. Can - Tago Mago (1971)
-- [ ] 221. Madman Across the Water (Elton John, 1971)
+- [ ] 221. Elton John - Madman Across the Water (1971)
 - [ ] 222. Coat of Many Colors - Dolly Parton [1971]
 - [ ] 223. Don Mclean - American Pie (1971)
 - [X] 224. Emerson, Lake & Palmer - Tarkus
@@ -261,7 +261,7 @@ Current score: 592/1083
 - [X] 255. Nitty Gritty Dirt Band - Will the Circle Be Unbroken (1972)
 - [X] 256. Stevie Wonder - Talking Book
 - [ ] 257. Manassas - Manassas (1972)
-- [ ] 258. The Slider ( T. Rex, 1972)
+- [ ] 258. T. Rex - The Slider (1972)
 - [ ] 259. Davd Ackles - American Gothic (1972)
 - [ ] 260. Tim Buckley - Greetings From LA
 - [X] 261. Nick Drake - Pink Moon
@@ -282,8 +282,8 @@ Current score: 592/1083
 - [ ] 276. Hawkwind - Space Ritual (1973)
 - [X] 277. John Cale - Paris 1919
 - [X] 278. CAN - Future Days (1973)
-- [ ] 279. Lou Reed, Berlin (1973)
-- [ ] 280. Selling England by the Pound (Genesis, 1973)
+- [ ] 279. Lou Reed - Berlin (1973)
+- [ ] 280. Genesis - Selling England by the Pound (1973)
 - [X] 281. Marvin Gaye - Let's Get It On
 - [ ] 282. John Martyn - Solid Air
 - [ ] 283. Roxy Music - For Your Pleasure
@@ -298,7 +298,7 @@ Current score: 592/1083
 - [X] 292. Pink Floyd - Dark Side of the Moon
 - [X] 293. Stevie Wonder: Innervisions
 - [X] 294. ZZ Top - Tres Hombres
-- [ ] 295. Band on the Run (Paul McCartney and Wings, 1973)
+- [ ] 295. Paul McCartney and Wings - Band on the Run (1973)
 - [ ] 296. The Sensational Alex Harvey Band - Next (1973)
 - [ ] 297. Alice Cooper - Billion Dollar Babies
 - [X] 298. Iggy and the Stooges - Raw Power (1973)
@@ -306,7 +306,7 @@ Current score: 592/1083
 - [X] 300. New York Dolls - New York Dolls
 - [X] 301. Brian Eno - Here Come the Warm Jets (1973)
 - [X] 302. Bad Company - Bad Company
-- [ ] 303. The Lamb Lies Down on Broadway (Genesis, 1974)
+- [ ] 303. Genesis - The Lamb Lies Down on Broadway (1974)
 - [X] 304. Shuggie Otis - Inspiration Information (1974)
 - [X] 305. Stevie Wonder - Fulfillingness First Finale
 - [ ] 306. Eric Clapton 461 Ocean Boulevard
@@ -371,7 +371,7 @@ Current score: 592/1083
 - [X] 365. Fela Kuti & Afrika 70 - Zombie
 - [ ] 366. Peter Tosh - Legalize It
 - [X] 367. Stevie Wonder: Songs in the Key of Life
-- [ ] 368. Frampton Comes Alive! (Peter Frampton, 1976)
+- [ ] 368. Peter Frampton - Frampton Comes Alive! (1976)
 - [X] 369. Brian Eno - Before and After Science (1977)
 - [X] 370. Kraftwerk - Trans-Europe Express (1977)
 - [ ] 371. Billy Joel - The Stranger
@@ -390,7 +390,7 @@ Current score: 592/1083
 - [X] 384. David Bowie - Heroes
 - [X] 385. Dennis Wilson - Pacific Ocean Blue (1977)
 - [X] 386. Suicide - Suicide
-- [ ] 387. The Idiot (Iggy Pop, 1977)
+- [ ] 387. Iggy Pop - The Idiot (1977)
 - [ ] 388. Peter Gabriel - Peter Gabriel
 - [X] 389. Television - Marquee Moon (1977)
 - [X] 390. Meat Loaf - Bat Out of Hell
@@ -404,7 +404,7 @@ Current score: 592/1083
 - [ ] 398. Elis Regina - Vento De Maio (1985)
 - [ ] 399. Pere Ubu - Dub Housing (1978)
 - [ ] 400. The Only Ones - The Only Ones (1978)
-- [ ] 401. This Year's Model (Elvis Costello, 1978)
+- [ ] 401. Elvis Costello - This Year's Model (1978)
 - [X] 402. The Jam - All Mod Cons
 - [ ] 403. Joe Ely - Honky Tonk Masquerade (1978)
 - [ ] 404. The Adverts : Crossing the Red Sea With the Adverts
@@ -421,7 +421,7 @@ Current score: 592/1083
 - [X] 415. Van Halen - Van Halen
 - [ ] 416. Willie Colón & Rubén Blades - Siembra (1978)
 - [X] 417. The Cars - The Cars (1979)
-- [ ] 418. Q: Are We Not Men? A: We Are Devo! (Devo, 1978)
+- [ ] 418. Devo - Q: Are We Not Men? A: We Are Devo! (1978)
 - [X] 419. Dire Straits - Dire Straits (1978)
 - [X] 420. The Saints - Eternally Yours (1978)
 - [X] 421. Marvin Gaye - Here, My Dear
@@ -438,7 +438,7 @@ Current score: 592/1083
 - [ ] 432. Holger Czukay - Movies (1979)
 - [X] 433. The Police - Reggatta De Blanc
 - [ ] 434. Live at the Witch Trials
-- [ ] 435. Fear of Music (Talking Heads, 1979)
+- [ ] 435. Talking Heads - Fear of Music (1979)
 - [X] 436. Joy Division - Unknown Pleasures
 - [X] 437. Chic - Risque
 - [X] 438. Undertones - The Undertones
@@ -462,7 +462,7 @@ Current score: 592/1083
 - [X] 456. AC/DC - Back in Black
 - [X] 457. The Cramps - The Songs the Lord Taught Us
 - [X] 458. The Dead Kennedys - Fresh Fruit for Rotting Vegetables (1980)
-- [ ] 459. Peter Gabriel (Peter Gabriel, 1980)
+- [ ] 459. Peter Gabriel - Peter Gabriel (1980)
 - [ ] 460. The Soft Boys - Underwater Moonlight
 - [ ] 461. The Cure - Seventeen Seconds
 - [ ] 462. Echo & the Bunnymen - Crocodiles
@@ -522,7 +522,7 @@ Current score: 592/1083
 - [X] 516. Malcolm Mclaren - Duck Rock
 - [X] 517. Def Leppard - Pyromania
 - [X] 518. R.E.M. - Murmur
-- [ ] 519. The - The Soul Mining
+- [X] 519. The The - Soul Mining
 - [X] 520. Tom Waits - Swordfishtrombones (1983)
 - [ ] 521. The Blue Nile - A Walk Across the Rooftops (1984)
 - [ ] 522. Hanoi Rocks - Back to Mystery City (1983)
@@ -554,7 +554,7 @@ Current score: 592/1083
 - [X] 548. Abdullah Ibrahim - Water From an Ancient Well (1985)
 - [X] 549. A-Ha - Hunting High and Low (1985)
 - [X] 550. Tears for Fears - Songs From the Big Chair
-- [ ] 551. Brothers in Arms (Dire Straits, 1985)
+- [ ] 551. Dire Straits - Brothers in Arms (1985)
 - [X] 552. Prefab Sprout - Steve McQueen
 - [ ] 553. The Mekons - Fear and Whiskey
 - [ ] 554. Big Black - Atomizer
@@ -562,7 +562,7 @@ Current score: 592/1083
 - [ ] 556. The Pogues - Rum Sodomy and the Lash
 - [X] 557. Kate Bush - Hounds of Love (1985)
 - [ ] 558. The Smiths - Meat Is Murder (1985)
-- [ ] 559. Rain Dogs (Tom Waits, 1985)
+- [ ] 559. Tom Waits - Rain Dogs (1985)
 - [X] 560. The Jesus and Mary Chain - Psychocandy
 - [X] 561. New Order - Low-Life
 - [ ] 562. Simply Red - Picture Book
@@ -570,12 +570,12 @@ Current score: 592/1083
 - [ ] 564. Scritti Politti - Cupid & Psyche 85 (1985)
 - [X] 565. Elvis Costello - Blood & Chocolate
 - [ ] 566. Afrika Bambaataa and the Soul Sonic Force Planet Rock
-- [ ] 567. Licensed to Ill (Beastie Boys, 1986)
+- [ ] 567. Beastie Boys - Licensed to Ill (1986)
 - [X] 568. Metallica - Master of Puppets (1986)
-- [ ] 569. The The, Infected (1986)
+- [ ] 569. The The - Infected (1986)
 - [ ] 570. Nanci Griffith - The Last of the True Believers (1986)
 - [ ] 571. Billy Bragg - Talking With the Taxman About Poetry (1986)
-- [ ] 572. The Colour of Spring (Talk Talk, 1985)
+- [ ] 572. Talk Talk - The Colour of Spring (1985)
 - [ ] 573. Megadeth - Peace Sells... but Who's Buying?
 - [ ] 574. Bon Jovi - Slippery When Wet
 - [X] 575. Sonic Youth - EVOL
@@ -654,7 +654,7 @@ Current score: 592/1083
 - [ ] 648. Raw Like Sushi - Neneh Cherry
 - [ ] 649. Baaba Maal & Mansour Seck - Djam Leelii (1989)
 - [ ] 650. The Sensual World
-- [ ] 651. Disintegration (The Cure, 1989)
+- [ ] 651. The Cure - Disintegration (1989)
 - [ ] 652. 808 State - 90 (1989)
 - [ ] 653. Coldcut What's That Noise?
 - [X] 654. Barry Adamson - Moss Side Story (1989)
@@ -669,8 +669,8 @@ Current score: 592/1083
 - [X] 663. N.W.A - Straight Outta Compton (1988)
 - [X] 664. Cocteau Twins - Heaven or Las Vegas (1990)
 - [ ] 665. The Shamen - En-Tact (1990)
-- [ ] 666. World Clique (Deee-Lite, 1990)
-- [ ] 667. The La's, the La's (1990)
+- [ ] 666. Deee-Lite - World Clique (1990)
+- [ ] 667. The La's - the La's (1990)
 - [X] 668. Black Crowes - Shake Your Money Maker
 - [X] 669. Depeche Mode - Violator (1990)
 - [X] 670. Pixies - Bossanova
@@ -755,7 +755,7 @@ Current score: 592/1083
 - [X] 749. Wu-Tang Clan - Enter the Wu-Tang (36 Chambers) (1993)
 - [X] 750. Björk - Debut (1993)
 - [X] 751. Orbital - Orbital 2
-- [ ] 752. Doggystyle (Snoop Doggy Dogg, 1993)
+- [ ] 752. Snoop Doggy Dogg - Doggystyle (1993)
 - [X] 753. Sebadoh - Bubble and Scrape
 - [ ] 754. The Boo Radleys - Giant Steps
 - [X] 755. William Orbit - Strange Cargo III
@@ -902,7 +902,7 @@ Current score: 592/1083
 - [ ] 896. Metallica - S&M
 - [X] 897. Bonnie 'Prince' Billy - I See a Darkness
 - [ ] 898. Shack - H.M.S. Fable
-- [ ] 899. Basement Jaxx, Remedy (1999)
+- [ ] 899. Basement Jaxx - Remedy (1999)
 - [ ] 900. Britney Spears - ....Baby One More Time
 - [ ] 901. Red Hot Chili Peppers - Californication
 - [X] 902. Sigur Rós - Ágætis Byrjun
@@ -940,12 +940,12 @@ Current score: 592/1083
 - [X] 934. The Strokes - Is This It (2001)
 - [ ] 935. Destiny's Child - Survivor
 - [ ] 936. Gillian Welch - The Revelator
-- [ ] 937. Gotan Project, La Revancha Del Tango (2001)
+- [ ] 937. Gotan Project - La Revancha Del Tango (2001)
 - [ ] 938. The Beta Band - Hot Shots II
 - [ ] 939. The Hives - Your New Favorite Band (Compilation)
-- [ ] 940. White Blood Cells (The White Stripes, 2001)
+- [ ] 940. The White Stripes - White Blood Cells (2001)
 - [X] 941. Jay-Z - The Blueprint (2001)
-- [ ] 942. Melody A.M. (Röyksopp, 2001)
+- [X] 942. Royksopp - Melody A.M. (2001)
 - [X] 943. Drive by Truckers - Southern Rock Opera
 - [ ] 944. Super Furry Animals - Rings Around the World
 - [ ] 945. The Vines - Highly Evolved

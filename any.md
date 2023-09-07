@@ -1,10 +1,11 @@
 # Various albums
 
-Current score: 31/103
+Current score: 32/104
 
 Listened: `$ grep "\[X\]" any.md | wc -l`
 Total: `$ grep "\[.\]" any.md | wc -l`
 
+- [X] John Coltrane - Africa/Brass
 - [ ] Ratboys - The Window
 - [ ] Wussy - What Heaven is Like (2018)
 - [ ] Wussy - Forever Sounds (2016)

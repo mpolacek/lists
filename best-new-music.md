@@ -317,7 +317,7 @@ Current score: 152/919
 - [ ] 609. Elza Soares - A Mulher Do Fim Do Mundo (The Woman at the End of the World)
 - [ ] 608. Jamila Woods - HEAVN
 - [ ] 607. Schoolboy Q - Blank Face LP
-- [ ] 606. Maxwell-Blacksummers' Night
+- [ ] 606. Maxwell - Blacksummers' Night
 - [ ] 605. The Avalanches - Wildflower
 - [ ] 604. Blood Orange - Freetown Sound (2016)
 - [ ] 603. G.L.O.S.S. - Trans Day of Revenge
@@ -486,7 +486,7 @@ Current score: 152/919
 - [ ] 440. Iceage - You're Nothing
 - [X] 439. My Bloody Valentine - mbv
 - [ ] 438. Grouper - The Man Who Died in His Boat
-- [ ] 437. Foxygen-We Are the 21st Century Ambassadors of Peace and Magic
+- [ ] 437. Foxygen - We Are the 21st Century Ambassadors of Peace and Magic
 - [ ] 436. Burial - Truant/Rough Sleeper
 - [ ] 435. A$AP Rocky - Long.Live.A$AP
 - [ ] 434. Mac Demarco - 2
@@ -554,7 +554,7 @@ Current score: 152/919
 - [ ] 372. The Field - Looping State of Mind
 - [X] 371. The War on Drugs - Slave Ambient
 - [ ] 370. Jay-Z/Kanye West - Watch the Throne
-- [ ] 369. Washed Out-Within and Without
+- [ ] 369. Washed Out - Within and Without
 - [ ] 368. John Maus - We Must Become the Pitiless Censors of Ourselves
 - [ ] 367. Araabmuzik - Electronic Dream
 - [ ] 366. Iceage - New Brigade
@@ -598,7 +598,7 @@ Current score: 152/919
 - [ ] 328. The Walkmen - Lisbon
 - [ ] 327. Matthew Dear - Black City
 - [ ] 326. Arcade Fire - The Suburbs
-- [ ] 325. Curren$Y-Pilot Talk
+- [ ] 325. Curren$Y - Pilot Talk
 - [ ] 324. Best Coast - Crazy for You
 - [ ] 323. The-Dream - Love King
 - [ ] 322. Big Boi - Sir Lucious Left Foot: The Son of Chico Dusty
@@ -609,7 +609,7 @@ Current score: 152/919
 - [ ] 317. Ariel Pink's Haunted Graffiti - Before Today
 - [ ] 316. Wild Nothing - Gemini
 - [ ] 315. Robyn - Body Talk Pt. 1 (2010)
-- [ ] 314. Tame Impala-Innerspeaker
+- [ ] 314. Tame Impala - Innerspeaker
 - [ ] 313. James Blake: "CMYK" (2010)
 - [ ] 312. Janelle Monáe - The Archandroid
 - [ ] 311. LCD Soundsystem - This Is Happening
@@ -617,7 +617,7 @@ Current score: 152/919
 - [ ] 309. Male Bonding - Nothing Hurts
 - [X] 308. The National - High Violet
 - [ ] 307. Flying Lotus - Cosmogramma
-- [ ] 306. Broken Social Scene-Forgiveness Rock Record
+- [ ] 306. Broken Social Scene - Forgiveness Rock Record
 - [ ] 305. Crystal Castles - Crystal Castles II
 - [ ] 304. The Radio Dept. - Clinging to a Scheme
 - [ ] 303. Delorean - Subiza
@@ -677,7 +677,7 @@ Current score: 152/919
 - [ ] 249. Bill Callahan - Sometimes I Wish We Were an Eagle
 - [ ] 248. Bat for Lashes - Two Suns
 - [ ] 247. Fever Ray - Fever Ray
-- [ ] 246. Dan Deacon-Bromst
+- [ ] 246. Dan Deacon - Bromst
 - [X] 245. Cymbals Eat Guitars - Why There Are Mountains
 - [ ] 244. Wavves - Wavvves (2009)
 - [ ] 243. Dark Was the Night
@@ -819,7 +819,7 @@ Current score: 152/919
 - [ ] 107. Architecture in Helsinki - In Case We Die
 - [ ] 106. Vitalic - Ok Cowboy
 - [ ] 105. The Boy Least Likely to - The Best Party Ever
-- [ ] 104. Caribou-The Milk of Human Kindness
+- [ ] 104. Caribou - The Milk of Human Kindness
 - [ ] 103. Edan - Beauty and the Beat
 - [ ] 102. The Decemberists - Picaresque
 - [ ] 101. M.I.A. - Arular

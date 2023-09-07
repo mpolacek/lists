@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 300/500
+Current score: 301/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -320,7 +320,7 @@ Current score: 300/500
 - [ ] 314. Aaliyah - One in a Million
 - [ ] 315. Rosalia - El Mal Querer
 - [ ] 316. The Who - The Who Sell Out (1967)
-- [ ] 317. Billie Holiday - Lady in Satin
+- [X] 317. Billie Holiday - Lady in Satin
 - [ ] 318. Janet Jackson - The Velvet Rope
 - [X] 319. The Stone Roses - The Stone Roses
 - [ ] 320. X - Los Angeles (1980)
