@@ -161,7 +161,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Dexter Gordon - Dexter Gordon On Dial: The Complete Sessions
 - [x] Fats Navarro - The Complete Fats Navarro On Blue Note and Capitol
 - [x] Thelonious Monk - Genius of Modern Music: Volumes 1 & 2
-- [ ] Tony Parenti - Tony Parenti & His New Orleanians
+- [x] Tony Parenti - Tony Parenti & His New Orleanians
 - [ ] Charlie Barnet - The Capitol Big Band Sessions
 - [ ] Charlie Ventura - Complete 1949 Pasadena Concert
 - [ ] Lee Konitz - Subconscious-Lee
