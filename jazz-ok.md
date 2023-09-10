@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 156/259
+Current score: 157/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -162,7 +162,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Fats Navarro - The Complete Fats Navarro On Blue Note and Capitol
 - [x] Thelonious Monk - Genius of Modern Music: Volumes 1 & 2
 - [x] Tony Parenti - Tony Parenti & His New Orleanians
-- [ ] Charlie Barnet - The Capitol Big Band Sessions
+- [x] Charlie Barnet - The Capitol Big Band Sessions
 - [ ] Charlie Ventura - Complete 1949 Pasadena Concert
 - [ ] Lee Konitz - Subconscious-Lee
 - [ ] Milt Jackson - Wizard of the Vibes
