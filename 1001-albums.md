@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 595/1083
+Current score: 597/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -232,7 +232,7 @@ Current score: 595/1083
 - [X] 226. Serge Gainsbourg - Histoire De Melody Nelson
 - [ ] 227. Rod Stewart - Every Picture Tells a Story
 - [X] 228. Emerson, Lake & Palmer - Pictures at an Exhibition (1972)
-- [ ] 229. Leonard Cohen - Songs of Love and Hate
+- [X] 229. Leonard Cohen - Songs of Love and Hate
 - [X] 230. Joni Mitchell - Blue (1971)
 - [X] 231. Janis Joplin - Pearl
 - [X] 232. Funkadelic - Maggot Brain
@@ -464,7 +464,7 @@ Current score: 595/1083
 - [X] 458. The Dead Kennedys - Fresh Fruit for Rotting Vegetables (1980)
 - [ ] 459. Peter Gabriel - Peter Gabriel (1980)
 - [ ] 460. The Soft Boys - Underwater Moonlight
-- [ ] 461. The Cure - Seventeen Seconds
+- [X] 461. The Cure - Seventeen Seconds
 - [ ] 462. Echo & the Bunnymen - Crocodiles
 - [ ] 463. Motörhead - Ace of Spades
 - [X] 464. Killing Joke - Killing Joke

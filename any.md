@@ -1,15 +1,16 @@
 # Various albums
 
-Current score: 32/104
+Current score: 34/105
 
 Listened: `$ grep "\[X\]" any.md | wc -l`
 Total: `$ grep "\[.\]" any.md | wc -l`
 
+- [ ] U.S. Maple - Acre Thrills
 - [X] John Coltrane - Africa/Brass
 - [ ] Ratboys - The Window
 - [ ] Wussy - What Heaven is Like (2018)
 - [ ] Wussy - Forever Sounds (2016)
-- [ ] Wussy - Attica! (2014)
+- [X] Wussy - Attica! (2014)
 - [ ] Wussy - Strawberry (2011)
 - [ ] Wussy - Wussy (2009)
 - [ ] Wussy - Left for Dead (2007)
@@ -87,7 +88,7 @@ Total: `$ grep "\[.\]" any.md | wc -l`
 - [ ] Beats International - Let Them Eat Bingo
 - [ ] Ladysmith Black Mambazo - Classic Tracks
 - [ ] Meat Puppets - No Strings Attached
-- [ ] L7 - Smell the Magic
+- [X] L7 - Smell the Magic
 - [ ] The Chills - Submarine Bells
 - [X] Tom Zé - Brazil Classics 4: The Best of Tom Zé
 - [X] Stone Temple Pilots - Core

@@ -2,7 +2,7 @@
 
 [web](https://www.rollingstone.com/music/music-lists/50-greatest-grunge-albums-798851/)
 
-Current score: 35/50
+Current score: 36/50
 
 `$ grep "\[X\]" grunge.md | wc -l`
 
@@ -42,7 +42,7 @@ Current score: 35/50
 - [ ] 34. 7 Year Bitch - ¡Viva Zapata! (1994)
 - [X] 35. Paw - Dragline (1993)
 - [X] 36. Neil Young and Crazy Horse - Ragged Glory (1990)
-- [ ] 37. L7 - Smell the Magic (1990)
+- [X] 37. L7 - Smell the Magic (1990)
 - [ ] 38. The Fluid - Purplemetalflakemusic (1993)
 - [ ] 39. The Gits - Enter: The Conquering Chicken (1994)
 - [X] 40. Mudhoney - Every Good Boy Deserves Fudge (1991)
