@@ -1,9 +1,10 @@
 # Pitchfork Sunday Review
 
-Current score: 120/350
+Current score: 122/351
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 351. Linda Martell - Color Me Country
 - [X] 350. The Smashing Pumpkins - Siamese Dream
 - [ ] 349. Lyle Lovett - Pontiac
 - [ ] 348. Keith Jarrett - Solo Concerts: Bremen/Lausanne
@@ -261,10 +262,10 @@ Current score: 120/350
 - [X] 96. Bob Dylan - Time Out of Mind
 - [ ] 95. Public Image Ltd - The Flowers of Romance
 - [X] 94. Built to Spill - Perfect From Now On
-- [ ] 93. Jonathan Richman - I, Jonathan
+- [X] 93. Jonathan Richman - I, Jonathan
 - [X] 92. Eminem - The Marshall Mathers LP
 - [ ] 91. Johnny Cash - American Recordings
-- [ ] 90. Neneh Cherry - Raw Like Sushi
+- [X] 90. Neneh Cherry - Raw Like Sushi
 - [X] 89. The Kinks - Something Else
 - [X] 88. Bruce Springsteen - Nebraska
 - [X] 87. Miles Davis - Get Up With It

@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 597/1083
+Current score: 598/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -651,7 +651,7 @@ Current score: 597/1083
 - [ ] 645. The Young Gods - L'eau Rouge (1989)
 - [ ] 646. John Zorn - Spy vs. Spy (1989)
 - [X] 647. The Stone Roses - The Stone Roses
-- [ ] 648. Raw Like Sushi - Neneh Cherry
+- [X] 648. Neneh Cherry - Raw Like Sushi (1989)
 - [ ] 649. Baaba Maal & Mansour Seck - Djam Leelii (1989)
 - [ ] 650. The Sensual World
 - [ ] 651. The Cure - Disintegration (1989)
