@@ -1,10 +1,12 @@
 # Various albums
 
-Current score: 34/106
+Current score: 34/108
 
 Listened: `$ grep "\[X\]" any.md | wc -l`
 Total: `$ grep "\[.\]" any.md | wc -l`
 
+- [ ] Alice Coltrane - World Spirituality Classics 1: The Ecstatic Music of Alice Coltrane Turiyasangitananda
+- [ ] Joe Henderson / Alice Coltrane - The Elements
 - [ ] Les Rallizes Dénudés - CITTA’ ’93
 - [ ] U.S. Maple - Acre Thrills
 - [X] John Coltrane - Africa/Brass

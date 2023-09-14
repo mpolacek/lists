@@ -1,6 +1,6 @@
 # Pitchfork Sunday Review
 
-Current score: 123/351
+Current score: 124/351
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -223,7 +223,7 @@ Current score: 123/351
 - [X] 135. Nirvana - MTV Unplugged in New York
 - [X] 134. Tortoise - TNT
 - [ ] 133. Prince Paul - A Prince Among Thieves
-- [ ] 132. Alice Coltrane - Journey in Satchidananda
+- [X] 132. Alice Coltrane - Journey in Satchidananda
 - [ ] 131. Robert Ashley - Private Parts
 - [ ] 130. Tracy Chapman - Tracy Chapman
 - [X] 129. Talk Talk - Spirit of Eden

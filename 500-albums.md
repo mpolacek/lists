@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 302/500
+Current score: 304/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -102,7 +102,7 @@ Current score: 302/500
 - [X] 96. R.E.M. - Automatic for the People
 - [X] 97. Metallica - Master of Puppets (1986)
 - [X] 98. Lucinda Williams - Car Wheels on a Gravel Road
-- [ ] 99. Taylor Swift - Red
+- [X] 99. Taylor Swift - Red
 - [X] 100. The Band - Music From Big Pink (1968)
 - [X] 101. Led Zeppelin - Led Zeppelin
 - [X] 102. The Clash - The Clash
@@ -449,7 +449,7 @@ Current score: 302/500
 - [ ] 443. Scary Monsters (And Super Creeps) (David Bowie, 1980)
 - [ ] 444. Fiona Apple - Extraordinary Machine
 - [X] 445. Yes - Close to the Edge (1972)
-- [ ] 446. Journey in Satchidananda (Alice Coltrane, 1971)
+- [X] 446. Alice Coltrane - Journey in Satchidananda (1971)
 - [ ] 447. Bad Bunny - X 100PRE
 - [ ] 448. Otis Redding - Dictionary of Soul
 - [X] 449. The White Stripes - Elephant
