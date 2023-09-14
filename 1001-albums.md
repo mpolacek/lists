@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 598/1083
+Current score: 600/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -364,7 +364,7 @@ Current score: 598/1083
 - [X] 358. Jorge Ben - África Brasil
 - [ ] 359. Joan Armatrading 1976
 - [X] 360. Aerosmith - Rocks
-- [ ] 361. Parliament - Mothership Connection
+- [X] 361. Parliament - Mothership Connection
 - [ ] 362. Penguin Cafe Orchestra - Music From the Penguin Café (1976)
 - [X] 363. Jean-Michelle Jarre - Oxygene (1976)
 - [X] 364. Ramones - Ramones (1976)
@@ -407,7 +407,7 @@ Current score: 598/1083
 - [ ] 401. Elvis Costello - This Year's Model (1978)
 - [X] 402. The Jam - All Mod Cons
 - [ ] 403. Joe Ely - Honky Tonk Masquerade (1978)
-- [ ] 404. The Adverts : Crossing the Red Sea With the Adverts
+- [X] 404. The Adverts - Crossing the Red Sea With the Adverts
 - [ ] 405. Big Star - Third / Sister Lovers
 - [ ] 406. The Residents - Duck Stab/Buster & Glen
 - [X] 407. Public Image Limited - Public Image Limited

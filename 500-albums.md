@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 301/500
+Current score: 302/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -366,7 +366,7 @@ Current score: 301/500
 - [X] 360. Funkadelic - One Nation Under a Groove
 - [ ] 361. My Chemical Romance - The Black Parade
 - [ ] 362. Luther Vandross - Never Too Much
-- [ ] 363. Parliament - Mothership Connection
+- [X] 363. Parliament - Mothership Connection
 - [X] 364. Talking Heads - More Songs About Buildings and Food (1978)
 - [ ] 365. Madvillain - Madvillainy
 - [X] 366. Aerosmith - Rocks (1976)

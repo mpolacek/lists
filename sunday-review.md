@@ -1,6 +1,6 @@
 # Pitchfork Sunday Review
 
-Current score: 122/351
+Current score: 123/351
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -226,7 +226,7 @@ Current score: 122/351
 - [ ] 132. Alice Coltrane - Journey in Satchidananda
 - [ ] 131. Robert Ashley - Private Parts
 - [ ] 130. Tracy Chapman - Tracy Chapman
-- [ ] 129. Talk Talk - Spirit of Eden
+- [X] 129. Talk Talk - Spirit of Eden
 - [X] 128. Buzzcocks - Singles Going Steady
 - [ ] 127. Avril Lavigne - Let Go
 - [X] 126. Black Sabbath - Paranoid
