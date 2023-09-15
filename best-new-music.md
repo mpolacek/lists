@@ -1,6 +1,6 @@
 # Pitchfork Best New Music
 
-Current score: 153/919
+Current score: 154/919
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -674,7 +674,7 @@ Current score: 153/919
 - [X] 252. Japandroids - Post-Nothing
 - [ ] 251. Woods - Songs of Shame
 - [X] 250. Camera Obscura - My Maudlin Career
-- [ ] 249. Bill Callahan - Sometimes I Wish We Were an Eagle
+- [X] 249. Bill Callahan - Sometimes I Wish We Were an Eagle
 - [ ] 248. Bat for Lashes - Two Suns
 - [ ] 247. Fever Ray - Fever Ray
 - [ ] 246. Dan Deacon - Bromst

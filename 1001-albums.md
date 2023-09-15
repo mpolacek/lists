@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 600/1083
+Current score: 601/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -1036,7 +1036,7 @@ Current score: 600/1083
 - [X] 1030. TV on the Radio - Dear Science
 - [ ] 1031. Slipknot - All Hope Is Gone
 - [X] 1032. Wild Beasts - Two Dancers
-- [ ] 1033. Bill Callahan - Sometimes I Wish We Were an Eagle
+- [X] 1033. Bill Callahan - Sometimes I Wish We Were an Eagle
 - [X] 1034. Animal Collective - Merriweather Post Pavilion (2009)
 - [X] 1035. Grizzly Bear - Veckatimest
 - [ ] 1036. Yeah Yeah Yeahs - It's Blitz!

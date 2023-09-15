@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 304/500
+Current score: 305/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -200,7 +200,7 @@ Current score: 304/500
 - [X] 194. Michael Jackson - Bad
 - [X] 195. Leonard Cohen - Songs of Leonard Cohen (1967)
 - [ ] 196. Robyn - Body Talk
-- [ ] 197. The Beatles - Meet the Beatles!
+- [X] 197. The Beatles - Meet the Beatles!
 - [ ] 198. The B-52's - The B-52's
 - [X] 199. Pavement - Slanted and Enchanted
 - [X] 200. Sade - Diamond Life
