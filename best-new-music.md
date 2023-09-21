@@ -1,9 +1,10 @@
 # Pitchfork Best New Music
 
-Current score: 154/919
+Current score: 154/920
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 920. Tomb Mold - The Enduring Spirit
 - [X] 919. jaimie branch - Fly or Die Fly or Die Fly or Die ((world war))
 - [ ] 918. Noname - Sundial
 - [ ] 917. Julie Byrne - The Greater Wings

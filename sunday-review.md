@@ -1,9 +1,10 @@
 # Pitchfork Sunday Review
 
-Current score: 124/351
+Current score: 124/352
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 352. Gillian Welch - Time (The Revelator)
 - [ ] 351. Linda Martell - Color Me Country
 - [X] 350. The Smashing Pumpkins - Siamese Dream
 - [ ] 349. Lyle Lovett - Pontiac

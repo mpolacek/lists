@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 305/500
+Current score: 307/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -217,7 +217,7 @@ Current score: 305/500
 - [X] 211. Joy Division - Unknown Pleasures
 - [X] 212. Nina Simone - Wild Is the Wind
 - [ ] 213. Fiona Apple - The Idler Wheel...
-- [ ] 214. Tom Petty - Wildflowers
+- [X] 214. Tom Petty - Wildflowers
 - [X] 215. Grateful Dead - American Beauty
 - [X] 216. Elliott Smith - Either/Or
 - [ ] 217. Oasis - Definitely Maybe
@@ -432,7 +432,7 @@ Current score: 305/500
 - [ ] 426. Lucinda Williams - Lucinda Williams
 - [X] 427. Al Green - Call Me
 - [ ] 428. Hüsker Dü - New Day Rising
-- [ ] 429. The Four Tops - Reach Out
+- [X] 429. The Four Tops - Reach Out
 - [ ] 430. Elvis Costello - My Aim Is True
 - [X] 431. Los Lobos - How Will the Wolf Survive?
 - [ ] 432. Usher - Confessions
