@@ -164,7 +164,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Tony Parenti - Tony Parenti & His New Orleanians
 - [x] Charlie Barnet - The Capitol Big Band Sessions
 - [x] Charlie Ventura - Complete 1949 Pasadena Concert
-- [ ] Lee Konitz - Subconscious-Lee
+- [x] Lee Konitz - Subconscious-Lee
 - [ ] Milt Jackson - Wizard of the Vibes
 - [ ] Turk Murphy - Turk Murphy's Jazz Band Favourites
 - [ ] Flip Phillips - Flippin' The Blues
