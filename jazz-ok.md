@@ -165,7 +165,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Charlie Barnet - The Capitol Big Band Sessions
 - [x] Charlie Ventura - Complete 1949 Pasadena Concert
 - [x] Lee Konitz - Subconscious-Lee
-- [ ] Milt Jackson - Wizard of the Vibes
+- [x] Milt Jackson - Wizard of the Vibes
 - [ ] Turk Murphy - Turk Murphy's Jazz Band Favourites
 - [ ] Flip Phillips - Flippin' The Blues
 - [ ] Bud Powell - The Amazing Bud Powell: Volumes 1 & 2
