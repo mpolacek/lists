@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 161/259
+Current score: 162/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -168,7 +168,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Milt Jackson - Wizard of the Vibes
 - [x] Turk Murphy - Turk Murphy's Jazz Band Favourites
 - [ ] Flip Phillips - Flippin' The Blues
-- [ ] Bud Powell - The Amazing Bud Powell: Volumes 1 & 2
+- [x] Bud Powell - The Amazing Bud Powell: Volumes 1 & 2
 - [x] Miles Davis - The Complete Birth Of The Cool (1948-50)
 - [ ] Lu Watters - Doing the Hambone at Kelly's: Volumes 1 & 2
 
