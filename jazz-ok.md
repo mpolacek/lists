@@ -176,7 +176,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 
 - [ ] George Shearing - Verve Jazz Masters: George Shearing
 - [ ] Humphrey Lyttelton - The Parlophones: Volumes One-Four
-- [ ] Ella Fitzgerald - The Enchanting Ella Fitzgerald: Live at Birdland 1950-1952
+- [x] Ella Fitzgerald - The Enchanting Ella Fitzgerald: Live at Birdland 1950-1952
 - [ ] Joe Bushkin - Piano Moods / After Hours
 - [ ] Stan Getz - The Complete Roost Recordings
 - [ ] Wardley Gray - Memorial: Volumes 1 & 2
