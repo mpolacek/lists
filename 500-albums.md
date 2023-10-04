@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 307/500
+Current score: 310/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -157,7 +157,7 @@ Current score: 307/500
 - [ ] 151. George Michael - Faith (1987)
 - [ ] 152. Pretenders - Pretenders
 - [X] 153. PJ Harvey - Rid of Me
-- [ ] 154. Aretha Franklin - Amazing Grace
+- [X] 154. Aretha Franklin - Amazing Grace
 - [X] 155. Jay-Z - The Black Album
 - [X] 156. The Replacements - Let It Be
 - [X] 157. Oasis - (What's the Story) Morning Glory
@@ -196,10 +196,10 @@ Current score: 307/500
 - [ ] 190. The Who - Tommy
 - [ ] 191. Etta James - At Last! (1960)
 - [ ] 192. Beastie Boys - Licensed to Ill
-- [ ] 193. Creedence Clearwater Revival - Willy and the Poor Boys
+- [X] 193. Creedence Clearwater Revival - Willy and the Poor Boys
 - [X] 194. Michael Jackson - Bad
 - [X] 195. Leonard Cohen - Songs of Leonard Cohen (1967)
-- [ ] 196. Robyn - Body Talk
+- [X] 196. Robyn - Body Talk
 - [X] 197. The Beatles - Meet the Beatles!
 - [ ] 198. The B-52's - The B-52's
 - [X] 199. Pavement - Slanted and Enchanted

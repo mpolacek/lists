@@ -1,10 +1,11 @@
 # Pitchfork Best New Music
 
-Current score: 154/920
+Current score: 156/921
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
-- [ ] 920. Tomb Mold - The Enduring Spirit
+- [ ] 921. yeule - softscars
+- [X] 920. Tomb Mold - The Enduring Spirit
 - [X] 919. jaimie branch - Fly or Die Fly or Die Fly or Die ((world war))
 - [ ] 918. Noname - Sundial
 - [ ] 917. Julie Byrne - The Greater Wings
@@ -587,7 +588,7 @@ Current score: 154/920
 - [ ] 340. Destroyer - Kaputt
 - [ ] 339. Smith Westerns - Dye It Blonde
 - [ ] 338. Off! - First Four EPs
-- [ ] 337. Robyn - Body Talk
+- [X] 337. Robyn - Body Talk
 - [X] 336. Kanye West - My Beautiful Dark Twisted Fantasy
 - [ ] 335. Girls - Broken Dreams Club EP
 - [ ] 334. Sufjan Stevens - The Age of Adz
