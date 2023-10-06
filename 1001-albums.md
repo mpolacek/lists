@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 601/1083
+Current score: 602/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -298,7 +298,7 @@ Current score: 601/1083
 - [X] 292. Pink Floyd - Dark Side of the Moon
 - [X] 293. Stevie Wonder: Innervisions
 - [X] 294. ZZ Top - Tres Hombres
-- [ ] 295. Paul McCartney and Wings - Band on the Run (1973)
+- [X] 295. Paul McCartney and Wings - Band on the Run (1973)
 - [ ] 296. The Sensational Alex Harvey Band - Next (1973)
 - [ ] 297. Alice Cooper - Billion Dollar Babies
 - [X] 298. Iggy and the Stooges - Raw Power (1973)

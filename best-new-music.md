@@ -1,9 +1,11 @@
 # Pitchfork Best New Music
 
-Current score: 156/921
+Current score: 156/923
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 923. Pangaea - Changing Channels
+- [ ] 922. Sufjan Stevens - Javelin
 - [ ] 921. yeule - softscars
 - [X] 920. Tomb Mold - The Enduring Spirit
 - [X] 919. jaimie branch - Fly or Die Fly or Die Fly or Die ((world war))

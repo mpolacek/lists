@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 310/500
+Current score: 311/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -444,7 +444,7 @@ Current score: 310/500
 - [X] 438. Blur - Parklife (1994)
 - [ ] 439. James Brown - Sex Machine
 - [ ] 440. Coal Miner's Daughter - Loretta Lynn
-- [ ] 441. Britney Spears - Blackout
+- [X] 441. Britney Spears - Blackout
 - [ ] 442. The Weeknd - Beauty Behind the Madness
 - [ ] 443. Scary Monsters (And Super Creeps) (David Bowie, 1980)
 - [ ] 444. Fiona Apple - Extraordinary Machine
