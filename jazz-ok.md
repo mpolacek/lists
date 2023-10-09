@@ -167,7 +167,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Lee Konitz - Subconscious-Lee
 - [x] Milt Jackson - Wizard of the Vibes
 - [x] Turk Murphy - Turk Murphy's Jazz Band Favourites
-- [ ] Flip Phillips - Flippin' The Blues
+- [x] Flip Phillips - Flippin' The Blues
 - [x] Bud Powell - The Amazing Bud Powell: Volumes 1 & 2
 - [x] Miles Davis - The Complete Birth Of The Cool (1948-50)
 - [ ] Lu Watters - Doing the Hambone at Kelly's: Volumes 1 & 2
