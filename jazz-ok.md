@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 165/259
+Current score: 166/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -183,7 +183,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Stan Kenton - City of Glass | The Innovations Orchestra
 - [ ] Chico O'Farrill - Cuban Blues: The Chico O'Farrill Sessions
 - [ ] Louis Armstrong - California Concerts
-- [ ] Charles Mingus - The Complete Debut Recordings
+- [x] Charles Mingus - The Complete Debut Recordings
 - [ ] Kid Thomas (Valentine) - Kid Thomas and his Algiers Stompers
 - [ ] Sidney Bechet - The Fabulous Sidney Bechet
 - [ ] Jimmy Forrest - Night Train
