@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 164/259
+Current score: 165/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -170,7 +170,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Flip Phillips - Flippin' The Blues
 - [x] Bud Powell - The Amazing Bud Powell: Volumes 1 & 2
 - [x] Miles Davis - The Complete Birth Of The Cool (1948-50)
-- [ ] Lu Watters - Doing the Hambone at Kelly's: Volumes 1 & 2
+- [x] Lu Watters - Doing the Hambone at Kelly's: Volumes 1 & 2
 
 ## The '50s
 
