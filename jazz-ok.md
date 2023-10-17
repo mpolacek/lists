@@ -178,7 +178,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Humphrey Lyttelton - The Parlophones: Volumes One-Four
 - [x] Ella Fitzgerald - The Enchanting Ella Fitzgerald: Live at Birdland 1950-1952
 - [ ] Joe Bushkin - Piano Moods / After Hours
-- [ ] Stan Getz - The Complete Roost Recordings
+- [x] Stan Getz - The Complete Roost Recordings
 - [ ] Wardley Gray - Memorial: Volumes 1 & 2
 - [ ] Stan Kenton - City of Glass | The Innovations Orchestra
 - [ ] Chico O'Farrill - Cuban Blues: The Chico O'Farrill Sessions
