@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 169/259
+Current score: 170/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -202,7 +202,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Clifford Brown - Memorial Album (1953)
 - [ ] George Lewis - Jazz Funeral in New Orleans
 - [ ] Elmo Hope - Trio and Quintet
-- [ ] J.J. Johnson - The Eminent Jay Jay Johnson: Volumes 1 & 2
+- [x] J.J. Johnson - The Eminent Jay Jay Johnson: Volumes 1 & 2
 - [ ] Vic Dickenson - The Essential Vic Dickenson
 - [ ] Bengt Hallberg - All-Star Sessions 1953-1954
 - [ ] Lars Gullin - Danny's Dream
