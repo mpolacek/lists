@@ -250,7 +250,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Tal Farlow - The Swinging Guitar of Tal Farlow
 - [ ] Chet Baker - Chet Baker And Crew
 - [ ] Bob Brookmeyer - Brookmeyer
-- [ ] Cecil Taylor - Jazz Advance
+- [x] Cecil Taylor - Jazz Advance
 
 ## The '60s
 
