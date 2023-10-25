@@ -266,7 +266,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Oscar Peterson - Night Train (1962)
 - [ ] Cecil Taylor - Nefertiti, The Beautiful One Has Come (1962)
 - [ ] Paul Desmond - Glad To Be Unhappy (1963-64)
-- [ ] McCoy Tyner - The Real McCoy (1967)
+- [x] McCoy Tyner - The Real McCoy (1967)
 - [ ] Thelonious Monk - Underground (1968)
 - [ ] Jimmy Rowles - Our Delight (1968)
 - [x] Miles Davis - The Complete Live At The Plugged Nickel
