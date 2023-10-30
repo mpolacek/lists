@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 602/1083
+Current score: 604/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -325,7 +325,7 @@ Current score: 602/1083
 - [X] 319. Neil Young - On the Beach
 - [ ] 320. George Jones - The Grand Tour (1974)
 - [X] 321. Gene Clark - No Other
-- [ ] 322. Steely Dan Pretzel Logic
+- [X] 322. Steely Dan - Pretzel Logic
 - [ ] 323. Randy Newman - Good Old Boys
 - [X] 324. Bob Marley and the Wailers - Natty Dread
 - [ ] 325. Robert Wyatt - Rock Bottom
@@ -398,7 +398,7 @@ Current score: 602/1083
 - [X] 392. Iggy Pop - Lust for Life (1977)
 - [X] 393. Ian Dury - New Boots and Panties!!
 - [X] 394. Sex Pistols - Never Mind the Bollocks, Here's the Sex Pistols
-- [ ] 395. Pere Ubu: The Modern Dance
+- [X] 395. Pere Ubu - The Modern Dance
 - [X] 396. Kraftwerk - The Man-Machine
 - [X] 397. Blondie - Parallel Lines
 - [ ] 398. Elis Regina - Vento De Maio (1985)

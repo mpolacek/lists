@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 26/259
+Current score: 28/259
 
 Listened: `$ grep "\[[xX]\]" jazz.md | wc -l`
 
@@ -198,7 +198,7 @@ Total: `$ grep "\[.\]" jazz.md | wc -l`
 - [ ] Shorty Rogers - The Sweetheart of Sigmund Freud
 - [ ] Freddy Randall - Freddy Randall And His Band
 - [ ] Charlie Parker - The Quintet: Jazz at Massey Hall
-- [ ] Ben Webster - King of the Tenors
+- [X] Ben Webster - King of the Tenors
 - [X] Clifford Brown - Memorial Album (1953)
 - [ ] George Lewis - Jazz Funeral in New Orleans
 - [ ] Elmo Hope - Trio and Quintet
@@ -271,7 +271,7 @@ Total: `$ grep "\[.\]" jazz.md | wc -l`
 - [X] Jimmy Rowles - Our Delight (1968)
 - [ ] Miles Davis - The Complete Live At The Plugged Nickel
 - [X] Duke Ellington - The Far East Suite (1966)
-- [ ] Cecil Taylor - Conquistador!
+- [X] Cecil Taylor - Conquistador!
 
 ## The '70s
 

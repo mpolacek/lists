@@ -1,9 +1,11 @@
 # Pitchfork Best New Music
 
-Current score: 156/923
+Current score: 163/925
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 925. Sofia Kourtesis - Madres
+- [ ] 924. L'Rain - I Killed Your Dog
 - [ ] 923. Pangaea - Changing Channels
 - [ ] 922. Sufjan Stevens - Javelin
 - [ ] 921. yeule - softscars
@@ -566,7 +568,7 @@ Current score: 156/923
 - [ ] 364. WU LYF - Go Tell Fire to the Mountain
 - [ ] 363. Bon Iver - Bon Iver
 - [ ] 362. Fucked Up - David Comes to Life
-- [ ] 361. Cults - Cults
+- [X] 361. Cults - Cults
 - [ ] 360. The Antlers - Burst Apart
 - [ ] 359. EMA - Past Life Martyred Saints
 - [ ] 358. Gang Gang Dance - Eye Contact (2011)
@@ -757,7 +759,7 @@ Current score: 156/923
 - [ ] 173. Prodigy - Return of the Mac
 - [ ] 172. Deerhunter - Fluorescent Grey EP
 - [ ] 171. The Twilight Sad - Fourteen Autumns & Fifteen Winters
-- [ ] 170. The Field - From Here We Go Sublime
+- [X] 170. The Field - From Here We Go Sublime
 - [X] 169. Panda Bear - Person Pitch
 - [X] 168. LCD Soundsystem - Sound of Silver
 - [ ] 167. Patrick Wolf - The Magic Position
@@ -775,10 +777,10 @@ Current score: 156/923
 - [ ] 155. Califone - Roots and Crowns
 - [ ] 154. The Decemberists - The Crane Wife
 - [ ] 153. The Hold Steady - Boys and Girls in America
-- [ ] 152. Mastodon - Blood Mountain
+- [X] 152. Mastodon - Blood Mountain
 - [ ] 151. Fujiya & Miyagi - Transparent Things
-- [ ] 150. Yo La Tengo - I Am Not Afraid of You and I Will Beat Your Ass
-- [ ] 149. Grizzly Bear - Yellow House
+- [X] 150. Yo La Tengo - I Am Not Afraid of You and I Will Beat Your Ass
+- [X] 149. Grizzly Bear - Yellow House
 - [ ] 148. The Thermals - The Body, the Blood, the Machine
 - [ ] 147. Junior Boys - So This Is Goodbye
 - [ ] 146. I'm From Barcelona - Let Me Introduce My Friends
@@ -879,11 +881,11 @@ Current score: 156/923
 - [ ] 51. Xiu Xiu - Fabulous Muscles
 - [X] 50. The Walkmen - Bows and Arrows
 - [X] 49. Air - Talkie Walkie
-- [ ] 48. Phillip Jeck - 7
+- [X] 48. Phillip Jeck - 7
 - [ ] 47. Mu - Afro Finger & Gel
 - [X] 46. Jay-Z - The Black Album
 - [ ] 45. The Unicorns - Who Will Cut Our Hair When We're Gone?
-- [ ] 44. Ellen Allien - Berlinette
+- [X] 44. Ellen Allien - Berlinette
 - [X] 43. Menomena - I Am the Fun Blame Monster
 - [ ] 42. Basement Jaxx - Kish Kash
 - [X] 41. The Shins - Chutes Too Narrow

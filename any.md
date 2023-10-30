@@ -1,10 +1,11 @@
 # Various albums
 
-Current score: 34/108
+Current score: 35/109
 
 Listened: `$ grep "\[X\]" any.md | wc -l`
 Total: `$ grep "\[.\]" any.md | wc -l`
 
+- [X] Pharoah Sanders - Pharoah
 - [ ] Alice Coltrane - World Spirituality Classics 1: The Ecstatic Music of Alice Coltrane Turiyasangitananda
 - [ ] Joe Henderson / Alice Coltrane - The Elements
 - [ ] Les Rallizes Dénudés - CITTA’ ’93

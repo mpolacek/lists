@@ -1,6 +1,6 @@
 # P4K 50 Best Ambient Albums
 
-Current score: 16/50
+Current score: 17/50
 
 `$ grep "\[X\]" grunge.md | wc -l`
 
@@ -26,7 +26,7 @@ Current score: 16/50
 - [ ] 20. Oneohtrix Point Never - Replica
 - [ ] 21. Grouper - A I A : Alien Observer
 - [ ] 22. Fennesz - Endless Summer
-- [ ] 23. Keith Fullerton Whitman - Playthroughs
+- [X] 23. Keith Fullerton Whitman - Playthroughs
 - [X] 24. Brian Eno - Ambient 4: On Land
 - [ ] 25. Folke Rabe - What??
 - [ ] 26. Iasos - Inter-Dimensional Music

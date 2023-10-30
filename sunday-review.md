@@ -1,9 +1,15 @@
 # Pitchfork Sunday Review
 
-Current score: 124/352
+Current score: 124/358
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 358. The Sisters of Mercy - Floodland
+- [ ] 357. Jim Jones - Harlem: Diary of a Summer
+- [ ] 356. The Waitresses - Wasn’t Tomorrow Wonderful?
+- [ ] 355. Too $hort - Gettin’ It (Album Number Ten)
+- [ ] 354. Mary J. Blige - The Breakthrough
+- [ ] 353. Sam Cooke - One Night Stand! Live at the Harlem Square Club, 1963
 - [ ] 352. Gillian Welch - Time (The Revelator)
 - [ ] 351. Linda Martell - Color Me Country
 - [X] 350. The Smashing Pumpkins - Siamese Dream

@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 311/500
+Current score: 312/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -442,7 +442,7 @@ Current score: 311/500
 - [X] 436. 2Pac - All Eyez on Me
 - [X] 437. Primal Scream - Screamadelica
 - [X] 438. Blur - Parklife (1994)
-- [ ] 439. James Brown - Sex Machine
+- [X] 439. James Brown - Sex Machine
 - [ ] 440. Coal Miner's Daughter - Loretta Lynn
 - [X] 441. Britney Spears - Blackout
 - [ ] 442. The Weeknd - Beauty Behind the Madness
