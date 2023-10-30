@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 172/259
+Current score: 173/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -185,7 +185,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Louis Armstrong - California Concerts
 - [x] Charles Mingus - The Complete Debut Recordings
 - [ ] Kid Thomas (Valentine) - Kid Thomas and his Algiers Stompers
-- [ ] Sidney Bechet - The Fabulous Sidney Bechet
+- [x] Sidney Bechet - The Fabulous Sidney Bechet
 - [ ] Jimmy Forrest - Night Train
 - [x] Billie Holiday - Lady in Autumn
 - [ ] Sharkey Bonano - At Lenfant's Lounge
