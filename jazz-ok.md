@@ -198,7 +198,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Shorty Rogers - The Sweetheart of Sigmund Freud
 - [ ] Freddy Randall - Freddy Randall And His Band
 - [ ] Charlie Parker - The Quintet: Jazz at Massey Hall
-- [ ] Ben Webster - King of the Tenors
+- [x] Ben Webster - King of the Tenors
 - [x] Clifford Brown - Memorial Album (1953)
 - [ ] George Lewis - Jazz Funeral in New Orleans
 - [ ] Elmo Hope - Trio and Quintet
