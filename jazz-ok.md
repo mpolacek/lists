@@ -262,7 +262,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Jim Robinson - Jim Robinson's New Orleans Band (1961)
 - [x] George Russell - Ezz-thetics (1961)
 - [x] Grant Green - Born To Be Blue (1961-62)
-- [ ] Gene Ammons - The Gene Ammons Story: Gentle Jug (1961-62)
+- [x] Gene Ammons - The Gene Ammons Story: Gentle Jug (1961-62)
 - [ ] Oscar Peterson - Night Train (1962)
 - [ ] Cecil Taylor - Nefertiti, The Beautiful One Has Come (1962)
 - [ ] Paul Desmond - Glad To Be Unhappy (1963-64)
