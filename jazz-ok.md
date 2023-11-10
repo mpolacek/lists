@@ -193,7 +193,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Howard Rumsey - Sunday Jazz A La Lighthouse: Volumes 1-3
 - [ ] Gerry Mulligan - The Original Quartet
 - [ ] Wilbur De Paris - Uproarious Twenties in Dixieland / Rampart Street Ramblers / New New Orleans Jazz
-- [ ] Lester Young - The President Plays
+- [x] Lester Young - The President Plays
 - [ ] Red Rodney - Red Rodney Quintets
 - [ ] Shorty Rogers - The Sweetheart of Sigmund Freud
 - [ ] Freddy Randall - Freddy Randall And His Band
