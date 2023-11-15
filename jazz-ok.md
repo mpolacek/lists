@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 177/259
+Current score: 178/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -270,7 +270,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Thelonious Monk - Underground (1968)
 - [ ] Jimmy Rowles - Our Delight (1968)
 - [x] Miles Davis - The Complete Live At The Plugged Nickel
-- [ ] Duke Ellington - The Far East Suite (1966)
+- [x] Duke Ellington - The Far East Suite (1966)
 - [ ] Cecil Taylor - Conquistador!
 
 ## The '70s
