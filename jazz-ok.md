@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 178/259
+Current score: 179/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -182,7 +182,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Wardley Gray - Memorial: Volumes 1 & 2
 - [ ] Stan Kenton - City of Glass | The Innovations Orchestra
 - [ ] Chico O'Farrill - Cuban Blues: The Chico O'Farrill Sessions
-- [ ] Louis Armstrong - California Concerts
+- [x] Louis Armstrong - California Concerts
 - [x] Charles Mingus - The Complete Debut Recordings
 - [ ] Kid Thomas (Valentine) - Kid Thomas and his Algiers Stompers
 - [x] Sidney Bechet - The Fabulous Sidney Bechet
