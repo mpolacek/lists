@@ -186,7 +186,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Charles Mingus - The Complete Debut Recordings
 - [ ] Kid Thomas (Valentine) - Kid Thomas and his Algiers Stompers
 - [x] Sidney Bechet - The Fabulous Sidney Bechet
-- [ ] Jimmy Forrest - Night Train
+- [x] Jimmy Forrest - Night Train
 - [x] Billie Holiday - Lady in Autumn
 - [ ] Sharkey Bonano - At Lenfant's Lounge
 - [ ] George Wallington - George Wallington Trios
