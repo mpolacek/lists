@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 181/259
+Current score: 182/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -267,7 +267,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Cecil Taylor - Nefertiti, The Beautiful One Has Come (1962)
 - [ ] Paul Desmond - Glad To Be Unhappy (1963-64)
 - [x] McCoy Tyner - The Real McCoy (1967)
-- [ ] Thelonious Monk - Underground (1968)
+- [x] Thelonious Monk - Underground (1968)
 - [ ] Jimmy Rowles - Our Delight (1968)
 - [x] Miles Davis - The Complete Live At The Plugged Nickel
 - [x] Duke Ellington - The Far East Suite (1966)
