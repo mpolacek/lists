@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 604/1083
+Current score: 606/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -869,7 +869,7 @@ Current score: 604/1083
 - [ ] 863. Billy Bragg and Wilco Mermaid Avenue
 - [X] 864. Turbonegro - Apocalypse Dudes
 - [ ] 865. Fatboy Slim - You've Come a Long Way Baby
-- [ ] 866. David Gray - White Ladder
+- [X] 866. David Gray - White Ladder
 - [X] 867. Lucinda Williams - Car Wheels on a Gravel Road
 - [ ] 868. Pulp - This Is Hardcore
 - [ ] 869. Madonna - Ray of Light
@@ -1030,7 +1030,7 @@ Current score: 604/1083
 - [X] 1024. Fleet Foxes - Fleet Foxes
 - [ ] 1025. The Last Shadow Puppets - The Age of Understatement
 - [X] 1026. Elbow - The Seldom Seen Kid
-- [ ] 1027. Portishead - Third
+- [X] 1027. Portishead - Third
 - [X] 1028. MGMT - Oracular Spectacular
 - [ ] 1029. Goldfrapp - Seventh Tree
 - [X] 1030. TV on the Radio - Dear Science

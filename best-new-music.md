@@ -1,9 +1,12 @@
 # Pitchfork Best New Music
 
-Current score: 163/925
+Current score: 173/928
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 928. Hotline TNT - Cartwheel
+- [ ] 927. Titanic - Vidrio
+- [ ] 926. Ragana - Desolation’s Flower
 - [ ] 925. Sofia Kourtesis - Madres
 - [ ] 924. L'Rain - I Killed Your Dog
 - [ ] 923. Pangaea - Changing Channels
@@ -376,7 +379,7 @@ Current score: 163/925
 - [ ] 556. Vince Staples - Summertime '06
 - [ ] 555. Thundercat - The Beyond/Where the Giants Roam
 - [ ] 554. Donnie Trumpet & the Social Experiment - Surf
-- [ ] 553. Jamie Xx - In Colour
+- [X] 553. Jamie Xx - In Colour
 - [ ] 552. Nao - February 15th EP
 - [ ] 551. Holly Herndon - Platform
 - [ ] 550. Shamir - Ratchet
@@ -429,7 +432,7 @@ Current score: 163/925
 - [ ] 503. Lykke Li - I Never Learn
 - [ ] 502. Ought - More Than Any Other Day
 - [ ] 501. Todd Terje - It's Album Time
-- [ ] 500. Mac Demarco - Salad Days
+- [X] 500. Mac Demarco - Salad Days
 - [ ] 499. Cloud Nothings - Here and Nowhere Else
 - [X] 498. The War on Drugs - Lost in the Dream
 - [ ] 497. Perfect Pussy - Say Yes to Love
@@ -447,10 +450,10 @@ Current score: 163/925
 - [ ] 485. DJ Rashad - Double Cup
 - [ ] 484. Kelela - Cut 4 Me (2013)
 - [ ] 483. Tim Hecker - Virgins
-- [ ] 482. Darkside - Psychic
+- [X] 482. Darkside - Psychic
 - [ ] 481. Oneohtrix Point Never - R Plus Seven
 - [ ] 480. Danny Brown - Old
-- [ ] 479. The Field - Cupid's Head
+- [X] 479. The Field - Cupid's Head
 - [ ] 478. Haim - Days Are Gone
 - [X] 477. CHVRCHES - The Bones of What You Believe
 - [ ] 476. Drake - Nothing Was the Same
@@ -495,7 +498,7 @@ Current score: 163/925
 - [ ] 437. Foxygen - We Are the 21st Century Ambassadors of Peace and Magic
 - [ ] 436. Burial - Truant/Rough Sleeper
 - [ ] 435. A$AP Rocky - Long.Live.A$AP
-- [ ] 434. Mac Demarco - 2
+- [X] 434. Mac Demarco - 2
 - [ ] 433. Andy Stott - Luxury Problems
 - [X] 432. Kendrick Lamar - Good Kid, M.A.A.D City
 - [ ] 431. Bat for Lashes - The Haunted Man
@@ -553,16 +556,16 @@ Current score: 163/925
 - [X] 379. Real Estate - Days
 - [ ] 378. M83 - Hurry Up, We're Dreaming
 - [ ] 377. Trash Talk - Awake EP
-- [ ] 376. Youth Lagoon - The Year of Hibernation
+- [X] 376. Youth Lagoon - The Year of Hibernation
 - [ ] 375. Wolves in the Throne Room - Celestial Lineage
 - [ ] 374. St. Vincent - Strange Mercy
 - [ ] 373. Girls - Father, Son, Holy Ghost
-- [ ] 372. The Field - Looping State of Mind
+- [X] 372. The Field - Looping State of Mind
 - [X] 371. The War on Drugs - Slave Ambient
 - [ ] 370. Jay-Z/Kanye West - Watch the Throne
-- [ ] 369. Washed Out - Within and Without
+- [X] 369. Washed Out - Within and Without
 - [ ] 368. John Maus - We Must Become the Pitiless Censors of Ourselves
-- [ ] 367. Araabmuzik - Electronic Dream
+- [X] 367. Araabmuzik - Electronic Dream
 - [ ] 366. Iceage - New Brigade
 - [ ] 365. Shabazz Palaces - Black Up
 - [ ] 364. WU LYF - Go Tell Fire to the Mountain
@@ -711,7 +714,7 @@ Current score: 163/925
 - [ ] 221. Spiritualized - Songs in a & E
 - [ ] 220. Bonnie "Prince" Billy - Lie Down in the Light
 - [X] 219. No Age - Nouns
-- [ ] 218. Portishead - Third
+- [X] 218. Portishead - Third
 - [ ] 217. Titus Andronicus - The Airing of Grievances
 - [ ] 216. M83 - Saturdays = Youth
 - [X] 215. Cut Copy - In Ghost Colours

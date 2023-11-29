@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 312/500
+Current score: 314/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -274,7 +274,7 @@ Current score: 312/500
 - [X] 268. Randy Newman - Sail Away
 - [ ] 269. Kanye West - Yeezus (2013)
 - [ ] 270. Kacey Musgraves - Golden Hour
-- [ ] 271. Mary J. Blige Whats the 411?
+- [X] 271. Mary J. Blige - What's the 411?
 - [X] 272. The Velvet Underground - White Light/White Heat
 - [X] 273. Gang of Four - Entertainment!
 - [ ] 274. The Byrds - Sweetheart of the Rodeo
@@ -494,7 +494,7 @@ Current score: 312/500
 - [X] 488. The Stooges - The Stooges (1969)
 - [ ] 489. Phil Spector (Various Artists) - Back to Mono
 - [ ] 490. Linda Ronstadt - Heart Like a Wheel
-- [ ] 491. Harry Styles - Fine Line
+- [X] 491. Harry Styles - Fine Line
 - [X] 492. Bonnie Raitt - Nick of Time (1989)
 - [X] 493. Marvin Gaye - Here, My Dear
 - [ ] 494. Presenting the Fabulous Ronettes
