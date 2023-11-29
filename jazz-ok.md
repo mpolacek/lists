@@ -245,7 +245,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Curtis Counce - The Complete Studio Recordings: The Master Takes
 - [ ] J.R. Monterose - J.R. Monterose
 - [ ] Mel Torme - Sings Fred Astaire
-- [ ] Teddy Charles - The Teddy Charles Tentet
+- [x] Teddy Charles - The Teddy Charles Tentet
 - [ ] Charles Mingus - Pithecanthropus Erectus
 - [ ] Tal Farlow - The Swinging Guitar of Tal Farlow
 - [ ] Chet Baker - Chet Baker And Crew
