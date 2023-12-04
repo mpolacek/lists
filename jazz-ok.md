@@ -189,7 +189,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Jimmy Forrest - Night Train
 - [x] Billie Holiday - Lady in Autumn
 - [ ] Sharkey Bonano - At Lenfant's Lounge
-- [ ] George Wallington - George Wallington Trios
+- [x] George Wallington - George Wallington Trios
 - [ ] Howard Rumsey - Sunday Jazz A La Lighthouse: Volumes 1-3
 - [ ] Gerry Mulligan - The Original Quartet
 - [ ] Wilbur De Paris - Uproarious Twenties in Dixieland / Rampart Street Ramblers / New New Orleans Jazz
