@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 184/259
+Current score: 185/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -205,7 +205,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] J.J. Johnson - The Eminent Jay Jay Johnson: Volumes 1 & 2
 - [ ] Vic Dickenson - The Essential Vic Dickenson
 - [ ] Bengt Hallberg - All-Star Sessions 1953-1954
-- [ ] Lars Gullin - Danny's Dream
+- [x] Lars Gullin - Danny's Dream
 - [ ] Art Tatum - The Complete Pablo Solo Masterpieces | The Tatum Group Masterpieces: Volume 1
 - [ ] Mel Powell - Borderline-Thigamagig
 - [ ] James Moody - Moody's Mood For Blues
