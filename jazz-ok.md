@@ -188,7 +188,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Sidney Bechet - The Fabulous Sidney Bechet
 - [x] Jimmy Forrest - Night Train
 - [x] Billie Holiday - Lady in Autumn
-- [ ] Sharkey Bonano - At Lenfant's Lounge
+- [x] Sharkey Bonano - At Lenfant's Lounge
 - [x] George Wallington - George Wallington Trios
 - [ ] Howard Rumsey - Sunday Jazz A La Lighthouse: Volumes 1-3
 - [ ] Gerry Mulligan - The Original Quartet
