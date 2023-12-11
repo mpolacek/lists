@@ -200,7 +200,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Charlie Parker - The Quintet: Jazz at Massey Hall
 - [x] Ben Webster - King of the Tenors
 - [x] Clifford Brown - Memorial Album (1953)
-- [ ] George Lewis - Jazz Funeral in New Orleans
+- [x] George Lewis - Jazz Funeral in New Orleans
 - [ ] Elmo Hope - Trio and Quintet
 - [x] J.J. Johnson - The Eminent Jay Jay Johnson: Volumes 1 & 2
 - [ ] Vic Dickenson - The Essential Vic Dickenson
