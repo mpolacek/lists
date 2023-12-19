@@ -204,7 +204,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Elmo Hope - Trio and Quintet
 - [x] J.J. Johnson - The Eminent Jay Jay Johnson: Volumes 1 & 2
 - [ ] Vic Dickenson - The Essential Vic Dickenson
-- [ ] Bengt Hallberg - All-Star Sessions 1953-1954
+- [x] Bengt Hallberg - All-Star Sessions 1953-1954
 - [x] Lars Gullin - Danny's Dream
 - [ ] Art Tatum - The Complete Pablo Solo Masterpieces | The Tatum Group Masterpieces: Volume 1
 - [ ] Mel Powell - Borderline-Thigamagig
