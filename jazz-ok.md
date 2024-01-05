@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 190/259
+Current score: 191/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -197,7 +197,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Red Rodney - Red Rodney Quintets
 - [ ] Shorty Rogers - The Sweetheart of Sigmund Freud
 - [ ] Freddy Randall - Freddy Randall And His Band
-- [ ] Charlie Parker - The Quintet: Jazz at Massey Hall
+- [x] Charlie Parker - The Quintet: Jazz at Massey Hall
 - [x] Ben Webster - King of the Tenors
 - [x] Clifford Brown - Memorial Album (1953)
 - [x] George Lewis - Jazz Funeral in New Orleans
