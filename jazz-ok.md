@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 191/259
+Current score: 192/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -249,7 +249,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Charles Mingus - Pithecanthropus Erectus
 - [ ] Tal Farlow - The Swinging Guitar of Tal Farlow
 - [ ] Chet Baker - Chet Baker And Crew
-- [ ] Bob Brookmeyer - Brookmeyer
+- [x] Bob Brookmeyer - Brookmeyer
 - [x] Cecil Taylor - Jazz Advance
 
 ## The '60s
