@@ -271,7 +271,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Jimmy Rowles - Our Delight (1968)
 - [x] Miles Davis - The Complete Live At The Plugged Nickel
 - [x] Duke Ellington - The Far East Suite (1966)
-- [ ] Cecil Taylor - Conquistador!
+- [x] Cecil Taylor - Conquistador!
 
 ## The '70s
 
