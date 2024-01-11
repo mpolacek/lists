@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 606/1083
+Current score: 608/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -853,10 +853,10 @@ Current score: 606/1083
 - [ ] 847. Buena Vista Social Club - Buena Vista Social Club
 - [ ] 848. Nick Cave and the Bad Seeds - The Boatman's Call
 - [ ] 849. Divine Comedy - A Short Album About Love
-- [ ] 850. Cornershop - When I Was Born for the 7th Time
+- [X] 850. Cornershop - When I Was Born for the 7th Time
 - [X] 851. Daft Punk - Homework
 - [X] 852. Robbie Williams - Life Thru a Lens
-- [ ] 853. Mariah Carey - Butterfly
+- [X] 853. Mariah Carey - Butterfly
 - [ ] 854. Supergrass - In It for the Money
 - [X] 855. Bob Dylan - Time Out of Mind
 - [ ] 856. Reprazent and Roni Size - New Forms

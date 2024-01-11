@@ -1,9 +1,17 @@
 # Pitchfork Sunday Review
 
-Current score: 124/358
+Current score: 125/366
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 366. Brian Eno - Ambient 1: Music for Airports
+- [ ] 365. Au Pairs - Playing With a Different Sex
+- [ ] 364. Rod Stewart - Every Picture Tells a Story
+- [ ] 363. Paramore - Riot!
+- [ ] 362. Fun Boy Three - Fun Boy Three
+- [ ] 361. Frank Zappa - Jazz From Hell
+- [ ] 360. Ace of Base - The Sign
+- [ ] 359. Buju Banton - ’Til Shiloh
 - [ ] 358. The Sisters of Mercy - Floodland
 - [ ] 357. Jim Jones - Harlem: Diary of a Summer
 - [ ] 356. The Waitresses - Wasn’t Tomorrow Wonderful?

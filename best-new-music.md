@@ -1,9 +1,10 @@
 # Pitchfork Best New Music
 
-Current score: 173/928
+Current score: 173/929
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 929. André 3000 - New Blue Sun
 - [ ] 928. Hotline TNT - Cartwheel
 - [ ] 927. Titanic - Vidrio
 - [ ] 926. Ragana - Desolation’s Flower
