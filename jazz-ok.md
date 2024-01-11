@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 193/259
+Current score: 194/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -265,7 +265,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Gene Ammons - The Gene Ammons Story: Gentle Jug (1961-62)
 - [ ] Oscar Peterson - Night Train (1962)
 - [x] Cecil Taylor - Nefertiti, The Beautiful One Has Come (1962)
-- [ ] Paul Desmond - Glad To Be Unhappy (1963-64)
+- [x] Paul Desmond - Glad To Be Unhappy (1963-64)
 - [x] McCoy Tyner - The Real McCoy (1967)
 - [x] Thelonious Monk - Underground (1968)
 - [ ] Jimmy Rowles - Our Delight (1968)
