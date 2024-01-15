@@ -1,9 +1,10 @@
 # Pitchfork Sunday Review
 
-Current score: 125/366
+Current score: 126/367
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 367. Bob Dylan - Desire
 - [ ] 366. Brian Eno - Ambient 1: Music for Airports
 - [ ] 365. Au Pairs - Playing With a Different Sex
 - [ ] 364. Rod Stewart - Every Picture Tells a Story
@@ -61,7 +62,7 @@ Current score: 125/366
 - [X] 312. Living Colour - Vivid
 - [ ] 311. Adam Sandler - They’re All Gonna Laugh at You!
 - [ ] 310. Cake - Fashion Nugget
-- [ ] 309. Soft Cell - Non-Stop Erotic Cabaret
+- [X] 309. Soft Cell - Non-Stop Erotic Cabaret
 - [ ] 308. Against Me! - Reinventing Axl Rose
 - [ ] 307. The Magnetic Fields - The Charm of the Highway Strip
 - [ ] 306. Nona Hendryx - SkinDiver

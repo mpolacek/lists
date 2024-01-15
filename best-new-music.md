@@ -1,9 +1,10 @@
 # Pitchfork Best New Music
 
-Current score: 173/929
+Current score: 175/930
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 930. Kali Uchis - Orquídeas
 - [ ] 929. André 3000 - New Blue Sun
 - [ ] 928. Hotline TNT - Cartwheel
 - [ ] 927. Titanic - Vidrio
@@ -815,8 +816,8 @@ Current score: 173/929
 - [X] 121. Wolf Parade - Apologies to the Queen Mary (2005)
 - [ ] 120. Devendra Banhart - Cripple Crow
 - [ ] 119. Serena Maneesh - Serena Maneesh
-- [ ] 118. Kanye West - Late Registration
-- [ ] 117. The New Pornographers - Twin Cinema
+- [X] 118. Kanye West - Late Registration
+- [X] 117. The New Pornographers - Twin Cinema
 - [X] 116. Sufjan Stevens - Illinois
 - [ ] 115. Wilderness - Wilderness
 - [X] 114. Clap Your Hands Say Yeah - Clap Your Hands Say Yeah

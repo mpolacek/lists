@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 608/1083
+Current score: 609/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -486,7 +486,7 @@ Current score: 608/1083
 - [ ] 480. Heaven 17 - Penthouse and Pavement (1981)
 - [X] 481. The Go Go's - Beauty and the Beat
 - [ ] 482. Motorhead - No Sleep 'Til Hammersmith
-- [ ] 483. Soft Cell - Non-Stop Erotic Cabaret
+- [X] 483. Soft Cell - Non-Stop Erotic Cabaret
 - [ ] 484. Orchestral Manoeuvres in the Dark - Architecture & Morality (1981)
 - [ ] 485. David Byrne & Brian Eno - My Life in the Bush of Ghosts
 - [X] 486. Black Flag - Damaged

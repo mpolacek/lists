@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 314/500
+Current score: 315/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -120,7 +120,7 @@ Current score: 314/500
 - [X] 114. The Strokes - Is This It
 - [X] 115. Kendrick Lamar - Good Kid, M.A.A.D City
 - [ ] 116. The Cure - Disintegration
-- [ ] 117. Kanye West - Late Registration
+- [X] 117. Kanye West - Late Registration
 - [X] 118. Eagles - Hotel California
 - [X] 119. Sly & the Family Stone - Stand!
 - [X] 120. Van Morrison - Moondance

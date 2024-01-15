@@ -1,6 +1,6 @@
 # Various albums
 
-Current score: 35/109
+Current score: 36/109
 
 Listened: `$ grep "\[X\]" any.md | wc -l`
 Total: `$ grep "\[.\]" any.md | wc -l`
@@ -34,7 +34,7 @@ Total: `$ grep "\[.\]" any.md | wc -l`
 - [X] The Olivia Tremor Control - Music From the Unrealized Film Script: Dusk at Cubist Castle
 - [ ] The Olivia Tremor Control - Black Foliage: Animation Music Vol. 1
 - [X] Bebel Gilberto - João
-- [ ] Thelonious Monk - Misterioso
+- [X] Thelonious Monk - Misterioso
 - [ ] Laurie Anderson - Heart of a Dog
 - [X] Sun Ra - Lanquidity
 - [ ] Bush Tetras - They Live in My Head
