@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 195/259
+Current score: 196/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -246,7 +246,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] J.R. Monterose - J.R. Monterose
 - [ ] Mel Torme - Sings Fred Astaire
 - [x] Teddy Charles - The Teddy Charles Tentet
-- [ ] Charles Mingus - Pithecanthropus Erectus
+- [x] Charles Mingus - Pithecanthropus Erectus
 - [ ] Tal Farlow - The Swinging Guitar of Tal Farlow
 - [ ] Chet Baker - Chet Baker And Crew
 - [x] Bob Brookmeyer - Brookmeyer
