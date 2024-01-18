@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 197/259
+Current score: 198/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -213,7 +213,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Blue Mitchell - The Thing To Do
 - [ ] Lennie Tristano - Lennie Tristano / The New Tristano
 - [ ] June Christy - Something Cool: The Complete Mono and Stereo Versions
-- [ ] Al Haig - Esoteric
+- [x] Al Haig - Esoteric
 - [ ] Percy Humphrey - Percy Humphrey's Sympathy Five
 - [ ] Jimmy Raney - A
 - [ ] Bud Shank - Jazz In Hollywood
