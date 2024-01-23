@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 198/259
+Current score: 199/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -230,7 +230,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Barney Kessel - To Swing Or Not To Swing
 - [ ] Hampton Hawes - The Trios: Volumes 1 & 2
 - [ ] Chico Hamilton - Live at the Strollers
-- [ ] Erroll Garner - Concert By The Sea
+- [x] Erroll Garner - Concert By The Sea
 - [ ] Joe Newman - The Count's Men
 - [ ] Ruby Braff - 2x2: Ruby Braff And Ellis Larkins Play Rodgers And Hart
 - [ ] Red Callender - Swingin' Suite
