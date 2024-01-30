@@ -244,7 +244,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Coleman Hawkins - The Stanley Dance Sessions
 - [ ] Curtis Counce - The Complete Studio Recordings: The Master Takes
 - [ ] J.R. Monterose - J.R. Monterose
-- [ ] Mel Torme - Sings Fred Astaire
+- [x] Mel Torme - Sings Fred Astaire
 - [x] Teddy Charles - The Teddy Charles Tentet
 - [x] Charles Mingus - Pithecanthropus Erectus
 - [ ] Tal Farlow - The Swinging Guitar of Tal Farlow
