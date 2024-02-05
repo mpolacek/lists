@@ -280,7 +280,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 
 ## The '80s
 
-- [ ] Mark Murphy - Bop For Kerouac (1981)
+- [x] Mark Murphy - Bop For Kerouac (1981)
 - [x] Sarah Vaughan - Crazy And Mixed Up (1982)
 - [ ] Miroslav Vitous - Journey's End (1982)
 - [ ] Cecil Taylor - Celebrated Blazons
