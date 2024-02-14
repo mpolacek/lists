@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 201/259
+Current score: 202/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -284,7 +284,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Sarah Vaughan - Crazy And Mixed Up (1982)
 - [ ] Miroslav Vitous - Journey's End (1982)
 - [ ] Cecil Taylor - Celebrated Blazons
-- [ ] Sun Ra - Mayan Temples
+- [x] Sun Ra - Mayan Temples
 
 ## The '90s
 
