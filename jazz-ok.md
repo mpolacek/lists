@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 202/259
+Current score: 203/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -222,7 +222,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Johnny St Cyr - Johnny St Cyr
 - [ ] Benny Goodman - B.G. In Hi-Fi
 - [ ] Oscar Pettiford - Nonet & Octet 1954-55
-- [ ] Charles Thompson - For The Ears
+- [x] Charles Thompson - For The Ears
 - [ ] Richard Twardzik - Complete Recordings
 - [ ] Dinah Washington - Dinah Jams
 - [ ] Lennie Niehaus - The Quintets & Strings
