@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 203/259
+Current score: 204/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -209,7 +209,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Art Tatum - The Complete Pablo Solo Masterpieces | The Tatum Group Masterpieces: Volume 1
 - [ ] Mel Powell - Borderline-Thigamagig
 - [ ] James Moody - Moody's Mood For Blues
-- [ ] Art Blakey - A Night at Birdland: Volumes 1 & 2
+- [x] Art Blakey - A Night at Birdland: Volumes 1 & 2
 - [x] Blue Mitchell - The Thing To Do
 - [ ] Lennie Tristano - Lennie Tristano / The New Tristano
 - [ ] June Christy - Something Cool: The Complete Mono and Stereo Versions
