@@ -190,7 +190,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Billie Holiday - Lady in Autumn
 - [x] Sharkey Bonano - At Lenfant's Lounge
 - [x] George Wallington - George Wallington Trios
-- [ ] Howard Rumsey - Sunday Jazz A La Lighthouse: Volumes 1-3
+- [x] Howard Rumsey - Sunday Jazz A La Lighthouse: Volumes 1-3
 - [x] Gerry Mulligan - The Original Quartet
 - [ ] Wilbur De Paris - Uproarious Twenties in Dixieland / Rampart Street Ramblers / New New Orleans Jazz
 - [x] Lester Young - The President Plays
