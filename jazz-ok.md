@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 205/259
+Current score: 206/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -208,7 +208,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Lars Gullin - Danny's Dream
 - [ ] Art Tatum - The Complete Pablo Solo Masterpieces | The Tatum Group Masterpieces: Volume 1
 - [ ] Mel Powell - Borderline-Thigamagig
-- [ ] James Moody - Moody's Mood For Blues
+- [x] James Moody - Moody's Mood For Blues
 - [x] Art Blakey - A Night at Birdland: Volumes 1 & 2
 - [x] Blue Mitchell - The Thing To Do
 - [ ] Lennie Tristano - Lennie Tristano / The New Tristano
