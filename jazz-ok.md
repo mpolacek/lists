@@ -211,7 +211,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] James Moody - Moody's Mood For Blues
 - [x] Art Blakey - A Night at Birdland: Volumes 1 & 2
 - [x] Blue Mitchell - The Thing To Do
-- [ ] Lennie Tristano - Lennie Tristano / The New Tristano
+- [x] Lennie Tristano - Lennie Tristano / The New Tristano
 - [ ] June Christy - Something Cool: The Complete Mono and Stereo Versions
 - [x] Al Haig - Esoteric
 - [ ] Percy Humphrey - Percy Humphrey's Sympathy Five
