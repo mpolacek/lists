@@ -247,7 +247,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Mel Torme - Sings Fred Astaire
 - [x] Teddy Charles - The Teddy Charles Tentet
 - [x] Charles Mingus - Pithecanthropus Erectus
-- [ ] Tal Farlow - The Swinging Guitar of Tal Farlow
+- [x] Tal Farlow - The Swinging Guitar of Tal Farlow
 - [x] Chet Baker - Chet Baker And Crew
 - [x] Bob Brookmeyer - Brookmeyer
 - [x] Cecil Taylor - Jazz Advance
