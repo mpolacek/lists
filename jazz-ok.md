@@ -224,7 +224,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Oscar Pettiford - Nonet & Octet 1954-55
 - [x] Charles Thompson - For The Ears
 - [ ] Richard Twardzik - Complete Recordings
-- [ ] Dinah Washington - Dinah Jams
+- [x] Dinah Washington - Dinah Jams
 - [ ] Lennie Niehaus - The Quintets & Strings
 - [ ] Sarah Vaughan - Sarah Vaughan (1954)
 - [ ] Barney Kessel - To Swing Or Not To Swing
