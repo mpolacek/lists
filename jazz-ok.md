@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 209/259
+Current score: 210/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -282,7 +282,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 
 - [x] Mark Murphy - Bop For Kerouac (1981)
 - [x] Sarah Vaughan - Crazy And Mixed Up (1982)
-- [ ] Miroslav Vitous - Journey's End (1982)
+- [x] Miroslav Vitous - Journey's End (1982)
 - [ ] Cecil Taylor - Celebrated Blazons
 - [x] Sun Ra - Mayan Temples
 
