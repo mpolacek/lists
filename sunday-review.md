@@ -1,11 +1,11 @@
 # Pitchfork Sunday Review
 
-Current score: 126/367
+Current score: 127/367
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
 - [ ] 367. Bob Dylan - Desire
-- [ ] 366. Brian Eno - Ambient 1: Music for Airports
+- [X] 366. Brian Eno - Ambient 1: Music for Airports
 - [ ] 365. Au Pairs - Playing With a Different Sex
 - [ ] 364. Rod Stewart - Every Picture Tells a Story
 - [ ] 363. Paramore - Riot!
@@ -130,7 +130,7 @@ Current score: 126/367
 - [ ] 244. Jimmy Eat World - Clarity
 - [ ] 243. Sparks - No. 1 in Heaven
 - [X] 242. Fugees - The Score
-- [ ] 241. The Flying Burrito Brothers - The Gilded Palace of Sin
+- [X] 241. The Flying Burrito Brothers - The Gilded Palace of Sin
 - [ ] 240. Joan Armatrading - Joan Armatrading
 - [ ] 239. Sonny Sharrock - Ask the Ages
 - [ ] 238. Speaker Knockerz - Married to the Money II #MTTM2

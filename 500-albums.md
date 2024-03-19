@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 315/500
+Current score: 319/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -192,7 +192,7 @@ Current score: 315/500
 - [ ] 186. Red Hot Chili Peppers - Blood Sugar Sex Magik
 - [X] 187. Ice Cube - Amerikkka's Most Wanted
 - [X] 188. T. Rex - Electric Warrior
-- [ ] 189. Sleater-Kinney - Dig Me Out
+- [X] 189. Sleater-Kinney - Dig Me Out
 - [ ] 190. The Who - Tommy
 - [ ] 191. Etta James - At Last! (1960)
 - [ ] 192. Beastie Boys - Licensed to Ill
@@ -462,16 +462,16 @@ Current score: 315/500
 - [ ] 456. Al Green - Greatest Hits
 - [X] 457. Sinead O'Connor - I Do Not Want What I Haven't Got
 - [ ] 458. Jason Isbell - Southeastern
-- [ ] 459. Kid Cudi - Man on the Moon: The End of Days
+- [X] 459. Kid Cudi - Man on the Moon: The End of Day
 - [X] 460. Lorde - Melodrama (2017)
 - [ ] 461. Bon Iver - For Emma, Forever Ago
-- [ ] 462. The Flying Burrito Bros - The Gilded Palace of Sin
+- [X] 462. The Flying Burrito Bros - The Gilded Palace of Sin
 - [ ] 463. Eli & the Thirteenth Confession
 - [X] 464. The Isley Brothers - 3+3
 - [ ] 465. King Sunny Adé - The Best of the Classic Years (2003)
 - [ ] 466. The Beach Boys Today! (1965)
 - [ ] 467. Maxwell-Blacksummers' Night
-- [ ] 468. The Rolling Stones - Some Girls
+- [X] 468. The Rolling Stones - Some Girls
 - [X] 469. Manu Chao - Clandestino
 - [X] 470. Juvenile - 400 Degreez
 - [X] 471. Jefferson Airplane - Surrealistic Pillow

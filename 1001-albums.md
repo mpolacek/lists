@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 609/1083
+Current score: 613/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -144,7 +144,7 @@ Current score: 609/1083
 - [ ] 138. Creedence Clearwater Revival - Bayou Country (1969)
 - [X] 139. Crosby, Stills & Nash - Crosby Stills & Nash (1969)
 - [ ] 140. Blood, Sweat & Tears - Blood, Sweat & Tears (1969)
-- [ ] 141. The Flying Burrito Bros - The Gilded Palace of Sin
+- [X] 141. The Flying Burrito Bros - The Gilded Palace of Sin
 - [ ] 142. Johnny Cash - At San Quentin (1969)
 - [X] 143. Creedence Clearwater Revival - Green River
 - [X] 144. The Beatles - Abbey Road (1969)
@@ -162,7 +162,7 @@ Current score: 609/1083
 - [X] 156. The Band - The Band (1969)
 - [X] 157. Led Zeppelin - Led Zeppelin II (1969)
 - [X] 158. MC5 - Kick Out the Jams (1969)
-- [ ] 159. The Temptations - Cloud Nine (1969)
+- [X] 159. The Temptations - Cloud Nine (1969)
 - [X] 160. Sly & the Family Stone - Stand! (1969)
 - [ ] 161. Tim Buckley - Happy Sad
 - [X] 162. Chicago - Chicago Transit Authority
@@ -848,9 +848,9 @@ Current score: 609/1083
 - [X] 842. Primal Scream - Vanishing Point
 - [ ] 843. Robert Wyatt - Shleep
 - [X] 844. David Holmes - Let's Get Killed
-- [ ] 845. Sleater-Kinney - Dig Me Out
+- [X] 845. Sleater-Kinney - Dig Me Out
 - [X] 846. The Prodigy - The Fat of the Land
-- [ ] 847. Buena Vista Social Club - Buena Vista Social Club
+- [X] 847. Buena Vista Social Club - Buena Vista Social Club
 - [ ] 848. Nick Cave and the Bad Seeds - The Boatman's Call
 - [ ] 849. Divine Comedy - A Short Album About Love
 - [X] 850. Cornershop - When I Was Born for the 7th Time
