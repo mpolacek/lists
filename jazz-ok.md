@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 212/259
+Current score: 213/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -288,7 +288,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 
 ## The '90s
 
-- [ ] Bobby Previte - Weather Clear, Track Fast (1991)
+- [x] Bobby Previte - Weather Clear, Track Fast (1991)
 - [ ] McCoy Tyner - Soliloquy (1991)
 
 ## The Recent Scene 2001 - 2010
