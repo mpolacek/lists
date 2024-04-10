@@ -1,9 +1,19 @@
 # Pitchfork Sunday Review
 
-Current score: 127/367
+Current score: 128/377
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 377. Meat Puppets - Meat Puppets II
+- [ ] 376. Harry Partch - The World of Harry Partch
+- [ ] 375. SWV - It’s About Time
+- [ ] 374. Gin Blossoms - New Miserable Experience
+- [ ] 373. Ornette Coleman - Science Fiction
+- [ ] 372. Mariah Carey - The Emancipation of Mimi
+- [ ] 371. Mercury Rev - Yerself Is Steam
+- [X] 370. Jeff Mills - Live at the Liquid Room, Tokyo
+- [ ] 369. Roy Montgomery - Temple IV
+- [ ] 368. Cocteau Twins - Head Over Heels
 - [ ] 367. Bob Dylan - Desire
 - [X] 366. Brian Eno - Ambient 1: Music for Airports
 - [ ] 365. Au Pairs - Playing With a Different Sex

@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 319/500
+Current score: 321/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -421,7 +421,7 @@ Current score: 319/500
 - [X] 415. The Meters - Look-Ka Py Py
 - [ ] 416. The Roots - Things Fall Apart
 - [ ] 417. Ornette Coleman - The Shape of Jazz to Come
-- [ ] 418. Dire Straits - Brothers in Arms
+- [X] 418. Dire Straits - Brothers in Arms
 - [ ] 419. Eric Church - Chief
 - [X] 420. Earth, Wind & Fire - That's the Way of the World
 - [ ] 421. M.I.A. - Arular
@@ -469,7 +469,7 @@ Current score: 319/500
 - [ ] 463. Eli & the Thirteenth Confession
 - [X] 464. The Isley Brothers - 3+3
 - [ ] 465. King Sunny Adé - The Best of the Classic Years (2003)
-- [ ] 466. The Beach Boys Today! (1965)
+- [X] 466. The Beach Boys - Today! (1965)
 - [ ] 467. Maxwell-Blacksummers' Night
 - [X] 468. The Rolling Stones - Some Girls
 - [X] 469. Manu Chao - Clandestino

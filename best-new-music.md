@@ -1,9 +1,23 @@
 # Pitchfork Best New Music
 
-Current score: 175/930
+Current score: 175/944
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 944. 1010Benja - Ten Total
+- [ ] 943. Empress Of - For Your Consideration
+- [ ] 942. Waxahatchee - Tigers Blood
+- [ ] 941. Adrianne Lenker - Bright Future
+- [ ] 940. Kim Gordon - The Collective
+- [ ] 939. Hannah Frances - Keeper of the Shepherd
+- [ ] 938. Schoolboy Q - Blue Lips
+- [ ] 937. Kali Malone - All Life Long
+- [ ] 936. Mannequin Pussy - I Got Heaven
+- [ ] 935. Hurray for the Riff Raff - The Past Is Still Alive
+- [ ] 934. Brittany Howard - What Now
+- [ ] 933. Helado Negro - Phasor
+- [ ] 932. The Smile - Wall of Eyes
+- [ ] 931. Xaviersobased - Keep It Goin Xav
 - [ ] 930. Kali Uchis - Orquídeas
 - [ ] 929. André 3000 - New Blue Sun
 - [ ] 928. Hotline TNT - Cartwheel

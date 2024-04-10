@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 613/1083
+Current score: 615/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -55,7 +55,7 @@ Current score: 613/1083
 - [X] 49. The Sonics - Here Are the Sonics
 - [X] 50. Bob Dylan - Bringing It All Back Home
 - [X] 51. Otis Redding - Otis Blue: Otis Redding Sings Soul
-- [ ] 52. The Beach Boys - The Beach Boys Today! (1965)
+- [X] 52. The Beach Boys - The Beach Boys Today! (1965)
 - [X] 53. John Coltrane - A Love Supreme (1965)
 - [X] 54. B.B. King - Live at the Regal
 - [X] 55. The Beatles - Rubber Soul (1965)
@@ -554,7 +554,7 @@ Current score: 613/1083
 - [X] 548. Abdullah Ibrahim - Water From an Ancient Well (1985)
 - [X] 549. A-Ha - Hunting High and Low (1985)
 - [X] 550. Tears for Fears - Songs From the Big Chair
-- [ ] 551. Dire Straits - Brothers in Arms (1985)
+- [X] 551. Dire Straits - Brothers in Arms (1985)
 - [X] 552. Prefab Sprout - Steve McQueen
 - [ ] 553. The Mekons - Fear and Whiskey
 - [ ] 554. Big Black - Atomizer
