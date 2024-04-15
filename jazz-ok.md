@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 213/259
+Current score: 214/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -179,7 +179,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Ella Fitzgerald - The Enchanting Ella Fitzgerald: Live at Birdland 1950-1952
 - [ ] Joe Bushkin - Piano Moods / After Hours
 - [x] Stan Getz - The Complete Roost Recordings
-- [ ] Wardley Gray - Memorial: Volumes 1 & 2
+- [x] Wardley Gray - Memorial: Volumes 1 & 2
 - [ ] Stan Kenton - City of Glass | The Innovations Orchestra
 - [ ] Chico O'Farrill - Cuban Blues: The Chico O'Farrill Sessions
 - [x] Louis Armstrong - California Concerts
