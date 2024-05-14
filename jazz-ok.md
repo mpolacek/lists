@@ -192,7 +192,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] George Wallington - George Wallington Trios
 - [x] Howard Rumsey - Sunday Jazz A La Lighthouse: Volumes 1-3
 - [x] Gerry Mulligan - The Original Quartet
-- [ ] Wilbur De Paris - Uproarious Twenties in Dixieland / Rampart Street Ramblers / New New Orleans Jazz
+- [x] Wilbur De Paris - Uproarious Twenties in Dixieland / Rampart Street Ramblers / New New Orleans Jazz
 - [x] Lester Young - The President Plays
 - [x] Red Rodney - Red Rodney Quintets
 - [ ] Shorty Rogers - The Sweetheart of Sigmund Freud
