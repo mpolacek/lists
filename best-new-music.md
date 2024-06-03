@@ -1,9 +1,20 @@
 # Pitchfork Best New Music
 
-Current score: 175/944
+Current score: 175/955
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
+- [ ] 955. Arooj Aftab - Night Reign
+- [ ] 954. Yaya Bey - Ten Fold
+- [ ] 953. Chief Keef - Almighty So 2
+- [ ] 952. Mdou Moctar - Funeral for Justice
+- [ ] 951. Jessica Pratt - Here in the Pitch
+- [ ] 950. Bladee - Cold Visions
+- [ ] 949. Hovvdy - Hovvdy
+- [ ] 948. Still House Plants - If I don't make it, I love u
+- [ ] 947. Cindy Lee - Diamond Jubilee
+- [ ] 946. Vampire Weekend - Only God Was Above Us
+- [ ] 945. Beyoncé - Cowboy Carter
 - [ ] 944. 1010Benja - Ten Total
 - [ ] 943. Empress Of - For Your Consideration
 - [ ] 942. Waxahatchee - Tigers Blood

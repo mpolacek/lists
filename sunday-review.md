@@ -1,9 +1,18 @@
 # Pitchfork Sunday Review
 
-Current score: 128/377
+Current score: 128/386
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
+- [ ] 386. Cyndi Lauper - She’s So Unusual
+- [ ] 385. One Dove - Morning Dove White
+- [ ] 384. Judy Garland - Judy at Carnegie Hall
+- [ ] 383. Fishmans - Long Season
+- [ ] 382. Lou Reed - The Blue Mask
+- [ ] 381. Bark Psychosis - Hex
+- [ ] 380. The Waterboys - This Is the Sea
+- [ ] 379. TLC - CrazySexyCool
+- [ ] 378. Photek - Modus Operandi
 - [ ] 377. Meat Puppets - Meat Puppets II
 - [ ] 376. Harry Partch - The World of Harry Partch
 - [ ] 375. SWV - It’s About Time

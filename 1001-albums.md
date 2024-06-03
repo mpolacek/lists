@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 615/1083
+Current score: 617/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -25,7 +25,7 @@ Current score: 615/1083
 - [X] 19. Ella Fitzgerald - Sings the Gershwin Song Book (1959)
 - [ ] 20. Genius of Ray Charles
 - [X] 21. Miles Davis - Kind of Blue (1959)
-- [ ] 22. Marty Robbins - Gunfighter Ballads and Trail Songs (1959)
+- [X] 22. Marty Robbins - Gunfighter Ballads and Trail Songs (1959)
 - [X] 23. The Dave Brubeck Quartet - Time Out (1959)
 - [X] 24. Joan Baez - Joan Baez (1960)
 - [X] 25. Elvis Presley - Elvis Is Back!
@@ -466,7 +466,7 @@ Current score: 615/1083
 - [ ] 460. The Soft Boys - Underwater Moonlight
 - [X] 461. The Cure - Seventeen Seconds
 - [ ] 462. Echo & the Bunnymen - Crocodiles
-- [ ] 463. Motörhead - Ace of Spades
+- [X] 463. Motörhead - Ace of Spades
 - [X] 464. Killing Joke - Killing Joke
 - [X] 465. Judas Priest - British Steel
 - [ ] 466. Circle Jerks - Group Sex

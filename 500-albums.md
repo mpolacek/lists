@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 321/500
+Current score: 322/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -411,7 +411,7 @@ Current score: 321/500
 - [ ] 405. Nuggets: Original Artyfacts From the First Psychedelic Era, 1965–1968
 - [X] 406. The Magnetic Fields - 69 Love Songs
 - [X] 407. Neil Young With Crazy Horse - Everybody Knows This Is Nowhere
-- [ ] 408. Motörhead - Ace of Spades
+- [X] 408. Motörhead - Ace of Spades
 - [ ] 409. The Grateful Dead: Workingman's Dead
 - [ ] 410. The Beach Boys - Wild Honey
 - [ ] 411. Bob Dylan - Love and Theft
