@@ -180,7 +180,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Joe Bushkin - Piano Moods / After Hours
 - [x] Stan Getz - The Complete Roost Recordings
 - [x] Wardley Gray - Memorial: Volumes 1 & 2
-- [ ] Stan Kenton - City of Glass | The Innovations Orchestra
+- [x] Stan Kenton - City of Glass | The Innovations Orchestra
 - [ ] Chico O'Farrill - Cuban Blues: The Chico O'Farrill Sessions
 - [x] Louis Armstrong - California Concerts
 - [x] Charles Mingus - The Complete Debut Recordings
