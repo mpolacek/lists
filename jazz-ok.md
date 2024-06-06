@@ -195,7 +195,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Wilbur De Paris - Uproarious Twenties in Dixieland / Rampart Street Ramblers / New New Orleans Jazz
 - [x] Lester Young - The President Plays
 - [x] Red Rodney - Red Rodney Quintets
-- [ ] Shorty Rogers - The Sweetheart of Sigmund Freud
+- [x] Shorty Rogers - The Sweetheart of Sigmund Freud
 - [ ] Freddy Randall - Freddy Randall And His Band
 - [x] Charlie Parker - The Quintet: Jazz at Massey Hall
 - [x] Ben Webster - King of the Tenors
