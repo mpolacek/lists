@@ -216,7 +216,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [x] Al Haig - Esoteric
 - [ ] Percy Humphrey - Percy Humphrey's Sympathy Five
 - [ ] Jimmy Raney - A
-- [ ] Bud Shank - Jazz In Hollywood
+- [x] Bud Shank - Jazz In Hollywood
 - [ ] Chris Barber - The Complete Decca Sessions 1954/55
 - [ ] John Dankworth - The Vintage Years
 - [ ] Johnny St Cyr - Johnny St Cyr
