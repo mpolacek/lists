@@ -237,7 +237,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 - [ ] Lambert, Hendricks & Ross - Sing A Song Of Basie
 - [ ] Frank Morgan - Gene Norman Presents Frank Morgan
 - [ ] Carl Perkins - Introducing
-- [ ] Clifford Brown - Alone Together
+- [x] Clifford Brown - Alone Together
 - [ ] Helen Merrill - Helen Merrill With Clifford Brown And Gil Evans
 - [ ] Pee Wee Erwin - Complete Fifties Recordings
 - [ ] Jo Jones - The Essential Jo Jones
