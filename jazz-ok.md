@@ -1,6 +1,6 @@
 # The Penguin Jazz Guide
 
-Current score: 218/259
+Current score: 219/259
 
 Listened: `$ grep "\[[xX]\]" jazz-ok.md | wc -l`
 
@@ -174,7 +174,7 @@ Total: `$ grep "\[.\]" jazz-ok.md | wc -l`
 
 ## The '50s
 
-- [ ] George Shearing - Verve Jazz Masters: George Shearing
+- [x] George Shearing - Verve Jazz Masters: George Shearing
 - [ ] Humphrey Lyttelton - The Parlophones: Volumes One-Four
 - [x] Ella Fitzgerald - The Enchanting Ella Fitzgerald: Live at Birdland 1950-1952
 - [ ] Joe Bushkin - Piano Moods / After Hours
