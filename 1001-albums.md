@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 617/1083
+Current score: 619/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -84,7 +84,7 @@ Current score: 617/1083
 - [X] 78. The Beatles - Sgt. Pepper's Lonely Hearts Club Band (1967)
 - [ ] 79. Country Joe & the Fish: Electric Music for the Mind and Body
 - [X] 80. Buffalo Springfield - Buffalo Springfield Again
-- [ ] 81. Captain Beefheart & His Magic Band - Safe as Milk
+- [X] 81. Captain Beefheart & His Magic Band - Safe as Milk
 - [ ] 82. Moby Grape - Moby Grape (1967)
 - [ ] 83. Love - Da Capo
 - [ ] 84. Beau Brummels (The) Triangle
@@ -530,7 +530,7 @@ Current score: 617/1083
 - [ ] 524. Paul Simon - Hearts and Bones
 - [ ] 525. Echo and the Bunnymen - Porcupine
 - [ ] 526. ZZ Top : Eliminator.
-- [ ] 527. Eurythmics - Sweet Dreams (Are Made of This)
+- [X] 527. Eurythmics - Sweet Dreams (Are Made of This)
 - [ ] 528. U2 - War
 - [X] 529. The Police - Synchronicity (1983)
 - [ ] 530. Meat Puppets - Meat Puppets II
