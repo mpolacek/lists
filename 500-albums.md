@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 322/500
+Current score: 325/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -402,7 +402,7 @@ Current score: 322/500
 - [ ] 396. Todd Rundgren - Something/Anything?
 - [ ] 397. Billie Eilish - When We All Fall Asleep, Where Do We Go?
 - [ ] 398. The Raincoats - The Raincoats
-- [ ] 399. Brian Wilson - Smile
+- [X] 399. Brian Wilson - Smile
 - [X] 400. The Go-Go's - Beauty and the Beat
 - [ ] 401. Blondie
 - [ ] 402. Fela Kuti and Africa 70 - Expensive Shit
@@ -466,7 +466,7 @@ Current score: 322/500
 - [X] 460. Lorde - Melodrama (2017)
 - [ ] 461. Bon Iver - For Emma, Forever Ago
 - [X] 462. The Flying Burrito Bros - The Gilded Palace of Sin
-- [ ] 463. Eli & the Thirteenth Confession
+- [X] 463. Laura Nyro - Eli and the Thirteenth Confession
 - [X] 464. The Isley Brothers - 3+3
 - [ ] 465. King Sunny Adé - The Best of the Classic Years (2003)
 - [X] 466. The Beach Boys - Today! (1965)
@@ -488,7 +488,7 @@ Current score: 322/500
 - [X] 482. The Pharcyde - Bizarre Ride II the Pharcyde
 - [ ] 483. Muddy Waters - The Anthology
 - [X] 484. Lady Gaga - Born This Way
-- [ ] 485. Richard Thompson - I Want to See the Bright Lights Tonight
+- [X] 485. Richard Thompson - I Want to See the Bright Lights Tonight
 - [ ] 486. John Mayer - Continuum
 - [X] 487. Black Flag - Damaged
 - [X] 488. The Stooges - The Stooges (1969)

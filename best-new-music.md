@@ -1,6 +1,6 @@
 # Pitchfork Best New Music
 
-Current score: 175/955
+Current score: 176/955
 
 `$ grep "\[X\]" best-new-music.md | wc -l`
 
@@ -877,7 +877,7 @@ Current score: 175/955
 - [ ] 85. Death From Above 1979 - You're a Woman, I'm a Machine (2004)
 - [ ] 84. The Go Team - Thunder Lightning Strike
 - [ ] 83. Panda Bear - Young Prayer
-- [ ] 82. Brian Wilson - Smile
+- [X] 82. Brian Wilson - Smile
 - [X] 81. Interpol - Antics
 - [ ] 80. Dungen - Ta Det Lugnt
 - [X] 79. The Foreign Exchange - Connected

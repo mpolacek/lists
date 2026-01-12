@@ -1,6 +1,6 @@
 # Pitchfork Sunday Review
 
-Current score: 128/386
+Current score: 129/386
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -76,7 +76,7 @@ Current score: 128/386
 - [ ] 317. The Tony Williams Lifetime - Emergency!
 - [ ] 316. Keyshia Cole - The Way It Is
 - [ ] 315. Frank Sinatra - Watertown
-- [ ] 314. Joni Mitchell - Hejira
+- [X] 314. Joni Mitchell - Hejira
 - [ ] 313. The Roches - The Roches
 - [X] 312. Living Colour - Vivid
 - [ ] 311. Adam Sandler - They’re All Gonna Laugh at You!

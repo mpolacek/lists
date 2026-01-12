@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 619/1083
+Current score: 623/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -119,7 +119,7 @@ Current score: 619/1083
 - [X] 113. The Jimi Hendrix Experience - Electric Ladyland (1968)
 - [X] 114. Leonard Cohen - Songs of Leonard Cohen
 - [X] 115. Johnny Cash - At Folsom Prison (1968)
-- [ ] 116. Laura Nyro - Eli and the Thirteenth Confession
+- [X] 116. Laura Nyro - Eli and the Thirteenth Confession
 - [X] 117. Aretha Franklin - Lady Soul (1968)
 - [X] 118. Blue Cheer - Vincebus Eruptum (1968)
 - [ ] 119. The Byrds - The Notorious Byrd Brothers
@@ -318,7 +318,7 @@ Current score: 619/1083
 - [ ] 312. Tangerine Dream Phaedra
 - [X] 313. Sparks - Kimono My House (1974)
 - [ ] 314. Supertramp - Crime of the Century
-- [ ] 315. Richard and Linda Thompson : I Want to See the Bright Lights Tonight
+- [X] 315. Richard and Linda Thompson - I Want to See the Bright Lights Tonight
 - [ ] 316. Winter in America - Gil Scott-Heron
 - [ ] 317. Queen : Sheer Heart Attack.
 - [ ] 318. Sheet Music - 10Cc
@@ -561,7 +561,7 @@ Current score: 619/1083
 - [X] 555. Suzanne Vega - Suzanne Vega (1985)
 - [ ] 556. The Pogues - Rum Sodomy and the Lash
 - [X] 557. Kate Bush - Hounds of Love (1985)
-- [ ] 558. The Smiths - Meat Is Murder (1985)
+- [X] 558. The Smiths - Meat Is Murder (1985)
 - [ ] 559. Tom Waits - Rain Dogs (1985)
 - [X] 560. The Jesus and Mary Chain - Psychocandy
 - [X] 561. New Order - Low-Life
@@ -991,7 +991,7 @@ Current score: 619/1083
 - [X] 985. Mylo - Destroy Rock and Roll
 - [ ] 986. Ozomatli - Street Signs
 - [X] 987. The Streets - A Grand Don't Come for Free
-- [ ] 988. Brian Wilson - Brian Wilson Presents: Smile (2004)
+- [X] 988. Brian Wilson - Brian Wilson Presents: Smile (2004)
 - [ ] 989. The Beta Band - Heroes to Zeros
 - [ ] 990. Rufus Wainwright - Want Two
 - [ ] 991. The Libertines - The Libertines
