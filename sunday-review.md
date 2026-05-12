@@ -1,6 +1,6 @@
 # Pitchfork Sunday Review
 
-Current score: 129/386
+Current score: 132/386
 
 `$ grep "\[X\]" sunday-review.md | wc -l`
 
@@ -18,7 +18,7 @@ Current score: 129/386
 - [ ] 375. SWV - It’s About Time
 - [ ] 374. Gin Blossoms - New Miserable Experience
 - [ ] 373. Ornette Coleman - Science Fiction
-- [ ] 372. Mariah Carey - The Emancipation of Mimi
+- [X] 372. Mariah Carey - The Emancipation of Mimi
 - [ ] 371. Mercury Rev - Yerself Is Steam
 - [X] 370. Jeff Mills - Live at the Liquid Room, Tokyo
 - [ ] 369. Roy Montgomery - Temple IV
@@ -53,7 +53,7 @@ Current score: 129/386
 - [ ] 340. Meshell Ndegeocello - Bitter
 - [ ] 339. Labi Siffre - Crying Laughing Loving Lying
 - [ ] 338. Coil - Horse Rotorvator
-- [ ] 337. Sheryl Crow - Sheryl Crow
+- [X] 337. Sheryl Crow - Sheryl Crow
 - [ ] 336. Nine Inch Nails - Broken EP
 - [ ] 335. the Dead C - Harsh 70s Reality
 - [ ] 334. Beanie Sigel - The Truth
@@ -251,7 +251,7 @@ Current score: 129/386
 - [ ] 142. Jill Scott - Who Is Jill Scott?: Words and Sounds, Vol. 1
 - [ ] 141. T. Rex - The Slider
 - [ ] 140. Janet Jackson - Damita Jo
-- [ ] 139. Fiona Apple - When the Pawn...
+- [X] 139. Fiona Apple - When the Pawn...
 - [ ] 138. Eve - Let There Be Eve...Ruff Ryders’ First Lady
 - [ ] 137. David Crosby - If I Could Only Remember My Name
 - [X] 136. Everything But the Girl - Walking Wounded

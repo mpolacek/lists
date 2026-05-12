@@ -1,6 +1,6 @@
 # Rolling Stone's The 500 Greatest Albums of All-Time
 
-Current score: 325/500
+Current score: 333/500
 
 `$ grep "\[X\]" 500-albums.md | wc -l`
 
@@ -64,7 +64,7 @@ Current score: 325/500
 - [X] 58. Led Zeppelin - Led Zeppelin IV
 - [X] 59. Stevie Wonder - Talking Book
 - [X] 60. Van Morrison - Astral Weeks
-- [ ] 61. Eric B. and Rakim - Paid in Full
+- [X] 61. Eric B. and Rakim - Paid in Full
 - [X] 62. Guns N' Roses - Appetite for Destruction (1987)
 - [X] 63. Steely Dan - Aja
 - [X] 64. Outkast - Stankonia
@@ -111,7 +111,7 @@ Current score: 325/500
 - [X] 105. The Allman Brothers Band - At Fillmore East (1971)
 - [X] 106. Hole - Live Through This
 - [X] 107. Television - Marquee Moon
-- [ ] 108. Fiona Apple - When the Pawn
+- [X] 108. Fiona Apple - When the Pawn
 - [X] 109. Lou Reed - Transformer
 - [X] 110. Joni Mitchell - Court and Spark (1974)
 - [ ] 111. Janet Jackson - Control (1986)
@@ -127,7 +127,7 @@ Current score: 325/500
 - [ ] 121. Elvis Costello - This Year's Model
 - [ ] 122. Nine Inch Nails - The Downward Spiral
 - [X] 123. Led Zeppelin - Led Zeppelin II
-- [ ] 124. U2 - Achtung Baby (1991)
+- [X] 124. U2 - Achtung Baby (1991)
 - [X] 125. Beastie Boys - Paul's Boutique
 - [X] 126. Mary J. Blige - My Life
 - [X] 127. Ray Charles - Modern Sounds in Country and Western Music (1962)
@@ -140,7 +140,7 @@ Current score: 325/500
 - [X] 134. Fugees - The Score
 - [X] 135. U2 - The Joshua Tree
 - [X] 136. Funkadelic - Maggot Brain
-- [ ] 137. Adele - 21
+- [X] 137. Adele - 21
 - [ ] 138. Madonna - The Immaculate Collection
 - [X] 139. Black Sabbath - Paranoid
 - [ ] 140. Bob Marley and the Wailers - Catch a Fire
@@ -392,7 +392,7 @@ Current score: 325/500
 - [ ] 386. J Dilla - Donuts (2006)
 - [X] 387. Radiohead - In Rainbows (2007)
 - [ ] 388. Aretha Franklin - Young, Gifted & Black
-- [ ] 389. Mariah Carey - The Emancipation of Mimi
+- [X] 389. Mariah Carey - The Emancipation of Mimi
 - [X] 390. Pixies - Surfer Rosa
 - [ ] 391. Kelis - Kaleidoscope
 - [ ] 392. Ike Turner & Tina Turner - Proud Mary: The Best Of..
@@ -438,7 +438,7 @@ Current score: 325/500
 - [ ] 432. Usher - Confessions
 - [X] 433. LCD Soundsystem - Sound of Silver
 - [X] 434. Pavement - Crooked Rain, Crooked Rain
-- [ ] 435. The Pet Shop Boys - Actually
+- [X] 435. The Pet Shop Boys - Actually
 - [X] 436. 2Pac - All Eyez on Me
 - [X] 437. Primal Scream - Screamadelica
 - [X] 438. Blur - Parklife (1994)
@@ -476,9 +476,9 @@ Current score: 325/500
 - [X] 470. Juvenile - 400 Degreez
 - [X] 471. Jefferson Airplane - Surrealistic Pillow
 - [X] 472. Sza - Ctrl
-- [ ] 473. Daddy Yankee - Barrio Fino
+- [X] 473. Daddy Yankee - Barrio Fino
 - [X] 474. Big Star - #1 Record
-- [ ] 475. Sheryl Crow (Sheryl Crow, 1996)
+- [X] 475. Sheryl Crow - Sheryl Crow (1996)
 - [X] 476. Sparks - Kimono My House (1974)
 - [ ] 477. Howlin' Wolf - Moanin' in the Moonlight
 - [X] 478. The Kinks - Something Else by the Kinks

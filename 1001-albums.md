@@ -1,6 +1,6 @@
 # 1001 Albums You Must Hear
 
-Current score: 623/1083
+Current score: 627/1083
 
 `$ grep "\[X\]" 1001-albums.md | wc -l`
 
@@ -611,7 +611,7 @@ Current score: 623/1083
 - [X] 605. Sonic Youth - Sister
 - [X] 606. The Triffids - Calenture (1987)
 - [X] 607. Michael Jackson - Bad
-- [ ] 608. Pet Shop Boys - Actually
+- [X] 608. Pet Shop Boys - Actually
 - [X] 609. U2 - The Joshua Tree
 - [ ] 610. Introducing the Hardline According to Terence Trent D'Arby
 - [X] 611. The Pogues - If I Should Fall From Grace With God (1988)
@@ -705,8 +705,8 @@ Current score: 623/1083
 - [X] 699. Saint Etienne - Fox Base Alpha
 - [ ] 700. Sepultura - Arise
 - [X] 701. Slint - Spiderland (1991)
-- [ ] 702. U2 - Achtung Baby
-- [ ] 703. The KLF - The White Room
+- [X] 702. U2 - Achtung Baby
+- [X] 703. The KLF - The White Room
 - [X] 704. Massive Attack - Blue Lines
 - [X] 705. Primal Scream - Screamadelica
 - [ ] 706. Teenage Fanclub - Bandwagonesque
@@ -1051,7 +1051,7 @@ Current score: 623/1083
 - [X] 1045. The National - High Violet
 - [X] 1046. Deerhunter - Halcyon Digest
 - [ ] 1047. Arcade Fire - The Suburbs
-- [ ] 1048. Adele - 21
+- [X] 1048. Adele - 21
 - [X] 1049. P.J. Harvey - Let England Shake
 - [ ] 1050. White Denim - D (2011)
 - [X] 1051. Kendrick Lamar - Good Kid, M.A.A.D City (2012)
